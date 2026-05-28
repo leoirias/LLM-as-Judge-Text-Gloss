@@ -1,0 +1,44 @@
+models:
+  qwen3-8b:
+    provider: transformers
+    model_id: Qwen/Qwen3-8B
+    task: text-generation
+    dtype: bfloat16
+    device_map: cuda
+    trust_remote_code: true
+    chat_template:
+      enabled: true
+      enable_thinking: false
+    generation:
+      max_new_tokens: 128
+      do_sample: false
+      temperature: 0.0
+      top_p: 1.0
+
+  qwen3-32b:
+    provider: transformers
+    model_id: Qwen/Qwen3-32B
+    task: text-generation
+    dtype: bfloat16
+    device_map: cuda
+    trust_remote_code: true
+    chat_template:
+      enabled: true
+      enable_thinking: false
+    generation:
+      max_new_tokens: 128
+      do_sample: false
+      temperature: 0.0
+      top_p: 1.0
+
+  gpt-4o-mini:
+    provider: openai
+    model_id: gpt-4o-mini
+    chat_template:
+      enabled: false
+    generation:
+      max_new_tokens: 128
+      do_sample: false
+      temperature: 0.0
+      top_p: 1.0
+

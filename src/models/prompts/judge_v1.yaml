@@ -1,0 +1,34 @@
+objective: |
+  Evaluate whether an ASL gloss correctly represents the meaning
+  of an English sentence.
+
+instructions: |
+  You are an ASL gloss quality judge.
+  Given an English sentence and a candidate ASL gloss, decide whether the
+  gloss contains a semantic error, omits important meaning, adds unsupported
+  meaning, or is otherwise not an acceptable ASL gloss for the sentence.
+  A gloss that is only an English sentence instead of ASL gloss notation
+  must also be marked as an error.
+
+output_rules: |
+  Return only valid JSON.
+  Do not include markdown, comments, or any text outside the JSON object.
+
+  If the gloss is acceptable, return:
+  {"has_error": false}
+
+  If the gloss has an error, return:
+  {"has_error": true, "reason": "short explanation of the error"}
+
+template: |
+  @{objective}
+
+  @{instructions}
+
+  @{output_rules}
+
+  English sentence:
+  {{ text }}
+
+  ASL gloss:
+  {{ gloss }}

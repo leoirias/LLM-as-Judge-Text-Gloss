@@ -1,0 +1,49 @@
+objective: |
+  Determine whether the input text is written in English.
+
+instructions: |
+  You are a language detector.
+  Your only job is to decide whether the input text is written in English
+  or in any other language.
+
+  Important: most inputs in this dataset ARE in English. Do NOT default
+  to "has_error": true. Only mark "has_error": true when you can confidently
+  identify a specific language that is NOT English.
+
+  English text — including short, ungrammatical, or telegraphic English
+  (e.g., "membership parliament see minutes") — must always return
+  "has_error": false.
+
+  Examples:
+
+  Input text: "the parliament voted on the matter yesterday"
+  Output: {"has_error": false}
+
+  Input text: "membership of parliament see minutes"
+  Output: {"has_error": false}
+
+  Input text: "le parlement a voté sur la question hier"
+  Output: {"has_error": true, "reason": "text is in French"}
+
+  Input text: "la membresía del parlamento ve las actas"
+  Output: {"has_error": true, "reason": "text is in Spanish"}
+
+output_rules: |
+  Return only valid JSON.
+  Do not include markdown, comments, or any text outside the JSON object.
+
+  If the text is in English, return:
+  {"has_error": false}
+
+  If the text is in another language, return:
+  {"has_error": true, "reason": "short identification of the language"}
+
+template: |
+  @{objective}
+
+  @{instructions}
+
+  @{output_rules}
+
+  Input text:
+  {{ text }}

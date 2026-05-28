@@ -1,0 +1,43 @@
+services:
+  judge:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: llm-as-judge-text-gloss:latest
+    container_name: llm-as-judge-text-gloss
+    working_dir: /workspace
+    env_file:
+      - .env
+    environment:
+      HF_HOME: /workspace/.cache/huggingface
+      HF_HUB_DISABLE_XET: "1"
+      TOKENIZERS_PARALLELISM: "false"
+      OMP_NUM_THREADS: "1"
+      OPENBLAS_NUM_THREADS: "1"
+      MKL_NUM_THREADS: "1"
+      NUMEXPR_NUM_THREADS: "1"
+      VECLIB_MAXIMUM_THREADS: "1"
+      UV_PROJECT_ENVIRONMENT: /opt/venv
+    # Cluster Docker (20.10.8) has an old seccomp profile that blocks clone3,
+    # which the bookworm-based uv image's glibc needs to spawn threads.
+    security_opt:
+      - seccomp:unconfined
+    # vLLM uses shared memory for inter-process tensor passing; default 64 MB
+    # is not enough and causes silent hangs.
+    shm_size: "8gb"
+    ipc: host
+    volumes:
+      - .:/workspace
+      - /raid/dom/libras/.cache/huggingface:/workspace/.cache/huggingface
+    deploy:
+      resources:
+        reservations:
+          devices:
+            # Single GPU by cluster policy: only A100 #2. Inside the container
+            # it appears as cuda:0.
+            - driver: nvidia
+              device_ids: ['6']
+              capabilities: [gpu]
+    tty: true
+    stdin_open: true
+    command: ["bash"]

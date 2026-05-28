@@ -1,0 +1,22 @@
+experiment:
+  name: qwen3_8b_v2
+
+dataset:
+  path: data/ASLG-PC12/train_normalized.csv
+  id_column: id
+  text_column: text
+  gloss_column: gloss
+
+model:
+  alias: judge
+
+prompt:
+  name: judge_v2
+
+runtime:
+  result_path: experiments/qwen3_8b_v2/result.json
+  summary_path: experiments/qwen3_8b_v2/summary.json
+  resume: true
+  limit: null
+  save_every: 100
+  batch_size: 32

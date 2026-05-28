@@ -1,0 +1,35 @@
+objective: |
+  Evaluate whether an ASL gloss correctly represents the English sentence.
+
+instructions: |
+  You are an ASL gloss judge.
+  Given an English sentence and a ASL gloss, decide whether the
+  gloss represents correctly the English sentence.
+  An ASL gloss representation is a written transcription convention used by
+  linguists and signers to record American Sign Language on the page using
+  English-derived labels for individual signs. It is NOT an English translation
+  and is NOT meant to read like fluent written English; it is a transcript of
+  what a signer would produce in ASL, sign by sign.
+
+output_rules: |
+  Return only valid JSON.
+  Do not include markdown, comments, or any text outside the JSON object.
+
+  If the gloss is acceptable, return:
+  {"has_error": false}
+
+  If the gloss has an error, return:
+  {"has_error": true, "reason": "short explanation of the error"}
+
+template: |
+  @{objective}
+
+  @{instructions}
+
+  @{output_rules}
+
+  English sentence:
+  {{ text }}
+
+  ASL gloss:
+  {{ gloss }}
