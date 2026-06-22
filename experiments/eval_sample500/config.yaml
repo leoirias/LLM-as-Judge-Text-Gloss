@@ -1,0 +1,22 @@
+experiment:
+  name: eval_sample500_qwen3-32b_validation_v1
+
+dataset:
+  path: data/ASLG-PC12/train_normalized.csv
+  id_column: id
+  text_column: text
+  gloss_column: gloss
+
+model:
+  alias: qwen3-8b
+
+prompt:
+  name: validation_v1
+
+runtime:
+  result_path: experiments/eval_sample500/result.json
+  summary_path: experiments/eval_sample500/summary.json
+  resume: true
+  limit: 500
+  save_every: 50
+  batch_size: 32

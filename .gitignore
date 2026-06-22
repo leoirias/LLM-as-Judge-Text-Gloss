@@ -1,1 +1,18 @@
 .env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local caches and model weights
+.cache/
+models-cache/
+huggingface/
+
+# Runtime scratch files
+*.tmp
+
+.codex
+
+.agents

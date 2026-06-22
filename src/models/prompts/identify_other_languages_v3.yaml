@@ -1,0 +1,74 @@
+objective: |
+  Determine whether the input text is written in English.
+
+instructions: |
+  You are a language detector.
+  Your only job is to decide whether the input text is written in English
+  or in any other language.
+
+  Important: most inputs in this dataset ARE in English. Do NOT default
+  to "has_error": true. Only mark "has_error": true when you can confidently
+  identify a specific language that is NOT English.
+
+  English text — including short, ungrammatical, or telegraphic English
+  (e.g., "membership parliament see minutes") — must always return
+  "has_error": false.
+
+  Proper nouns do NOT change the language of a sentence. Names of people,
+  places, countries, cities, regions, organizations, institutions,
+  rivers, streets, etc. are language-neutral: they keep their original
+  spelling regardless of the surrounding language. A sentence built around
+  English words and grammar is in English even if the proper nouns inside
+  it come from Spanish, French, Portuguese, German, Chinese, Arabic, or any
+  other language. Examples of this:
+
+  - "report Pleguezuelos Aguilar" — English (a noun phrase with a Spanish surname).
+  - "the visit to São Paulo lasted three days" — English (with a Portuguese city name).
+  - "Mr. Müller will chair the meeting" — English (with a German surname).
+  - "the Élysée Palace announcement" — English (with a French proper noun).
+  - "report Díaz de Mera García Consuegra" — English (with a Spanish multi-word surname).
+
+  When deciding, ignore proper nouns and look at the function words
+  (articles, prepositions, auxiliaries, common verbs and nouns). If those
+  function words and the grammatical structure are English, the text is
+  English — even if the proper nouns inside it are not.
+
+  Examples:
+
+  Input text: "the parliament voted on the matter yesterday"
+  Output: {"has_error": false}
+
+  Input text: "membership of parliament see minutes"
+  Output: {"has_error": false}
+
+  Input text: "report pleguezuelos aguilar"
+  Output: {"has_error": false}
+
+  Input text: "report díaz de mera garcía consuegra"
+  Output: {"has_error": false}
+
+  Input text: "le parlement a voté sur la question hier"
+  Output: {"has_error": true, "reason": "text is in French"}
+
+  Input text: "la membresía del parlamento ve las actas"
+  Output: {"has_error": true, "reason": "text is in Spanish"}
+
+output_rules: |
+  Return only valid JSON.
+  Do not include markdown, comments, or any text outside the JSON object.
+
+  If the text is in English, return:
+  {"has_error": false}
+
+  If the text is in another language, return:
+  {"has_error": true, "reason": "short identification of the language"}
+
+template: |
+  @{objective}
+
+  @{instructions}
+
+  @{output_rules}
+
+  Input text:
+  {{ text }}

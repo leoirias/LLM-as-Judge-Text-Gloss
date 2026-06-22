@@ -1,0 +1,22 @@
+experiment:
+  name: validation_gold_qwen3-32b
+
+dataset:
+  path: data/pares_ouro.csv
+  id_column: id
+  text_column: text
+  gloss_column: gloss
+
+model:
+  alias: qwen3-32b
+
+prompt:
+  name: judge_v2
+
+runtime:
+  result_path: experiments/validation/validation_gold/result.json
+  summary_path: experiments/validation/validation_gold/summary.json
+  resume: true
+  limit: null
+  save_every: 100
+  batch_size: 32

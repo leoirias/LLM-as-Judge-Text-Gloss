@@ -1,0 +1,7 @@
+{
+  "total": 100,
+  "errors_detected": 19,
+  "error_rate": 0.19,
+  "parse_failed": 1,
+  "parse_failure_rate": 0.01
+}

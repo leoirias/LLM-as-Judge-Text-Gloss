@@ -1,0 +1,12 @@
+{
+  "total": 500,
+  "errors_detected": 31,
+  "error_rate": 0.062,
+  "parse_failed": 2,
+  "parse_failure_rate": 0.004,
+  "by_classification": {
+    "correct": 373,
+    "partial": 94,
+    "wrong": 31
+  }
+}

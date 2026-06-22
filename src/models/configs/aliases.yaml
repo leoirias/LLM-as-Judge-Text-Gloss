@@ -1,0 +1,12 @@
+aliases:
+  qwen3-8b:
+    model: qwen3-8b
+    category: llm
+
+  qwen3-32b:
+    model: qwen3-32b
+    category: llm
+
+  gpt-4o-mini:
+    model: gpt-4o-mini
+    category: llm
