@@ -187,6 +187,7 @@ def _build_result_record(
         "model": model_name,
         "prompt": prompt_name,
         "has_error": None,
+        "classification": None,
         "reason": None,
         "parse_error": False,
         "error_message": None,
@@ -201,7 +202,6 @@ def _build_result_record(
         return record
 
     record.update(decision.to_dict())
-    record.setdefault("reason", None)
     return record
 
 
@@ -209,8 +209,11 @@ def _load_result_records(result_path: Path) -> list[dict[str, Any]]:
     if not result_path.exists():
         return []
 
-    with result_path.open("r", encoding="utf-8") as file:
-        data = json.load(file)
+    content = result_path.read_text(encoding="utf-8").strip()
+    if not content:
+        return []
+
+    data = json.loads(content)
 
     if not isinstance(data, list):
         raise ValueError(f"Expected a JSON list in {result_path}")

@@ -31,14 +31,3 @@ models:
       temperature: 0.0
       top_p: 1.0
 
-  gpt-4o-mini:
-    provider: openai
-    model_id: gpt-4o-mini
-    chat_template:
-      enabled: false
-    generation:
-      max_new_tokens: 128
-      do_sample: false
-      temperature: 0.0
-      top_p: 1.0
-

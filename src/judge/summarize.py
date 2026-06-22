@@ -24,8 +24,17 @@ def build_summary(results_path: Path) -> dict[str, Any]:
         raise ValueError(f"Expected a JSON list in {results_path}")
 
     total = len(records)
-    errors_detected = sum(1 for record in records if record.get("has_error") is True)
-    parse_failed = sum(1 for record in records if record.get("parse_error") is True)
+    parse_failed = sum(1 for r in records if r.get("parse_error") is True)
+
+    by_classification: dict[str, int] = {}
+    for r in records:
+        if r.get("parse_error"):
+            continue
+        cls = r.get("classification")
+        if cls:
+            by_classification[cls] = by_classification.get(cls, 0) + 1
+
+    errors_detected = by_classification.get("wrong", 0)
 
     return {
         "total": total,
@@ -33,4 +42,5 @@ def build_summary(results_path: Path) -> dict[str, Any]:
         "error_rate": errors_detected / total if total else 0.0,
         "parse_failed": parse_failed,
         "parse_failure_rate": parse_failed / total if total else 0.0,
+        "by_classification": by_classification,
     }

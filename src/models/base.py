@@ -43,10 +43,10 @@ class ModelConfig:
 @dataclass(frozen=True)
 class PromptConfig:
     name: str
-    objective: str
-    instructions: str
-    output_rules: str
     template: str
+    objective: str = ""
+    instructions: str = ""
+    output_rules: str = ""
     extra: dict[str, Any] = field(default_factory=dict)
 
 

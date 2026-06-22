@@ -1,0 +1,22 @@
+experiment:
+  name: eval_sample500_v2_qwen3-8b_validation_v3
+
+dataset:
+  path: data/pares_ouro.csv
+  id_column: id
+  text_column: text
+  gloss_column: gloss
+
+model:
+  alias: qwen3-8b
+
+prompt:
+  name: validation_v1
+
+runtime:
+  result_path: experiments/eval_sample500_v3/result.json
+  summary_path: experiments/eval_sample500_v3/summary.json
+  resume: true
+  limit: 500
+  save_every: 50
+  batch_size: 32

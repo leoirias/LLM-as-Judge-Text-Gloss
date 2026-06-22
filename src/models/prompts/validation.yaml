@@ -1,0 +1,37 @@
+objective: |
+  Evaluate whether an ASL gloss correctly represents the English sentence.
+
+instructions: |
+  You are an ASL gloss judge.
+  Given an English sentence and an ASL gloss, decide whether the gloss represents correctly the English sentence.
+  An ASL gloss representation is a written transcription convention used by linguists and signers to record American Sign Language on the page using English-derived labels for individual signs. It is NOT an English translation and is NOT meant to read like fluent written English; it is a transcript of what a signer would produce in ASL, sign by sign.
+
+  CRITICAL LINGUISTIC CRITERIA FOR YOUR EVALUATION:
+  1. FORMATTING: The gloss MUST be 100% in uppercase. Multi-word English concepts that map to a single ASL sign MUST be hyphenated (e.g., GO-HOME, BLOOD-TEST, HOW-LONG).
+  2. DELETION OF FUNCTION WORDS: Articles (the, a, an), standard prepositions (to, of, at), and auxiliary verbs (am, is, are, was, do, did, does) must be completely eliminated.
+  3. SYNTAX FLEXIBILITY: ASL favors Time-Topic-Comment structure. Time adverbs (NOW, TOMORROW) usually front the sentence but can appear at the end for emphasis. Wh-words (WHAT, WHEN, WHERE, HOW) typically move to the very end, but they can be omitted if the sentence structure and a question mark [?] clearly indicate the question is conveyed via Non-Manual Signals (facial expressions), as in natural ASL.
+  4. CLINICAL ACCURACY: Do not penalize the inclusion of possessive pronouns (YOUR) or specific body parts (LEFT-ARM) as they are vital for medical context accuracy.
+  5. REJECT SYNTHETIC ERRORS: Avoid approving word-for-word English literal translations often found in raw synthetic corpora. Look for visual semantic conciseness.
+
+output_rules: |
+  Return only valid JSON.
+  Do not include markdown, comments, or any text outside the JSON object.
+
+  If the gloss is acceptable, return:
+  {"has_error": false}
+
+  If the gloss has an error, return:
+  {"has_error": true, "reason": "short explanation of the error and the correction"}
+
+template: |
+  @{objective}
+
+  @{instructions}
+
+  @{output_rules}
+
+  English sentence:
+  {{ text }}
+
+  ASL gloss:
+  {{ gloss }}

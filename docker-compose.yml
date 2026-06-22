@@ -11,6 +11,12 @@ services:
     environment:
       HF_HOME: /workspace/.cache/huggingface
       HF_HUB_DISABLE_XET: "1"
+      # Cluster has flaky outbound DNS for huggingface.co / pypi.org.
+      # Model weights are already cached on /raid; force offline mode so
+      # transformers / HF Hub do not try to phone home at load time.
+      # Disable these temporarily if you need to pull a new model.
+      HF_HUB_OFFLINE: "1"
+      TRANSFORMERS_OFFLINE: "1"
       TOKENIZERS_PARALLELISM: "false"
       OMP_NUM_THREADS: "1"
       OPENBLAS_NUM_THREADS: "1"

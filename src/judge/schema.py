@@ -8,36 +8,29 @@ class JudgeSchemaError(ValueError):
     pass
 
 
+_C_TO_LABEL = {1: "wrong", 2: "partial", 3: "correct"}
+_VALID_LABELS = set(_C_TO_LABEL.values())
+
+
 @dataclass(frozen=True)
 class JudgeDecision:
-    has_error: bool
+    classification: str  # wrong | partial | correct
     reason: str | None = None
 
     def __post_init__(self) -> None:
-        if not isinstance(self.has_error, bool):
-            raise JudgeSchemaError("Field 'has_error' must be a boolean.")
+        if self.classification not in _VALID_LABELS:
+            raise JudgeSchemaError(
+                f"Invalid classification {self.classification!r}. "
+                f"Expected one of: {sorted(_VALID_LABELS)}"
+            )
 
-        normalized_reason = None if self.reason is None else self.reason.strip()
-
-        if self.has_error and not normalized_reason:
-            raise JudgeSchemaError("Field 'reason' is required when 'has_error' is true.")
-
-        object.__setattr__(self, "reason", normalized_reason)
-
-    @classmethod
-    def from_dict(cls, data: dict[str, Any]) -> JudgeDecision:
-        if "has_error" not in data:
-            raise JudgeSchemaError("Missing required field 'has_error'.")
-
-        return cls(
-            has_error=data["has_error"],
-            reason=data.get("reason"),
-        )
+    @property
+    def has_error(self) -> bool:
+        return self.classification == "wrong"
 
     def to_dict(self) -> dict[str, Any]:
-        output: dict[str, Any] = {"has_error": self.has_error}
-
-        if self.has_error:
-            output["reason"] = self.reason
-
-        return output
+        return {
+            "has_error": self.has_error,
+            "classification": self.classification,
+            "reason": self.reason,
+        }

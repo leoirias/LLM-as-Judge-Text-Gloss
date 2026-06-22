@@ -140,10 +140,10 @@ def load_prompt_config(
 
     return PromptConfig(
         name=prompt_name,
-        objective=_required_str(prompt_data, "objective", context=f"prompt {prompt_name!r}"),
-        instructions=_required_str(prompt_data, "instructions", context=f"prompt {prompt_name!r}"),
-        output_rules=_required_str(prompt_data, "output_rules", context=f"prompt {prompt_name!r}"),
         template=_required_str(prompt_data, "template", context=f"prompt {prompt_name!r}"),
+        objective=str(prompt_data.get("objective", "") or ""),
+        instructions=str(prompt_data.get("instructions", "") or ""),
+        output_rules=str(prompt_data.get("output_rules", "") or ""),
         extra=_unknown_keys(prompt_data, known_keys),
     )
 
