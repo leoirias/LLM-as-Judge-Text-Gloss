@@ -1,52 +1,181 @@
-id,text,gloss
-1,Do you need help with anything?,NEED HELP WHAT? 
-2,You need antibiotics,NEED ANTIBIOTIC. 
-3,I will call the doctor. ,CALL DOCTOR. 
-4,You can go home tomorrow. ,TOMORROW CAN GO-HOME. 
-5,"You need oxygen, okay? ","NEED OXYGEN, OKAY?" 
-6,I need to check your blood test. ,I NEED CHECK BLOOD TEST. 
-7,"I need to check your glucose test, please. ","I NEED CHECK GLUCOSE TEST, PLEASE."
-8,The doctor will give you medicine now. ,NOW DOCTOR GIVE MEDICINE. 
-9,Do you have stomach pain? ,HAVE STOMACH PAIN? 
-10,Do you have shortness of breath? ,HAVE TROUBLE BREATHING? 
-11,Do you feel confused? ,FEEL CONFUSED? 
-12,Are you having a heart attack?,HEART ATTACK? 
-13,Do you have heart problems?,HAVE HEART PROBLEM? 
-14,How are you feeling now? ,NOW FEEL HOW? 
-15,Can you breathe? ,YOU BREATHE? 
-16,The blood test is ready now. ,NOW BLOOD TEST READY. 
-17,Your blood test is ready now. ,YOUR BLOOD TEST READY NOW. 
-18,"Did you take the medicine, and do you feel better now?","TAKE MEDICINE, NOW FEEL BETTER?" 
-19,Are you in severe pain now? ,NOW YOU PAIN STRONG? 
-20,Do you have a high fever? ,HAVE HIGH FEVER? 
-21,Do you need a doctor now? ,NOW NEED DOCTOR? 
-22,Do you need emergency care now? ,NOW NEED EMERGENCY HELP? 
-23,Is the baby moving? ,BABY MOVE? 
-24,When did your fever start? ,FEVER START WHEN? 
-25,How long have you had chest pain? ,"CHEST PAIN, HOW-LONG TIME?" 
-26,How long have you been feeling dizzy? ,"DIZZY, HOW LONG FEEL?" 
-27,When did the accident happen?  ,ACCIDENT HAPPEN WHEN? 
-28,Where do you feel pain from the accident? ,"ACCIDENT, PAIN WHERE FEEL?" 
-29,You are ready for hospital admission now. ,NOW READY HOSPITAL ADMISSION. 
-30,When did you vomit? ,VOMIT WHEN? 
-31,Do you have any medication allergies? ,ALLERGIC ANY MEDICINE? 
-32,What medicine are you taking? ,TAKE WHAT MEDICINE? 
-33,The doctor will explain your situation. ,DOCTOR WILL EXPLAIN SITUATION. 
-34,Do you still have a cough and fever? ,STILL HAVE COUGH FEVER? 
-35,"You need oxygen right away, okay? ",NEED OXYGEN NOW OKAY. 
-36,How is your asthma feeling? ,YOUR ASTHMA FEEL HOW? 
-37,Are you coughing up blood? ,COUGH BLOOD? 
-38,You have a lung infection. ,HAVE LUNG INFECTION. 
-39,The doctor needs to examine your pneumonia. ,DOCTOR NEED EXAMINE YOUR PNEUMONIA. 
-40,Do you have high blood pressure? ,HAVE HIGH BLOOD PRESSURE? 
-41,Do you feel severe chest pain? ,FEEL CHEST PAIN STRONG? 
-42,What happened when you lost consciousness? ,LOSE CONSCIOUSNESS WHAT HAPPEN? 
-43,Do you feel numbness in your left arm? ,YOUR LEFT ARM NUMB? 
-44,Do you feel numbness in your right arm? ,YOUR RIGHT ARM NUMB? 
-45,Have you had any bleeding during your pregnancy? ,"PREGNANCY, HAVE ANY BLEEDING?" 
-46,The doctor needs to check your gestational diabetes. ,DOCTOR NEED CHECK YOUR GESTATIONAL DIABETES. 
-47,Are you having stomach pain during your pregnancy? ,"PREGNANCY, HAVE STOMACH PAIN?" 
-48,You need a gynecological exam now. ,NOW NEED GYNECOLOGICAL EXAM. 
-49,Are you having trouble breastfeeding? ,"BREASTFEEDING, HAVE PROBLEM?" 
-50,You need to schedule a medical appointment. ,NEED SCHEDULE MEDICAL APPOINTMENT. 
-51,You need to go to the pregnancy emergency room now. ,NOW NEED GO PREGNANCY EMERGENCY ROOM. 
+Text, Gloss
+Do you need help with anything?,NEED HELP WHAT?  
+You need antibiotics,NEED ANTIBIOTIC
+I will call the doctor,CALL DOCTOR
+You can go home tomorrow,TOMORROW CAN GO HOME
+"You need oxygen, okay?","NEED OXYGEN, OKAY?"
+I need to check your blood test,NEED CHECK BLOOD TEST
+"I need to check your glucose test, please.","NEED CHECK GLUCOSE TEST, PLEASE."
+The doctor will give you medicine now,NOW DOCTOR GIVE MEDICINE
+Do you have stomach pain?,HAVE STOMACH PAIN? 
+Do you have shortness of breath?,HAVE PROBLEM BREATH?  
+Do you feel confused?,FEEL CONFUSED? 
+Are you having a heart attack?,HAVE HEART ATTACK? 
+Do you have heart problems?,HAVE HEART PROBLEM? 
+How are you feeling now?,NOW FEEL HOW? 
+Can you breathe?,CAN BREATHE? 
+The blood test is ready now,NOW BLOOD TEST READY
+Your blood test is ready now,NOW BLOOD TEST READY
+"Did you take the medicine, and do you feel better now?","TAKE MEDICINE, NOW FEEL BETTER?"
+Are you in severe pain now?,NOW YOU PAIN STRONG? 
+Do you have a high fever?,HAVE HIGH FEVER? 
+Do you need a doctor now?,NOW NEED DOCTOR? 
+Do you need emergency care now?,NOW NEED EMERGENCY HELP?
+Is the baby moving?,BABY MOVE? 
+When did your fever start?,FEVER START WHEN? 
+How long have you had chest pain?,"CHEST PAIN, HOW LONG TIME?"
+How long have you been feeling dizzy?,"DIZZY, HOW LONG FEEL?"
+When did the accident happen?,ACCIDENT HAPPEN WHEN? 
+Where do you feel pain from the accident?,"ACCIDENT, PAIN WHERE FEEL?"
+You are ready for hospital admission now,NOW READY HOSPITAL ADMISSION
+When did you vomit?,VOMIT WHEN? 
+Do you have any medication allergies?,HAVE ALLERGIC ANY MEDICINE? 
+What medicine are you taking?,USE MEDICINE WHAT? 
+The doctor will explain your situation,DOCTOR WILL EXPLAIN SITUATION
+Do you still have a cough and fever?,STILL HAVE COUGH FEVER? 
+"You need oxygen right away, okay?",NEED OXYGEN NOW OKAY
+How is your asthma feeling?,YOUR ASTHMA FEEL HOW? 
+Are you coughing up blood?,COUGH BLOOD? 
+You have a lung infection,HAVE LUNG INFECTION
+The doctor needs to examine your pneumonia,DOCTOR NEED EXAMINE PNEUMONIA
+Do you have high blood pressure?,HAVE HIGH BLOOD PRESSURE? 
+Do you feel severe chest pain?,FEEL CHEST PAIN STRONG? 
+What happened when you lost consciousness?,LOSE CONSCIOUSNESS WHAT HAPPEN? 
+Do you feel numbness in your left arm?,FEEL LEFT ARM NUMBNESS? 
+Do you feel numbness in your right arm?,FEEL RIGHT ARM NUMBNESS? 
+Have you had any bleeding during your pregnancy?,"PREGNANCY, HAVE ANY BLEEDING?"
+The doctor needs to check your gestational diabetes,DOCTOR NEED CHECK GESTATIONAL DIABETES 
+Are you having stomach pain during your pregnancy?,"PREGNANCY, HAVE STOMACH PAIN?"
+You need a gynecological exam now,NOW NEED GYNECOLOGICAL EXAM 
+Are you having trouble breastfeeding?,"BREASTFEEDING, HAVE PROBLEM?"
+You need to schedule a medical appointment,NEED SCHEDULE MEDICAL APPOINTMENT
+You need to go to the pregnancy emergency room now,NOW NEED GO PREGNANCY EMERGENCY ROOM
+"Hello, I need help","HELLO, NEED HELP"
+Can you help me now?,CAN HELP NOW?
+I feel dizzy today,TODAY FEEL DIZZY
+I have back pain,BACK PAIN
+I have pain in my left arm,LEFT ARM PAIN
+I have pain in my right arm,RIGHT ARM PAIN
+My head hurts,HEAD HURT
+I feel pain in my stomach,STOMACH PAIN FEEL
+I have shortness of breath,SHORT BREATH
+I have breathing hard,BREATHING HARD
+Do you feel better now?,NOW FEEL BETTER?
+I have fever and cough,FEVER COUGH
+I feel very weak today,TODAY FEEL VERY WEAK
+Please call the nurse,PLEASE NURSE CALL
+Please call the doctor,PLEASE DOCTOR CALL
+I need medicine now,NOW MEDICINE NEED
+Can you explain the blood test?,BLOOD TEST EXPLAIN?
+I need a laboratory test,LABORATORY TEST NEED
+I need a glucose test,GLUCOSE TEST NEED
+I need insulin,INSULIN MEDICINE NEED
+Are you tired and dizzy?,TIRED DIZZY?
+The patient needs help,PATIENT HELP NEED
+You have a fever,HAVE FEVER
+Do you feel pain something?,FEEL PAIN SOMETHING?
+Cannot you breathe well?,BREATHE DIFFICULT?
+Can you explain the result?,CAN RESULT EXPLAIN?
+I feel better after the medicine,MEDICINE FINISH BETTER
+The cough is strong now,NOW COUGH STRONG
+I have pain in my chest,CHEST PAIN
+I need to go to the hospital,HOSPITAL GO NEED
+Is this an emergency?,EMERGENCY?
+Please stay calm,PLEASE CALM
+Please breathe slowly,PLEASE BREATHE SLOW
+Please stop here,PLEASE STOP HERE
+Can I return next week?,CAN NEXT WEEK RETURN?
+When did you vomit?,WHEN VOMIT FINISH?
+I need support now,NOW SUPPORT NEED
+I feel strange today,TODAY STRANGE
+I feel stress and exhaustion,STRESS EXHAUSTED
+I need care and support,CARE SUPPORT NEED
+The fever did not improve,FEVER NOT BETTER
+The pain improved a little,PAIN LITTLE BETTER
+I feel much better today,TODAY MUCH BETTER
+Do you have anxiety and stress?,HAVE ANXIETY STRESS?
+I need help breathing,BREATHING HELP NEED
+Please explain slowly,PLEASE EXPLAIN SLOW
+I need in-person care,DIRECT CARE NEED
+Do you have medicine allergic?,HAVE ALLERGIC MEDICINE?
+I feel numbness in my hand,HAND NUMB
+I feel numbness in my leg,LEG NUMB
+Are you feeling hot?,FEEL HOT?
+Do you feel a cold and chills?,FEEL COLD BODY SHAKE?
+I have diarrhea today,TODAY DIARRHEA
+I lost my appetite,NOT WANT EAT
+I have high blood pressure,HIGH BLOOD PRESSURE
+I need oxygen now,NOW OXYGEN NEED
+The patient needs oxygen therapy,PATIENT OXYGEN THERAPY NEED
+I need a heart monitor,HEART MONITOR NEED
+I need a medical examination,MEDICAL EXAM NEED
+I need a medical consultation,DOCTOR CONSULT NEED
+I need a diagnosis,DIAGNOSIS NEED
+Can you explain my condition?,CONDITION EXPLAIN?
+I need help quickly,HELP FAST NEED
+I feel mentally confused,FEEL MENTAL CONFUSED
+I had a panic attack,HAVE FINISH PANIC-ATTACK PAST
+I feel deeply sad,FEEL VERY SAD
+I have depression and anxiety,DEPRESSION ANXIETY
+I feel unwell,FEEL SICK
+I have an infection,INFECTION
+I think I caught a disease,THINK SICK
+I need information about prevention,PREVENTION INFORMATION NEED
+I need protective equipment,PROTECTIVE EQUIPMENT NEED
+Please wear a protective mask,PLEASE MASK WEAR
+I need a pharmacy,PHARMACY NEED
+I need cough medicine,COUGH MEDICINE NEED
+I need pain medicine,PAIN MEDICINE NEED
+I need fever medicine,FEVER MEDICINE NEED
+I need a blood test now,NOW BLOOD TEST NEED
+I feel pain when I breathe,BREATHE PAIN
+I have abdominal pain,STOMACH PAIN
+I need to sit down,SIT NEED
+Please help me stand up,PLEASE HELP STAND
+I almost fainted,ALMOST FAINT
+I had an accident,ACCIDENT
+I fell this morning,THIS_MORNING FALL
+I need an ambulance,AMBULANCE NEED
+I need emergency care,EMERGENCY CARE NEED
+I need hospital admission,HOSPITAL ADMISSION NEED
+The patient lost consciousness,PATIENT PASS_OUT
+The patient has heart failure,PATIENT HEART FAILURE
+I have asthma and a cough,ASTHMA COUGH
+I need an inhaler,INHALER NEED
+I feel pain here,PAIN HERE
+How long will I stay here?,STAY HERE HOW LONG?
+Thank you for your help,THANK_YOU HELP
+I need water,WATER NEED
+I am allergic to this medicine,MEDICINE ALLERGIC
+I need to talk to my family,FAMILY TALK NEED
+Please write it down,PLEASE WRITE_DOWN
+I understand. Thank you.,"UNDERSTAND, THANK_YOU"
+No problem,NO_PROBLEM
+You're welcome,WELCOME
+Good morning,GOOD MORNING
+Good night,GOOD NIGHT
+Good evening,GOOD EVENING 
+Good afternoon,GOOD AFTERNOON
+How are you?,HOW YOU?
+"I'm fine, thanks",FINE THANKS
+What's your name?,YOU NAME?
+Nice to meet you,NICE MEET YOU
+See you later,SEE LATER
+Take care,TAKE CARE
+Have a nice day,HAVE NICE DAY
+Excuse me,EXCUSE ME
+I'm sorry,SORRY
+Thanks a lot,THANKS LOT
+What are you doing?,WHAT DO?
+Of course,OF COURSE
+I don't understand,NOT_UNDERSTAND
+Please repeat that,PLEASE AGAIN
+How much is this?,HOW_MUCH THIS?
+I like this,LIKE THIS
+Wait a moment,WAIT MOMENT
+Just a second,2 SECOND
+Call me later,CALL LATER
+What time is it?,WHAT TIME?
+Where are you?,WHERE YOU?
+See you soon,SEE SOON
+I need rest,NEED REST
