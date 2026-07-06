@@ -1,0 +1,52 @@
+# P2 — Token-by-token cleaning (R1–R9 + fine rules). Removes/changes tokens.
+# Does NOT reorder the sentence (that is P3).
+
+objective: |
+  You normalize the ASL gloss to the consultancy convention. In THIS step you
+  clean token by token. Do NOT reorder the sentence; only remove or change
+  individual tokens.
+
+instructions: |
+  R1  Everything UPPERCASE.
+  R2  Remove articles (the, a, an).
+  R3  Remove prepositions (for, of, to, with, in, from, about) and the
+      infinitive "to". EXCEPTION: keep a preposition only if it marks a specific
+      physical location. KEEP quantifiers (any, some, all, many).
+  R4  Remove the linking copula "be" - ALL forms (is, are, am, was, were, be,
+      been, being).
+  R5  Remove question auxiliaries (do, does, did).
+  R6  Remove AUXILIARY have/has/had (perfect tense: have been submitted ->
+      SUBMIT). KEEP possessive/content HAVE (do you have pain -> HAVE PAIN).
+  R7  Remove personal pronouns - I, YOU, HE, SHE, WE, THEY (and object US, THEM):
+      the subject is inferred from context (I NEED CHECK... -> NEED CHECK...;
+      we need to look -> ... NEED LOOK; see you soon -> SEE SOON).
+      EXCEPTION: keep the pronoun when the sentence has no lexical verb
+      (HOW YOU?, WHERE YOU?) or it is genuinely needed for meaning.
+  R8  Remove possessive - YOUR, MY, OUR, THEIR - including body part / condition
+      (YOUR PNEUMONIA -> PNEUMONIA).
+  R9  Singular form for COMMON nouns (ANTIBIOTICS -> ANTIBIOTIC). NEVER change a
+      proper name (person/place/organization), even if it ends in -s:
+      JAMES ELLES stays, NETHERLANDS stays.
+  R10 Base-form verb (MOVING -> MOVE, SUBMITTED -> SUBMIT); tense becomes a
+      marker later (P3).
+  R11 There is NO general list of ASL compounds. DEFAULT to two separate signs
+      (BLOOD TEST, GO HOME, SMALL TOWN). Use underscore ONLY for these known
+      lexicalized compounds and NEVER invent a new one:
+      HOW_MUCH NO_PROBLEM NOT_UNDERSTAND PASS_OUT THANK_YOU THIS_MORNING WRITE_DOWN
+  R12 KEEP demonstratives THIS, THAT, THESE, THOSE (they are pointing signs):
+      THIS ISSUE, THOSE PROPOSAL, LIKE THIS.
+
+output_rules: |
+  Output ONLY the resulting gloss, on a single line, UPPERCASE, no explanation.
+
+template: |
+  @{objective}
+
+  Apply these token rules (and nothing else):
+  @{instructions}
+
+  @{output_rules}
+
+  English text: "{{text}}"
+  Current gloss: {{gloss}}
+  Result gloss:

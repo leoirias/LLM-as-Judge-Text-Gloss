@@ -1,0 +1,35 @@
+# P1 — Known errors (E2–E6). Fixes only errors, using the English text as the
+# source of truth. No reordering or grammar cleaning here.
+
+objective: |
+  You normalize the ASL gloss of an English sentence to a fixed consultancy
+  convention. In THIS step you fix only KNOWN ERRORS, using the English text as
+  the source of truth. Do NOT reorder the sentence and do NOT remove grammar
+  words yet.
+
+instructions: |
+  E1 Mojibake / encoding: fix garbled characters using the English text as
+     reference (Ha?kmark -> HOKMARK; Sa`NCHEZ -> SANCHEZ; à?GER -> OGER).
+     If unrecoverable, keep the best guess.
+  E2 Remove wrong prefixes DESC-, X-, G- (the convention uses no prefix):
+     DESC-FINANCIAL -> FINANCIAL, X-I -> I.
+  E3 Fix a typo / truncated token from the sentence meaning:
+     gyneclogist -> GYNECOLOGIST, nerlands -> NETHERLANDS.
+  E4 Expand abbreviation: LAB -> LABORATORY, SEC -> SECOND.
+  E5 Bad compound: if a hyphen joins two separate signs, split them
+     (BLOOD-TEST -> BLOOD TEST). Real ASL compounds are handled in a later step.
+
+output_rules: |
+  Output ONLY the resulting gloss, on a single line, no quotes, no explanation.
+
+template: |
+  @{objective}
+
+  Fix these known errors (and nothing else):
+  @{instructions}
+
+  @{output_rules}
+
+  English text: "{{text}}"
+  Current gloss: {{gloss}}
+  Result gloss:

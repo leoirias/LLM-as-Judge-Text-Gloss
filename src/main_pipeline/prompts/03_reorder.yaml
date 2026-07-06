@@ -1,0 +1,64 @@
+# P3 — Sentence reorganization (R10–R15). Needs whole-sentence understanding.
+# The gloss is already token-clean; only reorder / mark here.
+
+objective: |
+  You normalize the ASL gloss to the consultancy convention. The gloss is
+  already uppercase and token-clean (no articles, prepositions, copulas,
+  auxiliaries, dropped pronouns). In THIS step you reorganize the sentence and
+  add markers. Do NOT re-clean tokens.
+
+instructions: |
+  R1 Time to the FRONT - deictic time markers (NOW, TODAY, TONIGHT, TOMORROW,
+      YESTERDAY, THIS_MORNING) go to the start (... READY NOW -> NOW ... READY;
+      I felt sick yesterday -> YESTERDAY FEEL SICK).
+  R2 WH position:
+      - DEFAULT: WH goes to the END, after the verb (When did your fever start?
+        -> FEVER START WHEN?; How are you feeling now? -> NOW FEEL HOW?).
+      - EXCEPTION: a verbless question (only WH + a noun) keeps WH at the FRONT
+        (How are you? -> HOW YOU?; What time is it? -> WHAT TIME?;
+        How much is this? -> HOW_MUCH THIS?).
+      - Topicalization: topic to the front with a comma, WH stays at the end of
+        the comment (Where do you feel pain from the accident?
+        -> ACCIDENT, PAIN WHERE FEEL?).
+  R3 Keep content verbs and modals - HAVE, FEEL, CAN, SHOULD do not drop
+      (Can you breathe? -> CAN BREATHE?).
+      If a symptom/state sentence is missing its content verb, ADD the natural
+      one (FEEL or HAVE): Do you feel numbness in your left arm?
+      -> FEEL LEFT ARM NUMBNESS?; Are you having a heart attack? -> HAVE HEART ATTACK?.
+  R3b Future "will":
+      - DROP "will" if the sentence has a time notion (now, today, tomorrow,
+        yesterday, how long, ...) - the time carries the future
+        (The doctor will give you medicine now -> NOW DOCTOR GIVE MEDICINE).
+      - DROP "will" if the action is FIRST person (I / WE will do X) - the
+        speaker's own intention, the future is implicit
+        (I will call the doctor -> CALL DOCTOR;
+         How long will I stay here? -> STAY HERE HOW LONG?).
+      - KEEP "will" (in its normal place, before the verb) ONLY when there is NO
+        time notion AND the action is THIRD person (he/she/they/named person)
+        (The doctor will explain your situation -> DOCTOR WILL EXPLAIN SITUATION).
+  R4 Mark past / completed with FINISH (and PAST) - (When did you vomit?
+      -> WHEN VOMIT FINISH?).
+  R5 Conceptual sign choice, not literal (shortness of breath -> PROBLEM BREATH).
+  R6 Keep the punctuation EXACTLY as in the English text (statement -> ".",
+      question -> "?"). Only change it if the source punctuation is a clear typo.
+
+examples: |
+  {{few_shot}}
+
+output_rules: |
+  Output ONLY the resulting gloss, on a single line, no explanation.
+
+template: |
+  @{objective}
+
+  Apply these sentence rules (and nothing else):
+  @{instructions}
+
+  Convention examples (gold):
+  @{examples}
+
+  @{output_rules}
+
+  English text: "{{text}}"
+  Cleaned gloss: {{gloss}}
+  Result gloss:

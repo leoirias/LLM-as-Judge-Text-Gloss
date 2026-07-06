@@ -1,0 +1,181 @@
+Input,Output,Output review,Type
+Do you need help with anything? ,NEED HELP WHAT?  ,NEED HELP WHAT?  ,phrase
+You need antibiotics,NEED ANTIBIOTIC. ,NEED ANTIBIOTIC,phrase
+I will call the doctor. ,CALL DOCTOR. ,CALL DOCTOR. ,phrase
+You can go home tomorrow. ,TOMORROW CAN GO-HOME. ,TOMORROW CAN GO HOME. ,phrase
+"You need oxygen, okay? ","NEED OXYGEN, OKAY?","NEED OXYGEN, OKAY?",phrase
+I need to check your blood test. ,I NEED CHECK BLOOD TEST. ,NEED CHECK BLOOD TEST. ,phrase
+"I need to check your glucose test, please. ","I NEED CHECK GLUCOSE TEST, PLEASE. ","NEED CHECK GLUCOSE TEST, PLEASE. ",phrase
+The doctor will give you medicine now. ,NOW DOCTOR GIVE MEDICINE. ,NOW DOCTOR GIVE MEDICINE. ,phrase
+Do you have stomach pain? ,HAVE STOMACH PAIN? ,HAVE STOMACH PAIN? ,phrase
+Do you have shortness of breath? ,HAVE TROUBLE BREATHING?  ,HAVE PROBLEM BREATH?  ,phrase
+Do you feel confused? ,FEEL CONFUSED? ,FEEL CONFUSED? ,phrase
+Are you having a heart attack?,HEART ATTACK? ,HAVE HEART ATTACK? ,phrase
+Do you have heart problems?,HAVE HEART PROBLEM? ,HAVE HEART PROBLEM? ,phrase
+How are you feeling now? ,NOW FEEL HOW? ,NOW FEEL HOW? ,phrase
+Can you breathe? ,YOU BREATHE? ,CAN BREATHE? ,phrase
+The blood test is ready now. ,NOW BLOOD TEST READY. ,NOW BLOOD TEST READY. ,phrase
+Your blood test is ready now. ,YOUR BLOOD TEST READY NOW. ,NOW BLOOD TEST READY. ,phrase
+"Did you take the medicine, and do you feel better now?","TAKE MEDICINE, NOW FEEL BETTER? ","TAKE MEDICINE, NOW FEEL BETTER?",phrase
+Are you in severe pain now? ,NOW YOU PAIN STRONG? ,NOW YOU PAIN STRONG? ,phrase
+Do you have a high fever? ,HAVE HIGH FEVER? ,HAVE HIGH FEVER? ,phrase
+Do you need a doctor now? ,NOW NEED DOCTOR? ,NOW NEED DOCTOR? ,phrase
+Do you need emergency care now? ,NOW NEED EMERGENCY HELP? ,NOW NEED EMERGENCY HELP? ,phrase
+Is the baby moving? ,BABY MOVE? ,BABY MOVE? ,phrase
+When did your fever start? ,FEVER START WHEN? ,FEVER START WHEN? ,phrase
+How long have you had chest pain? ,"CHEST PAIN, HOW-LONG TIME? ","CHEST PAIN, HOW LONG TIME? ",phrase
+How long have you been feeling dizzy? ,"DIZZY, HOW LONG FEEL? ","DIZZY, HOW LONG FEEL? ",phrase
+When did the accident happen?  ,ACCIDENT HAPPEN WHEN? ,ACCIDENT HAPPEN WHEN? ,phrase
+Where do you feel pain from the accident? ,"ACCIDENT, PAIN WHERE FEEL? ","ACCIDENT, PAIN WHERE FEEL? ",phrase
+You are ready for hospital admission now. ,NOW READY HOSPITAL ADMISSION. ,NOW READY HOSPITAL ADMISSION. ,phrase
+When did you vomit? ,VOMIT WHEN? ,VOMIT WHEN? ,phrase
+Do you have any medication allergies? ,ALLERGIC ANY MEDICINE? ,HAVE ALLERGIC ANY MEDICINE? ,phrase
+What medicine are you taking? ,TAKE WHAT MEDICINE? ,USE MEDICINE WHAT? ,phrase
+The doctor will explain your situation. ,DOCTOR WILL EXPLAIN SITUATION. ,DOCTOR WILL EXPLAIN SITUATION. ,phrase
+Do you still have a cough and fever? ,STILL HAVE COUGH FEVER? ,STILL HAVE COUGH FEVER? ,phrase
+"You need oxygen right away, okay? ",NEED OXYGEN NOW OKAY. ,NEED OXYGEN NOW OKAY. ,phrase
+How is your asthma feeling? ,YOUR ASTHMA FEEL HOW? ,YOUR ASTHMA FEEL HOW? ,phrase
+Are you coughing up blood? ,COUGH BLOOD? ,COUGH BLOOD? ,phrase
+You have a lung infection. ,HAVE LUNG INFECTION. ,HAVE LUNG INFECTION. ,phrase
+The doctor needs to examine your pneumonia. ,DOCTOR NEED EXAMINE YOUR PNEUMONIA. ,DOCTOR NEED EXAMINE PNEUMONIA. ,phrase
+Do you have high blood pressure? ,HAVE HIGH BLOOD PRESSURE? ,HAVE HIGH BLOOD PRESSURE? ,phrase
+Do you feel severe chest pain? ,FEEL CHEST PAIN STRONG? ,FEEL CHEST PAIN STRONG? ,phrase
+What happened when you lost consciousness? ,LOSE CONSCIOUSNESS WHAT HAPPEN? ,LOSE CONSCIOUSNESS WHAT HAPPEN? ,phrase
+Do you feel numbness in your left arm? ,YOUR LEFT ARM NUMB? ,FEEL LEFT ARM NUMBNESS? ,phrase
+Do you feel numbness in your right arm? ,YOUR RIGHT ARM NUMB? ,FEEL RIGHT ARM NUMBNESS? ,phrase
+Have you had any bleeding during your pregnancy? ,"PREGNANCY, HAVE ANY BLEEDING? ","PREGNANCY, HAVE ANY BLEEDING? ",phrase
+The doctor needs to check your gestational diabetes. ,DOCTOR NEED CHECK YOUR GESTATIONAL DIABETES. ,DOCTOR NEED CHECK GESTATIONAL DIABETES. ,phrase
+Are you having stomach pain during your pregnancy? ,"PREGNANCY, HAVE STOMACH PAIN? ","PREGNANCY, HAVE STOMACH PAIN? ",phrase
+You need a gynecological exam now. ,NOW NEED GYNECOLOGICAL EXAM. ,NOW NEED GYNECOLOGICAL EXAM. ,phrase
+Are you having trouble breastfeeding? ,"BREASTFEEDING, HAVE PROBLEM? ","BREASTFEEDING, HAVE PROBLEM? ",phrase
+You need to schedule a medical appointment. ,NEED SCHEDULE MEDICAL APPOINTMENT. ,NEED SCHEDULE MEDICAL APPOINTMENT. ,phrase
+You need to go to the pregnancy emergency room now. ,NOW NEED GO PREGNANCY EMERGENCY ROOM. ,NOW NEED GO PREGNANCY EMERGENCY ROOM. ,phrase
+"Hello, I need help.","HELLO, NEED HELP","HELLO, NEED HELP",phrase
+Can you help me now?,CAN HELP NOW?,CAN HELP NOW?,phrase
+I feel dizzy today.,TODAY FEEL DIZZY,TODAY FEEL DIZZY,phrase
+I have back pain.,BACK PAIN,BACK PAIN,phrase
+I have pain in my left arm.,LEFT ARM PAIN,LEFT ARM PAIN,phrase
+I have pain in my right arm.,RIGHT ARM PAIN,RIGHT ARM PAIN,phrase
+My head hurts.,HEAD HURT,HEAD HURT,phrase
+I feel pain in my stomach.,STOMACH PAIN FEEL,STOMACH PAIN FEEL,phrase
+I have shortness of breath.,SHORT BREATH,SHORT BREATH,phrase
+I have breathing hard.,BREATHING HARD,BREATHING HARD,phrase
+Do you feel better now.,NOW FEEL BETTER?,NOW FEEL BETTER?,phrase
+I have fever and cough.,FEVER COUGH,FEVER COUGH,phrase
+I feel very weak today.,TODAY VERY WEAK,TODAY FEEL VERY WEAK,phrase
+Please call the nurse.,PLEASE NURSE CALL,PLEASE NURSE CALL,phrase
+Please call the doctor.,PLEASE DOCTOR CALL,PLEASE DOCTOR CALL,phrase
+I need medicine now.,NOW MEDICINE NEED,NOW MEDICINE NEED,phrase
+Can you explain the blood test?,BLOOD TEST EXPLAIN?,BLOOD TEST EXPLAIN?,phrase
+I need a laboratory test.,LAB TEST NEED,LABORATORY TEST NEED,phrase
+I need a glucose test.,GLUCOSE TEST NEED,GLUCOSE TEST NEED,phrase
+I need insulin.,INSULIN MEDICINE NEED,INSULIN MEDICINE NEED,phrase
+Are you tired and dizzy?,TIRED DIZZY?,TIRED DIZZY?,phrase
+The patient needs help.,PATIENT HELP NEED,PATIENT HELP NEED,phrase
+You have a fever,HAVE FEVER,HAVE FEVER,phrase
+Do you feel pain something?,FEEL PAIN SOMETHING?,FEEL PAIN SOMETHING?,phrase
+Cannot you breathe well?,BREATHING DIFFICULT?,BREATHE DIFFICULT?,phrase
+Can you explain the result?,RESULT EXPLAIN?,CAN RESULT EXPLAIN?,phrase
+I feel better after the medicine.,MEDICINE FINISH BETTER,MEDICINE FINISH BETTER,phrase
+The cough is strong now.,NOW COUGH STRONG,NOW COUGH STRONG,phrase
+I have pain in my chest.,CHEST PAIN,CHEST PAIN,phrase
+I need to go to the hospital.,HOSPITAL GO NEED,HOSPITAL GO NEED,phrase
+Is this an emergency?,EMERGENCY?,EMERGENCY?,phrase
+Please stay calm.,PLEASE CALM,PLEASE CALM,phrase
+Please breathe slowly.,PLEASE BREATHE SLOW,PLEASE BREATHE SLOW,phrase
+Please stop here.,PLEASE STOP HERE,PLEASE STOP HERE,phrase
+Can I return next week?,NEXT WEEK RETURN?,CAN NEXT WEEK RETURN?,phrase
+When did you vomit?,WHEN YOU VOMIT FINISH?,WHEN VOMIT FINISH?,phrase
+I need support now.,NOW SUPPORT NEED,NOW SUPPORT NEED,phrase
+I feel strange today.,TODAY STRANGE,TODAY STRANGE,phrase
+I feel stress and exhaustion.,STRESS EXHAUSTED,STRESS EXHAUSTED,phrase
+I need care and support.,CARE SUPPORT NEED,CARE SUPPORT NEED,phrase
+The fever did not improve.,FEVER NOT BETTER,FEVER NOT BETTER,phrase
+The pain improved a little.,PAIN LITTLE BETTER,PAIN LITTLE BETTER,phrase
+I feel much better today.,TODAY MUCH BETTER,TODAY MUCH BETTER,phrase
+Do you have anxiety and stress?,HAVE ANXIETY STRESS?,HAVE ANXIETY STRESS?,phrase
+I need help breathing.,BREATHING HELP NEED,BREATHING HELP NEED,phrase
+Please explain slowly.,PLEASE EXPLAIN SLOW,PLEASE EXPLAIN SLOW,phrase
+I need in-person care.,DIRECT CARE NEED,DIRECT CARE NEED,phrase
+Do you have medicine allergic?,HAVE ALLERGIC MEDICINE?,HAVE ALLERGIC MEDICINE?,phrase
+I feel numbness in my hand.,HAND NUMB,HAND NUMB,phrase
+I feel numbness in my leg.,LEG NUMB,LEG NUMB,phrase
+Are you feeling hot?,FEEL HOT?,FEEL HOT?,phrase
+Do you feel a cold and chills?,FEEL COLD BODY-SHAKE?,FEEL COLD BODY SHAKE?,phrase
+I have diarrhea today.,TODAY DIARRHEA,TODAY DIARRHEA,phrase
+I lost my appetite.,NOT WANT EAT,NOT WANT EAT,phrase
+I have high blood pressure.,HIGH BLOOD-PRESSURE,HIGH BLOOD PRESSURE,phrase
+I need oxygen now.,NOW OXYGEN NEED,NOW OXYGEN NEED,phrase
+The patient needs oxygen therapy.,PATIENT OXYGEN-THERAPY NEED,PATIENT OXYGEN THERAPY NEED,phrase
+I need a heart monitor.,HEART-MONITOR NEED,HEART MONITOR NEED,phrase
+I need a medical examination.,MEDICAL EXAM NEED,MEDICAL EXAM NEED,phrase
+I need a medical consultation.,DOCTOR CONSULT NEED,DOCTOR CONSULT NEED,phrase
+I need a diagnosis.,DIAGNOSIS NEED,DIAGNOSIS NEED,phrase
+Can you explain my condition?,CONDITION EXPLAIN?,CONDITION EXPLAIN?,phrase
+I need help quickly.,HELP FAST NEED,HELP FAST NEED,phrase
+I feel mentally confused.,FEEL CONFUSED,FEEL MENTAL CONFUSED,phrase
+I had a panic attack.,PANIC-ATTACK,HAVE FINISH PANIC-ATTACK PAST,phrase
+I feel deeply sad.,FEEL VERY SAD,FEEL VERY SAD,phrase
+I have depression and anxiety.,DEPRESSION ANXIETY,DEPRESSION ANXIETY,phrase
+I feel unwell.,FEEL SICK,FEEL SICK,phrase
+I have an infection.,INFECTION,INFECTION,phrase
+I think I caught a disease.,THINK SICK,THINK SICK,phrase
+I need information about prevention.,PREVENTION INFORMATION NEED,PREVENTION INFORMATION NEED,phrase
+I need protective equipment.,PROTECTIVE-EQUIPMENT NEED,PROTECTIVE EQUIPMENT NEED,phrase
+Please wear a protective mask.,PLEASE MASK WEAR,PLEASE MASK WEAR,phrase
+I need a pharmacy.,PHARMACY NEED,PHARMACY NEED,phrase
+I need cough medicine.,COUGH MEDICINE NEED,COUGH MEDICINE NEED,phrase
+I need pain medicine.,PAIN MEDICINE NEED,PAIN MEDICINE NEED,phrase
+I need fever medicine.,FEVER MEDICINE NEED,FEVER MEDICINE NEED,phrase
+I need a blood test now.,NOW BLOOD-TEST NEED,NOW BLOOD TEST NEED,phrase
+I feel pain when I breathe.,BREATHE PAIN,BREATHE PAIN,phrase
+I have abdominal pain.,STOMACH PAIN,STOMACH PAIN,phrase
+I need to sit down.,SIT NEED,SIT NEED,phrase
+Please help me stand up.,PLEASE HELP STAND,PLEASE HELP STAND,phrase
+I almost fainted.,ALMOST FAINT,ALMOST FAINT,phrase
+I had an accident.,ACCIDENT,ACCIDENT,phrase
+I fell this morning.,THIS-MORNING FALL,THIS_MORNING FALL,phrase
+I need an ambulance.,AMBULANCE NEED,AMBULANCE NEED,phrase
+I need emergency care.,EMERGENCY CARE NEED,EMERGENCY CARE NEED,phrase
+I need hospital admission.,HOSPITAL ADMISSION NEED,HOSPITAL ADMISSION NEED,phrase
+The patient lost consciousness.,PATIENT PASS-OUT,PATIENT PASS_OUT,phrase
+The patient has heart failure.,PATIENT HEART FAILURE,PATIENT HEART FAILURE,phrase
+I have asthma and a cough.,ASTHMA COUGH,ASTHMA COUGH,phrase
+I need an inhaler.,INHALER NEED,INHALER NEED,phrase
+I feel pain here.,PAIN HERE,PAIN HERE,phrase
+How long will I stay here?,STAY HERE HOW-LONG?,STAY HERE HOW LONG?,phrase
+Thank you for your help.,THANK-YOU HELP,THANK_YOU HELP,phrase
+I need water.,WATER NEED,WATER NEED,phrase
+I am allergic to this medicine.,MEDICINE ALLERGIC,MEDICINE ALLERGIC,phrase
+I need to talk to my family.,FAMILY TALK NEED,FAMILY TALK NEED,phrase
+Please write it down.,PLEASE WRITE-DOWN,PLEASE WRITE_DOWN,phrase
+I understand. Thank you.,"UNDERSTAND, THANK-YOU","UNDERSTAND, THANK_YOU",phrase
+No problem,NO PROBLEM,NO_PROBLEM,phrase
+You're welcome,WELCOME,WELCOME,phrase
+Good morning,GOOD MORNING,GOOD MORNING,phrase
+Good night,GOOD NIGHT,GOOD NIGHT,phrase
+Good evening,GOOD EVENING ,GOOD EVENING ,phrase
+Good afternoon,GOOD AFTERNOON,GOOD AFTERNOON,phrase
+How are you?,HOW YOU?,HOW YOU?,phrase
+"I'm fine, thanks",I FINE THANKS,FINE THANKS,phrase
+What's your name?,YOU NAME?,YOU NAME?,phrase
+Nice to meet you,NICE MEET YOU,NICE MEET YOU,phrase
+See you later,SEE LATER,SEE LATER,phrase
+Take care,TAKE CARE,TAKE CARE,phrase
+Have a nice day,HAVE NICE DAY,HAVE NICE DAY,phrase
+Excuse me,EXCUSE ME,EXCUSE ME,phrase
+I'm sorry,I'M SORRY,SORRY,phrase
+Thanks a lot,THANKS LOT,THANKS LOT,phrase
+What are you doing?,WHAT YOU DO?,WHAT DO?,phrase
+Of course,OF COURSE,OF COURSE,phrase
+I don't understand,NOT UNDERSTAND,NOT_UNDERSTAND,phrase
+Please repeat that,PLEASE AGAIN,PLEASE AGAIN,phrase
+How much is this?,HOW IS THIS?,HOW_MUCH THIS?,phrase
+I like this,I LIKE THIS,LIKE THIS,phrase
+Wait a moment,WAIT MOMENT,WAIT MOMENT,phrase
+Just a second,2 SEC,2 SECOND,phrase
+Call me later,CALL LATER,CALL LATER,phrase
+What time is it?,WHAT TIME?,WHAT TIME?,phrase
+Where are you?,WHERE YOU?,WHERE YOU?,phrase
+See you soon,SEE YOU SOON,SEE SOON,phrase
+I need rest,NEED REST,NEED REST,phrase

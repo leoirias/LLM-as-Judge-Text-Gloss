@@ -1,0 +1,29 @@
+ Container llm-as-judge-text-gloss-judge-run-d6c9b2fa45d6 Creating 
+ Container llm-as-judge-text-gloss-judge-run-d6c9b2fa45d6 Created 
+[smoke] uv sync ...
+ + wasabi==1.1.3
+ + wcwidth==0.8.1
+ + weasel==1.0.0
+ + wrapt==2.2.2
+[smoke] gpu visible:
+Downloading ruff (10.9MiB)
+ Downloaded ruff
+Installed 4 packages in 43ms
+Bytecode compiled 11354 files in 729ms
+True 1
+[smoke] spacy:
+Bytecode compiled 11354 files in 761ms
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "/opt/venv/lib/python3.11/site-packages/spacy/__init__.py", line 18, in <module>
+    from .cli.info import info  # noqa: F401
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.11/site-packages/spacy/cli/__init__.py", line 4, in <module>
+    from . import download as download_module  # noqa: F401
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.11/site-packages/spacy/cli/download.py", line 21, in <module>
+    from ._util import SDIST_SUFFIX, WHEEL_SUFFIX, Arg, Opt, app
+  File "/opt/venv/lib/python3.11/site-packages/spacy/cli/_util.py", line 18, in <module>
+    from click import NoSuchOption
+ModuleNotFoundError: No module named 'click'
+

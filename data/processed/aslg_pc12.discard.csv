@@ -1,0 +1,53 @@
+id,text,gloss,pred_lang,pred_prob
+560,posiedzenie zostało otwarte o godz .,POSIEDZENIE ZOSTAŠ O OTWARTE O GODZ .,pol_Latn,1.0000
+568,entschließung,ENTSCHLIEßUNG,deu_Latn,1.0000
+827,4 .,4 .,bod_Tibt,0.6001
+828,5 .,5 .,bod_Tibt,0.4957
+829,6 .,6 .,bod_Tibt,0.4436
+830,7 .,7 .,bod_Tibt,0.5105
+842,2 .,2 .,bod_Tibt,0.5323
+843,3 .,3 .,bod_Tibt,0.4812
+851,8 .,8 .,bod_Tibt,0.5949
+852,9 .,9 .,bod_Tibt,0.4642
+853,10 .,10 .,bod_Tibt,0.4214
+854,12 .,12 .,deu_Latn,0.6694
+856,14 .,14 .,vie_Latn,0.3696
+857,15 .,15 .,deu_Latn,0.3126
+859,17 .,17 .,bod_Tibt,0.5261
+860,18 .,18 .,bod_Tibt,0.7844
+2439,pactio olisipiensis censenda est !,PACTIO OLISIPIENSIS CENSENDA EST !,fra_Latn,0.6797
+8326,eskerrik asko jaun andreok zuen laguntzagatik europako hizkuntza guztien alde .,ESKERRIK ASKO JAUN ANDREOK ZUEN LAGUNTZAGATIK EUROPAKO HIZKUNTZA GUZTIEN ALDE .,eus_Latn,1.0000
+8992,pactio olisipiensis censenda est .,PACTIO OLISIPIENSIS CENSENDA EST .,fra_Latn,0.6812
+22082,fr,FR,pol_Latn,0.9330
+22260,.,.,bod_Tibt,0.5948
+35148,12475 / 2004 11803 / 2004 c6 0118 / 2005 .,12475 2004 11803 2004 C6 0118 2005 .,kor_Hang,0.3494
+35732,es ¡ bon dia !,BON DIUM !,oci_Latn,0.5402
+36504,míle buíochas do mhuintir na héireann .,OCHA DO MHUINTIR NA H?IREANN .,gle_Latn,0.9996
+38928,c7 0128 / 2009 .,C7 0128 2009 .,vie_Latn,0.4248
+44777,hu békesség istentől !,L ! ISTENT ?,hun_Latn,1.0000
+44778,pace vouǎ !,! VOU ?,ces_Latn,0.9953
+44779,boží pokoj s vami !,POKOJ X-S VAMUS !,slk_Latn,0.7368
+53460,"so , ¡ viva españa !",! ?,ast_Latn,0.9998
+56302,c7 0095 / 2009,C7 0095 2009,vie_Latn,0.5556
+62400,b7 0013 / 2010 b7 0014 / 2010 b7 0202 / 2010 b7 0203 / 2010 .,B7 0013 2010 B7 0014 2010 B7 0202 2010 B7 0203 2010 .,lmo_Latn,0.1349
+63243,"ich habe auch zwei jahre in der schule deutsch gelernt , aber ich habe es jetzt vergessen .","ICH HABE AUCH ZWEUS JAHRE IN DER SCHULE DEUTSCH GELERNT , ABER ICH HABE E JETZT VERGESSEN .",deu_Latn,1.0000
+71092,der sommer war sehr groß ..,. SOMMER WAR SEHR GRO ?,deu_Latn,1.0000
+74163,c6 0480 / 2008,C6 0480 2008,vie_Latn,0.3897
+80919,ogłaszam wznowienie sesji parlamentu europejskiego przerwanej w czwartek 8 lipca 2010 r .,ASZAM WZNOWIENIE SESJ X-I PARLAMENTU EUROPEJSKIEGO PRZERWANEJ W CZWARTEK 8 LIPCA 2010 R .,pol_Latn,1.0000
+80929,si conclude così il turno di votazioni .,IL TURNO D X-I VOTAZION X-I .,ita_Latn,1.0000
+80931,la seduta è tolta alle 00.25,LA SEDUTA ? TOLTA ALLE 00.25,ita_Latn,1.0000
+80932,se abre la sesión a las 10.00 horas,N LAS 10.00 HORA,spa_Latn,0.9998
+80997,ogłaszam wznowienie sesji parlamentu europejskiego przerwanej w czwartek 21 października 2010 r .,DZIERNIKA 2010 R . PARLAMENTU EUROPEJSKIEGO PRZERWANEJ W CZWARTEK 21 PA ?,pol_Latn,1.0000
+81006,"ogłaszam wznowienie sesji parlament europejskiego przerwanej w czwartek , 11. listopada 2010 r .","LISTOPADA 2010 R . PARLAMENT EUROPEJSKIEGO PRZERWANEJ W CZWARTEK , 11 .",pol_Latn,1.0000
+81007,la seduta è tolta alle 23.45,LA SEDUTA ? TOLTA ALLE 23.45,ita_Latn,1.0000
+81025,το επόμενο σημείο είναι οι ψηφοφορίες .,.,ell_Grek,1.0000
+81027,posiedzenie zostało otwarte o godz .,O OTWARTE O GODZ .,pol_Latn,1.0000
+81028,09.05,09.05,bod_Tibt,0.3126
+81034,die sitzung wird um 23.55 uhr geschlossen .,DIE SITZUNG WIRD UM 23.55 UHR GESCHLOSSEN .,deu_Latn,0.9999
+81035,se abre la sesión a las 9.00 horas,N LAS 9.00 HORA,spa_Latn,0.9998
+81046,con ciò si conclude il turno di votazioni .,X-S X-I CONCLUDE IL TURNO D X-I VOTAZION X-I .,ita_Latn,1.0000
+81050,"ogłaszam wznowienie sesji parlamentu europejskiego przerwanej w czwartek , 25. listopada 2010 r .","LISTOPADA 2010 R . PARLAMENTU EUROPEJSKIEGO PRZERWANEJ W CZWARTEK , 25 .",pol_Latn,1.0000
+81051,se levanta la sesión a las 23.15 horas,N LAS 23.15 HORA,spa_Latn,0.9983
+81052,la seduta è aperta alle 9.00,LA SEDUTA ? APERTA ALLE 9.00,ita_Latn,1.0000
+81071,con esto concluimos el turno de votaciones .,DESC-CON ESTO CONCLUIMO EL TURNO DE VOTACIONE .,spa_Latn,0.9953
+81084,als nächster punkt folgt die abstimmung .,CHSTER PUNKT FOLGT DIE ABSTIMMUNG .,deu_Latn,0.9998

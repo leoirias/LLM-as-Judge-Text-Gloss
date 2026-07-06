@@ -1,0 +1,342 @@
+id,text,gloss,pred_lang,pred_prob
+77,drift nets vote,DRIFT NET VOTE,nob_Latn,0.5893
+91,ec russia readmission agreement vote,EC RUSSIUM READMISSION AGREEMENT VOTE,fra_Latn,0.5278
+128,bosnia herzegovina vote,BOSNIUM HERZEGOVINA VOTE,spa_Latn,0.2495
+134,cambodia vote,CAMBODIUM VOTE,vie_Latn,0.5654
+135,nigeria vote,NIGERIUM VOTE,vie_Latn,0.8652
+153,report graefe zu baringdorf,REPORT GRAEFE ZU BARINGDORF,cat_Latn,0.3899
+160,"discharge 2005 section viiia , european ombudsman vote","DISCHARGE 2005 SECTION VIIUM , EUROPEAN OMBUDSMAN VOTE",fra_Latn,0.4265
+161,"discharge 2005 section viii b , european data protection supervisor vote","DISCHARGE 2005 SECTION VIIUS B , EUROPEAN DATUM PROTECTION SUPERVISOR VOTE",fra_Latn,0.4311
+173,discharge 2005 eurojust vote,DISCHARGE 2005 EUROJUST VOTE,fra_Latn,0.4142
+183,report andrejevs,REPORT ANDREJEV,swe_Latn,0.4153
+189,garcía margallo y marfil report,GARCa MARGALLO Y MARFIL REPORT,spa_Latn,0.8528
+199,vlasto report,VLASTO REPORT,hrv_Latn,0.6488
+201,de grandes pascual report,DE GRANDE PASCUAL REPORT,spa_Latn,0.6238
+205,sánchez presedo report,Sà`NCHEZ PRESEDO REPORT,spa_Latn,0.4270
+219,herranz garcía report,HERRANZ GARCa REPORT,deu_Latn,0.5397
+223,deprez report,DEPREZ REPORT,ron_Latn,0.9100
+226,galileo vote,GALILEO VOTE,swh_Latn,0.2867
+238,zimbabwe vote,ZIMBABWE VOTE,deu_Latn,0.5314
+249,recommendation toubon,RECOMMENDATION TOUBON,fra_Latn,0.8029
+256,report kaczmarek,REPORT KACZMAREK,pol_Latn,0.9896
+257,assessing euratom vote,ASSESS EURATOM VOTE,slk_Latn,0.3069
+258,report maldeikis,REPORT MALDEIKUS,lit_Latn,0.5130
+272,combating violence daphne iii programme vote,COMBATE VIOLENCE DAPHNE IIUS PROGRAM VOTE,fra_Latn,0.6036
+296,report panayotopoulos cassiotou,REPORT PANAYOTOPOULO CASSIOTOU,kor_Hang,0.2566
+304,gierek report,GIEREK REPORT,deu_Latn,0.6275
+306,newton dunn report,NEWTON DUNN REPORT,yue_Hant,0.4078
+307,estonia vote,ESTONIUM VOTE,spa_Latn,0.4346
+311,report saryusz wolski,REPORT SARYUSZ WOLSKUS,pol_Latn,0.9817
+317,report elles,REPORT ELLE,fra_Latn,0.6223
+320,report scheele,REPORT SCHEELE,ron_Latn,0.8548
+330,report chmielewski,REPORT CHMIELEWSKUS,pol_Latn,0.5273
+334,report itälä,REPORT ITÍ,deu_Latn,0.7342
+363,schnellhardt report,SCHNELLHARDT REPORT,deu_Latn,0.5579
+365,svensson report,SVENSSON REPORT,swe_Latn,0.5641
+367,hökmark report,Hà?KMARK REPORT,swe_Latn,0.8231
+372,oomen ruijten report,OOMAN RUIJTEN REPORT,nld_Latn,0.9976
+383,report díaz de mera garcía consuegra,REPORT DaZ DE MERA GARCa CONSUEGRA,spa_Latn,0.5856
+391,burma vote,BURMA VOTE,vie_Latn,0.4126
+397,recommendation jacek saryusz wolski,RECOMMENDATION JACEK SARYUSZ WOLSKUS,pol_Latn,0.9675
+399,report jacek saryusz wolski,REPORT JACEK SARYUSZ WOLSKUS,pol_Latn,0.9932
+405,report jean marie cavada,REPORT JEAN MARIE CAVADA,ron_Latn,0.2526
+407,report pervenche berès,REPORT PERVENCHE BERà?X-S,cat_Latn,0.4110
+412,report rosa miguélez ramos,REPORT ROSA MIGUà?LEZ RAMO,spa_Latn,0.3445
+414,report genowefa grabowska,REPORT GENOWEFA GRABOWSKA,pol_Latn,0.5910
+417,report jörg leichtfried,REPORT Jà?RG LEICHTFRY,deu_Latn,0.8356
+422,report klaus heiner lehne,REPORT KLAUS HEINER LEHNE,deu_Latn,0.7611
+424,report francesco enrico speroni,REPORT FRANCESCO ENRICO SPERONUS,cat_Latn,0.3884
+426,report james elles,REPORT JAME ELLE,fra_Latn,0.5488
+438,food enzymes vote,FOOD ENZYME VOTE,fra_Latn,0.5433
+439,report avril doyle,REPORT AVRIL DOYLE,fra_Latn,0.5714
+441,report mojca drčar murko,REPORT MOJCA DRcAR MURKO,hrv_Latn,0.7804
+449,report kauppi,REPORT KAUPPUS,fin_Latn,0.9941
+467,eurozone 2007 vote,EUROZONE 2007 VOTE,ron_Latn,0.5581
+471,palestine vote,PALESTINE VOTE,fra_Latn,0.8119
+481,report gerardo galeote,REPORT GERARDO GALEOTE,cat_Latn,0.3692
+482,europol analysis files vote,EUROPOL ANALYSIS FILE VOTE,kor_Hang,0.5185
+483,report agustín díaz de mera garcía consuegra,REPORT AGUSTD DaZ DE MERA GARCa CONSUEGRA,spa_Latn,0.4773
+485,report katalin lévai,REPORT KATALIN Là?VAI,hun_Latn,0.8938
+487,report bert doorn,REPORT BERT DOORN,nld_Latn,0.6158
+489,report giuseppe gargani,REPORT GIUSEPPE GARGANUS,ron_Latn,0.3381
+498,report liberadzki,REPORT LIBERADZKUS,pol_Latn,0.7277
+508,report foglietta,REPORT FOGLIETTA,ita_Latn,0.9214
+511,ouzký report,OUZKà12 REPORT,ces_Latn,0.9996
+514,martínez orozco report,MARTDEZ OROZCO REPORT,spa_Latn,0.4325
+516,fraga estévez report,FRAGA ESTà?VEZ REPORT,spa_Latn,0.9491
+545,report jarzembowski,REPORT JARZEMBOWSKUS,pol_Latn,0.8444
+551,report paasilinna,REPORT PAASILINNA,ilo_Latn,0.8673
+557,report moreno sánchez,REPORT MORENO Sà`NCHEZ,fra_Latn,0.4852
+560,posiedzenie zostało otwarte o godz .,POSIEDZENIE ZOSTAŠ O OTWARTE O GODZ .,pol_Latn,1.0000
+564,bericht descamps,BERICHT DESCAMP,oci_Latn,0.6967
+566,bericht zatloukal,BERICHT ZATLOUKAL,ces_Latn,0.7867
+568,entschließung,ENTSCHLIEßUNG,deu_Latn,1.0000
+570,bericht lethinen,BERICHT LETHINEN,deu_Latn,0.3694
+572,bericht buitenweg,BERICHT BUITENWEG,nld_Latn,0.9996
+577,report cristian dumitrescu,REPORT CRISTIAN DUMITRESCU,ron_Latn,0.9484
+581,report saïd el khadraoui,REPORT SAà?D EL KHADRAOUUS,cat_Latn,0.9638
+590,report angelika niebler,REPORT ANGELIKA NIEBLER,pol_Latn,0.5580
+594,recommendation giuseppe gargani a6 0369 2007,RECOMMENDATION GIUSEPPE GARGANUS A6 0369 2007,fra_Latn,0.2249
+595,un / ece espoo convention vote,UN ECE ESPOO CONVENTION VOTE,fra_Latn,0.7430
+596,report miroslav ouzký a6 0395 2007,REPORT MIROSLAV OUZKà12 A6 0395 2007,ces_Latn,0.9332
+598,report jean marie cavada a6 0360 2007,REPORT JEAN MARIE CAVADA A6 0360 2007,ron_Latn,0.2534
+600,report reimer böge,REPORT REIMER Bà?GE,deu_Latn,0.4506
+619,report van den burg,REPORT VAN DEN BURG,nld_Latn,0.8612
+621,report blokland,REPORT BLOKLAND,nno_Latn,0.4231
+627,report belohorská,REPORT BELOHORSKàM,slk_Latn,0.9479
+629,report reul,REPORT REUL,ron_Latn,0.9552
+635,itälä report,ITÍ,deu_Latn,0.7342
+637,varvitsiotis report,VARVITSIOTUS REPORT,est_Latn,0.5897
+639,sudre report,SUDRE REPORT,ron_Latn,0.4958
+641,fernandes report,FERNANDE REPORT,cat_Latn,0.3903
+644,cluster bombs vote,CLUSTER BOMB VOTE,fra_Latn,0.7414
+649,pakistan vote,PAKISTAN VOTE,fra_Latn,0.3094
+662,report kudrycka,REPORT KUDRYCKA,pol_Latn,0.3827
+663,ec / ukraine agreement readmission vote,EC UKRAINE AGREEMENT READMISSION VOTE,fra_Latn,0.6463
+665,report marinescu,REPORT MARINESCU,ron_Latn,0.7142
+679,report nikolaos vakalis,REPORT NIKOLAO VAKALI,ast_Latn,0.2955
+683,report cristina gutiérrez cortines,REPORT CRISTINA GUTIà?RREZ DESC-CORTINE,ast_Latn,0.3262
+694,1 benzylpiperazine bzp vote,1 BENZYLPIPERAZINE BZP VOTE,deu_Latn,0.6478
+698,report carlos josé iturgaiz angulo,REPORT CARLO JOSà?ITURGAIZ ANGULO,spa_Latn,0.3128
+711,uzbekistan vote,UZBEKISTAN VOTE,epo_Latn,0.5256
+716,somalia vote,SOMALIUM VOTE,vie_Latn,0.6447
+726,report jo leinen,REPORT JO LEINEN,fin_Latn,0.7259
+730,report ioannis varvitsiotis,REPORT IOANNUS VARVITSIOTUS,est_Latn,0.3541
+737,report paolo costa,REPORT PAOLO COSTA,cat_Latn,0.3989
+740,report karin scheele,REPORT KARIN SCHEELE,nld_Latn,0.4974
+752,report luisa morgantini,REPORT LUISA MORGANTINUS,fra_Latn,0.2789
+771,report gianni de michelis,REPORT GIANNUS DE MICHELUS,cat_Latn,0.3087
+774,report françoise grossetête,REPORT FRANà?OISE GROSSETêTE,fra_Latn,0.8004
+776,report lena ek,REPORT LENA EK,eus_Latn,0.2746
+782,report holger krahmer,REPORT HOLGER KRAHMER,deu_Latn,0.4840
+784,report josu ortuondo larrea,REPORT JOSU ORTUONDO LARREA,eus_Latn,0.6822
+787,report johannes blokland,REPORT JOHANNE BLOKLAND,zsm_Latn,0.4613
+792,report bogdan golik,REPORT BOGDAN GOLIK,uzn_Latn,0.3489
+795,report giuseppe castiglione,REPORT GIUSEPPE CASTIGLIONE,ita_Latn,0.5343
+797,report werner langen,REPORT WERNER LANGEN,deu_Latn,0.5475
+807,"report kyösti virrankoski , ville itälä","REPORT KYà?STUS VIRRANKOSKUS , VILLE ITÍ",fin_Latn,0.9888
+809,recommendation marcello vernola,RECOMMENDATION MARCELLO VERNOLUM,fra_Latn,0.2902
+813,report friedrich wilhelm graefe zu baringdorf,REPORT FRIEDRICH WILHELM GRAEFE ZU BARINGDORF,cat_Latn,0.4927
+818,montenegro vote,MONTENEGRO VOTE,ast_Latn,0.3758
+827,4 .,4 .,bod_Tibt,0.6001
+828,5 .,5 .,bod_Tibt,0.4957
+829,6 .,6 .,bod_Tibt,0.4436
+830,7 .,7 .,bod_Tibt,0.5105
+835,egypt vote,EGYPT VOTE,slk_Latn,0.3507
+842,2 .,2 .,bod_Tibt,0.5323
+843,3 .,3 .,bod_Tibt,0.4812
+851,8 .,8 .,bod_Tibt,0.5949
+852,9 .,9 .,bod_Tibt,0.4642
+853,10 .,10 .,bod_Tibt,0.4214
+854,12 .,12 .,deu_Latn,0.6694
+856,14 .,14 .,vie_Latn,0.3696
+857,15 .,15 .,deu_Latn,0.3126
+859,17 .,17 .,bod_Tibt,0.5261
+860,18 .,18 .,bod_Tibt,0.7844
+1013,china vote,CHINA VOTE,ast_Latn,0.3002
+1071,eu russia summit vote,EU RUSSIUM SUMMIT VOTE,fra_Latn,0.4277
+1124,culture programme 2007 2013,CULTURE PROGRAM 2007 2013,fra_Latn,0.6675
+1125,europe for citizensprogramme 2007 2013,EUROPE FOR CITIZENSPROGRAM 2007 2013,dan_Latn,0.3374
+1232,erasmus mundus programme 2009 2013,ERASMUS MUNDUS PROGRAM 2009 2013,bos_Latn,0.2939
+1256,venezuela vote,VENEZUELUM VOTE,vie_Latn,0.1906
+1277,european statistics,EUROPEAN STATISTICS,ita_Latn,0.3033
+1291,cluster munitions vote,CLUSTER MUNITIONS VOTE,kor_Hang,0.4482
+1397,russia !,RUSSIUM !,ita_Latn,0.8885
+1402,quiet .,DESC-QUIET .,spa_Latn,0.6230
+2378,"goodbye koruna , welcome euro .","GOODBYE KORUNA , DESC-WELCOME EURO .",pol_Latn,0.3732
+2439,pactio olisipiensis censenda est !,PACTIO OLISIPIENSIS CENSENDA EST !,fra_Latn,0.6797
+2485,no !,NO !,por_Latn,0.9330
+2979,i applaud mr cappato's initiative .,X-I APPLAUD MR CAPPATO X-POSS INITIATIVE .,ita_Latn,0.3260
+4213,i apologise .,X-I APOLOGISE .,dan_Latn,0.4514
+4757,no .,NO .,por_Latn,0.9555
+5180,russia ?,RUSSIUM ?,ita_Latn,0.9066
+5181,ukraine ?,UKRAINE ?,deu_Latn,0.6577
+5786,mediterranean diet debate,MEDITERRANEAN DIET DEBATE,eus_Latn,0.7062
+6172,i am concerned .,X-I BE CONCERN .,dan_Latn,0.5158
+7333,wilderness in europe,WILDERNESS IN EUROPE,deu_Latn,0.4013
+8326,eskerrik asko jaun andreok zuen laguntzagatik europako hizkuntza guztien alde .,ESKERRIK ASKO JAUN ANDREOK ZUEN LAGUNTZAGATIK EUROPAKO HIZKUNTZA GUZTIEN ALDE .,eus_Latn,1.0000
+8992,pactio olisipiensis censenda est .,PACTIO OLISIPIENSIS CENSENDA EST .,fra_Latn,0.6812
+9164,kosovo debate,KOSOVO DEBATE,azj_Latn,0.3862
+10161,kosovo vote,KOSOVO VOTE,slk_Latn,0.3429
+11829,crop statistics,CROP STATISTICS,oci_Latn,0.6227
+12273,mr cohn bendit ?,MR COHN BENDIT ?,deu_Latn,0.6809
+13132,"so far , so good .","DESC-SO DESC-FAR , DESC-SO DESC-GOOD .",ast_Latn,0.5215
+13486,legends die hard .,LEGEND DIE DESC-HARD .,deu_Latn,0.6471
+13526,instalments .,INSTALMENT .,cat_Latn,0.9810
+14038,my apologies .,X-MY APOLOGY .,afr_Latn,0.7663
+14219,end quote .,END QUOTE .,dan_Latn,0.5329
+14748,"congratulations , mr kirilov .","CONGRATULATION , MR KIRILOV .",fra_Latn,0.3307
+14970,agenda,AGENDA,lug_Latn,0.4048
+14995,lisbon strategy vote,LISBON STRATEGY VOTE,kor_Hang,0.6125
+16442,sri lanka vote,SRUS LANKA VOTE,epo_Latn,0.8766
+16698,guinea bissau,GUINEA BISSAU,vie_Latn,0.7052
+16825,guinea bissau vote,GUINEA BISSAU VOTE,vie_Latn,0.7286
+17135,i mentioned cariforum .,X-I MENTION CARIFORUM .,dan_Latn,0.5180
+17880,i sayno way.,X-I SAYNO WAY .,war_Latn,0.6377
+18009,"thank you , mr guardans cambó .",". X-YOU , MR GUARDAN CAMB ?",cat_Latn,0.4353
+18824,proposals,PROPOSAL,cat_Latn,0.9966
+19498,"bingo , mr delors !","BINGO , MR DELOR !",slv_Latn,0.4292
+21700,i welcome janusz onyszkiewicz's report on eu russia relations .,X-I DESC-WELCOME JANUSZ ONYSZKIEWICZ X-POSS REPORT ON EU RUSSIUM RELATION .,pol_Latn,0.1799
+22082,fr,FR,pol_Latn,0.9330
+22084,angelakas report,ANGELAKA REPORT,lit_Latn,0.6301
+22260,.,.,bod_Tibt,0.5948
+22651,"thank you , mrs záborská .",". ? , MR Z ?",ces_Latn,0.8861
+23593,"frontex ,","FRONTEX ,",cat_Latn,0.7904
+23595,cepol .,CEPOL .,slk_Latn,0.4022
+24438,"thank you , mr kallas .","THANK X-YOU , MR KALLA .",swe_Latn,0.9209
+24779,subject eu alzheimer's strategy,SUBJECT EU ALZHEIMER X-POSS STRATEGY,hun_Latn,0.7891
+25147,secondmarco poloprogramme debate,SECONDMARCO POLOPROGRAM DEBATE,ita_Latn,0.3931
+25523,patient safety debate,PATIENT SAFETY DEBATE,kor_Hang,0.6079
+25553,rare diseases debate,DESC-RARE DISEASE DEBATE,kor_Hang,0.4364
+25625,2007 discharge european ombudsman,2007 DISCHARGE EUROPEAN OMBUDSMAN,fra_Latn,0.2066
+25686,secondmarco poloprogramme,SECONDMARCO POLOPROGRAM,ita_Latn,0.4449
+26937,uproar,UPROAR,ron_Latn,0.9152
+26972,nanomaterials,NANOMATERIAL,cat_Latn,0.8390
+28149,de madam president .,DE MADAM PRESIDENT .,nld_Latn,0.4290
+28963,subject korea fta,SUBJECT KOREA FTA,swe_Latn,0.6315
+29596,mr paparizov mentioned bulgaria .,MR PAPARIZOV MENTION BULGARIUM .,dan_Latn,0.2635
+29612,i am sorry .,X-I BE DESC-SORRY .,deu_Latn,0.6609
+29783,"thank you , mr mölzer .","LZER . , MR M ?",hun_Latn,0.4907
+29786,murmurs of dissent,MURMUR DISSENT,fra_Latn,0.8491
+29909,"thank you , mr wurtz .","THANK X-YOU , MR WURTZ .",deu_Latn,0.6205
+29973,european globalisation adjustment fund,EUROPEAN GLOBALISATION ADJUSTMENT FUND,fra_Latn,0.4829
+30354,beware !,BEWARE !,deu_Latn,0.8972
+30467,"congratulations , mrs pagano .","CONGRATULATION , MR PAGANO .",fra_Latn,0.5284
+30992,saturn's rings ?,SATURN X-POSS RING ?,lvs_Latn,0.4278
+31612,mr jerzy buzek,MR JERZY BUZEK,ces_Latn,0.6287
+31613,mrs eva britt svensson,MR EVA BRITT SVENSSON,swe_Latn,0.7358
+31662,mrs eva britt svensson received 89 votes .,MR EVA BRITT SVENSSON RECEIVE 89 VOTE .,lmo_Latn,0.5511
+32252,"no new gas crises , no unilateral dependence .","NO DESC-NEW GAS CRISIS , NO DESC-UNILATERAL DEPENDENCE .",glg_Latn,0.5189
+32374,iran debate,IRAN DEBATE,pag_Latn,0.6630
+32504,china debate,CHINA DEBATE,spa_Latn,0.7130
+32640,honduras debate,HONDURA DEBATE,spa_Latn,0.7688
+33509,"sv mr president , thank you mr billström .","M . PRESIDENT , THANK X-YOU MR BILLSTR ?",swe_Latn,0.4231
+33743,mr siwiec mentioned ukraine .,MR SIWIEC MENTION UKRAINE .,deu_Latn,0.3488
+33949,deregulation .,DEREGULATION .,deu_Latn,0.4727
+34038,"better legislation mieux légiférer , not moins légiférer .","DESC-BETTER LEGISLATION MIEUX L?GIF?RER , DESC-NOT MOIN L?GIF?RER .",fra_Latn,0.9084
+34048,listen !,LISTEN !,nob_Latn,0.7648
+34190,let us be frank .,LET X-WE BE DESC-FRANK .,hun_Latn,0.6015
+34667,be bold !,BE DESC-BOLD !,nso_Latn,0.6972
+34892,vote 17 september 2009,VOTE 17 SEPTEMBER 2009,slk_Latn,0.5563
+35030,fr mr president .,FR MR PRESIDENT .,oci_Latn,0.4324
+35148,12475 / 2004 11803 / 2004 c6 0118 / 2005 .,12475 2004 11803 2004 C6 0118 2005 .,kor_Hang,0.3494
+35601,"de thank you , mrs malmström .","M . X-YOU , MR MALMSTR ?",hun_Latn,0.5498
+35732,es ¡ bon dia !,BON DIUM !,oci_Latn,0.5402
+36504,míle buíochas do mhuintir na héireann .,OCHA DO MHUINTIR NA H?IREANN .,gle_Latn,0.9996
+36983,a lot .,LOT .,lit_Latn,0.9755
+38790,"mr verhofstadt , let us be clear .","MR VERHOFSTADT , LET X-WE BE DESC-CLEAR .",deu_Latn,0.4911
+38926,section viii european ombudsman,SECTION VIIUS EUROPEAN OMBUDSMAN,fra_Latn,0.3556
+38928,c7 0128 / 2009 .,C7 0128 2009 .,vie_Latn,0.4248
+40229,i digress .,X-I DIGRESS .,swe_Latn,0.6448
+40689,i do apologise .,X-I DO APOLOGISE .,nob_Latn,0.5821
+40953,ok .,OK .,pol_Latn,0.9699
+40973,"mr president , we could vote en bloc .","MR PRESIDENT , X-WE COULD VOTE EN BLOC .",nld_Latn,0.8917
+41002,"thank you , mr siekierski .","THANK X-YOU , MR SIEKIERSKUS .",pol_Latn,0.7778
+41150,iran,IRAN,pag_Latn,1.0000
+41215,sri lanka,SRUS LANKA,lit_Latn,0.5710
+41257,iran vote,IRAN VOTE,epo_Latn,0.5678
+42497,congratulations mr diamandouros .,CONGRATULATION MR DIAMANDOURO .,fra_Latn,0.4236
+42646,eu russia summit on 18 november 2009 in stockholm vote,EU RUSSIUM SUMMIT ON 18 NOVEMBER 2009 IN STOCKHOLM VOTE,lmo_Latn,0.3236
+42967,we want a strong europol .,X-WE WANT DESC-STRONG EUROPOL .,pol_Latn,0.4066
+44278,rapporteur søren bo søndergaard,NDERGAARD BO X-S ?,dan_Latn,0.6892
+44777,hu békesség istentől !,L ! ISTENT ?,hun_Latn,1.0000
+44778,pace vouǎ !,! VOU ?,ces_Latn,0.9953
+44779,boží pokoj s vami !,POKOJ X-S VAMUS !,slk_Latn,0.7368
+44803,hu francesco capotorti .,HU FRANCESCO CAPOTORTUS .,ita_Latn,0.3709
+44938,we do not want mere token gestures .,X-WE DO DESC-NOT WANT DESC-MERE DESC-TOKEN GESTURE .,nld_Latn,0.7261
+45296,perhaps mr leinen ?,DESC-PERHAPS MR LEINEN ?,fin_Latn,0.6125
+45445,ireland's per capita carbon emission is 17.5 tonnes per annum .,IRELAND X-POSS PER CAPITA CARBON EMISSION BE 17.5 TONNE PER ANNUM .,oci_Latn,0.5884
+46454,i will be blunt .,X-I WILL BE DESC-BLUNT .,swe_Latn,0.5263
+47145,nicaragua,NICARAGUA,vie_Latn,0.5978
+47180,laos and vietnam,LAO AND VIETNAM,ast_Latn,0.5802
+47185,i love vietnam .,X-I LOVE VIETNAM .,cat_Latn,0.4256
+47309,nicaragua vote,NICARAGUA VOTE,vie_Latn,0.4225
+47316,laos and vietnam vote,LAO AND VIETNAM VOTE,ast_Latn,0.6246
+49640,stop vattenfall's legal proceedings !,STOP VATTENFALL X-POSS DESC-LEGAL PROCEEDINGS !,nld_Latn,0.2700
+50034,come on !,COME ON !,ita_Latn,0.5329
+50155,belarus debate,BELARUS DEBATE,eus_Latn,0.9764
+50996,belarus vote,BELARUS VOTE,nld_Latn,0.5716
+52446,fine !,FINE !,ita_Latn,0.9993
+52463,"welcome , mr rodríguez zapatero .",GUEZ ZAPATERO . RODR ?,pol_Latn,0.2005
+52610,"es hello , mr rodríguez zapatero .",GUEZ ZAPATERO . MR RODR ?,spa_Latn,0.8145
+52680,"i am sorry , prime minister .","X-I BE DESC-SORRY , DESC-PRIME MINISTER .",cat_Latn,0.5506
+52780,regarding latin america .,REGARD LATIN AMERICA .,oci_Latn,0.5954
+53127,"scam , scam , scam !","SCAM , SCAM , SCAM !",ita_Latn,0.5360
+53460,"so , ¡ viva españa !",! ?,ast_Latn,0.9998
+53791,i am dutch .,X-I BE DUTCH .,cat_Latn,0.7866
+53892,eu tunisia relations debate,EU TUNISIUM RELATION DEBATE,oci_Latn,0.7464
+55641,no true european .,NO DESC-TRUE EUROPEAN .,ron_Latn,0.3481
+56155,japan is stockpiling en masse .,JAPAN BE STOCKPILING EN MASSE .,nld_Latn,0.9232
+56302,c7 0095 / 2009,C7 0095 2009,vie_Latn,0.5556
+57883,mr zasada,MR ZASADA,pol_Latn,0.9804
+57884,mr iacolino,MR IACOLINO,ita_Latn,0.2570
+57885,mr matula,MR MATULUM,tgl_Latn,0.5064
+57886,mr leichtfried,MR LEICHTFRY,deu_Latn,0.9926
+57887,mr enciu,MR ENCIU,ast_Latn,0.7125
+57888,ms flašíková beňová,OV ? ??,slk_Latn,0.8207
+57889,mr tannock,MR TANNOCK,deu_Latn,0.5444
+57890,ms ernst,M ERNST,deu_Latn,0.5871
+57891,ms rivasi,M RIVASUS,lvs_Latn,0.2558
+58795,venezuela,VENEZUELUM,eus_Latn,0.5596
+58904,burma,BURMA,vie_Latn,0.8322
+60509,report adina ioana vălean,DESC-LEAN ADINA IOANA V ?,ron_Latn,0.8435
+60520,report vladimír maňka,KA MA ?,ces_Latn,0.7571
+60527,report maria do céu patrão neves,O NEVE DO C?U PATR ?,por_Latn,0.9935
+60793,"welcome , mr dalli .","DESC-WELCOME , MR DALLUS .",ita_Latn,0.9943
+61729,galvus 50 mg diabetic pills,GALVUS 50 MG DIABETIC PILL,lvs_Latn,0.6712
+61733,tegretol 200 mg,TEGRETOL 200 MG,tgl_Latn,0.3909
+61736,zocor 20 mg,ZOCOR 20 MG,nld_Latn,0.5067
+61847,solvit,SOLVIT,ron_Latn,0.3931
+62066,i understand .,X-I UNDERSTAND .,dan_Latn,0.7493
+62333,"da madam president , welcome , mrs hedegaard .","DA MADAM PRESIDENT , DESC-WELCOME , MR HEDEGAARD .",nld_Latn,0.5405
+62400,b7 0013 / 2010 b7 0014 / 2010 b7 0202 / 2010 b7 0203 / 2010 .,B7 0013 2010 B7 0014 2010 B7 0202 2010 B7 0203 2010 .,lmo_Latn,0.1349
+63243,"ich habe auch zwei jahre in der schule deutsch gelernt , aber ich habe es jetzt vergessen .","ICH HABE AUCH ZWEUS JAHRE IN DER SCHULE DEUTSCH GELERNT , ABER ICH HABE E JETZT VERGESSEN .",deu_Latn,1.0000
+64024,cuba debate,CUBA DEBATE,spa_Latn,0.7143
+64207,subject danube strategy,SUBJECT DANUBE STRATEGY,vie_Latn,0.4089
+64241,subject eu russia visa regime,SUBJECT EU RUSSIUM VISA REGIME,por_Latn,0.7974
+64598,cuba,CUBA,zsm_Latn,0.9999
+65577,theno tavcampaign's motto issarà dura.,NO TAVCAMPAIGN X-POSS MOTTO ISSAR? DURA .,ita_Latn,0.7517
+66227,adon abbondio europeis of no use to us .,ADON ABBONDIO EUROPEUS NO USE TO X-WE .,por_Latn,0.4417
+66658,mr constâncio has an impressive cv .,MR CONST?NCIO HAVE DESC-IMPRESSIVE CV .,por_Latn,0.6491
+67136,"thank you , mr van rompuy .","THANK X-YOU , MR VAN ROMPUY .",nld_Latn,0.7119
+67484,"thank you , mr szájer .","JER . , MR SZ ?",hun_Latn,1.0000
+69060,kyrgyzstan debate,KYRGYZSTAN DEBATE,hun_Latn,0.2892
+69164,eu canada summit debate,EU CANADA SUMMIT DEBATE,cat_Latn,0.2740
+70599,"2008 discharge eu general budget , european ombudsman","2008 DISCHARGE EU DESC-GENERAL BUDGET , EUROPEAN OMBUDSMAN",cat_Latn,0.1959
+70643,"2008 discharge eu general budget , european parliament","2008 DISCHARGE EU DESC-GENERAL BUDGET , EUROPEAN PARLIAMENT",cat_Latn,0.3221
+70650,eu canada summit,EU CANADA SUMMIT,cat_Latn,0.7193
+70651,swift,SWIFT,tso_Latn,0.7337
+71092,der sommer war sehr groß ..,. SOMMER WAR SEHR GRO ?,deu_Latn,1.0000
+72420,kyrgyzstan,KYRGYZSTAN,hun_Latn,0.3066
+74163,c6 0480 / 2008,C6 0480 2008,vie_Latn,0.3897
+74164,rapporteur mr miroslav mikolášik ppe,IK PPE MIROSLAV MIKOL ??,ces_Latn,0.3197
+75268,noli me tangere touch me not !,NOL X-I X-I TANGERE TOUCH X-I DESC-NOT !,lim_Latn,0.6774
+75405,on amendment 4,ON AMENDMENT 4,est_Latn,0.9174
+75820,"no , sir .","NO , SIR .",nno_Latn,0.4877
+76415,"no , I am sorry , mrs parvanova .","NO , X-I BE DESC-SORRY , MR PARVANOVA .",cat_Latn,0.4938
+76720,staggering !,STAGGER !,swe_Latn,0.6252
+77795,mobilisation of european globalisation adjustment fund es / castilla la mancha,MOBILISATION EUROPEAN GLOBALISATION ADJUSTMENT FUND E CASTILLUM LA MANCHA,fra_Latn,0.6912
+77806,european earth observation programme gmes 2011 2013,EUROPEAN EARTH OBSERVATION PROGRAM GME 2011 2013,fra_Latn,0.6028
+80314,kosovo,KOSOVO,azj_Latn,0.7599
+80325,albania,ALBANIA,vie_Latn,0.8528
+80841,north korea,DESC-NORTH KOREA,swe_Latn,0.4888
+80919,ogłaszam wznowienie sesji parlamentu europejskiego przerwanej w czwartek 8 lipca 2010 r .,ASZAM WZNOWIENIE SESJ X-I PARLAMENTU EUROPEJSKIEGO PRZERWANEJ W CZWARTEK 8 LIPCA 2010 R .,pol_Latn,1.0000
+80929,si conclude così il turno di votazioni .,IL TURNO D X-I VOTAZION X-I .,ita_Latn,1.0000
+80931,la seduta è tolta alle 00.25,LA SEDUTA ? TOLTA ALLE 00.25,ita_Latn,1.0000
+80932,se abre la sesión a las 10.00 horas,N LAS 10.00 HORA,spa_Latn,0.9998
+80997,ogłaszam wznowienie sesji parlamentu europejskiego przerwanej w czwartek 21 października 2010 r .,DZIERNIKA 2010 R . PARLAMENTU EUROPEJSKIEGO PRZERWANEJ W CZWARTEK 21 PA ?,pol_Latn,1.0000
+81006,"ogłaszam wznowienie sesji parlament europejskiego przerwanej w czwartek , 11. listopada 2010 r .","LISTOPADA 2010 R . PARLAMENT EUROPEJSKIEGO PRZERWANEJ W CZWARTEK , 11 .",pol_Latn,1.0000
+81007,la seduta è tolta alle 23.45,LA SEDUTA ? TOLTA ALLE 23.45,ita_Latn,1.0000
+81025,το επόμενο σημείο είναι οι ψηφοφορίες .,.,ell_Grek,1.0000
+81027,posiedzenie zostało otwarte o godz .,O OTWARTE O GODZ .,pol_Latn,1.0000
+81028,09.05,09.05,bod_Tibt,0.3126
+81034,die sitzung wird um 23.55 uhr geschlossen .,DIE SITZUNG WIRD UM 23.55 UHR GESCHLOSSEN .,deu_Latn,0.9999
+81035,se abre la sesión a las 9.00 horas,N LAS 9.00 HORA,spa_Latn,0.9998
+81037,1. budget,BUDGET .,dan_Latn,0.6852
+81046,con ciò si conclude il turno di votazioni .,X-S X-I CONCLUDE IL TURNO D X-I VOTAZION X-I .,ita_Latn,1.0000
+81050,"ogłaszam wznowienie sesji parlamentu europejskiego przerwanej w czwartek , 25. listopada 2010 r .","LISTOPADA 2010 R . PARLAMENTU EUROPEJSKIEGO PRZERWANEJ W CZWARTEK , 25 .",pol_Latn,1.0000
+81051,se levanta la sesión a las 23.15 horas,N LAS 23.15 HORA,spa_Latn,0.9983
+81052,la seduta è aperta alle 9.00,LA SEDUTA ? APERTA ALLE 9.00,ita_Latn,1.0000
+81054,"mobilisation of the european globalisation adjustment fund si / mura , slovenia","MOBILISATION EUROPEAN GLOBALISATION ADJUSTMENT FUND X-S X-I MURA , SLOVENIA",fra_Latn,0.3187
+81071,con esto concluimos el turno de votaciones .,DESC-CON ESTO CONCLUIMO EL TURNO DE VOTACIONE .,spa_Latn,0.9953
+81084,als nächster punkt folgt die abstimmung .,CHSTER PUNKT FOLGT DIE ABSTIMMUNG .,deu_Latn,0.9998

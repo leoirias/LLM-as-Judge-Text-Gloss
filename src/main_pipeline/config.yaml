@@ -1,0 +1,28 @@
+# Main pipeline (LLM-only) configuration. Self-contained.
+
+model:
+  name: qwen3-32b
+  model_id: Qwen/Qwen3-32B
+  dtype: bfloat16
+  device_map: cuda                 # single A100 #2 -> cuda:0 inside the container
+
+# Deterministic on purpose: iterative refinement converges to a fixed point and
+# early-stop (round == previous round) only fires reliably when sampling is off.
+generation:
+  max_new_tokens: 128
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0
+
+stages: [errors, clean, reorder]   # P1, P2, P3 (one prompt each)
+
+# Iterative refinement: round r feeds the gloss of round r-1 back in
+# (text + gloss_{r-1} -> gloss_r). Stop when stable or at max_rounds.
+max_rounds: 5
+early_stop: true                   # stop a row as soon as gloss_r == gloss_{r-1}
+
+batch_size: 8
+
+io:
+  input: data/app_consultoria/input.csv
+  output: data/app_consultoria/output.csv

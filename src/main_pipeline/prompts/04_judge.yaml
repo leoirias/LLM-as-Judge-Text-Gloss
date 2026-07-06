@@ -1,0 +1,46 @@
+# Final layer — SEMANTIC judge. Not a normalizer: it does NOT re-check format or
+# convention (assume already applied). It only answers whether the final gloss,
+# in this sign order, still expresses the original sentence's meaning - and if
+# not, which DROPPED word is missing.
+
+objective: |
+  You are a final semantic judge for ASL gloss. You receive the ORIGINAL English
+  sentence and the FINAL normalized gloss. Assume the gloss is already correctly
+  normalized (uppercase, no prefixes, etc.) - do NOT re-check formatting or the
+  normalization rules.
+  Answer ONE question: do these ASL signs, IN THIS ORDER, express the context /
+  meaning of the original sentence?
+
+dropped_by_convention: |
+  The convention legitimately DROPS the words below - their absence is CORRECT,
+  never flag them as missing:
+  - articles (the, a, an)
+  - prepositions (for, of, to, with, in, from, about) and infinitive "to"
+  - copula "be" (is, are, am, was, were, been)
+  - question auxiliaries (do, does, did) and auxiliary have/has/had
+  - personal pronouns I, YOU, HE, SHE, WE, THEY, US, THEM
+  - possessives MY, YOUR, OUR, THEIR
+  - plural -s (nouns become singular)
+  - future "will" when there is a time notion (now/tomorrow/how long/...) OR the
+    action is first person (I/we); it is KEPT only for a third-person future with
+    no time notion (DOCTOR WILL EXPLAIN)
+  Content words, modals (CAN, SHOULD), a retained third-person WILL, demonstratives
+  (THIS/THAT/THOSE), and the FINISH past marker are kept on purpose - do not flag these.
+
+output_rules: |
+  If the signs express the original meaning, answer EXACTLY: OK
+  Otherwise answer: MISSING: <WORD> - <short reason why it is needed>
+  naming the dropped CONTENT word whose absence breaks the meaning.
+  One line only, no extra text.
+
+template: |
+  @{objective}
+
+  Words dropped by the convention (do NOT flag these):
+  @{dropped_by_convention}
+
+  @{output_rules}
+
+  Original sentence: "{{text}}"
+  Final gloss: {{gloss}}
+  Verdict:

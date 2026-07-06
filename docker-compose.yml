@@ -42,7 +42,7 @@ services:
             # Single GPU by cluster policy: only A100 #2. Inside the container
             # it appears as cuda:0.
             - driver: nvidia
-              device_ids: ['6']
+              device_ids: ['2']
               capabilities: [gpu]
     tty: true
     stdin_open: true
