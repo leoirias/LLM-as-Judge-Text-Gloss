@@ -6,7 +6,7 @@ from __future__ import annotations
 
 # real compounds (underscore). A compositional sequence stays as separate signs.
 COMPOUNDS: list[str] = [
-    "HOW_MUCH", "NO_PROBLEM", "NOT_UNDERSTAND", "PASS_OUT",
+    "HOW_MUCH", "NO_PROBLEM", "NOT_UNDERSTAND", "PANIC_ATTACK", "PASS_OUT",
     "THANK_YOU", "THIS_MORNING", "WRITE_DOWN",
 ]
 

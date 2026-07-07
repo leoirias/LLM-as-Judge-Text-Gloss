@@ -114,7 +114,7 @@ I need a diagnosis.,DIAGNOSIS NEED,DIAGNOSIS NEED,phrase
 Can you explain my condition?,CONDITION EXPLAIN?,CONDITION EXPLAIN?,phrase
 I need help quickly.,HELP FAST NEED,HELP FAST NEED,phrase
 I feel mentally confused.,FEEL CONFUSED,FEEL MENTAL CONFUSED,phrase
-I had a panic attack.,PANIC-ATTACK,HAVE FINISH PANIC-ATTACK PAST,phrase
+I had a panic attack.,PANIC-ATTACK,HAVE FINISH PANIC_ATTACK PAST,phrase
 I feel deeply sad.,FEEL VERY SAD,FEEL VERY SAD,phrase
 I have depression and anxiety.,DEPRESSION ANXIETY,DEPRESSION ANXIETY,phrase
 I feel unwell.,FEEL SICK,FEEL SICK,phrase
