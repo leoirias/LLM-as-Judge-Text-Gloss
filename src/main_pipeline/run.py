@@ -35,17 +35,23 @@ CONFIG = Path(__file__).parent / "config.yaml"
 
 
 def read_input(path: Path) -> list[dict]:
+    """Read by column NAME (tolerates an id column / any column order).
+    Needs a `text` column and a `gloss` column; `gloss_review` is optional."""
     rows: list[dict] = []
     with path.open(newline="", encoding="utf-8") as fh:
-        reader = csv.reader(fh)
-        next(reader, None)  # header
-        for row in reader:
-            if not row or not any(c.strip() for c in row):
+        reader = csv.DictReader(fh)
+        cols = reader.fieldnames or []
+        for req in ("text", "gloss"):
+            if req not in cols:
+                raise SystemExit(f"{path.name}: missing column {req!r} (has {cols})")
+        for r in reader:
+            text = (r.get("text") or "").strip()
+            if not text:
                 continue
             rows.append({
-                "text": row[0].strip(),
-                "gloss": row[1].strip() if len(row) > 1 else "",
-                "review": row[2].strip() if len(row) > 2 else "",
+                "text": text,
+                "gloss": (r.get("gloss") or "").strip(),
+                "review": (r.get("gloss_review") or r.get("review") or "").strip(),
             })
     return rows
 
