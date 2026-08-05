@@ -1,0 +1,52 @@
+# Extração de regras de livros -> CSV normalizado + comparação com a base.
+# Autocontido. Modelo qwen3-32B com thinking ligado (extração e comparação são
+# raciocínio-pesado). DETERMINÍSTICO (do_sample off) de propósito: queremos que
+# re-rodar o mesmo capítulo produza a mesma lista de regras (reprodutibilidade),
+# diferente do juiz da tarefa 1 (que usa temperatura 0.5).
+
+model:
+  name: qwen3-32b
+  model_id: Qwen/Qwen3-32B
+  dtype: bfloat16
+  device_map: cuda            # GPU única do container (docker-compose) -> cuda:0
+
+generation:
+  enable_thinking: true       # extração/comparação se beneficiam de raciocínio
+  max_new_tokens: 6000        # um capítulo rende muitas regras em JSON (+ thinking)
+  do_sample: false            # determinístico p/ reprodutibilidade
+  temperature: 0.0
+  top_p: 1.0
+
+book:
+  path: ASL_for_dummies.pdf
+  chapter_label: "Chapter 2: Signing Grammar Basics"
+  # faixa de páginas 0-indexada do pypdf (mesma do extract_rules piloto)
+  start_page: 29
+  end_page: 53
+  # livro completo (--full): fatiado em janelas de `window_pages` páginas.
+  # 14 = início do conteúdo; 340 = antes do material final (autores/EULA).
+  content_start_page: 14
+  content_end_page: 340
+  window_pages: 15
+
+# pares-ouro (Text, Gloss) para induzir as regras que a convenção segue na prática
+gold_pairs: data/pares_ouro.csv
+
+# base de regras da consultoria com que as regras extraídas serão comparadas
+base_rules: framework_rules/rules/asl_rules.yaml
+
+io:
+  rules_out:   framework_rules/extraction/output/asl_for_dummies_cap02_regras.csv
+  compare_out: framework_rules/extraction/output/asl_for_dummies_cap02_comparacao.csv
+  # livro completo
+  full_rules_out:   framework_rules/extraction/output/asl_for_dummies_full_regras.csv
+  full_compare_out: framework_rules/extraction/output/asl_for_dummies_full_comparacao.csv
+  # regras induzidas dos pares-ouro
+  pairs_rules_out:   framework_rules/extraction/output/pares_ouro_regras.csv
+  pairs_compare_out: framework_rules/extraction/output/pares_ouro_comparacao.csv
+  # regras da convenção já codificadas no src/main_pipeline (transcritas à mão)
+  mp_rules:       framework_rules/extraction/main_pipeline_regras.csv
+  mp_compare_out: framework_rules/extraction/output/main_pipeline_comparacao.csv
+
+# comparação regra-a-regra roda em blocos (32B + KV cache com thinking em 1 A100)
+batch_size: 4

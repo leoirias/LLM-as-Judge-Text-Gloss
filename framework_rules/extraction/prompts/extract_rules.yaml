@@ -1,0 +1,73 @@
+# Extração: texto de um capítulo do livro -> regras gramaticais NORMALIZADAS
+# (JSON), no mesmo schema da base da consultoria + gatilho + procedência.
+# Só regras relevantes para ENTENDER e REPRESENTAR a estrutura da ASL.
+#
+# Thinking LIGADO: o modelo raciocina em <think>...</think> e depois emite o
+# JSON. O parser remove o <think> antes de ler.
+
+objective: |
+  Você está extraindo regras gramaticais FORMAIS e VERIFICÁVEIS de American Sign
+  Language (ASL) a partir de um capítulo de um livro de referência. O objetivo é
+  capturar apenas as regras relevantes para ENTENDER e REPRESENTAR a estrutura
+  da ASL — ordem dos sinais, morfologia (formação/derivação de sinais,
+  reduplicação, incorporação), sistema de pronomes, sistema de verbos
+  (concordância, direcionalidade), formação de perguntas, negação, marcação de
+  tempo/aspecto, estrutura tópico-comentário.
+
+escopo: |
+  INCLUA apenas regras de nível de FRASE ou de PALAVRA sobre a gramática/estrutura.
+  IGNORE: listas de vocabulário, instruções de datilologia (soletração), notas
+  culturais, história, e dicas de aprendizado ("como praticar"). Se algo não
+  ajuda a entender ou representar a ESTRUTURA de uma sentença em ASL, não extraia.
+
+schema: |
+  Retorne um objeto JSON: {"rules": [regra, regra, ...]}. Cada regra tem
+  EXATAMENTE estes campos:
+    id                    - slug curto e único, ex.: "ASLFD.CAP02.001"
+    categoria             - rótulo curto; PREFIRA um destes quando couber:
+                            morfologia | pronomes | verbos | sintaxe | negacao |
+                            tempo-aspecto | pergunta. Use outro só se necessário.
+    titulo                - nome curto da regra
+    descricao             - O QUE a regra determina (o resultado na glosa/estrutura)
+    gatilho               - QUANDO a regra se aplica: a condição na frase/contexto
+                            que a ativa (ex.: "frase no futuro com 'will'")
+    verificavel_por_texto - true se dá para checar só olhando o TEXTO da glosa;
+                            false se depende de canal fora do texto (expressão
+                            facial/não-manual, uso do espaço, orientação/movimento
+                            da mão)
+    exemplos              - lista de exemplos ilustrativos (texto -> glosa quando houver)
+    fonte_pagina          - o número exatamente como aparece nos marcadores [p.N]
+                            do texto abaixo
+    fonte_citacao         - citação verbatim curta (<=200 chars) do texto que
+                            sustenta a regra, copiada (não parafraseada)
+
+instrucoes: |
+  - Uma regra por fenômeno gramatical distinto. Não repita a mesma regra com
+    palavras diferentes.
+  - Se o texto enuncia a regra junto de uma exceção, descreva a exceção dentro
+    da `descricao` em vez de criar uma segunda regra.
+  - NÃO invente regra que o texto não afirma. Se algo é só sugerido ou ambíguo,
+    não extraia.
+  - `fonte_citacao` deve ser copiada do texto, não parafraseada.
+  - Escreva `descricao`, `gatilho` e `titulo` em português; mantenha os SINAIS/
+    glosas em maiúsculas como no original (ex.: PRO.1, GO-TO-BED).
+
+output_rules: |
+  Produza APENAS o objeto JSON descrito. Sem cercas de markdown, sem comentário
+  antes ou depois, nada após a chave final.
+
+template: |
+  @{objective}
+
+  @{escopo}
+
+  @{schema}
+
+  @{instrucoes}
+
+  @{output_rules}
+
+  Texto do capítulo (páginas marcadas inline como [p.N]):
+  {{chapter_text}}
+
+  JSON:

@@ -1,0 +1,32 @@
+# extract_rules pipeline config. Self-contained — separate from
+# src/main_pipeline/config.yaml because this task needs much longer outputs
+# and benefits from thinking mode (main_pipeline explicitly disables both).
+
+model:
+  name: qwen3-32b
+  model_id: Qwen/Qwen3-32B
+  dtype: bfloat16
+  device_map: cuda            # single assigned GPU -> cuda:0 inside the container
+
+generation:
+  enable_thinking: true       # rule extraction / cross-checking benefit from reasoning
+  max_new_tokens: 6000        # a chapter can yield 15-30 rules as JSON (+ thinking tokens)
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0
+
+book:
+  path: ASL_for_dummies.pdf
+  chapter_label: "Chapter 2: Signing Grammar Basics"
+  start_page: 29               # pypdf 0-indexed page range (from the PDF outline)
+  end_page: 53
+
+io:
+  rules_out: extract_rules/output/chapter02_rules.json
+  validation_out: extract_rules/output/chapter02_validation.csv
+  # pares_ouro.csv: 2 clean columns (Text, Gloss), no draft/reviewed
+  # ambiguity. pares_review.csv is ~99% the same sentences plus a few
+  # corrected glosses — add it back here if that handful of corrections
+  # turns out to matter.
+  gold_files:
+    - data/pares_ouro.csv

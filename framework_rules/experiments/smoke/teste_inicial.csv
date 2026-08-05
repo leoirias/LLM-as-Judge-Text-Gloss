@@ -1,0 +1,6 @@
+Texto,Glosa,Correto?,Regras,Sugestao,Glosa Review
+Do you need help with anything?,NEED HELP WHAT?,Sim,PRON.2.5,,NEED HELP WHAT?
+You need antibiotics,NEED ANTIBIOTIC.,Não,VERB.3.7,PRO.2 NEED ANTIBIOTIC,NEED ANTIBIOTIC
+I will call the doctor.,CALL DOCTOR.,Não,VERB.3.7,PRO.1 CALL DOCTOR,CALL DOCTOR.
+You can go home tomorrow.,TOMORROW CAN GO-HOME.,Não,VERB.3.7,PRO.2 TOMORROW CAN GO-HOME,TOMORROW CAN GO HOME.
+"You need oxygen, okay?","NEED OXYGEN, OKAY?",Não,VERB.3.7,"PRO.2 NEED OXYGEN, OKAY?","NEED OXYGEN, OKAY?"

@@ -1,0 +1,6 @@
+text,gloss,gloss_review,regra_alvo,esperado
+Quando a dor começou?,DOR COMEÇAR QUANDO?,DOR COMEÇAR QUANDO?,item-QU no fim (foco da pergunta),valido
+Quando a dor começou?,QUANDO DOR COMEÇAR?,DOR COMEÇAR QUANDO?,item-QU deve ir no FIM (aqui veio no início),invalido
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,EU PODER IR CASA HOJE,preposição locativa PARA deve ser NULA,invalido
+Beber água suficiente?,BEBER ÁGUA SUFICIENTE?,BEBER ÁGUA SUFICIENTE?,adjetivo depois do nome (ÁGUA SUFICIENTE),valido
+Comer algo estranho?,COMER ESTRANHO ALGO?,COMER ALGO ESTRANHO?,adjetivo depois do nome (veio antes),invalido

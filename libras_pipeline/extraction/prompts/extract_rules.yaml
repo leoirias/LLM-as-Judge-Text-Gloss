@@ -1,0 +1,87 @@
+# Extração (etapa 1): texto de um trecho de livro acadêmico de linguística
+# sobre Libras -> regras candidatas em JSON. `id` NÃO é pedido aqui
+# (extract.py atribui depois, por categoria); o modelo só escolhe
+# `categoria` de uma lista fechada.
+#
+# Thinking DESLIGADO (ver config.yaml) — resposta direta, sem <think>.
+
+objective: |
+  Você está extraindo regras gramaticais da Língua Brasileira de Sinais
+  (Libras) a partir de um trecho de um livro acadêmico de linguística (não é
+  um guia introdutório — é texto de linguística descritiva, mais denso e
+  técnico). O objetivo é capturar regras que ajudem a produzir/validar uma
+  GLOSA de Libras (a sequência de sinais escrita a partir de uma frase em
+  português) mais correta e mais fluida/natural.
+
+escopo: |
+  INCLUA regras de nível de FRASE ou de PALAVRA sobre gramática/estrutura da
+  Libras: ordem dos sinais na frase, morfologia (composição, derivação,
+  flexão), concordância verbal (verbos com/sem concordância, verbos
+  direcionais/"manuais"), sistema de pronomes (apontação/IX), formação de
+  interrogativas (perguntas com item-QU: QUANDO/ONDE/QUAL...), foco,
+  negação, classificadores, tempo/aspecto, tópico-comentário, e expressões
+  fixas/convencionais de uso que tornem a glosa mais natural.
+  IGNORE: listas de sinais sem padrão gramatical por trás, notas de
+  história/documentação de corpus, variação regional/lexical de sinais sem
+  relevância estrutural, e comentários bibliográficos/metodológicos do texto
+  acadêmico (citações de autores, referências a outros estudos) que não
+  descrevem a estrutura da língua em si.
+
+schema: |
+  Retorne um objeto JSON: {"rules": [regra, regra, ...]}. Cada regra tem
+  EXATAMENTE estes campos (NÃO inclua um campo "id" — isso é atribuído depois):
+    categoria             - EXATAMENTE uma destas:
+                            morfologia | pronomes | verbos | concordancia |
+                            sintaxe | negacao | tempo-aspecto | pergunta |
+                            foco | classificadores | expressoes-idiomaticas
+    titulo                - nome curto da regra
+    descricao             - O QUE a regra determina (o resultado na glosa/estrutura)
+    gatilho                - QUANDO a regra se aplica: a condição na frase/contexto
+                            que a ativa (ex.: "verbo com concordância + sujeito e
+                            objeto ambos localizáveis no espaço")
+    verificavel_por_texto - true se dá para checar só olhando o TEXTO da glosa;
+                            false se depende de canal fora do texto (expressão
+                            facial/não-manual, uso do espaço, direcionalidade/
+                            movimento da mão, concordância espacial)
+    exemplos              - lista de exemplos ilustrativos (português -> glosa
+                            quando houver no texto)
+    fonte_pagina          - o número exatamente como aparece nos marcadores [p.N]
+                            do texto abaixo
+    fonte_citacao         - citação verbatim curta (<=200 chars) do texto que
+                            sustenta a regra, copiada (não parafraseada)
+
+instrucoes: |
+  - Uma regra por fenômeno gramatical distinto. Não repita a mesma regra com
+    palavras diferentes, mesmo que o texto acadêmico a explique em vários
+    parágrafos com exemplos diferentes.
+  - Se o texto enuncia a regra junto de uma exceção, descreva a exceção dentro
+    da `descricao` em vez de criar uma segunda regra.
+  - NÃO invente regra que o texto não afirma. Se algo é só sugerido, hipótese
+    de pesquisa em aberto, ou comparação com outra língua (ex.: LSA, ASL)
+    sem afirmar o que vale pra Libras, não extraia.
+  - `fonte_citacao` deve ser copiada do texto, não parafraseada.
+  - Mantenha os SINAIS/glosas em maiúsculas como no original (ex.: IX(casa),
+    CASA, EXPLICAR-ME).
+  - NÃO use aspas duplas (") dentro dos valores de texto (descricao, gatilho,
+    exemplos, fonte_citacao) — aspas duplas cruas ali quebram o JSON. Se
+    precisar destacar uma palavra/expressão, use aspas simples ('assim').
+
+output_rules: |
+  Produza APENAS o objeto JSON descrito. Sem cercas de markdown, sem comentário
+  antes ou depois, nada após a chave final.
+
+template: |
+  @{objective}
+
+  @{escopo}
+
+  @{schema}
+
+  @{instrucoes}
+
+  @{output_rules}
+
+  Texto do trecho (páginas marcadas inline como [p.N]):
+  {{chapter_text}}
+
+  JSON:

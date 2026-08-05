@@ -1,0 +1,56 @@
+# Extração de regras (etapa 1) — 2 livros de Libras
+#
+# Modelo: Qwen3-30B-A3B-Instruct-2507 (MoE, non-thinking) — ver justificativa
+# em llm.py. Determinístico (do_sample off) de propósito: rodar a mesma
+# janela de novo deve produzir a mesma lista de regras (reprodutibilidade).
+
+model:
+  name: qwen3-30b-a3b-instruct-2507
+  model_id: Qwen/Qwen3-30B-A3B-Instruct-2507
+  dtype: bfloat16
+  device_map: cuda            # GPU única do container (docker-compose) -> cuda:0
+
+generation:
+  enable_thinking: false      # checkpoint non-thinking; explícito por clareza/segurança
+  max_new_tokens: 6000        # subido de 4000 depois de ver truncamento real na 1a
+                               # rodada do ASL (mesmo modelo/config, mesma margem de segurança)
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0
+
+lingua: libras
+lingua_nome: "Língua Brasileira de Sinais (Libras)"
+id_prefix: LIBRAS
+
+# Vocabulário fechado de categoria — o modelo escolhe uma destas por regra.
+# Compartilhado com asl_pipeline/extraction/config.yaml de propósito: são
+# categorias linguísticas cross-linguísticas, isso facilita comparar/unificar
+# candidatas de ASL e Libras mais pra frente.
+categorias_validas:
+  - morfologia
+  - pronomes
+  - verbos
+  - concordancia
+  - sintaxe
+  - negacao
+  - tempo-aspecto
+  - pergunta
+  - foco
+  - classificadores
+  - expressoes-idiomaticas
+
+# Duas fontes acadêmicas (não é livro "for dummies" — prosa de linguística
+# mais densa). Faixas mapeadas pelo sumário de cada uma (ver plano):
+books:
+  - label: "Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia"
+    slug: libras_gramatica_cap5
+    path: Gramatica_de_libras.pdf
+    start_page: 174
+    end_page: 377
+    window_pages: 15
+  - label: "Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial"
+    slug: libras_estudos_ling_cap4
+    path: Lingua_de_sinais_brasileira_estudos_linguisticos.pdf
+    start_page: 123
+    end_page: 210
+    window_pages: 15

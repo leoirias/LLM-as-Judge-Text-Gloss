@@ -1,0 +1,19 @@
+{
+  "timestamp": "2026-07-16T20:00:27",
+  "model": "qwen3-32b",
+  "generation": {
+    "enable_thinking": true,
+    "max_new_tokens": 1024,
+    "do_sample": true,
+    "temperature": 0.5,
+    "top_p": 0.9
+  },
+  "input": "data/pares_review.csv",
+  "rules_file": "/workspace/framework_rules/rules/asl_rules.yaml",
+  "prompt_file": "/workspace/framework_rules/prompts/judge_rules.yaml",
+  "n_rows": 180,
+  "correto_sim": 28,
+  "correto_nao": 126,
+  "parse_failed": 26,
+  "rows_citing_unknown_rule": 0
+}

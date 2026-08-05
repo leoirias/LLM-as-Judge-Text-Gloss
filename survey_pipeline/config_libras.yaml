@@ -1,0 +1,29 @@
+# survey_pipeline — config do validador de LIBRAS (teste inicial).
+# Mesmo código/modelo do ASL; muda só o pacote de regras (gramática da Tânia),
+# o dataset e o prompt. Ainda SEM parser — a gramática entra como contexto do LLM.
+
+model:
+  name: qwen3-32b
+  model_id: Qwen/Qwen3-32B
+  dtype: bfloat16
+  device_map: cuda
+
+generation:
+  enable_thinking: false      # o modelo estava divagando em prosa e nunca chegava no JSON;
+                              # desligar + prompt "JSON puro primeiro" dá resposta direta
+  max_new_tokens: 1024        # sobra p/ o JSON (a resposta agora é curta)
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0
+
+batch_size: 5                 # 5 frases num lote só
+
+io:
+  lingua: libras
+  input: survey_pipeline/data/libras_teste.csv
+  text_col: text
+  gloss_col: gloss
+  review_col: gloss_review
+  rule_package: survey_pipeline/rules/libras_grammar.yaml
+  prompt: survey_pipeline/prompts/judge_libras.yaml
+  experiments_dir: survey_pipeline/experiments

@@ -1,0 +1,51 @@
+# Comparação SEMÂNTICA, regra a regra: recebe UMA regra extraída do livro + toda
+# a base de regras da consultoria e decide se a base já cobre, não cobre, ou
+# conflita com a regra extraída.
+#
+# Thinking LIGADO: raciocina em <think>...</think> e depois emite o JSON.
+
+objective: |
+  Você compara UMA regra gramatical de ASL extraída de um livro contra a BASE DE
+  REGRAS atual da consultoria. Decida, de forma semântica (pelo significado, não
+  pela redação), se a base já contempla essa regra.
+
+criterios: |
+  Classifique em `status` (use EXATAMENTE um destes slugs):
+    "ja_temos"  - a base já tem uma regra que cobre o MESMO fenômeno e CONCORDA
+                  com a regra extraída (mesmo que a redação seja diferente).
+    "nao_temos" - nenhuma regra da base cobre esse fenômeno. É uma regra NOVA.
+    "conflito"  - a base tem uma regra sobre o MESMO fenômeno, mas ela diz algo
+                  DIFERENTE/incompatível com a regra extraída.
+    "parcial"   - a base cobre o fenômeno em parte, mas a regra extraída
+                  acrescenta uma nuance/condição relevante que falta na base.
+  Escolha a correspondência pelo FENÔMENO gramatical, não por palavras iguais.
+
+output_rules: |
+  Depois de raciocinar, responda com UM ÚNICO objeto JSON, sem markdown, sem
+  texto antes ou depois, com EXATAMENTE estes campos:
+    "status"                    - um dos slugs acima
+    "regra_base_correspondente" - o ID da regra da base que corresponde
+                                  (ex.: "PRON.2.5"); "" se status for "nao_temos"
+    "justificativa"             - 1-2 frases explicando a decisão
+
+template: |
+  @{objective}
+
+  @{criterios}
+
+  === BASE DE REGRAS DA CONSULTORIA ===
+  {{base_rules}}
+  === FIM DA BASE ===
+
+  === REGRA EXTRAÍDA DO LIVRO (comparar) ===
+  id: {{regra_id}}
+  categoria: {{regra_categoria}}
+  titulo: {{regra_titulo}}
+  descricao: {{regra_descricao}}
+  gatilho: {{regra_gatilho}}
+  verificavel_por_texto: {{regra_verificavel}}
+  === FIM DA REGRA EXTRAÍDA ===
+
+  @{output_rules}
+
+  Responda agora (raciocine e depois emita o JSON):

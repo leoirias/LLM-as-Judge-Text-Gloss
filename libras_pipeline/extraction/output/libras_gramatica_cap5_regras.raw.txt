@@ -1,0 +1,798 @@
+### p.174-188
+{"rules": [{"categoria": "morfologia", "titulo": "Compostos simultâneos com morfemas duplicados", "descricao": "Sinais realizados com duas mãos em configuração de mão idêntica e espelhada são considerados monomorfêmicos, pois o morfema é duplicado no espaço, não contando como dois morfemas distintos.", "gatilho": "sinal com duas mãos com CMs idênticas e espelhadas", "verificavel_por_texto": true, "exemplos": ["CASA", "LÍNGUA-DE-SINAIS"], "fonte_pagina": "p.178", "fonte_citacao": "Morfemas espelhados / duplicados, no espaço, não são contados em duplicidade no somatório de quantidade de morfemas de um sinal."}, {"categoria": "morfologia", "titulo": "Morfemas livres como base derivacional", "descricao": "Morfemas lexicais livres podem atuar como base para a formação de novos sinais por meio da adição de morfemas presos, mantendo-se como núcleo semântico do novo sinal.", "gatilho": "morfema lexical livre usado como radical em construção de novo sinal", "verificavel_por_texto": true, "exemplos": ["LÍNGUA-DE-SINAIS^INFERIOR", "PALAVRA-CHAVE"], "fonte_pagina": "p.185", "fonte_citacao": "Esse morfema raiz ocupa a posição de radical na constituição de novas unidades lexicais sinalizadas – ULS."}, {"categoria": "morfologia", "titulo": "Morfemas presos como afixos", "descricao": "Morfemas presos são dependentes e não podem ocorrer isoladamente; funcionam como afixos (prefixos, sufixos, infixos) que se ligam a morfemas livres para formar novos sinais.", "gatilho": "morfema que não pode ocorrer isolado e está ligado a outro morfema", "verificavel_por_texto": true, "exemplos": ["boca", "CM em X", "-SINAL"], "fonte_pagina": "p.185", "fonte_citacao": "Morfemas presos são unidades dependentes de outras. Grosso modo, pode-se dizer que morfemas presos funcionam como afixos, sejam eles sufixos, infixos etc."}, {"categoria": "morfologia", "titulo": "Processos morfológicos simultâneos e sequenciais", "descricao": "A morfologia das Línguas de Sinais combina processos simultâneos (como em compostos) e sequenciais (como em derivação), com ambos os tipos sendo usados para flexão e derivação.", "gatilho": "formação de sinais com combinação de morfemas", "verificavel_por_texto": true, "exemplos": ["LÍNGUA-DE-SINAIS^FLUENTE", "PALAVRA-CHAVE"], "fonte_pagina": "p.178", "fonte_citacao": "A combinação e distribuição dos morfemas da Língua de Sinais brasileira pode ocorrer de forma simultânea ou sequencial, como Aronoff, Meier e Sandler (2005) anunciaram."}, {"categoria": "morfologia", "titulo": "Morfemas lexicais como núcleo semântico", "descricao": "Morfemas lexicais são os núcleos de significação dos sinais, representando conteúdos externos ao sistema linguístico, como objetos, ações e conceitos.", "gatilho": "morfema com significado externo (não gramatical)", "verificavel_por_texto": true, "exemplos": ["CASA", "EX", "MÃE"], "fonte_pagina": "p.183", "fonte_citacao": "São unidades lexicais com significação externa, com conteúdo e forma, indicam o sentido básico da palavra, uma vez que se referem a fatos do mundo extralinguístico."}, {"categoria": "morfologia", "titulo": "Morfemas gramaticais como marcadores de função", "descricao": "Morfemas gramaticais indicam funções gramaticais como número, gênero, tempo, aspecto, pessoa e são responsáveis por processos flexionais e derivacionais.", "gatilho": "morfema que marca função gramatical (ex: tempo, número, gênero)", "verificavel_por_texto": true, "exemplos": ["boca", "CM em X", "PALAVRA+++"], "fonte_pagina": "p.184", "fonte_citacao": "Os morfemas gramaticais dividem-se em (i) morfemas gramaticais derivacionais (prefixos e sufixos); (ii) morfemas gramaticais flexionais (desinências verbais e nominais referem-se ao tempo, modo, número, pessoa nos verbos, gênero e número nos nomes); e (iii) morfemas gramaticais classificadores (nomes ou verbos)."}, {"categoria": "morfologia", "titulo": "Morfemas com movimento interno alterando configuração", "descricao": "Quando a configuração de mão inicial é diferente da final, mas o movimento interno a transforma em uma mesma CM, o sinal é considerado monomorfêmico com CM idêntica inicial e final.", "gatilho": "sinal com movimento interno que altera a CM inicial para torná-la igual à final", "verificavel_por_texto": true, "exemplos": ["BRASÍLIA", "SUMIR"], "fonte_pagina": "p.181", "fonte_citacao": "Ocorre que a CM inicial e final são a mesma; apenas o movimento interno da CM é alterado, como em (13) BRASÍLIA e (14) SUMIR."}, {"categoria": "morfologia", "titulo": "Sinais com CMs diferentes em duas mãos", "descricao": "Sinais realizados com duas mãos com configurações de mão diferentes são considerados monomorfêmicos se a CM inicial e final forem iguais nas duas mãos, mesmo que pareçam diferentes.", "gatilho": "sinal com duas mãos com CMs diferentes, mas CM inicial e final iguais", "verificavel_por_texto": true, "exemplos": ["REGRA", "CURSO"], "fonte_pagina": "p.182", "fonte_citacao": "Sinais monomorfêmicos articulados com duas mãos com CMs diferentes, em que a CM inicial e a final são iguais nas duas mãos, como em (15) REGRA e (16) CURSO."}, {"categoria": "morfologia", "titulo": "Morfemas com repetição sequencial não contam como múltiplos", "descricao": "Repetições de um morfema no tempo, um após outro, não são contadas como múltiplos morfemas, mas como redundância do mesmo morfema.", "gatilho": "repetição de um morfema em sequência temporal", "verificavel_por_texto": true, "exemplos": ["OBRIGADO", "SINAL"], "fonte_pagina": "p.179", "fonte_citacao": "Morfemas repetidos, aqueles que se repetem no tempo, sequencialmente, um após outro, também não são contados duplamente."}, {"categoria": "morfologia", "titulo": "Morfemas com CM duplicada perdem espelhamento na derivação", "descricao": "Sinais monomorfêmicos com CM duplicada podem perder o espelhamento ao serem usados como base para novos sinais, sem perda de significado semântico.", "gatilho": "sinal com CM duplicada usado como base para formação de novo sinal", "verificavel_por_texto": true, "exemplos": ["LÍNGUA-DE-SINAIS^INFERIOR", "LÍNGUA-DE-SINAIS^FÁCIL"], "fonte_pagina": "p.179", "fonte_citacao": "O apagamento da duplicação ou da repetição, entretanto, não compromete o conteúdo semântico na derivação de novos sinais, justapostos ou aglutinados, resultantes da aproximação do morfema (antes duplicado) com outro morfema."}]}
+
+### p.189-203
+{"rules": [{"categoria": "morfologia", "titulo": "Composição por aglutinação com redução de morfemas", "descricao": "Em compostos por aglutinação, um ou mais elementos dos sinais constituintes são suprimidos ou reduzidos, especialmente repetições de movimento ou configuração manual (CM), resultando em um sinal composto com estrutura morfologicamente modificada.", "gatilho": "sinal composto formado por dois morfemas livres onde ocorre perda de repetição de movimento ou CM", "verificavel_por_texto": true, "exemplos": ["CASA^ESTUDAR (escola)", "LETRAS^LIBRAS", "MULHER^BEIJO-NA-MÃO (mãe)", "COMER^MEIO-DIA (almoço)", "CASA^ANTIGA (museu)"], "fonte_pagina": "p.202", "fonte_citacao": "Há composição por aglutinação simultânea quando o sinal composto é constituído por dois sinais originalmente realizados com a CM duplicada. Uma das CMs de cada sinal se apaga (redução / apagamento morfêmico da duplicação / do espelhamento do morfema), como acontece na concepção do sinal que denomina o curso Letras-Libras, em que ocorre o apagamento morfêmico da duplicação espacial do sinal (79) LETRAS e (80) LIBRAS, que resulta no sinal (81) LETRAS^LIBRAS."}, {"categoria": "morfologia", "titulo": "Justaposição simultânea de sinais com duas mãos", "descricao": "Em compostos simultâneos, dois sinais são articulados simultaneamente por ambas as mãos, sem modificação de movimento ou configuração, resultando em um sinal composto com estrutura simétrica e sem núcleo definido.", "gatilho": "dois sinais com núcleos independentes articulados ao mesmo tempo por ambas as mãos", "verificavel_por_texto": true, "exemplos": ["PALAVRA^PALAVRA (composição)", "UNIFORME-INES"], "fonte_pagina": "p.200", "fonte_citacao": "Compostos simultâneos ocorrem quando não têm núcleos e a realização dos elementos é simultânea. Os compostos simultâneos são constituídos de dois componentes articulados simultaneamente pelas duas mãos, como em (66)."}, {"categoria": "morfologia", "titulo": "Composição por coordenação com núcleos simétricos", "descricao": "Em compostos por coordenação, dois ou mais núcleos são articulados em relação simétrica, sem hierarquia semântica, resultando em um sinal composto com significado derivado da combinação dos elementos.", "gatilho": "dois sinais com status lexical igual combinados em relação simétrica", "verificavel_por_texto": true, "exemplos": ["MÉDICO^OLHO (oftalmologista)"], "fonte_pagina": "p.200", "fonte_citacao": "b. Composição por coordenação: Ocorre quando o composto tem dois ou mais núcleos em relação simétrica, de coordenação (QUER et al., 2019, p.172; SANDLER; LILLO-MARTIN, 2009, p.72), como em (65):"}, {"categoria": "morfologia", "titulo": "Composição por subordinação com núcleo modificado", "descricao": "Em compostos por subordinação, um sinal atua como núcleo e outro como modificador ou complemento, com a categoria lexical do composto sendo a mesma do núcleo; a relação é assimétrica e semanticamente determinada.", "gatilho": "um sinal atua como núcleo e outro como modificador em relação de subordinação", "verificavel_por_texto": true, "exemplos": ["CASA^ESTUDAR (escola)"], "fonte_pagina": "p.199", "fonte_citacao": "Composição por subordinação: Ocorre quando o composto tem um núcleo (radical) que é modificado por um morfema especificador / modificador. A categoria da unidade lexical resultante da composição é a mesma categoria do núcleo. A relação entre os elementos do composto por subordinação é assimétrica, o que acarreta uma relação de subordinação, semanticamente determinada."}, {"categoria": "morfologia", "titulo": "Justaposição sequencial de sinais sem modificação", "descricao": "Em justaposição sequencial, dois sinais são articulados um após o outro sem alteração de movimento ou configuração, mantendo-se a forma original de cada componente.", "gatilho": "dois sinais articulados consecutivamente sem perda ou redução de elementos", "verificavel_por_texto": true, "exemplos": ["CAVALO^LISTRA-PELO-CORPO (zebra)", "ÁGUA^CAMINHO (rio)", "ÁGUA^CÍRCULO (lago)", "ÁGUA^RETÂNGULO (piscina)", "ASSINAR^SEPARAR (divórcio)"], "fonte_pagina": "p.201", "fonte_citacao": "Justaposição sequencial: Quando a composição ocorre com uma mão realizando um sinal após o outro), sem modificação, ou seja, os dois sinais são completamente sinalizados."}, {"categoria": "morfologia", "titulo": "Justaposição com classificador como clítico", "descricao": "Em certos compostos, um classificador é justaposto a um item lexical, funcionando como clítico, com a configuração manual do classificador articulada em relação ao sinal lexical.", "gatilho": "classificador articulado junto a um sinal lexical em composição", "verificavel_por_texto": true, "exemplos": ["CL-coisa-pequena^PERFURAR (alfinete)", "CL-coisa-pequena^APLICAR-NO-BRAÇO (agulha)", "DORMIR^CL-pessoa+ (alojamento)"], "fonte_pagina": "p.201", "fonte_citacao": "Justaposição de um classificador com um item lexical. Nesse processo o classificador funciona como um clítico. São exemplos desse processo os sinais:"}, {"categoria": "morfologia", "titulo": "Composição com empréstimo de estrutura oral", "descricao": "Compostos não nativos são formados por empréstimos de estruturas de línguas orais circundantes, com significado, estrutura e iconicidade derivados do contato com línguas orais.", "gatilho": "composto formado por influência de estrutura de língua oral", "verificavel_por_texto": true, "exemplos": ["CASA^L (loja)", "LETRAS-LIBRAS"], "fonte_pagina": "p.198", "fonte_citacao": "b) Compostos Não Nativos: Os compostos não nativos são aqueles constituídos por empréstimos. A composição por empréstimos ocorre como resultado do contato das Línguas de Sinais com as línguas orais circundantes, que emprestam estruturas para aquelas, ou por empréstimos de outras Línguas de Sinais (QUER et al., 2019, p.181)."}, {"categoria": "morfologia", "titulo": "Flexão por repetição sequencial de morfemas livres", "descricao": "A flexão em Libras pode ser realizada por repetição sequencial de morfemas livres, como no caso da pluralização, onde a repetição do sinal base indica pluralidade.", "gatilho": "repetição sequencial de um sinal base para indicar flexão (ex: plural)", "verificavel_por_texto": true, "exemplos": ["CASA+++ (casas)"], "fonte_pagina": "p.194", "fonte_citacao": "(55) CASA+++ (casas) TAMBÉM HÁ PROCESSOS DERIVACIONAIS QUE FAZEM USO DE MORFOLOGIA SIMULTÂNEA (EX. NOMES DERIVADOS). NESTE ESCOPO, QUEBRAM A CONCEPÇÃO TRADICIONAL O SINAL DE “COMPOSIÇÃO”, EM LIBRAS, CONSTITUÍDO PELA DERIVAÇÃO SIMULTÂNEA, POR UM PROCESSO DE JUSTAPOSIÇÃO DE DUAS VEZES O SINAL (51) PALAVRA, QUE EQUIVALE A (56) PALAVRA^PALAVRA (COMPOSIÇÃO), SENDO OS DOIS SINAIS ARTICULADOS, UM POR CADA UMA DAS MÃOS."}, {"categoria": "morfologia", "titulo": "Derivação por modificação interna do sinal", "descricao": "A derivação em Libras ocorre quando um morfema livre é modificado internamente (dentro do sinal) para formar um novo lexema, com alteração na configuração manual ou movimento.", "gatilho": "morfema livre modificado internamente para formar novo sinal", "verificavel_por_texto": true, "exemplos": ["PALAVRA^PALAVRA (composição)"], "fonte_pagina": "p.192", "fonte_citacao": "(47) DERIVAÇÃO PALAVRA (MORFEMA LIVRE) TROCAR (dentro do sinal) (MORFEMA LIVRE) - Apenas redução de uma mão"}, {"categoria": "morfologia", "titulo": "Flexão por sobreposição de movimentos simultâneos", "descricao": "A flexão em Libras é realizada por sobreposição de movimentos simultâneos, onde morfemas são produzidos ao mesmo tempo, sobrepostos uns aos outros, em uma estrutura locação-movimento-locação.", "gatilho": "morfemas produzidos simultaneamente com sobreposição de movimento", "verificavel_por_texto": false, "exemplos": ["flexão de concordância", "flexão aspectual"], "fonte_pagina": "p.194", "fonte_citacao": "A morfologia simultânea é considerada flexional e consiste na sobreposição da estrutura morfológica da unidade canônica locação-movimento-locação, simultaneamente, ou seja, os morfemas seriam produzidos ao mesmo tempo, sobrepostos uns aos outros."}, {"categoria": "morfologia", "titulo": "Morfemas base como raízes lexicais livres", "descricao": "Morfemas base são componentes lexicais livres, com estatuto de raiz ou radical, que constituem a base para a formação de novos sinais por composição, derivação ou flexão.", "gatilho": "morfema livre que atua como núcleo de formação de sinal", "verificavel_por_texto": true, "exemplos": ["CASA", "LÍNGUA-DE-SINAIS", "PALAVRA"], "fonte_pagina": "p.192", "fonte_citacao": "Morfemas base são componentes morfológicos da Língua de Sinais, ou seja, morfemas lexicais que determinam raízes, constituídas de morfemas livres, com estatuto ainda pouco definido, mas altamente produtivos na expansão termológica da Língua de Sinais brasileira."}]}
+
+### p.204-218
+{
+  "rules": [
+    {
+      "categoria": "morfologia",
+      "titulo": "Compostos verdadeiros em Libras",
+      "descricao": "Compostos verdadeiros em Libras apresentam ordem fixa e invariável, com supressão da repetição dos sinais componentes. O núcleo do composto está sempre à esquerda, e a troca da ordem resulta em estrutura agramatical.",
+      "gatilho": "Sinal composto formado por justaposição ou aglutinação de dois sinais, com significado semântico de um único conceito (ex: lugar)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "CASA^CRUZ -> igreja",
+        "*CRUZ^CASA -> agramatical"
+      ],
+      "fonte_pagina": "p.206",
+      "fonte_citacao": "Com supressão da repetição e ordem fixa, invariável; são aqueles que se dão por justaposição ou por aglutinação, como é o caso de (91) CASA^CRUZ (igreja) e que não pode ter sua ordem trocada como em (92) *CRUZ^CASA, porque essa alteração de ordem é agramatical"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Compostos aparentes em Libras",
+      "descricao": "Compostos aparentes em Libras têm ordem dos componentes variável, e cada sinal pode ocorrer isoladamente. A estrutura é gramatical em ambas as ordens.",
+      "gatilho": "Sinal composto formado por dois sinais que podem ser usados independentemente e cuja ordem pode ser invertida sem perda de gramaticalidade",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PÃO^CASA -> padaria",
+        "CASA^PÃO -> padaria"
+      ],
+      "fonte_pagina": "p.206",
+      "fonte_citacao": "A ordem dos elementos componentes é variável. Cada sinal pode ocorrer isoladamente, como nos exemplos a seguir (93) e (94): (93) PÃO^CASA (padaria) (94) CASA^PÃO (padaria)"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Derivação por modificação de parâmetros",
+      "descricao": "A derivação em Libras ocorre por alteração simultânea de parâmetros do sinal, como configuração de mão, movimento e orientação, permitindo a formação de novos sinais a partir de uma base lexical.",
+      "gatilho": "Formação de novo sinal a partir de uma unidade terminológica existente por mudança em parâmetros do sinal",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "MORFOLOGIA -> MORFEMA",
+        "MORFOLOGIA -> COMPOSIÇÃO"
+      ],
+      "fonte_pagina": "p.207",
+      "fonte_citacao": "Por meio de mudanças nos parâmetros do sinal, seja pela configuração de mão ou de movimento e orientação da mão, é possível derivar outras unidades terminológicas, como (95) MORFEMA, (96) COMPOSIÇÃO"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Derivação com numerais",
+      "descricao": "Numerais livres podem atuar como morfemas base para derivar novos sinais, especialmente em expressões temporais ou numéricas.",
+      "gatilho": "Uso de numeral como base para formar um novo sinal composto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "DOIS -> DUAS SEMANAS",
+        "DOIS -> BILÍNGUE"
+      ],
+      "fonte_pagina": "p.207",
+      "fonte_citacao": "Os numerais também podem ocorrer como morfemas base para derivar outros sinais. É o caso do numeral DOIS, um morfema livre, que pode derivar sinais como (97) DUAS SEMANAS e (98) BILÍNGUE"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Derivação com morfemas presos",
+      "descricao": "Morfemas presos podem servir como base para a formação de novos sinais, especialmente em termos técnicos ou tecnológicos.",
+      "gatilho": "Uso de morfema preso com significado específico como base para formar um novo sinal",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "L -> VIDEOCONFERÊNCIA",
+        "L -> HIPERTEXTO"
+      ],
+      "fonte_pagina": "p.208",
+      "fonte_citacao": "Morfemas presos também podem servir de morfema base para a criação de vários sinais, como o morfema preso L, que tem o significado de tela, pode derivar sinais como (99) VIDEOCONFERÊNCIA e HIPERTEXTO"
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Incorporação da negação por movimento da cabeça",
+      "descricao": "A negação em Libras pode ser incorporada ao sinal por meio do movimento da cabeça de um lado para o outro, alterando o parâmetro movimento do sinal original.",
+      "gatilho": "Sinal que expressa negação, com movimento da cabeça de um lado para o outro",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "NÃO SABER",
+        "NÃO TER"
+      ],
+      "fonte_pagina": "p.209",
+      "fonte_citacao": "Os sinais (100) NÃO SABER e (101) NÃO TER têm a incorporação da negação em que há o movimento da cabeça de um lado para o outro, também sofre a alteração de movimento no sinal"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos com concordância dupla regular",
+      "descricao": "Verbos de concordância dupla regular têm o ponto inicial do movimento ligado à localização do sujeito e o ponto final ligado à localização do objeto.",
+      "gatilho": "Verbo com movimento de trajetória direcional que concorda com sujeito e objeto em localizações no espaço",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "1ªpessoaENSINAR3ªpessoa",
+        "3ªpessoaENSINAR1ªpessoa"
+      ],
+      "fonte_pagina": "p.216",
+      "fonte_citacao": "A grande maioria desses verbos possui o ponto inicial do movimento concordando com a localização do sujeito, enquanto que o ponto final do movimento concorda com a localização do objeto. Esses são os chamados verbos de concordância dupla regular"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos com concordância dupla reversa",
+      "descricao": "Verbos de concordância dupla reversa têm o ponto inicial do movimento ligado à localização do objeto e o ponto final ligado à localização do sujeito.",
+      "gatilho": "Verbo com movimento de trajetória direcional cujo ponto inicial marca o objeto e o ponto final marca o sujeito",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "1ªpessoaCONVIDAR2ªpessoa",
+        "2ªpessoaCONVIDAR1ªpessoa"
+      ],
+      "fonte_pagina": "p.217",
+      "fonte_citacao": "o ponto inicial do movimento do verbo não marca o sujeito, mas sim o objeto da sentença. Já o ponto final do movimento do verbo coincide com a localização do sujeito"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos de concordância única",
+      "descricao": "Verbos que não têm movimento de trajetória direcional podem apresentar concordância com apenas um argumento (sujeito ou objeto), dependendo da estrutura sintática da frase.",
+      "gatilho": "Verbo articulado em um único ponto no espaço, com concordância com um único argumento",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "ESTUDAR",
+        "TRABALHAR",
+        "BRINCAR"
+      ],
+      "fonte_pagina": "p.218",
+      "fonte_citacao": "Esses verbos podem apresentar concordância com apenas um único argumento da sentença e que em alguns casos pode ser o sujeito da oração, em outros, o objeto, a depender da estrutura sintática da frase"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Apontamento para referência de pessoa",
+      "descricao": "O apontamento direcionado ao peito marca a 1ª pessoa; ao interlocutor, a 2ª pessoa; e a um ponto no espaço, a 3ª pessoa.",
+      "gatilho": "Apontamento com direção específica no espaço de sinalização",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "IX(peito)",
+        "IX(interlocutor)",
+        "IX(ponto no espaço)"
+      ],
+      "fonte_pagina": "p.214",
+      "fonte_citacao": "O apontamento em direção ao peito do sinalizante marca a 1ª pessoa. Já o apontamento em direção ao interlocutor indica a 2ª pessoa do discurso. Já a 3ª pessoa é marcada a partir do apontamento a um ponto específico no espaço"
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Ausência de marcação fonológica para tempo e aspecto",
+      "descricao": "Não há evidência de marcação fonológica (como movimento repetido) para tempo ou aspecto em Libras; essas categorias são expressas por meio de contexto, tempo verbal ou elementos não-manuais.",
+      "gatilho": "Expressão de tempo ou aspecto em Libras sem alteração fonológica no sinal",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "SONHAR (dois movimentos repetidos)",
+        "COMER (dois movimentos internos)"
+      ],
+      "fonte_pagina": "p.212",
+      "fonte_citacao": "A distinção entre categorias pode ser associada, na Libras, apenas à posição sintática que deve ser ocupada por um verbo ou por um nome, a depender da grade argumental do item predicador; assim, há forte relação entre a morfossintaxe e a distinção entre nomes e verbos, e falta de evidências de uma marcação fonológica na distinção, conforme análise de Pizzio e Silva (2021)"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Distinção entre nome e verbo por posição sintática",
+      "descricao": "A categoria gramatical de um sinal (nome ou verbo) é determinada pela sua posição na frase e pelas propriedades distribucionais, não por mudanças fonológicas.",
+      "gatilho": "Sinal que pode funcionar como nome ou verbo dependendo da posição na frase",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "TELEFONE (um movimento)",
+        "COMER (dois movimentos internos)"
+      ],
+      "fonte_pagina": "p.212",
+      "fonte_citacao": "A distinção entre categorias pode ser associada, na Libras, apenas à posição sintática que deve ser ocupada por um verbo ou por um nome, a depender da grade argumental do item predicador"
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Uso de classificadores em sinais complexos",
+      "descricao": "Classificadores são usados em sinais para representar objetos, ações ou relações espaciais, especialmente em contextos de descrição ou narrativa.",
+      "gatilho": "Sinal que envolve movimento ou configuração de mão para representar objetos ou ações complexas",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "VIDEOCONFERÊNCIA",
+        "HIPERTEXTO"
+      ],
+      "fonte_pagina": "p.208",
+      "fonte_citacao": "Morfemas presos também podem servir de morfema base para a criação de vários sinais, como o morfema preso L, que tem o significado de tela, pode derivar sinais como (99) VIDEOCONFERÊNCIA e HIPERTEXTO"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Supressão da duplicação em sinais com ETC",
+      "descricao": "Em sinais compostos com ETC, a duplicação da mão e a repetição do sinal principal são suprimidas para formar o sinal ETC.",
+      "gatilho": "Sinal composto com ETC que segue a estrutura de supressão da repetição do sinal principal",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "LEÃO^ETC",
+        "MAÇÃ^ETC",
+        "ROUPA^ETC"
+      ],
+      "fonte_pagina": "p.204",
+      "fonte_citacao": "Eventual supressão da duplicação da mão para realização do sinal ETC. (86) LEÃO^ETC (animais)"
+    }
+  ]
+}
+
+### p.234-248
+{"rules": [{"categoria": "verbos", "titulo": "Concordância número-pessoal com movimento reto", "descricao": "Verbos com concordância número-pessoal em Libras utilizam movimento reto entre as mãos espelhadas, com direções opostas e simultâneas, para marcar sujeito e objeto no espaço.", "gatilho": "verbo com concordância número-pessoal em Libras", "verificavel_por_texto": false, "exemplos": ["ME-INFORMAR", "CONTROLAR"], "fonte_pagina": "p.234", "fonte_citacao": "Os verbos com concordância número-pessoal em Libras identificados pelos movimentos alternados ocorrem nas duas direções opostas e se movem ao mesmo tempo entre as duas mãos espelhadas, assim sucessivamente; as direções de movimento não param."}, {"categoria": "verbos", "titulo": "Orientação da mão para marcar objeto", "descricao": "Verbos com concordância número-pessoal marcam o objeto pela alteração na orientação da mão (palma ou dorso) ou nos dedos (frente ou trás), em vez de movimento direcional.", "gatilho": "verbo com concordância número-pessoal com objeto localizável no espaço", "verificavel_por_texto": false, "exemplos": ["FALAR (dorso da mão)", "ME-FALAR (palma da mão)"], "fonte_pagina": "p.235", "fonte_citacao": "Os verbos com concordância , nos exemplos (156) e (157) FALAR retirados das surdas referentes no corpus, marcam o objeto através da alteração pela orientação da mão entre a palma e dorso da mão ou pelos dedos entre a frente e atrás."}, {"categoria": "morfologia", "titulo": "Morfemas-boca como afixos derivacionais", "descricao": "Morfemas-boca em Libras funcionam como afixos derivacionais, combinando-se com sinais manuais para formar palavras complexas, e não são independentes no léxico.", "gatilho": "morfema-boca em combinação com sinal manual", "verificavel_por_texto": false, "exemplos": ["cs 'perto'", "th 'desleixadamente'", "oo grau surpreendente"], "fonte_pagina": "p.245", "fonte_citacao": "os morfemas-boca são formas presas, pois devem coocorrer com os sinais manuais. Também relatam que tais morfemas normalmente ocorrem apenas em sinais simples, pois eles não se espalham ao longo do campo sintático."}, {"categoria": "morfologia", "titulo": "Coordenação dinâmica entre morfema-boca e sinal manual", "descricao": "Morfemas-boca exigem tempo coordenado com os sinais manuais, com transições cuidadosamente sincronizadas, não ocorrendo de forma isolada.", "gatilho": "presença de morfema-boca com sinal manual", "verificavel_por_texto": false, "exemplos": ["ESTOURAR+BOCA EM POW"], "fonte_pagina": "p.246", "fonte_citacao": "Os momentos de transição de um movimento de boca para outro são cuidadosa e especificamente coordenados com os sinais manuais."}, {"categoria": "morfologia", "titulo": "Morfemas-boca com múltiplos articuladores não manuais", "descricao": "Alguns morfemas-boca envolvem não apenas a boca, mas também movimentos de cabeça e ombros, que alteram ou completam o significado.", "gatilho": "morfema-boca associado a movimentos de cabeça ou ombros", "verificavel_por_texto": false, "exemplos": ["BALANÇO DE CABEÇA+ELEVAÇÃO DE SOBRANCELHAS+BOCA EM U"], "fonte_pagina": "p.247", "fonte_citacao": "Alguns morfemas ocorrem somente com movimentos de boca; outros ocorrem associados a movimentos de cabeça e de ombro (levantar), alterando o significado."}, {"categoria": "pronomes", "titulo": "IX como marcador de apontação para sujeito", "descricao": "O sinal IX é usado para apontar sujeitos no espaço, funcionando como pronome de sujeito em estruturas de frase.", "gatilho": "presença de sujeito não verbalizado na frase", "verificavel_por_texto": false, "exemplos": ["IX(casa)"], "fonte_pagina": "p.234", "fonte_citacao": "Nem todos os verbos com concordância número-pessoal possuem as direções de movimento, reto/curvo ou movimentos diferentes com as setas para indicar entre sujeito e objeto (HAAPANEN, 2010; WANDERLEY, 2017)."}, {"categoria": "foco", "titulo": "Morfema-boca em U para expressar foco interrogativo", "descricao": "O morfema-boca em U, combinado com sobrancelhas franzidas, indica foco interrogativo, especialmente em perguntas sobre conteúdo.", "gatilho": "frase interrogativa com foco em conteúdo (ex: O quê?)", "verificavel_por_texto": false, "exemplos": ["SINAL <O QUE> + BOCA EM U+ SOBRANCELHAS FRANZIDAS"], "fonte_pagina": "p.247", "fonte_citacao": "Nesse caso, muitas vezes ocorre sem o sinal manual, bastando somente o morfema-boca em U para compreender o significado e, com as sobrancelhas franzidas, constrói-se a mesma sentença sintática, como será detalhado mais à frente."}, {"categoria": "tempo-aspecto", "titulo": "Morfema-boca em U para indicar posse", "descricao": "O morfema-boca em U, associado a balanço de cabeça e elevação de sobrancelhas, indica posse em estruturas nominais.", "gatilho": "construção nominal com posse (ex: X de Y)", "verificavel_por_texto": false, "exemplos": ["BALANÇO DE CABEÇA+ELEVAÇÃO DE SOBRANCELHAS+BOCA EM U+ <O QUE>"], "fonte_pagina": "p.248", "fonte_citacao": "Durante a produção desse morfema-boca, o sinal manual O-QUE pode vir associado a ele ou não, conforme mostra a figura a seguir, onde há a realização desse morfema simultaneamente ao outro morfema manual, mantendo os seus próprios significados."}, {"categoria": "expressoes-idiomaticas", "titulo": "Articulações-boca como reflexo do contato bilíngue", "descricao": "Articulações-boca são formas de produção bucal que derivam do contato com a língua oral circundante, sendo comuns em surdos e CODAs, mesmo em contextos potencialmente monolíngues.", "gatilho": "presença de articulação-boca em surdos ou CODAs", "verificavel_por_texto": false, "exemplos": ["[ff] com o sinal ACABAR", "[pa] ('pah') com SUCESSO"], "fonte_pagina": "p.244", "fonte_citacao": "As articulações-boca, acompanhadas de sinais manuais, são tão frequentes quanto os gestos-boca, o que caracterizaria aqueles como parte inerente da Língua de Sinais."}]}
+
+### p.249-263
+{
+  "rules": [
+    {
+      "categoria": "morfologia",
+      "titulo": "Articulação-boca como morfema derivacional",
+      "descricao": "A articulação-boca pode funcionar como morfema derivacional, criando novos itens lexicais a partir de um sinal manual base, alterando ou especificando seu significado de forma gramaticalmente estruturada.",
+      "gatilho": "sinal manual com articulação-boca que altera ou especifica o significado do sinal, produzindo um novo item lexical",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ESCOLA-REGULAR -> NATURAL + articulação-boca 'eeculaa'",
+        "COPIAR -> sinal manual + articulação-boca 'copiaa'"
+      ],
+      "fonte_pagina": "p.261",
+      "fonte_citacao": "e. Derivação gramatical: as articulações-boca permitem a criação de novos itens lexicais a partir de um mesmo sinal manual, como o sinal de ESCOLA-REGULAR, que é composto pelo sinal NATURAL acompanhado da sua articulação-boca ´eeculaa´."
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Articulação-boca como marcador de negação",
+      "descricao": "A articulação-boca pode substituir recursos não manuais (como balanço de cabeça) para indicar negação, conferindo significado negativo diretamente ao verbo sem necessidade de sinais ou gestos adicionais.",
+      "gatilho": "verbo com articulação-boca que confere significado negativo ao sinal manual",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "SINAL <ALGUNS> + MORFEMA APERTANDO OS LÁBIOS CURVADOS PARA BAIXO -> 'alguns não'",
+        "lábios apertados, curvados para baixo associados a sinal manual -> negação"
+      ],
+      "fonte_pagina": "p.253",
+      "fonte_citacao": "O morfema-boca abaixo (lábios apertados, curvados para baixo) normalmente confere intensidade a uma ação; porém, quando associado a um sinal manual, também se configura uma negação, como nos exemplos a seguir, realizados em momentos distintos. Não ocorre o balanço de cabeça, pois o morfema-boca cumpre a função de negação."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Articulação-boca como marcador de referência de sujeito",
+      "descricao": "A articulação-boca pode ser usada para especificar o sujeito ou agente em verbos classificadores, funcionando como recurso de referência que substitui ou complementa a apontação espacial.",
+      "gatilho": "verbo classificador com articulação-boca que especifica o sujeito do verbo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "surdo nativo produz articulação-boca associada a verbo classificador para definir o sujeito"
+      ],
+      "fonte_pagina": "p.261",
+      "fonte_citacao": "f. Especificação de sujeitos/agentes em verbos classificadores: surdos nativos produzem articulações-boca associadas a verbos classificadores, para definir o sujeito daquele verbo."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Articulação-boca como marcador de vinculação em frases nominais",
+      "descricao": "A articulação-boca pode vincular sujeitos a verbos em frases nominais ou unidades prosódicas maiores, funcionando como recurso sintático para estabelecer relações gramaticais entre elementos da frase.",
+      "gatilho": "frase nominal com articulação-boca que conecta sujeito a verbo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "articulação-boca vinculando sujeito a verbo em frase nominal"
+      ],
+      "fonte_pagina": "p.261",
+      "fonte_citacao": "g. Vinculação: de sujeitos aos verbos constituintes de frases nominais ou unidades prosódicas maiores."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Articulação-boca como marcador de intensidade e aspecto",
+      "descricao": "A articulação-boca pode modificar o aspecto de um verbo, indicando intensidade, duração, frequência ou grau de ação, funcionando como marcador de aspecto semelhante a advérbios.",
+      "gatilho": "sinal manual com articulação-boca que modifica a intensidade ou aspecto da ação",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "lábios apertados com sinal manual -> intensidade",
+        "lábios semiapertados com sopro + classificador de linha de tempo -> movimento e quantidade"
+      ],
+      "fonte_pagina": "p.251",
+      "fonte_citacao": "Na figura abaixo, um exemplo retirado da pesquisa de Pêgo (2013), os lábios franzidos de forma reta denotam algo enfatizado como certo, conferindo intensidade ao sinal manual."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Articulação-boca como especificador de classificadores",
+      "descricao": "A articulação-boca pode ser usada para especificar características classificadoras ao sinal manual, como quantidade, movimento ou estado, especialmente em verbos classificadores.",
+      "gatilho": "verbo classificador com articulação-boca que especifica característica do referente",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "lábios semiapertados, com sopro, associados ao classificador que indica linha de tempo",
+        "sopro com lábios apertados -> quantidade, movimento"
+      ],
+      "fonte_pagina": "p.252",
+      "fonte_citacao": "Outro morfema-boca seria um que simula um sopro, porém com os lábios apertados; significa quantidade, movimento, como no caso abaixo, indicando muitas pessoas, multidão."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Articulação-boca como elemento de estilo discursivo",
+      "descricao": "A articulação-boca pode ser usada de forma estilística para representar atitudes, personagens ou expressões culturais, especialmente em surdos nativos que incorporam aspectos da cultura oral de forma teatral.",
+      "gatilho": "articulação-boca usada para representar atitude, personagem ou estilo discursivo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "sinalizante representando atitude de pessoa usando língua oral de forma teatral"
+      ],
+      "fonte_pagina": "p.261",
+      "fonte_citacao": "h. Estilo de discurso: essa função é mais observada em surdos nativos que constroem a sinalização incorporando alguns aspectos da cultura oral, mas mantendo a estrutura da Língua de Sinais e, muitas vezes, representando, de forma teatral, atitudes de pessoas utilizando a língua oral."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Articulação-boca como desambiguadora de pares mínimos",
+      "descricao": "A articulação-boca pode ser usada para desambiguar sinais que são idênticos em movimento manual, mas diferem semanticamente, permitindo distinguir entre significados diferentes.",
+      "gatilho": "sinal manual com articulação-boca que distingue entre dois significados possíveis",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "irmão vs irmã com articulação-boca especificando sexo",
+        "SPOUSE na Auslan com 'wife' ou 'husband' para especificar referente"
+      ],
+      "fonte_pagina": "p.261",
+      "fonte_citacao": "a. Desambiguação, complementação ou especificação de itens lexicais: Crasborn et al. (2008) corroboram os estudos de Schremer (1990) ao afirmarem que essas funções ocorrem quando são sinais iguais com significados diferentes, classes gramaticais diferentes ou com classes com significado mais específico. Johnston e Schembri (2007) citam o exemplo da Auslan para o sinal SPOUSE , no qual o mouthing, com as palavras em inglês wife ou husband, serve para indicar mais especificamente a qual pessoa o sinalizante se refere (Johnston et al., 2016). Na Libras, temos o exemplo “irmão” e “irmã”, que são sinalizados com as articulações-boca especificando o sexo, sem necessidade de um sinal adicional de HOMEM ou MULHER."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Restrição de coocorrência de morfemas-boca com sinais manuais",
+      "descricao": "Os morfemas-boca têm restrições de uso e não podem ser combinados com quaisquer sinais manuais; sua coocorrência é limitada a certos sinais específicos, com mudanças de significado ou função.",
+      "gatilho": "morfema-boca associado a sinal manual específico que altera seu significado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "sinal GORDO com bochechas infladas vs sinal GORDINHO com bochechas reduzidas",
+        "morfema-boca 'th' apenas com sinal BILÍNGUE"
+      ],
+      "fonte_pagina": "p.254",
+      "fonte_citacao": "E) Possuem restrições para coocorrer com sinais e modulações aspectuais. Essa talvez seja a propriedade que mais evidencia seu caráter morfológico. Os morfemas-boca são quase sempre combinados com sinais manuais; no entanto possuem limitações de uso, não podem ser combinados com quaisquer sinais (PÊGO, 2013)."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Articulação-boca como substituta de pronomes de gênero",
+      "descricao": "A articulação-boca pode especificar o gênero de um substantivo sem a necessidade de sinais adicionais como HOMEM ou MULHER, funcionando como marcador de gênero lexicalizado.",
+      "gatilho": "substantivo com articulação-boca que indica gênero sem sinal adicional",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "irmão vs irmã com articulação-boca especificando sexo"
+      ],
+      "fonte_pagina": "p.261",
+      "fonte_citacao": "Na Libras, temos o exemplo “irmão” e “irmã”, que são sinalizados com as articulações-boca especificando o sexo, sem necessidade de um sinal adicional de HOMEM ou MULHER."
+    }
+  ]
+}
+
+### p.264-278
+{
+  "rules": [
+    {
+      "categoria": "classificadores",
+      "titulo": "Articulação-boca classificadora para substantivos e adjetivos",
+      "descricao": "A articulação-boca classificadora é usada principalmente com sinais manuais de função substantiva ou adjetiva, conferindo características classificadoras ao sinal e contribuindo para a especificação semântica.",
+      "gatilho": "sinal manual com função substantiva ou adjetiva",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PEQUENO -> peeto",
+        "BEBÊ -> peeto",
+        "CRIANÇA -> peeto"
+      ],
+      "fonte_pagina": "p.270",
+      "fonte_citacao": "A mesma articulação-boca, ´peeto´, não só se vincula ao sinal manual CRIANÇA/PEQUENO , mas também a outros contextos e a outros sinais, como observado nas imagens dos vídeos, assumindo a função classificadora, na medida em que incorpora a forma do significado do sinal manual (PÊGO, 2021)."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Articulação-boca flexionada para marcar tempo verbal",
+      "descricao": "A articulação-boca flexionada pode marcar o tempo verbal do verbo manual, especialmente o passado, sem necessidade de sinais manuais adicionais como JÁ ou PASSADO.",
+      "gatilho": "verbo manual com necessidade de marcação de tempo passado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "VIAJAR -> foi",
+        "LEMBRAR -> eepaa (lembra), nao-eepoo (não lembro)"
+      ],
+      "fonte_pagina": "p.273",
+      "fonte_citacao": "Quando essa articulação-boca é produzida com o sinal manual VIAJAR, como no vídeo, ela permite que o verbo flexione para o tempo passado, sem necessidade de acrescentar o sinal manual JÁ ou o sinal PASSADO, para permitir que se compreenda o tempo da ação do verbo."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Articulação-boca flexionada para marcar gênero verbal",
+      "descricao": "A articulação-boca pode flexionar o sinal manual IRMÃO para indicar gênero (homem ou mulher) sem a necessidade de sinalizar manualmente HOMEM ou MULHER.",
+      "gatilho": "sinal manual IRMÃO com necessidade de especificação de gênero",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "IRMÃO -> iipa",
+        "IRMÃO -> ii-pao"
+      ],
+      "fonte_pagina": "p.274",
+      "fonte_citacao": "No entanto, a articulação-boca ´iipa´ ou ´ii-pao´ permite essa flexão sem necessidade de sinalização manual, quando ocorre simultaneamente com o sinal IRMÃO."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Articulação-boca performática para imitar fala de ouvintes",
+      "descricao": "A articulação-boca performática é usada para imitar o comportamento de fala de ouvintes, especialmente em contextos narrativos, com sons como 'papapa' para representar tagarelice, sem referência direta à oralidade, mas à visualidade vibracional da língua.",
+      "gatilho": "contexto narrativo envolvendo fala de ouvintes",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TELEFONE + BONITO -> papapa",
+        "situção com professora -> papapa"
+      ],
+      "fonte_pagina": "p.275",
+      "fonte_citacao": "Enquanto prosodicamente os ouvintes complementam sua produção oral articulando bla-bla-bla  ou fala-fala-fala para se referirem ao ato de tagarelar ou de falar muito, os surdos articulam em forma de pa-pa-pa  e isso pode ser referência a um teatro de fantoche, por exemplo, em que o movimento visual dos fantoches (visualmente os surdos veem como pa-pa-pa) é imitado e incorporado como recurso prosódico para imitar ouvinte."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Articulação-boca classificadora com movimento repetitivo para maior lexicalização",
+      "descricao": "A articulação-boca classificadora pode apresentar movimento repetitivo (ex: 'pepepe') como indicador de maior lexicalização, especialmente quando associada a sinais manuais com função de substantivo ou adjetivo.",
+      "gatilho": "articulação-boca classificadora com repetição de movimento",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PEQUENO -> pepepe",
+        "BEBÊ -> pepepe"
+      ],
+      "fonte_pagina": "p.271",
+      "fonte_citacao": "Observa-se que, no vídeo a seguir, a sinalização do sinal manual BEBÊ e, depois, a configuração desse sinal com a articulação-boca ´peeto´ que, por sua vez, apresenta um movimento de repetição que pode ser reflexo de crescente lexicalização da articulação-boca (PEPEPE)."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Articulação-boca especificadora para desambiguar pares mínimos",
+      "descricao": "A articulação-boca especificadora é usada para diferenciar sinais manuais com parâmetros visuais idênticos, especialmente em pares mínimos ou sinais polissêmicos, garantindo clareza semântica.",
+      "gatilho": "sinais manuais com parâmetros visuais idênticos e significados diferentes",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "NORMAL -> eecuaaa (para significar ESCOLA REGULAR)",
+        "DE-NOVO -> pais (para significar 'mais')",
+        "DE-NOVO -> te-tofo (para significar 'de novo')"
+      ],
+      "fonte_pagina": "p.277",
+      "fonte_citacao": "As articulações-boca especificadoras desempenham funções de complementação e de especificação de visemas. O exemplo abaixo demonstra o uso da articulação-boca especificadora IPAXE para complementar o sinal manual verbal DESENHAR."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Articulação-boca divergente para construção discursiva sem relação semântica",
+      "descricao": "A articulação-boca divergente pode ser usada em situações em que não há relação semântica direta com o sinal manual, mas contribui para a construção discursiva, como em expressões de dúvida ou ênfase.",
+      "gatilho": "sinal manual com articulação-boca sem relação semântica direta, mas com função discursiva",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "AJUDAR -> copo (para expressar 'como ajudar?')",
+        "ESCRITA -> so (para significar 'só escrita')",
+        "PROBLEMA -> pote (para significar 'não tem problema')"
+      ],
+      "fonte_pagina": "p.268",
+      "fonte_citacao": "A articulação-boca ´copo´ (prototípica quando vinculada ao sinal manual COMO), que assume a característica divergente, neste momento, por não possuir relação semântica com o sinal manual, mas exibe uma função sintático-discursiva, contribuindo para que se compreenda o que ele queria expressar naquele momento."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Articulação-boca prototípica associada a substantivos mais que a verbos",
+      "descricao": "As articulações-boca prototípicas são mais frequentes com sinais manuais de função substantiva ou adjetiva do que com verbos, refletindo uma preferência estrutural na língua.",
+      "gatilho": "sinal manual com função substantiva ou adjetiva",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ESCOLA -> esola",
+        "ESTUDAR -> esola",
+        "CASA -> poaaa"
+      ],
+      "fonte_pagina": "p.266",
+      "fonte_citacao": "Sabemos que a prototipicidade não possui limites nitidamente estabelecidos, mas podemos colocar que, devido ao fato de as articulações-boca acompanharem mais os substantivos que os verbos, elas assumem formas prototípicas quando associadas, semanticamente, aos sinais manuais com função substantiva e adjetiva."
+    }
+  ]
+}
+
+### p.279-293
+{"rules": [{"categoria": "morfologia", "titulo": "Derivação por articulação-boca especificadora", "descricao": "Um sinal manual pode mudar de categoria gramatical quando associado a uma articulação-boca especificadora, transformando-se em um novo visema com significado derivado.", "gatilho": "sinal manual + articulação-boca especificadora", "verificavel_por_texto": true, "exemplos": ["CONHECER + ooesipeto -> CONHECIMENTO"], "fonte_pagina": "p.279", "fonte_citacao": "O sinal manual CONHECER, por exemplo, pode ser vinculado à articulação-boca  ´ooesipeto´, resultando no visema CONHECIMENTO"}, {"categoria": "pronomes", "titulo": "Referenciação por articulação-boca referencial", "descricao": "A articulação-boca pode realizar o processo de referenciação, indicando um referente previamente mencionado no espaço ou no discurso, em conjunto com a indicação manual.", "gatilho": "sinal manual com referência anterior + articulação-boca referencial", "verificavel_por_texto": true, "exemplos": ["DIFERENTE + tifeete -> referência ao sinal anterior", "ESCOLA + esola -> referência ao lugar", "PROFESSOR + poofessoo -> referência ao papel e localização"], "fonte_pagina": "p.280", "fonte_citacao": "A referenciação não é feita somente pela especificação da locação ou pela indicação manual, mas também pela produção da articulação-boca"}, {"categoria": "sintaxe", "titulo": "Sincronicidade da articulação-boca com sinal manual", "descricao": "A articulação-boca síncrona inicia e termina simultaneamente com o sinal manual, sendo semanticamente ancorada a ele e comum em substantivos e verbos.", "gatilho": "sinal manual com articulação-boca que acompanha todo o movimento", "verificavel_por_texto": false, "exemplos": ["REFLEXÃO + eeflexao", "ATÉ + ate (em diferentes variações de movimento)"], "fonte_pagina": "p.283", "fonte_citacao": "A articulação-boca ´eeflexao´ segue o movimento do sinal manual, conferindo características mais adjetivas ao substantivo"}, {"categoria": "sintaxe", "titulo": "Articulação-boca reduzida no final do sinal manual", "descricao": "A articulação-boca reduzida é produzida no final do sinal manual, com tempo de duração menor que o sinal, e está semanticamente ligada ao significado do sinal.", "gatilho": "sinal manual com articulação-boca no final da produção", "verificavel_por_texto": false, "exemplos": ["FORMAR + foopa", "HISTÓRIA + iistoiia"], "fonte_pagina": "p.285", "fonte_citacao": "O tempo da articulação-boca reduzida FOOPA não só se relaciona ao tempo de produção do sinal manual FORMAR, mas também à semântica do sinal"}, {"categoria": "sintaxe", "titulo": "Articulação-boca estendida sobre sinais adjacentes", "descricao": "A articulação-boca estendida se sobrepõe temporalmente a um ou mais sinais manuais, sendo influenciada semanticamente pelos sinais adjacentes, mesmo que não seja prototipicamente associada a todos.", "gatilho": "articulação-boca que se estende por sinais anteriores ou posteriores ao sinal prototípico", "verificavel_por_texto": false, "exemplos": ["titaa sobre VER e TER", "ooxe sobre ATÉ e HOJE", "tatuaau sobre sinais adjacentes a NATURAL"], "fonte_pagina": "p.286", "fonte_citacao": "Essa categoria foi descrita por Mohr (2014) como a categoria 6b – articulação-boca estendida"}, {"categoria": "sintaxe", "titulo": "Articulação-boca sobreposta sem relação semântica", "descricao": "A articulação-boca sobreposta se sobrepõe a sinais manuais sem relação semântica direta, mas com função discursiva ou prosódica.", "gatilho": "articulação-boca produzida sobre sinal manual sem relação semântica", "verificavel_por_texto": false, "exemplos": ["copo sobre AJUDAR", "fasee-o-ee sobre AJUDA"], "fonte_pagina": "p.288", "fonte_citacao": "A articulação-boca ´copo´ sobrepõe-se ao sinal manual AJUDAR e, mesmo estendendo-se e sendo produzida associada ao sinal COMO, ela não se relaciona semanticamente"}, {"categoria": "sintaxe", "titulo": "Articulação-boca independente com significado lexical", "descricao": "A articulação-boca pode ser produzida de forma independente do sinal manual, carregando significado por si só, especialmente em lacunas lexicais ou para solicitar repetição.", "gatilho": "articulação-boca produzida sem sinal manual associado", "verificavel_por_texto": false, "exemplos": ["tao-eteti sem sinal manual ENTENDER-NÃO"], "fonte_pagina": "p.289", "fonte_citacao": "A articulação-boca ´tao-eteti`... é compreendida quando ela solicita repetição da pergunta à entrevistadora"}, {"categoria": "morfologia", "titulo": "Transcrição de articulações-boca com Sons Surdos", "descricao": "As articulações-boca devem ser transcritas com base nos Sons Surdos, que representam os fonemas visuais mais perceptíveis para surdos, em vez da fonética oral tradicional.", "gatilho": "transcrição de articulação-boca em glosa", "verificavel_por_texto": true, "exemplos": ["CASA -> ASA", "IGUAL -> IUA"], "fonte_pagina": "p.293", "fonte_citacao": "A articulação-boca que acompanha o sinal CASA será glosada como ASA, e não como /kaza/, que é o som tradicionalmente transcrito"}]}
+
+### p.294-308
+{"rules": []}
+
+### p.309-323
+{"rules": [{"categoria": "classificadores", "titulo": "Descrição de forma e tamanho com contorno gestual", "descricao": "O sinalizador utiliza o dedo indicador para descrever o contorno de um objeto, combinando movimento manual com direção do olhar para representar tamanho e forma.", "gatilho": "Quando se descreve um objeto com base em sua forma e tamanho, especialmente em contextos narrativos ou descritivos", "verificavel_por_texto": true, "exemplos": ["JANELA (contorno com dedo indicador + olhar para cima)", "JANELA (contorno com dedo indicador + olhar para cima e direção ao referente)"], "fonte_pagina": "p.313", "fonte_citacao": "No terceiro frame, visualiza-se uma descrição do tamanho e da forma da JANELA feita com o dedo indicador do sinalizante, sendo muito recorrente o uso do dedo indicador realizando um contorno dos objetivos descritos."}, {"categoria": "classificadores", "titulo": "Transferência espacial para representar profundidade", "descricao": "A profundidade espacial é representada pela disposição de referentes no espaço de sinalização, com um atrás do outro, e confirmada pelo olhar direcionado para trás.", "gatilho": "Quando se representa uma cena com múltiplos elementos em diferentes planos espaciais, como um menino e um policial atrás dele", "verificavel_por_texto": false, "exemplos": ["menino e policial um atrás do outro no espaço", "olhar do menino direcionado para trás"], "fonte_pagina": "p.314", "fonte_citacao": "O sinalizante estabelece com os dois dedos indicadores duas pessoas, uma atrás da outra, que na narrativa representam um policial e um menino... tal profundidade também pode ser observada no olhar do menino direcionado para trás."}, {"categoria": "classificadores", "titulo": "Transferência de localização com direção visual e ponto de locação", "descricao": "A localização de um signo no espaço é determinada pela direção do olhar, posição da mão e intensidade do movimento, relacionando-se com o ponto de aplicação no corpo ou no espaço neutro.", "gatilho": "Quando o sinalizador posiciona um signo em um local específico do espaço, com base em direção visual e movimento direcional", "verificavel_por_texto": false, "exemplos": ["direção do olhar para cima", "direção do olhar para trás", "posição da mão em local específico"], "fonte_pagina": "p.315", "fonte_citacao": "Na localização dos pontos específicos, observa-se que se relaciona mais com a direção do ponto ao qual o signo está direcionado (para cima; para baixo; lado esquerdo; lado direito; do meio; de trás, de frente ou do uso de grande velocidade ou de pequena velocidade)."}, {"categoria": "classificadores", "titulo": "Transferência de movimento para unir sinais com novo significado", "descricao": "O movimento entre dois sinais é usado para criar um novo significado, como a junção de 'fora' e 'dentro' para formar 'juntos'.", "gatilho": "Quando dois sinais são conectados por um movimento direcional que altera ou cria um novo significado", "verificavel_por_texto": false, "exemplos": ["movimento de 'fora' para 'dentro' resultando em 'juntos'"], "fonte_pagina": "p.315", "fonte_citacao": "A figura 85 exemplifica o movimento necessário para se juntar os dois sinais de 'fora' para 'dentro' dando o novo significado: 'juntos'."}, {"categoria": "classificadores", "titulo": "Transferência de incorporação para narrar ações do corpo", "descricao": "O narrador incorpora o objeto ou personagem, transformando-se fisicamente em ele para representar ações, sentimentos ou percepções.", "gatilho": "Quando se narra uma ação ou estado de um personagem, especialmente em narrativas visuais", "verificavel_por_texto": false, "exemplos": ["narrador desempenha o papel do personagem", "olhos do narrador enunciam o que o desenho mostra"], "fonte_pagina": "p.316", "fonte_citacao": "O narrador passa a ser transformado em um objeto para caracterizar aquilo que sente ou mostra fisicamente. Usa a incorporação de objetos e as suas estruturas, quando incorporadas, apagam o assunto da enunciação e do narrador."}, {"categoria": "classificadores", "titulo": "Transferência de vibração para representar sensações físicas", "descricao": "A vibração é representada por sinais manuais combinados com expressão facial e movimento que transmitem sensações táteis ou corporais, como o estalar de um beijo.", "gatilho": "Quando se representa uma sensação vibratória sentida pelo corpo, como um carro passando ou um beijo na orelha", "verificavel_por_texto": false, "exemplos": ["sinal de beijo com movimento vibratório na orelha"], "fonte_pagina": "p.317", "fonte_citacao": "Podemos observar, no exemplo que segue, uma transferência de vibração que além da representação manual da ação de beijar, também indica a vibração do estalar de um beijo na orelha:"}, {"categoria": "sintaxe", "titulo": "Ordem de sinais em narrativas visuais com foco na perspectiva", "descricao": "A ordem dos sinais segue a perspectiva visual do narrador, com foco no que é visto, e não na sequência linear do tempo.", "gatilho": "Em narrativas visuais, especialmente em contextos de descrição de cenas ou eventos", "verificavel_por_texto": false, "exemplos": ["descrição de cena com foco no olhar do menino", "sequência baseada na visão do narrador"], "fonte_pagina": "p.316", "fonte_citacao": "Na sua descrição visual, de acordo com a perspectiva, apresentou seis (6) características para descrever durante a análise: a) A visão como exploração ativa; b) Captação do essencial; c) Simplicidade; d) Nivelamento e aguçamento; e) Os olhos que vêm da verdade e f) Desenvolvimento Visual (ARNHEIM, 2004 apud CAMPELLO, 2008, p.180)."}, {"categoria": "tempo-aspecto", "titulo": "Representação de tempo por meio de visualidade e sequência espacial", "descricao": "O tempo é representado não por marcas verbais, mas por mudanças no espaço de sinalização, como a progressão de elementos em diferentes planos.", "gatilho": "Quando se narra uma sequência de eventos em uma cena visual", "verificavel_por_texto": false, "exemplos": ["progressão de ações em diferentes planos espaciais", "mudança de posição no espaço para indicar tempo"], "fonte_pagina": "p.314", "fonte_citacao": "O espaço de sinalização já foi construído; assim, novos elementos são acrescentados no decorrer da sinalização."}, {"categoria": "foco", "titulo": "Foco visual como elemento estrutural na narrativa", "descricao": "O foco da narrativa é determinado pela direção do olhar do sinalizador, que indica o que é relevante no momento.", "gatilho": "Quando o sinalizador direciona o olhar para um elemento específico no espaço de sinalização", "verificavel_por_texto": false, "exemplos": ["olhar para cima indicando objeto alto", "olhar para trás indicando profundidade"], "fonte_pagina": "p.313", "fonte_citacao": "A direção do olhar, no primeiro frame da figura 82, indica a distância do objeto e também a altura dele em relação ao sinalizante."}, {"categoria": "pronomes", "titulo": "IX para referência a entidades estáveis no espaço", "descricao": "O pronome IX é usado para indicar entidades que já foram localizadas no espaço e que permanecem estáveis durante a narrativa.", "gatilho": "Quando uma entidade (pessoa, objeto) é localizada no espaço e referida novamente", "verificavel_por_texto": true, "exemplos": ["IX(menino)", "IX(policial)"], "fonte_pagina": "p.314", "fonte_citacao": "O sinalizante estabelece com os dois dedos indicadores duas pessoas, uma atrás da outra, que na narrativa representam um policial e um menino, o mesmo menino que jogou uma pedra na janela descrita na transferência de tamanho e forma, item 5.7.2.2."}, {"categoria": "morfologia", "titulo": "Formação de sinais por iconicidade de contorno e ação", "descricao": "Sinais são formados com base na imitação de formas (contorno) ou ações, especialmente em surdos isolados.", "gatilho": "Quando sinais são criados por surdos adultos isolados para representar entidades ou eventos", "verificavel_por_texto": false, "exemplos": ["sinais com contorno de forma", "sinais com imitação de ação"], "fonte_pagina": "p.311", "fonte_citacao": "As primeiras são devolvidas quer por sinais que especificam uma forma ou um contorno de forma, quer por combinações gestuais que associam descrição de contorno de forma e ação frequentemente conexa a esta forma, enquanto que os segundos recorrem apenas à imitação de ações."}, {"categoria": "verbos", "titulo": "Verbos com direcionalidade e concordância espacial", "descricao": "Verbos direcionais indicam movimento entre locações no espaço, com concordância entre sujeito, objeto e direção do movimento.", "gatilho": "Quando um verbo indica movimento entre dois pontos no espaço de sinalização", "verificavel_por_texto": false, "exemplos": ["movimento de 'fora' para 'dentro'"], "fonte_pagina": "p.315", "fonte_citacao": "A transferência de movimento, segundo Campello (2008), serve para condicionar e pontuar a sua locação do signo para outra locação de signo em outro espaço ou de tocar os dois signos usando o movimento para obter o equilíbrio visual."}, {"categoria": "pergunta", "titulo": "Formação de perguntas com item-QU por meio de direção visual", "descricao": "Perguntas com itens como 'quando', 'onde', 'qual' são formadas com a direção do olhar e movimento manual, sem necessidade de estrutura verbal específica.", "gatilho": "Quando se faz uma pergunta com um item interrogativo (quando, onde, qual, etc.)", "verificavel_por_texto": false, "exemplos": ["olhar direcionado para cima + sinal de 'quando?'", "olhar para trás + sinal de 'onde?'"], "fonte_pagina": "p.313", "fonte_citacao": "A direção do olhar, no primeiro frame da figura 82, indica a distância do objeto e também a altura dele em relação ao sinalizante, um objeto à sua altura ou levemente mais alto."}, {"categoria": "negacao", "titulo": "Negação por movimento facial e manual simultâneo", "descricao": "A negação é realizada com movimento facial (balanço da cabeça) combinado com movimento manual (movimento de 'não' ou 'não-é')", "gatilho": "Quando se nega uma afirmação ou uma ação", "verificavel_por_texto": false, "exemplos": ["balanço da cabeça + movimento de 'não' manual"], "fonte_pagina": "p.317", "fonte_citacao": "A figura 87 exemplifica o movimento necessário para se juntar os dois sinais de 'fora' para 'dentro' dando o novo significado: 'juntos'."}, {"categoria": "expressoes-idiomaticas", "titulo": "Técnicas de visualidade para treinamento de sinalização", "descricao": "Técnicas como assistir a filmes sem áudio, traduzir para Libras, usar espelho e autoavaliação são práticas convencionais para desenvolver a percepção visual e a fluência em Libras.", "gatilho": "Quando se treina a percepção visual e a produção de Libras em contextos educacionais", "verificavel_por_texto": true, "exemplos": ["assistir ao filme sem legenda e sem áudio", "traduzir em Língua de Sinais para colegas", "filme e grave usando os sinais, depois faça sua autoavaliação"], "fonte_pagina": "p.318", "fonte_citacao": "Estas são as técnicas da visualidade e sua perspectiva visual que podem ser aperfeiçoadas com o tempo, assim como todas as línguas do mundo."}]}
+
+### p.324-338
+{"rules": [{"categoria": "expressoes-idiomaticas", "titulo": "Criação de sinais para blocos de sentido complexo", "descricao": "A Língua de Sinais brasileira produz sinais únicos que representam ideias complexas ou estruturas oracionais, em vez de combinar múltiplos sinais para expressar o mesmo significado.", "gatilho": "Quando um conceito complexo ou estrutura oracional precisa ser expresso em Libras", "verificavel_por_texto": true, "exemplos": ["A LÍNGUA DE SINAIS BRASILEIRA CRIA SINAIS QUE REPRESENTAM BLOCOS DE SENTIDO COMPLEXO", "UM SINAL SIMPLES PODE REPRESENTAR UMA ESTRUTURA ORACIONAL EM PORTUGUÊS"], "fonte_pagina": "p.339", "fonte_citacao": "Assim, um forte efeito da modalidade das Línguas de Sinais está em traduzir sentidos complexos em unidades sinalizadas representadas por unidades lexicais manuais sinalizadas simples ou por unidades lexicais sinalizadas constituídas por expressões faciais, como aquelas constituídas apenas de morfemas-boca."}, {"categoria": "sintaxe", "titulo": "Ordem de sinais em frases complexas", "descricao": "A ordem dos sinais em frases complexas em Libras segue uma estrutura que prioriza o foco e a clareza semântica, frequentemente invertendo a ordem do português.", "gatilho": "Em frases com estrutura complexa ou com foco em um elemento específico", "verificavel_por_texto": true, "exemplos": ["A LÍNGUA DE SINAIS BRASILEIRA ORGANIZA A FRASE DE FORMA QUE O FOCO SEJA DESTACADO", "A ORDEM DOS SINAIS PODE SER INVERTIDA EM RELAÇÃO AO PORTUGUÊS PARA GARANTIR CLAREZA"], "fonte_pagina": "p.337", "fonte_citacao": "A própria enunciação já vem carregada de uma ideologia, do poder “camuflado”, dos signos visuais, com suas estruturas expressivas, sutis, impregnada das tendências afetivo-volitivas que na relação entre dois interlocutores se formam em um único signo da relação."}, {"categoria": "pronomes", "titulo": "Uso de IX para pronomes de apoio", "descricao": "O sistema de pronomes em Libras utiliza o IX (índice) para indicar sujeito, objeto ou complemento, com localização espacial que substitui a concordância verbal.", "gatilho": "Quando há necessidade de indicar sujeito ou objeto em uma frase", "verificavel_por_texto": false, "exemplos": ["IX(casa)", "IX(ela)", "IX(meu)"], "fonte_pagina": "p.325", "fonte_citacao": "Configuração de Mão, Orientação da Mão, Movimento, Locação e Expressões Não Manuais."}, {"categoria": "verbos", "titulo": "Verbos direcionais com concordância espacial", "descricao": "Verbos em Libras podem ser direcionais e concordar com o sujeito e objeto localizados no espaço, indicando movimento e relação entre os participantes da ação.", "gatilho": "Verbo com concordância + sujeito e objeto ambos localizáveis no espaço", "verificavel_por_texto": false, "exemplos": ["EXPLICAR-ME", "DAR-IX", "MOSTRAR-IX"], "fonte_pagina": "p.325", "fonte_citacao": "Cada sinal apresenta parâmetros que, se não estiverem interligados, apresentarão um desequilíbrio no processamento visual e perceptivo."}, {"categoria": "tempo-aspecto", "titulo": "Expressão de tempo e aspecto por meio de parâmetros não-manuais", "descricao": "O tempo e o aspecto em Libras são expressos principalmente por meio de expressões faciais, movimentos corporais e direcionalidade, não por marcas verbais.", "gatilho": "Quando se expressa tempo (passado, presente, futuro) ou aspecto (completo, contínuo, habitual)", "verificavel_por_texto": false, "exemplos": ["SINAL COM EXPRESSÃO FACIAL DE PASSADO", "MOVIMENTO LENTO PARA INDICAR CONTINUIDADE"], "fonte_pagina": "p.325", "fonte_citacao": "Configuração de Mão, Orientação da Mão, Movimento, Locação e Expressões Não Manuais."}, {"categoria": "foco", "titulo": "Foco em elementos da frase por meio de localização espacial", "descricao": "O foco de uma frase em Libras é indicado pela localização espacial dos sinais, com o uso de pontos de articulação específicos para destacar o elemento central.", "gatilho": "Quando se deseja destacar um elemento da frase como foco", "verificavel_por_texto": false, "exemplos": ["SINAL LOCALIZADO NO ESPAÇO PARA INDICAR FOCO", "USO DE PONTO DE ARTICULAÇÃO ESPECÍFICO PARA DESTACAR SUJEITO"], "fonte_pagina": "p.333", "fonte_citacao": "A relação professor e aluno, por meio do diálogo, não é difícil, mas quanto mais se conhecem e se “compreendem” os sinais, mais fácil se torna a relação entre ambos."}, {"categoria": "negacao", "titulo": "Negação por meio de expressão facial e movimento de cabeça", "descricao": "A negação em Libras é realizada principalmente por expressão facial (olhar fixo, sobrancelhas franzidas) e movimento de cabeça, não por sinais isolados.", "gatilho": "Quando se expressa negação em uma frase", "verificavel_por_texto": false, "exemplos": ["EXPRESSION FACIAL DE NEGATIVA", "MOVIMENTO DE CABEÇA PARA LADO"], "fonte_pagina": "p.333", "fonte_citacao": "Assim, um sinal adquire outros significados, como um código estabelecido por uma comunidade, uma espécie de signos flexíveis que mudam seu valor de acordo com a situação de uso."}, {"categoria": "classificadores", "titulo": "Uso de classificadores para representar objetos e ações", "descricao": "Classificadores em Libras são usados para representar objetos, ações, movimentos e relações espaciais, com configurações manuais específicas.", "gatilho": "Quando se descreve objetos, movimentos ou relações espaciais", "verificavel_por_texto": false, "exemplos": ["CLASSIFICADOR PARA CARRO", "CLASSIFICADOR PARA ANDAR"], "fonte_pagina": "p.325", "fonte_citacao": "Configuração de Mão, Orientação da Mão, Movimento, Locação e Expressões Não Manuais."}, {"categoria": "pergunta", "titulo": "Formação de perguntas com item-QU", "descricao": "Perguntas em Libras são formadas com o uso de itens interrogativos como QUANDO, ONDE, QUAL, com expressão facial de interrogação e estrutura sintática adaptada.", "gatilho": "Quando se formula uma pergunta com item-QU", "verificavel_por_texto": false, "exemplos": ["ONDE VOCÊ VAI?", "QUAL É O SEU NOME?"], "fonte_pagina": "p.325", "fonte_citacao": "Essa ‘incapacidade’ é um produto cultural relacionado ao desenvolvimento da percepção."}, {"categoria": "morfologia", "titulo": "Derivação e composição de sinais por meio de parâmetros", "descricao": "Novos sinais em Libras são criados por derivação e composição, utilizando configuração, orientação, movimento e localização como elementos morfológicos.", "gatilho": "Quando se cria um novo sinal ou se modifica um existente", "verificavel_por_texto": false, "exemplos": ["SINAL COM NOVA CONFIGURAÇÃO DE MÃO", "SINAL COM NOVO MOVIMENTO"], "fonte_pagina": "p.339", "fonte_citacao": "Os sinais das LS, assim como as palavras das línguas orais, modificam-se nos diferentes contextos em que são empregados, de forma que são significados e ressignificados."}]}
+
+### p.339-353
+{"rules": [{"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas em Libras são reconhecidas por regularidade, durabilidade e significação conotativa", "descricao": "Uma expressão idiomática em Libras é identificada não pela estrutura lexical ou morfológica, mas pela repetição frequente em diferentes contextos (regularidade), pela permanência ao longo do tempo (durabilidade) e pelo significado não literal (conotativo ou metafórico), que não pode ser deduzido do sentido das unidades lexicais isoladas.", "gatilho": "Análise de uma unidade lexical ou combinação de sinais em uso recorrente em discursos de sinalizantes", "verificavel_por_texto": true, "exemplos": ["CABELOS-EM-PÉ -> Ficar de cabelos em pé (por susto)", "MÃOS LEVES -> Tem fluência em Libras"], "fonte_pagina": "p.347", "fonte_citacao": "O critério da regularidade identifica se uma expressão se repete em diversos contextos, nos diferentes discursos de sinalizantes. O critério da durabilidade nos mostra se a expressão é eventual, se é de uso recente ou se já incorporou ao léxico da Língua de Sinais brasileira. O critério da significação metafórica ou conotativa nos mostra se a expressão tem sentido literal (denotativo) ou não literal (conotativo)."}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas podem ser constituídas por um ou mais sinais", "descricao": "Uma expressão idiomática em Libras pode ser formada por um único sinal (ex: CABELOS-EM-PÉ) ou por uma combinação de sinais (ex: CABEÇA DURA), sem que a quantidade de sinais determine se é ou não idiomática.", "gatilho": "Presença de uma unidade lexical sinalizada simples ou complexa em uso recorrente", "verificavel_por_texto": true, "exemplos": ["CABELOS-EM-PÉ", "CABEÇA DURA", "CARA-QUEBRAR", "ORELHA CARA"], "fonte_pagina": "p.342", "fonte_citacao": "Existem Expressões Idiomáticas constituídas de apenas uma unidade lexical sinalizada... Existem expressões idiomáticas constituídas por mais de uma unidade lexical sinalizada, ou seja, por mais de um sinal."}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas em Libras podem incluir morfemas faciais com valor morfêmico", "descricao": "Expressões idiomáticas em Libras podem ser constituídas por morfemas faciais (como expressão da boca) que têm valor morfêmico, como em LÍNGUA-FORA (isso mesmo!) e LÁBIOS-FECHADOS (impressionante!).", "gatilho": "Presença de sinais com expressão facial não manual que contribui para o significado idiomático", "verificavel_por_texto": false, "exemplos": ["LÍNGUA-FORA", "LÁBIOS-FECHADOS", "LÁBIOS-TREME"], "fonte_pagina": "p.345", "fonte_citacao": "As expressões idiomáticas, do ponto de vista morfológico, podem ser constituídas basicamente por unidades morfológicas produzidas pelo corpo, sejam elas unidades morfológicas manuais ou faciais. Assim, tanto é possível identificar expressões idiomáticas equivalentes a unidades lexicais constituídas de unidades morfológicas simples, quanto constituídas por unidades morfológicas complexas."}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas em Libras podem ser adaptadas culturalmente a partir da Língua Portuguesa", "descricao": "Expressões idiomáticas da Língua Portuguesa são adaptadas para Libras com ajustes culturais que respeitam a modalidade visual e manual da língua, como substituir 'boca' por 'mãos' ou 'ouvidos' por 'olhos'.", "gatilho": "Expressão idiomática em Português com base em partes do corpo que é adaptada para Libras", "verificavel_por_texto": false, "exemplos": ["CALE AS MÃOS! (em vez de Cale a boca)", "VEJA (em vez de Ouçam)", "OLHOS-SAIR (em vez de Entrar por um ouvido e sair pelo outro)"], "fonte_pagina": "p.349", "fonte_citacao": "Há expressões com adaptação idiomática que em Língua Portuguesa se referem à cultura linguística oral e em Língua de Sinais brasileira há um ajuste cultural à Língua de Sinais. São expressões que sofrem um ajuste cultural. Como exemplo, podemos citar: “Cale as mãos!” em oposição a “Cale a boca”; “Vejam o que estamos dizendo!” em oposição a “Ouçam o que estamos dizendo!”; “Entrar por um olho e sair pelo outro” em oposição a “Entrar por um ouvido e sair pelo outro”"}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas em Libras refletem experiências culturais compartilhadas sobre olhos, mãos e corpo", "descricao": "Expressões idiomáticas em Libras frequentemente se baseiam em marcas culturais visuais e corporais, como olhos (visão), mãos (manualidade) e corpo (expressão corporal), que são centrais na experiência linguística surda.", "gatilho": "Presença de expressões idiomáticas com foco em olhos, mãos ou corpo", "verificavel_por_texto": true, "exemplos": ["MÃOS LEVES", "MÃOS DURAS", "OLHO CARO", "ORELHA BARATA", "ESMAGAR"], "fonte_pagina": "p.348", "fonte_citacao": "Assim, os olhos para se referir à visão/visualidade dos surdos e as mãos para se referir à corporalidade/“manualidade” da Língua de Sinais têm grande destaque e produtividade na constituição idiomatica em Língua de Sinais brasileira."}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas em Libras podem ter significado metafórico baseado em mapeamentos cognitivos", "descricao": "Expressões idiomáticas em Libras frequentemente usam mapeamentos cognitivos que transferem conceitos de um domínio físico (como mãos, olhos) para um domínio abstrato (como fala, controle, emoção), resultando em significados conotativos.", "gatilho": "Uso de sinais corporais (mãos, olhos, corpo) para expressar ideias abstratas", "verificavel_por_texto": false, "exemplos": ["MÃOS/DEDOS-BALANÇAR -> Papo furado", "MÃOS-LIMPAR -> Estou fora", "ESMAGAR -> Refere-se ao preconceito"], "fonte_pagina": "p.352", "fonte_citacao": "Ainda do ponto de vista semântico, também é possível ilustrar a concepção metafórica do sinal (33), que se refere à discriminação e ao preconceito, como aquilo que é esmagado nas mãos."}]}
+
+### p.354-368
+{"rules": [{"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas com base metafórica", "descricao": "Expressões idiomáticas em Libras são frequentemente baseadas em mapeamentos metafóricos que estruturam o pensamento e a experiência, como metáforas estruturais, espaciais/orientacionais e ontológicas, e não devem ser interpretadas literalmente.", "gatilho": "frase contém expressão idiomática sinalizada com significado não literal", "verificavel_por_texto": true, "exemplos": ["Pessoa é tempero", "Pessoa é máquina", "Pessoa é animal", "Tempo é dinheiro", "Ideias são plantas"], "fonte_pagina": "p.364", "fonte_citacao": "O sistema conceptual linguístico da Língua de Sinais brasileira é intrinseca mente metafórico, demonstrando que a forma como pensamos, o que experienciamos e o que fazemos dia a dia são essencialmente metafóricos."}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas com metáfora estrutural", "descricao": "Expressões idiomáticas baseadas em metáforas estruturais representam conceitos abstratos em termos de outros conceitos, como pessoas como tempero, máquinas ou animais, com base em domínios fonte e alvo.", "gatilho": "expressão idiomática compara pessoas a tempero, máquinas ou animais", "verificavel_por_texto": true, "exemplos": ["SAL-FALTA", "MÃO-LUBRIFICAR", "BRAÇO-JUNTA-ENCOLHER", "LESMA", "TARTARUGA"], "fonte_pagina": "p.365", "fonte_citacao": "Pessoas são tempero: (74) SAL-FALTA; pessoas são máquinas: (76) MÃO-LUBRIFICAR; pessoas são animais: (78) LESMA"}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas com metáfora espacial/orientacional", "descricao": "Expressões idiomáticas em Libras usam orientação espacial (para cima, para baixo, perto, longe) para representar valores emocionais ou conceituais, onde movimentos para cima indicam positividade e para baixo negatividade.", "gatilho": "expressão idiomática envolve movimento de mão em direção ao corpo ou afastamento do corpo", "verificavel_por_texto": false, "exemplos": ["AFASTAR-EU", "VOMITAR", "EMPURRAR-X", "CHOQUE", "APERTAR-PESCOÇO-TRÁS"], "fonte_pagina": "p.367", "fonte_citacao": "Sinais que se aproximam do corpo e elevam as mãos remetem a sentidos que são positivos. O afastamento do corpo e o abaixamento das mãos remete a sentidos negativos e a sentimento de rejeição."}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas com metáfora ontológica", "descricao": "Expressões idiomáticas baseadas em metáforas ontológicas tratam conceitos abstratos (como ideias, emoções, conhecimento) como entidades físicas que podem ser manipuladas, armazenadas ou transferidas, como colocar algo na cabeça ou tirar da cabeça.", "gatilho": "expressão idiomática envolve ação de colocar ou tirar algo da cabeça", "verificavel_por_texto": false, "exemplos": ["APRENDER", "ESQUECER", "CABEÇA-EXPLODIR"], "fonte_pagina": "p.368", "fonte_citacao": "O medo é uma entidade; a mente é um recipiente; ideias ou sentidos são objetos; palavras são recipientes; comunicar é enviar ou transferir a posse; compreender é pegar ou ver."}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas com significado convencional", "descricao": "Expressões idiomáticas em Libras têm significados convencionais e fixos, que não são derivados da soma dos sinais componentes, e devem ser aprendidas como unidades completas.", "gatilho": "expressão idiomática é apresentada como unidade com significado não literal", "verificavel_por_texto": true, "exemplos": ["CARA-BATER", "OLHO-PISCAR", "PORTA-NA-CARA", "MANGA-ENROLAR", "QUEIXO-CAIR"], "fonte_pagina": "p.354", "fonte_citacao": "EXPRESSÕES IDIOMÁTICAS SINALIZADAS GLOSAS E SIGNIFICADOS EM LÍNGUA PORTUGUESA"}, {"categoria": "expressoes-idiomaticas", "titulo": "Expressões idiomáticas com falsos cognatos", "descricao": "Algumas expressões em Libras têm forma semelhante a expressões em português, mas significados diferentes, sendo consideradas falsos cognatos.", "gatilho": "expressão em Libras tem forma semelhante a expressão em português, mas significado distinto", "verificavel_por_texto": true, "exemplos": ["MÃOS LEVES"], "fonte_pagina": "p.363", "fonte_citacao": "Em Língua de Sinais brasileira, entretanto, (73) refere-se a intérprete(s) de mãos leves, que sinalizam com grande leveza e suavidade:"}]}
+
+### p.369-377
+{
+  "rules": [
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Expressões idiomáticas com base semântica variável",
+      "descricao": "Expressões idiomáticas com o mesmo significado podem ter representações diferentes em Libras, mesmo com base semântica semelhante, indicando variação linguística geográfica ou contextual.",
+      "gatilho": "Expressão idiomática com significado equivalente em diferentes formas sinalizadas",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "CABEÇA-FECHAR -> Estar de cabeça fechada",
+        "GARGANTA-DESCER-DIFÍCIL -> Engolir seco! Não consigo aceitar essa situação!",
+        "GRANADA-PINO-BOCA SOLTAR -> Quero ver o circo pegar fogo!",
+        "FÓSFORO-RISCAR JOGAR -> Quero ver o circo pegar fogo!",
+        "MÃOS-RECUAR -> Tirar o corpo fora!",
+        "MÃOS-TIRAR -> Me deixe fora disso!",
+        "MÃOS-LIMPAR -> Lavar as mãos."
+      ],
+      "fonte_pagina": "p.370",
+      "fonte_citacao": "Assim, é possível encontrar uma expressão idiomática de mesma base semântica com representação semelhante, como no caso de (93’) e (93’’), ilustrados a seguir:"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Concordância verbal em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas em Libras podem apresentar concordância verbal, com variação na direção da ação conforme o sujeito e objeto da oração.",
+      "gatilho": "Expressão idiomática com ação direcional que varia conforme sujeito e objeto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "1-3PEGAR-NO-PÉ -> Eu pego no pé del@.",
+        "2-1PEGAR-NO-PÉ -> Pegou no meu pé!",
+        "2-DIZER-ALGO-PARA-1 -> …Me ofendeu!",
+        "1-DIZER-ALGO-PARA-2 -> Vou dizer uma palavra só!",
+        "1-EXPULSAR-2 -> Expulsei el@.",
+        "2-EXPULSAR-1 -> Fui expulso."
+      ],
+      "fonte_pagina": "p.373",
+      "fonte_citacao": "Do ponto de vista sintático, as expressões idiomáticas também podem concordar com o sujeito da oração. Existem, assim, expressões idiomáticas sinalizadas que apresentam concordância verbal."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Variação morfológica em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas podem sofrer variações morfológicas sutis que ampliam ou ajustam seu significado, mantendo a base morfológica original.",
+      "gatilho": "Expressão idiomática com variação morfológica que altera ou ajusta o significado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "OLHOS-SALTAR -> Arregalar os olhos.",
+        "OLHOS-INCHAR -> Encher os olhos.",
+        "OLHOS-QUICAR -> Abismado!",
+        "OLHOS-CAIR -> Olhos arregalados!",
+        "OLHOS-CAIR ROUPA-LIMPAR -> Inacreditável!"
+      ],
+      "fonte_pagina": "p.375",
+      "fonte_citacao": "Essa possibilidade linguística é recorrente e mostra o quanto as expressões idiomáticas sinalizadas são produtivas, uma vez que, sob os processos de criatividade linguística, a partir de uma base morfológica, surge uma série de contextos idiomaticos criativos, afins, mas diferenciados."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de pronomes direcionais em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas em Libras utilizam pronomes direcionais (IX) para indicar sujeito e objeto, com variação conforme a posição espacial do locutor e do referente.",
+      "gatilho": "Expressão idiomática com indicação de sujeito ou objeto por direcionalidade ou apontação",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "1-3PEGAR-NO-PÉ -> Eu pego no pé del@.",
+        "2-1PEGAR-NO-PÉ -> Pegou no meu pé!",
+        "2-DIZER-ALGO-PARA-1 -> …Me ofendeu!",
+        "1-DIZER-ALGO-PARA-2 -> Vou dizer uma palavra só!"
+      ],
+      "fonte_pagina": "p.373",
+      "fonte_citacao": "Como exemplo, podemos citar (103) em que a expressão vai do objeto para o sujeito, indicando a ação executada pela primeira pessoa, enquanto em (104) a ação é executada por uma segunda pessoa e afeta a primeira pessoa"
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Foco em ações direcionais em expressões idiomáticas",
+      "descricao": "O foco da ação em expressões idiomáticas é determinado pela direcionalidade do movimento do sinal, indicando quem realiza a ação e quem é afetado.",
+      "gatilho": "Expressão idiomática com movimento direcional que indica sujeito e objeto",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "1-3PEGAR-NO-PÉ -> Eu pego no pé del@.",
+        "2-1PEGAR-NO-PÉ -> Pegou no meu pé!",
+        "1-EXPULSAR-2 -> Expulsei el@.",
+        "2-EXPULSAR-1 -> Fui expulso."
+      ],
+      "fonte_pagina": "p.374",
+      "fonte_citacao": "As expressões idiomáticas, ainda que como unidades morfológicas, são produtivas sintaticamente uma vez que podem ampliar seu significado sintático com pequenas variações que levam a estruturas mais complexas de significado, a partir de uma variação mórfica sutil que amplia e ressignifica a expressão idiomática base, originalmente constituída."
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Negação em expressões idiomáticas com movimento de recuo",
+      "descricao": "A negação em expressões idiomáticas pode ser indicada por movimentos de recuo das mãos, especialmente em expressões que envolvem retirada ou afastamento.",
+      "gatilho": "Expressão idiomática com movimento de recuo ou afastamento das mãos",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "MÃOS-RECUAR -> Tirar o corpo fora!",
+        "MÃOS-TIRAR -> Me deixe fora disso!",
+        "MÃOS-LIMPAR -> Lavar as mãos."
+      ],
+      "fonte_pagina": "p.371",
+      "fonte_citacao": "Em todos os casos há uma retirada das mãos de algum contexto. Grosso modo, essas expressões podem equivaler, em Língua Portuguesa, à expressão idiomática “lavar as mãos”."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Expressões idiomáticas com marcadores de aspecto temporal",
+      "descricao": "Expressões idiomáticas podem indicar aspecto temporal (completivo, durativo, iterativo) por meio de variações no movimento ou repetição do sinal.",
+      "gatilho": "Expressão idiomática com repetição ou movimento prolongado que indica aspecto",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "OLHOS-QUICAR -> Abismado!",
+        "OLHOS-INCHAR -> Encher os olhos.",
+        "OLHOS-CAIR ROUPA-LIMPAR -> Inacreditável!"
+      ],
+      "fonte_pagina": "p.375",
+      "fonte_citacao": "Assim, são os olhos que saltam, que caem, que são lubrificados, que quicam, que são limpos para garantir a maravilha que se vê, o que se está imaginando."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Expressões idiomáticas em perguntas com item-QU",
+      "descricao": "Expressões idiomáticas podem ser usadas em perguntas com pronomes interrogativos (QUANDO, ONDE, QUAL, etc.), mantendo sua estrutura idiomática original.",
+      "gatilho": "Expressão idiomática usada em contexto de pergunta com item-QU",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "BOCA-FECHAR -> Fique quieto!",
+        "CALAR-ALGUÉM -> Deixar alguém sem palavras."
+      ],
+      "fonte_pagina": "p.372",
+      "fonte_citacao": "Por fim, em (102), que pode estar associado ao fato de calar a boca de alguém no sentido de convencê-la ou deixá-la sem argumentos:"
+    }
+  ]
+}
+
+### p.219-233
+{
+  "rules": [
+    {
+      "categoria": "verbos",
+      "titulo": "Concordância verbal com argumentos locativos",
+      "descricao": "Verbos que expressam predicados locativos (como LEVAR, MUDAR, COLOCAR) podem ter sua localização alterada para coincidir com a localização de um argumento locativo, em vez de sujeito ou objeto.",
+      "gatilho": "verbo locativo (ex: LEVAR, MUDAR, COLOCAR) com argumento locativo localizável no espaço",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "MUDAR para outra escola -> MUDAR(ESCOLA)",
+        "transporte LEVAR -> LEVAR(TRANSPORTE)",
+        "grupo MUDAR para outra escola -> MUDAR(GRUPO, ESCOLA)",
+        "ME COLOCAR na clínica -> COLOCAR(ME, CLÍNICA)"
+      ],
+      "fonte_pagina": "p.219",
+      "fonte_citacao": "Além dos verbos descritos acima que possuem concordância com o sujeito e/ou o objeto da frase, há também verbos cuja localização é alterada de modo a coincidir com a localização de um argumento locativo."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos ancorados ao corpo não permitem concordância verbal",
+      "descricao": "Verbos que são articulados presos ao corpo do sinalizante (como APRENDER, TER) não podem ter sua localização alterada e, portanto, não apresentam concordância verbal em sua morfologia.",
+      "gatilho": "verbo articulado preso ao corpo do sinalizante",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "APRENDER -> APRENDER",
+        "TER -> TER"
+      ],
+      "fonte_pagina": "p.219",
+      "fonte_citacao": "Já os verbos ancorados ao corpo do sinalizante não podem ter sua localização alterada e, portanto, não apresentam concordância verbal em sua morfologia."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Reciprocidade em verbos unimanuais por cópia da segunda mão",
+      "descricao": "Em verbos unimanuais que permitem concordância verbal, a reciprocidade é marcada pela cópia da segunda mão (M2), que replica as especificações fonológicas da M1, mantendo a concordância verbal com sujeito e objeto.",
+      "gatilho": "verbo unimanual com concordância verbal e construção recíproca",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Sinal FALAR da primeira pessoa -> DUAS-PESSOAS-FALAM (M2 copiada)",
+        "Sinal ME-FALAR da segunda pessoa para primeira pessoa -> DUAS-PESSOAS-FALAM (M2 copiada)"
+      ],
+      "fonte_pagina": "p.222",
+      "fonte_citacao": "Por se tratar de um verbo unimanual e que pode ser flexionado por concordância verbal, a marcação de reciprocidade se dá através do processo de cópia da segunda mão."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Reciprocidade em verbos unimanuais com conversão do movimento",
+      "descricao": "Em verbos unimanuais com movimento direcional, a reciprocidade é marcada pela cópia da M2 e pela conversão do movimento, onde a M1 vai de A para B e a M2 vai de B para A.",
+      "gatilho": "verbo unimanual com movimento direcional e construção recíproca",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "AVISAR -> DUAS-PESSOAS-AVISAM (M1: A->B, M2: B->A)",
+        "DAR -> DUAS-PESSOAS-DÃO (M1: A->B, M2: B->A)"
+      ],
+      "fonte_pagina": "p.223",
+      "fonte_citacao": "Além da cópia da M2, há ainda situações em que o sinal unimanual sofre também o processo chamado de conversão do movimento."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Reciprocidade em verbos bimanuais por conversão do movimento",
+      "descricao": "Em verbos bimanuais, a reciprocidade é marcada pela conversão do movimento, onde o movimento tradicional de A para B é reduplicado alternadamente de A para B e B para A.",
+      "gatilho": "verbo bimanual com construção recíproca",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "AJUDAR -> AJUDAR(recíproco) (movimento alternado A->B e B->A)",
+        "CONVERSAR EM LIBRAS -> CONVERSAR EM LIBRAS(recíproco)",
+        "MANDAR MENSAGEM -> MANDAR MENSAGEM(recíproco)"
+      ],
+      "fonte_pagina": "p.224",
+      "fonte_citacao": "Nesse caso, o movimento do verbo sofre um processo de reduplicação reversa, ou seja, o movimento que é tradicionalmente de A para B, passa a ser reduplicado, de maneira alternada, movendo-se de A para B e depois de B para A"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Reciprocidade só ocorre com verbos não ancorados ao corpo",
+      "descricao": "A flexão de reciprocidade em Libras só é possível com verbos que não são ancorados ao corpo; para verbos ancorados, usa-se estratégia bi-oracional.",
+      "gatilho": "construção recíproca com verbo em Libras",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "VERBO ANCHORADO AO CORPO -> não pode ter reciprocidade morfológica",
+        "VERBO NÃO ANCHORADO AO CORPO -> pode ter reciprocidade morfológica"
+      ],
+      "fonte_pagina": "p.224",
+      "fonte_citacao": "Assim como acontece com os processos de concordância verbal descritos anteriormente, a flexão de reciprocidade somente ocorre com os verbos que não são ancorados ao corpo."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Pluralidade verbal sobre tempo por repetição do movimento no mesmo ponto",
+      "descricao": "A pluralidade verbal que incide sobre o tempo dos eventos é marcada pela repetição do movimento do verbo no mesmo ponto do espaço, indicando repetição com pequena distância temporal (aspecto habitual ou iterativo).",
+      "gatilho": "evento repetido ao longo do tempo com pequena distância temporal",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "PAGAR -> PAGAR (movimento repetido no mesmo ponto)",
+        "PAGAR (pluralidade de tempo) -> PAGAR (repetição do movimento no mesmo local)"
+      ],
+      "fonte_pagina": "p.227",
+      "fonte_citacao": "Esse tipo de pluralidade é marcado pela repetição do movimento do verbo, mas localizado no mesmo ponto do espaço."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Pluralidade verbal sobre diferentes participantes por reduplicação em arco",
+      "descricao": "A pluralidade verbal que incide sobre diferentes participantes é marcada por múltiplas reduplicações do movimento verbal distribuídas em um arco em frente ao corpo, indicando leitura exaustiva (múltiplos eventos com participantes distintos).",
+      "gatilho": "evento com múltiplos participantes distintos (leitura exaustiva)",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "DEMITIR -> DEMITIR (movimentos reduplicados em arco)",
+        "ENCONTRAR -> ENCONTRAR (movimentos reduplicados em arco)"
+      ],
+      "fonte_pagina": "p.226",
+      "fonte_citacao": "Na leitura exaustiva, o verbo é marcado por múltiplas reduplicações do movimento verbal, distribuídas ao longo de um arco em frente ao corpo do sinalizante."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Pluralidade verbal sobre diferentes lugares por reduplicação em arco",
+      "descricao": "A pluralidade verbal que incide sobre diferentes lugares é marcada por múltiplas reduplicações do movimento verbal distribuídas em um arco em frente ao corpo, indicando distribuição espacial do evento.",
+      "gatilho": "evento repetido ou sequencial em diferentes lugares",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "FREQUENTAR -> FREQUENTAR (movimento em arco)",
+        "FREQUENTAR(plural) -> FREQUENTAR (movimento em arco)"
+      ],
+      "fonte_pagina": "p.227",
+      "fonte_citacao": "Em Libras, esse tipo de pluralidade também é marcada por múltiplas reduplicações do movimento verbal, distribuídas ao longo de um arco em frente ao corpo do sinalizante."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo normal e reverso na escrita de sinais",
+      "descricao": "Na escrita de sinais (SignWriting), a direção do movimento do verbo indica se é normal (do sujeito para o objeto) ou reverso (contrário à direção do apontamento).",
+      "gatilho": "verbo com concordância número-pessoal em escrita de sinais",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ME-VER -> verbo normal (movimento para o sujeito)",
+        "ME-CHAMAR -> verbo reverso (movimento para fora do sujeito)"
+      ],
+      "fonte_pagina": "p.229",
+      "fonte_citacao": "Os referentes são introduzidos no espaço à frente do sinalizador, através da apontação em diferentes locais. As formas verbais para pessoa são estabelecidas através do início e fim do movimento e da direção do verbo, incorporando estes pontos previamente indicados no espaço para determinados referentes."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Movimento reto vs. curvo em verbos com concordância",
+      "descricao": "Verbos com concordância número-pessoal podem ter formas com movimento reto ou curvo, sendo que ambas são equivalentes, mas uma pode estar em processo de desuso.",
+      "gatilho": "verbo com concordância número-pessoal",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "ME DAR (movimento reto) -> ME DAR",
+        "ME DAR (movimento curvo) -> ME DAR"
+      ],
+      "fonte_pagina": "p.232",
+      "fonte_citacao": "Alguns verbos com concordância número-pessoal podem ter uma forma no tipo de movimento, seja reto ou curvo, ou as duas formas equivalentes no particípio duplo com a concordância normal ou reversa, existindo a possibilidade de que uma delas, aos poucos, pode deixar de ser empregada."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Movimentos de eixo em verbos com concordância",
+      "descricao": "Verbos com concordância podem usar movimentos de eixo, como rotação do antebraço (girar) ou flexão do pulso (quebrar), que são parâmetros fonológicos relevantes para a marcação de sujeito e objeto.",
+      "gatilho": "verbo com concordância número-pessoal com movimento de eixo",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "ME PROVOCAR -> (rotação do antebraço)",
+        "MANDAR -> (flexão do pulso para baixo)",
+        "ME MANDAR -> (flexão do pulso para trás)"
+      ],
+      "fonte_pagina": "p.233",
+      "fonte_citacao": "O movimento de flexão do pulso é feito quando o pulso se quebra nos sinais."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Movimentos alternados em verbos com concordância",
+      "descricao": "Verbos com concordância podem usar movimentos alternados, onde as mãos se movem em direções opostas (ex: vai para frente e volta para trás), marcando a relação entre sujeito e objeto.",
+      "gatilho": "verbo com concordância número-pessoal com movimento alternado",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Sinal com movimentos alternados (mãos em direções opostas)",
+        "Sinal com movimentos 'vai para frente e volta para trás'"
+      ],
+      "fonte_pagina": "p.234",
+      "fonte_citacao": "Os movimentos alternados incluem as duas direções de movimentos em cada mão, enquanto que a mão direita se move em uma direção e a mão esquerda se move em direção oposta."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Apontação (dêixis) como base para concordância verbal",
+      "descricao": "A apontação (dêixis) é usada para introduzir referentes no espaço, e os verbos com concordância utilizam esses pontos previamente indicados para marcar sujeito e objeto.",
+      "gatilho": "verbo com concordância número-pessoal",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "IX(sujeito) -> verbo começa no ponto de IX(sujeito)",
+        "IX(objeto) -> verbo termina no ponto de IX(objeto)"
+      ],
+      "fonte_pagina": "p.229",
+      "fonte_citacao": "Os referentes são introduzidos no espaço à frente do sinalizador, através da apontação em diferentes locais. As formas verbais para pessoa são estabelecidas através do início e fim do movimento e da direção do verbo, incorporando estes pontos previamente indicados no espaço para determinados referentes."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos inerentemente recíprocos",
+      "descricao": "Verbos como INTERAGIR, CONVERSAR, COMUNICAR e TER-CONTATO são inerentemente recíprocos, ou seja, já trazem em sua representação semântica a ideia de reciprocidade.",
+      "gatilho": "verbo com significado semântico de reciprocidade mútua",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "INTERAGIR -> INTERAGIR",
+        "CONVERSAR -> CONVERSAR",
+        "COMUNICAR -> COMUNICAR",
+        "TER-CONTATO -> TER-CONTATO"
+      ],
+      "fonte_pagina": "p.221",
+      "fonte_citacao": "Por exemplo, o verbo INTERAGIR em Libras já traz consigo uma ideia de reciprocidade. Outros sinais como CONVERSAR, COMUNICAR e TER-CONTATO também podem ser considerados como verbos inerentemente recíprocos."
+    }
+  ]
+}

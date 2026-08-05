@@ -1,0 +1,146 @@
+### p.335-340
+{
+  "rules": [
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Swallowed the Fish",
+      "descricao": "Indica que alguém foi enganado ou mostrou-se ingênuo ao confiar em alguém que não deveria. Pode ser usado sobre si mesmo ou sobre outra pessoa, com expressão facial de embaraço, como olhos arregalados.",
+      "gatilho": "Após alguém demonstrar confiança em uma pessoa ou situação que deveria ser óbvia para todos, especialmente em contexto de humor leve.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Alguém acredita em uma mentira óbvia -> SWALLOWED-THE-FISH",
+        "Você acredita em um golpe fácil -> SWALLOWED-THE-FISH"
+      ],
+      "fonte_pagina": "p.335",
+      "fonte_citacao": "This idiom indicates gullibility. You use it in good humor after someone mistakenly places his trust in someone he shouldn’t have or should have known something since it is common knowledge."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Train Gone",
+      "descricao": "Expressa que alguém perdeu uma oportunidade ou não entendeu uma informação que os outros já entenderam. Não é usado sobre si mesmo, mas sim para apontar alguém que está fora do contexto.",
+      "gatilho": "Quando alguém não entende uma piada, uma informação ou uma referência que todos os outros entenderam, especialmente em grupo.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Alguém não ri de uma piada -> TRAIN-GONE",
+        "Alguém pede para repetir algo que já foi dito -> TRAIN-GONE"
+      ],
+      "fonte_pagina": "p.336",
+      "fonte_citacao": "You don’t normally direct this lighthearted idiom toward yourself but rather toward someone else. You often use this sign, which can be compared to the English idiom “missed the boat,” when someone tells a joke and everyone laughs except one person."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Pea Brain",
+      "descricao": "Expressão ofensiva que critica a inteligência de alguém, geralmente usada entre amigos próximos com intenção de humor. O grau de ofensa depende da expressão facial: língua esticada ou olhos cruzados aumentam o tom ofensivo.",
+      "gatilho": "Quando alguém faz algo estúpido ou diz algo óbvio, especialmente em contexto de brincadeira entre pessoas próximas.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Alguém esquece algo óbvio -> PEA-BRAIN",
+        "Você diz algo óbvio -> PEA-BRAIN (autoironia)"
+      ],
+      "fonte_pagina": "p.337",
+      "fonte_citacao": "Hearing people use this idiom as well, and just as in English, you shouldn’t use this idiom very often because it’s not polite. In fact, it’s somewhat offensive, although perhaps in a group of good friends you can get away with it if you mean it in good fun."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Rats!/Darn!",
+      "descricao": "Expressão de frustração ou decepção diante de algo que não saiu como esperado. É feita com a mão dominante pegando um “inseto” no ar, como se capturasse uma mosca.",
+      "gatilho": "Quando algo não dá certo, como um erro, um imprevisto ou uma frustração leve.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Você perdeu um objeto -> RATS!/DARN!"
+      ],
+      "fonte_pagina": "p.337",
+      "fonte_citacao": "If you’ve ever experienced a situation in which something doesn’t go as expected, you probably already know how to use this expression. Like the illustration indicates, you open your passive hand facing up. Using your dominant hand, you start with the manual number 5 and, with the manual letter S, you act like you’re catching a fly in the palm of your hand."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "I Hope",
+      "descricao": "Expressão de desejo ou esperança, feita cruzando os dedos das duas mãos com formato de R. Pode ser reforçada com expressão facial de expectativa, como olhos fechados ou boca entreaberta.",
+      "gatilho": "Quando se deseja algo com força, especialmente em situações de incerteza ou ansiedade.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Você espera que chova -> I-HOPE",
+        "Você espera que o resultado seja bom -> I-HOPE"
+      ],
+      "fonte_pagina": "p.338",
+      "fonte_citacao": "To sign I hope, you cross your fingers on both hands. It’s pretty simple and is generally understood in both the hearing and Deaf worlds alike. Just cross your fingers in R handshapes."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Your Guess Is as Good as Mine",
+      "descricao": "Expressa que o signador também não sabe a resposta, podendo ser usada como resposta direta a uma pergunta ou como parte da pergunta. A expressão facial de sorriso sardônico e sobrancelhas levantadas reforça o tom de incerteza.",
+      "gatilho": "Após alguém fazer uma pergunta que o signador não sabe responder, especialmente em contexto de humor ou desespero leve.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Alguém pergunta o que aconteceu -> YOUR-GUESS-IS-AS-GOOD-AS-MINE",
+        "Você não sabe a resposta -> YOUR-GUESS-IS-AS-GOOD-AS-MINE"
+      ],
+      "fonte_pagina": "p.338",
+      "fonte_citacao": "In Sign, you can ask a question and use this expression at the same time. A good facial expression to go with this sign is to smirk (smiling with just the corner of your mouth) and raise your eyebrows."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Cool!",
+      "descricao": "Expressão de aprovação ou admiração, com dois modos: um com dedo e polegar no rosto girando, outro com polegar no peito e dedos se mexendo. O tom depende da expressão facial: sorriso, lábios cerrados ou boca aberta.",
+      "gatilho": "Quando algo é considerado bom, interessante ou impressionante, especialmente em contextos sociais.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Alguém faz algo legal -> COOL!",
+        "Você vê algo impressionante -> COOL!"
+      ],
+      "fonte_pagina": "p.338",
+      "fonte_citacao": "You can sign it in two different ways; both signs have pretty much the same meaning. The first sign, shown in the following picture, is made by placing your index finger and thumb on your cheek and twisting your wrist in an inward motion."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Oh No!",
+      "descricao": "Expressão de constrangimento ou arrependimento, usada ao testemunhar ou descrever uma ação embaraçosa. Feita com mão 5 aberta e fechando para S, com olhos arregalados e sorriso nervoso.",
+      "gatilho": "Quando algo embaraçoso acontece ou é lembrado, especialmente em contexto social.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Você tropeça em público -> OH-NO!",
+        "Você diz algo errado -> OH-NO!"
+      ],
+      "fonte_pagina": "p.339",
+      "fonte_citacao": "Make this sign when you witness an embarrassing action or are explaining one of your own embarrassing actions to someone. Open your eyes wide; you can even put on a nervous smile as you express this sign."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "That’s Superb!",
+      "descricao": "Expressão de entusiasmo ou surpresa positiva, feita com mão –F tocando o queixo. O tom depende da expressão facial: boca em forma de –OO para aprovação ou expressão de nojo para negatividade.",
+      "gatilho": "Quando algo é muito bom ou impressionante, ou quando se quer expressar ironia negativa.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Algo muito bom acontece -> THAT’S-SUPERB!",
+        "Algo muito ruim acontece -> THAT’S-SUPERB! (com expressão de nojo)"
+      ],
+      "fonte_pagina": "p.339",
+      "fonte_citacao": "This sign is made by using the manual –F handshape and touching the center of your chin. Your facial expression will tell if it is a positive experience or a negative one."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "That’s Pretty Straight-Laced",
+      "descricao": "Expressa que alguém é muito conservador, rígido ou antiquado. Feito com expressão facial de lábios apertados e ar de superioridade.",
+      "gatilho": "Quando alguém age de forma excessivamente convencional, rígida ou desatualizada.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Alguém rejeita uma ideia nova por tradição -> THAT’S-PRETTY-STRAIGHT-LACED"
+      ],
+      "fonte_pagina": "p.340",
+      "fonte_citacao": "By making this sign, you’re saying that someone is ultraconservative, close-minded, or just an old-fashioned square. For your facial expression, press your lips tightly together, perhaps paired with a snobbish-type expression."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Wow!",
+      "descricao": "Expressão de surpresa ou admiração com conotação positiva ou negativa. O tom é determinado pela expressão facial: olhos arregalados e sorriso parcial para positivo, sobrancelhas franzidas para negativo.",
+      "gatilho": "Quando algo surpreende, impressiona ou desagrada, especialmente em contexto social.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Você vê algo incrível -> WOW!",
+        "Você vê algo ruim -> WOW! (com sobrancelhas franzidas)"
+      ],
+      "fonte_pagina": "p.340",
+      "fonte_citacao": "You can use this expression with a positive or a negative connotation. Your facial expression, along with the conversation’s context, tells your friends exactly how you feel about the subject at hand."
+    }
+  ]
+}

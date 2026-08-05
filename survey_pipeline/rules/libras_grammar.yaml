@@ -1,0 +1,195 @@
+# Gramática Formal da Libras — v1 (Prof. Tânia)
+#
+# Diferente do pacote de ASL (rule_package.yaml = regras descritivas PLANAS), a
+# Libras veio como GRAMÁTICA (CFG): não-terminais + produções + léxico. Esse
+# formato permite, no futuro, um VERIFICADOR DETERMINÍSTICO (parser) que confere
+# a ESTRUTURA sozinho. AQUI só ORGANIZAMOS a gramática — ainda NÃO há parser.
+
+meta:
+  titulo: "Gramática Formal da Libras — Versão 1"
+  autoria: "Prof. Tânia Martins (consultoria)"
+  fonte: "ANÁLISE SINTÁTICA - VERSÃO 1 - Tania.pdf (reunião 2026-07-31)"
+  base: "50 sentenças do contexto Saúde (arquivo V2S); 6 transcritas aqui"
+  criterio: "estruturas simples, priorizando o referente presente"
+  versao_transcricao: "0.1"
+  status: >
+    Transcrição fiel do PDF. As `producoes_por_sentenca` são exatamente como vieram.
+    As `producoes_consolidadas` são um RASCUNHO nosso para unificar — precisa de
+    confirmação da Tânia antes de virar parser.
+
+# ------------------------------------------------------------------ #
+# Glossário dos símbolos (não-terminais)
+# ------------------------------------------------------------------ #
+nao_terminais:
+  S: "Sentença"
+  "S-INT[QU]": "Sentença interrogativa com item-QU (pergunta QUANDO/QUAL/ONDE...)"
+  SJPR: "Bloco Sujeito + Predicado"
+  SUJ: "Sujeito"
+  PRED: "Predicado"
+  VB: "Sintagma verbal (verbo base)"
+  V: "Verbo"
+  COMPL: "Complemento"
+  OBJDIR: "Objeto direto"
+  OBJIND: "Objeto indireto"
+  NUCLOBI: "Núcleo do objeto indireto"
+  NOME: "Nome (substantivo)"
+  ADJN: "Adjunto adnominal (modifica o nome; ex.: adjetivo depois do nome)"
+  ADJV: "Adjunto adverbial (advérbio, ou marcador de polidez)"
+  PREP: "Preposição (frequentemente NULA em Libras)"
+  IX: "Apontamento = pronome (IX1 = 1a pessoa, IX2 = 2a pessoa)"
+
+# ------------------------------------------------------------------ #
+# As 6 sentenças-exemplo (servem de casos de teste do futuro parser)
+# ------------------------------------------------------------------ #
+sentencas_exemplo:
+  - id: 1
+    glosa: "PODER EXPLICAR TRATAMENTO"
+    portugues: "Pode explicar tratamento?"
+  - id: 2
+    glosa: "EU PODER IR CASA HOJE"
+    portugues: "Posso ir para casa hoje?"
+  - id: 3
+    glosa: "DOR COMEÇAR QUANDO?"
+    portugues: "Dor começar quando?"
+  - id: 4
+    glosa: "COMER ALGO ESTRANHO?"
+    portugues: "Comer algo estranho?"
+  - id: 5
+    glosa: "BEBER ÁGUA SUFICIENTE?"
+    portugues: "Beber água suficiente?"
+  - id: 6
+    glosa: "ENFERMEIRA CHAMAR AGORA"
+    portugues: "Enfermeira chamar, agora."
+
+# ------------------------------------------------------------------ #
+# Produções EXATAMENTE como vieram no PDF (uma lista por sentença)
+# ------------------------------------------------------------------ #
+producoes_por_sentenca:
+  - sentenca: 1
+    producoes:
+      - "S -> SUJ PRED"
+      - "ADJV -> <marcador>"
+      - "SJPR -> SUJ PRED"
+      - "SUJ -> Pronome (IX)"
+      - "PRED -> V (direcional)"
+      - "V -> <verbo direcional>"
+      - "COMPL -> OBJ DIR"
+      - "OBJ DIR -> <nome>"
+  - sentenca: 2
+    producoes:
+      - "S -> SUJ PRED"
+      - "SUJ -> Pronome reto (EU)"
+      - "PRED -> VB"
+      - "VB -> Verbo COMPL"
+      - "V -> Verbo (PODER IR)"
+      - "COMPL -> OBJ IND"
+      - "OBJIND -> [Prep] NUCLOBI"
+      - "PREP -> Nulo (não realizada)"
+      - "NUCLOBI -> NOME ADJN"
+      - "NOME -> nome (CASA)"
+      - "ADJN -> Advérbio (HOJE)"
+  - sentenca: 3
+    producoes:
+      - "S -> SJPR INT[QU]"
+      - "SJPR -> SUJ PRED"
+      - "SUJ -> NOME"
+      - "PRED -> VB (verbo base)"
+      - "V -> VERBO"
+      - "ADJV -> ADVÉRBIO"
+  - sentenca: 4
+    producoes:
+      - "S -> SJPR INT[QU]"
+      - "SJPR -> SUJ PRED"
+      - "SUJ -> Nul ou IX"
+      - "PRED -> VB (verbo base)"
+      - "VB -> V COMPL"
+      - "V -> VERBO"
+      - "COMPL -> OBJDIR"
+      - "OBJDIR -> NOME"
+      - "NOME -> ADJN"
+      - "ADJN -> ADJETIVO"
+  - sentenca: 5
+    producoes:  # idênticas à sentença 4
+      - "S -> SJPR INT[QU]"
+      - "SJPR -> SUJ PRED"
+      - "SUJ -> Nul ou IX"
+      - "PRED -> VB (verbo base)"
+      - "VB -> V COMPL"
+      - "V -> VERBO"
+      - "COMPL -> OBJDIR"
+      - "OBJDIR -> NOME"
+      - "NOME -> ADJN"
+      - "ADJN -> ADJETIVO"
+  - sentenca: 6
+    producoes:
+      - "S -> SJPR INT[QU]"   # obs.: no PDF veio INT[QU], mas a frase 6 é afirmativa (inconsistência a confirmar)
+      - "SJPR -> SUJ PRED"
+      - "SUJ -> NOME"
+      - "PRED -> VB (verbo base)"
+      - "VB -> V [ADJV]"
+      - "V -> VERBO"
+      - "ADJV -> ADVÉRBIO"
+
+# ------------------------------------------------------------------ #
+# RASCUNHO nosso: produções unificadas (a CONFIRMAR com a Tânia)
+# ------------------------------------------------------------------ #
+producoes_consolidadas:
+  - "S -> SJPR [INT[QU]]"                     # afirmativa; INT[QU] marca pergunta-QU
+  - "SJPR -> SUJ PRED"
+  - "SUJ -> IX | Pronome_reto | NOME | Nul"   # Nul = sujeito omitido (referente presente)
+  - "PRED -> VB"
+  - "VB -> V [COMPL] [ADJV]"                  # verbo + (complemento) + (advérbio)
+  - "V -> verbo"                              # simples | direcional | locativo (ver léxico)
+  - "COMPL -> OBJDIR | OBJIND"
+  - "OBJDIR -> NOME"
+  - "OBJIND -> [PREP] NUCLOBI"
+  - "PREP -> Nul"                             # preposição locativa sempre nula
+  - "NUCLOBI -> NOME [ADJN]"
+  - "NOME -> nome [ADJN]"
+  - "ADJN -> ADJETIVO | ADVÉRBIO"
+  - "ADJV -> ADVÉRBIO | marcador_polidez"
+
+# ------------------------------------------------------------------ #
+# Léxico (tabela de símbolos) — como veio no PDF
+# ------------------------------------------------------------------ #
+lexico:
+  - {sinal: "PODER",     classe: "Verbo",                          atributo_libras: "Locução adverbial (modal; tratado como verbo principal)"}
+  - {sinal: "POR FAVOR", classe: "Locução adverbial",             atributo_libras: "Polidez (marcada por expressão não-manual)"}
+  - {sinal: "EXPLICAR",  classe: "Verbo transitivo direto",       atributo_libras: "Verbo Direcional (incorpora IX)"}
+  - {sinal: "TRATAMENTO",classe: "Substantivo",                   atributo_libras: ""}
+  - {sinal: "DOR",       classe: "Substantivo",                   atributo_libras: ""}
+  - {sinal: "COMEÇAR",   classe: "Verbo transitivo direto",       atributo_libras: "Verbo Simples"}
+  - {sinal: "QUANDO",    classe: "Advérbio de tempo",             atributo_libras: "Advérbio de tempo (item-QU)"}
+  - {sinal: "COMER",     classe: "Verbo transitivo direto",       atributo_libras: "Verbo"}
+  - {sinal: "ALGO",      classe: "Pronome indefinido",            atributo_libras: "Pronome"}
+  - {sinal: "ESTRANHO",  classe: "Adjetivo",                      atributo_libras: ""}
+  - {sinal: "BEBER",     classe: "Verbo transitivo direto",       atributo_libras: ""}
+  - {sinal: "ÁGUA",      classe: "Substantivo",                   atributo_libras: ""}
+  - {sinal: "SUFICIENTE",classe: "Adjetivo",                      atributo_libras: ""}
+  - {sinal: "EU",        classe: "Pronome reto, 1a pessoa sing.", atributo_libras: ""}
+  - {sinal: "IR",        classe: "Verbo intransitivo/pronominal", atributo_libras: "Verbo Locativo (espacial)"}
+  - {sinal: "CASA",      classe: "Substantivo",                   atributo_libras: ""}
+  - {sinal: "HOJE",      classe: "Advérbio de tempo",             atributo_libras: "Advérbio de tempo"}
+
+# ------------------------------------------------------------------ #
+# Decisões / regras que a Tânia registrou nas notas
+# ------------------------------------------------------------------ #
+decisoes:
+  - "Referente presente -> sujeito pode ser NULO (SUJ -> Nul)."
+  - "Verbo direcional incorpora o pronome: IX2-EXPLICAR-IX1 ('para mim')."
+  - "Polidez (POR FAVOR, COM LICENÇA) fica FORA da árvore nuclear — marcada por expressão não-manual (canal de vídeo / Sign2Voice / flag)."
+  - "Preposição locativa (PARA) é sempre NULA na glosa — realizada no movimento (ex.: IR CASA)."
+  - "Modal (PODER) NÃO é categoria separada — tratado como verbo principal (PODER IR)."
+  - "Item-QU (QUANDO/QUAL/ONDE) vai no FIM como ADJV — foco da interrogação."
+  - "Adjetivo vem DEPOIS do nome (NOME -> ADJN -> ADJETIVO): ÁGUA SUFICIENTE, ALGO ESTRANHO."
+  - "Ordem pode variar: 'AGORA ENFERMEIRA CHAMAR' também é válida (muda a estrutura)."
+
+# ------------------------------------------------------------------ #
+# Lacunas / pendências (o que falta para virar parser)
+# ------------------------------------------------------------------ #
+lacunas:
+  - "Só 6 das 50 sentenças estão transcritas."
+  - "Léxico não inclui ENFERMEIRA, CHAMAR, AGORA (usados na sentença 6)."
+  - "Impasse aberto (Tânia): posição de HOJE — ADJV do verbo OU ADJN do locativo."
+  - "Produções por sentença têm pequenas inconsistências (ex.: S -> SUJ PRED vs S -> SJPR ...; INT[QU] na frase 6 afirmativa) — consolidar com a Tânia."
+  - "Direcionalidade/polidez/expressão são canal de vídeo (Sign2Voice) — entram como flag, não como check de texto."

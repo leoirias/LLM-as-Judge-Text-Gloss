@@ -1,0 +1,67 @@
+# Extraction prompt: book chapter text -> candidate ASL grammar rules (JSON).
+# Deliberately conservative: rules must cite a quote + page, and get an
+# evidence_channel + confidence so the validation step can be conservative too.
+
+objective: |
+  You are extracting FORMAL, VERIFIABLE grammar rules for American Sign
+  Language (ASL) gloss word order from a chapter of an ASL grammar reference
+  book. Each rule you extract will later be checked against a small set of
+  English-sentence -> ASL-gloss example pairs from a medical/clinical
+  glossing convention, so it must be phrased as a concrete, checkable
+  condition on an English sentence and what should happen to the gloss.
+
+schema: |
+  Return a JSON object: {"rules": [rule, rule, ...]}. Each rule is an object
+  with EXACTLY these fields:
+    id               - short slug, e.g. "tense.future.001"
+    feature          - short category label, e.g. "syntax/tense/future-marking"
+    trigger          - plain-English condition on the INPUT SENTENCE that
+                       activates this rule (e.g. "sentence expresses future
+                       tense with 'will'")
+    constraint       - what the ASL gloss should do as a result (e.g. "drop
+                       WILL; front the time word if any")
+    exception        - a known exception to the rule, or null if none
+    evidence_channel - one of: "string-checkable" (verifiable from the gloss
+                       text alone), "nonmanual" (needs facial expression /
+                       head tilt / eyebrow raise), "spatial" (needs signing
+                       space or classifier placement), "underspecified"
+                       (the book states it but it is unclear how it would
+                       show up in a plain-text gloss)
+    source_page      - the page number exactly as printed in the "[p.N]"
+                       markers in the chapter text below
+    source_quote     - a short verbatim quote (<=200 chars) supporting the
+                       rule, copied from the chapter text
+    confidence       - your own confidence 0.0-1.0 that this rule is stated
+                       accurately and unambiguously in the source text
+
+instructions: |
+  - Only extract SENTENCE-LEVEL or WORD-LEVEL grammar rules: word order,
+    tense/time marking, question formation, pronoun or agreement behavior,
+    negation, pluralization, topic/comment structure. Skip vocabulary lists,
+    finger-spelling instructions, and cultural notes.
+  - One rule per distinct grammatical phenomenon. Do not restate the same
+    rule twice with different wording.
+  - If the text states a rule together with a named exception, capture the
+    exception in the `exception` field instead of writing a second rule.
+  - Do not invent a rule the text does not actually state. If a phenomenon
+    is only hinted at or the text is ambiguous, either skip it or mark
+    evidence_channel "underspecified" and lower confidence accordingly.
+  - source_quote must be copied from the text, not paraphrased.
+
+output_rules: |
+  Output ONLY the JSON object described above. No markdown code fences, no
+  commentary before or after, no text after the closing brace.
+
+template: |
+  @{objective}
+
+  @{schema}
+
+  @{instructions}
+
+  @{output_rules}
+
+  Book chapter text (page numbers marked inline as [p.N]):
+  {{chapter_text}}
+
+  JSON:

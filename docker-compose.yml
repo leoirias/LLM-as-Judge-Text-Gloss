@@ -39,10 +39,12 @@ services:
       resources:
         reservations:
           devices:
-            # Single GPU by cluster policy: only A100 #2. Inside the container
-            # it appears as cuda:0.
+            # Expõe TODAS as GPUs ao container. Qual usar é decidido NA HORA DE
+            # RODAR, com CUDA_VISIBLE_DEVICES=N no comando (N = GPU livre do
+            # momento) — assim não precisa editar este arquivo nem recriar o
+            # container quando a ocupação muda. Continua sendo 1 GPU por run.
             - driver: nvidia
-              device_ids: ['1']
+              count: all
               capabilities: [gpu]
     tty: true
     stdin_open: true

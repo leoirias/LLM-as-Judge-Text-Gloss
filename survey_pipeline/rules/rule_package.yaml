@@ -1,0 +1,354 @@
+meta:
+  versao: 1.0.0
+  gerado_em: '2026-07-30'
+  lingua: asl
+  construto: ver survey_pipeline/SPECIFY.md — glosa fiel ao sentido/intenção, fluida e natural, respeitando
+    a estrutura da língua
+  fonte: asl_rules.yaml (regras apresentadas pela consultoria)
+  n_regras: 21
+  nota: regras extraídas de livros são candidatas (pipeline de extração) e entram só após aprovação da
+    consultoria
+enforcement_legenda:
+  referencia: norma descritiva; o LLM consulta como contexto (não é check duro)
+  fora_escopo_texto: depende de canal fora do texto (espaço/expressão/movimento) -> Sign2Voice; o validador
+    de texto se abstém
+  dura: (reservado) check por código, erro certo — não há em v1.0 (asl_rules não tem regra de superfície)
+  aviso: (reservado) check por código com exceção — não há em v1.0
+pipeline_legenda:
+  voice2sign: texto -> glosa; regra usada por ESTE validador
+  sign2voice: vídeo -> glosa; regra do pipeline inverso; fora deste validador
+rules:
+- id: MORF.1.1
+  origem: consultoria (asl_rules)
+  categoria: morfologia
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: A ASL deriva substantivos a partir de verbos pelo movimento. Verbo = movimento único (longo
+    ou fluido); Substantivo = movimento reduzido e repetido. Na glosa em texto essa diferença de movimento
+    normalmente NÃO aparece (verbo e substantivo podem ter a mesma forma escrita), então só reprove por
+    esta regra se houver evidência clara no texto.
+  exemplos:
+  - 'SIT (sentar) -> CHAIR (cadeira): movimento único -> reduzido e repetido'
+  - 'FLY (voar) -> AIRPLANE (avião): mesmo sinal, ritmo diferente'
+  - 'EAT (comer) -> FOOD (comida): movimento único -> repetido'
+  - DRINK (beber) -> GLASS/CUP (copo)
+  - 'COMB (pentear) -> COMB-noun (pente): repetição reduzida'
+  - 'OPEN-BOOK -> BOOK (livro): repetição'
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: MORF.1.2
+  origem: consultoria (asl_rules)
+  categoria: morfologia
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: Dois sinais independentes podem se combinar em um sinal composto com novo significado, frequentemente
+    com redução fonológica (o segundo sinal perde parte do movimento/localização), um único marcador não-manual
+    cobrindo todo o composto e fronteira suavizada entre os dois sinais.
+  exemplos:
+  - THINK + FREEZE = SHOCKED (chocado, atônito)
+  - MOTHER + FATHER = PARENTS (pais)
+  - GO + BED = GO-TO-BED (ir dormir)
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: MORF.1.3
+  origem: consultoria (asl_rules)
+  categoria: morfologia
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: Números podem ser morfologicamente incorporados a alguns sinais, especialmente para frequência
+    temporal (a cada X semanas) e quantidades com alguns substantivos. O numeral é incorporado à configuração
+    de mão do sinal-base.
+  exemplos:
+  - EVERY-WEEK -> EVERY-2-WEEKS, EVERY-3-WEEKS
+  - AGE -> AGE-5, AGE-10, AGE-16
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: MORF.1.4
+  origem: consultoria (asl_rules)
+  categoria: morfologia
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'A repetição do sinal (ou parte dele) é um processo produtivo que pode indicar: pluralidade
+    de substantivos (BOY++ = meninos), aspecto verbal (lento, devagar, rápido) ou derivação de substantivo
+    a partir de verbo (ver MORF.1.1). Na glosa escrita a reduplicação costuma ser marcada com "++".'
+  exemplos:
+  - BOY++ = meninos (plural por reduplicação)
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: PRON.2.1
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'Pronomes pessoais são feitos por apontamento com o indicador (IX/PRO). Características:
+    (1) SEM distinção de gênero na 3a pessoa — PRO.3 serve para qualquer pessoa ausente (não há he/she
+    distinto); (2) SEM distinção sujeito/objeto — a mesma forma serve para ambos, e o papel é dado pela
+    ORDEM dos sinais (PRO.1 ATTRACT PRO.2 = "eu atraio você"; PRO.2 ATTRACT PRO.1 = "você me atrai");
+    (3) distinção de número singular/plural (PRO.2 singular vs. plural, WE, THEY, TWO-OF-US/THREE-OF-US,
+    etc.).'
+  exemplos:
+  - '1a sing.: I/me -> PRO.1'
+  - '1a plur.: we/us -> WE, TWO-OF-US, THREE-OF-US'
+  - '2a sing.: you -> PRO.2'
+  - '2a plur.: you -> PRO.2(plural), TWO-OF-YOU, THREE-OF-YOU'
+  - '3a sing.: he/she/it/him/her -> PRO.3'
+  - '3a plur.: they/them -> THEY, TWO-OF-THEM, THREE-OF-THEM'
+  contraexemplos: []
+  conflita_com: 'convenção derruba o pronome vs. PRON.2.1 lista PRO.x — RESOLVIDO (SPECIFY): pronome é
+    opcional, presença não é erro (pode ser flag).'
+  fonte: asl_rules.yaml
+- id: PRON.2.2
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: 'Pronomes usam o espaço tridimensional: um referente citado pela primeira vez recebe uma
+    localização (direita/esquerda) e deve ser retomado sempre no mesmo local. A localização articulatória
+    em si não tem significado morfológico independente. Em conversação direta (perguntas/respostas fechadas)
+    a marcação e retomada no espaço podem não ocorrer. Esta regra é espacial e NÃO se verifica no texto
+    da glosa.'
+  exemplos:
+  - BOY -> aponta para um local -> retoma sempre nesse local ao falar dele
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: PRON.2.3
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'Possessivos funcionam como determinantes: MY, YOUR, HIS/HER/ITS (PRO.3 + possessivo), OUR,
+    THEIR.'
+  exemplos:
+  - MY DAUGHTER VERY-SICK = Minha filha está muito doente
+  - YOUR NAME = Seu nome
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: PRON.2.4
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: Demonstrativos (THIS, THAT, THESE, THOSE) funcionam como determinantes ou pronomes, feitos
+    por apontamento; o que muda são as expressões faciais. Traduzem este/esta/isto (THIS), esse/aquele/isso
+    (THAT), estes/estas (THESE), esses/aqueles (THOSE).
+  exemplos:
+  - THIS MOVIE I HAVE SEEN THREE TIMES -> I have seen this movie three times
+  - THAT MAN WHO? -> Who is that man?
+  - THAT DOG = Aquele cachorro
+  - THIS IS OLD = Isto é velho
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: PRON.2.5
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'Interrogativos são acompanhados de marcadores não-manuais (sobrancelhas franzidas, cabeça
+    levemente inclinada para trás). Principais: WHO, WHAT, WHERE, WHY, HOW, WHICH, HOW-MANY, HOW-MUCH.
+    Posição do WH pode ser no início, no final, ou duplo (repetido nas duas pontas).'
+  exemplos:
+  - WHAT TIME? = Que horas são?
+  - WHERE YOU FIND? = Onde você achou?
+  - WHY NOT? = Por que não?
+  - HOW YOU? = Como você está?
+  - YOU BELONG CHURCH WHICH? = Which church do you belong to?
+  - CHILDREN YOU HAVE HOW-MANY? = How many children do you have?
+  - YOU PAY HOW-MUCH? = How much did you pay?
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: PRON.2.6
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'Reflexivos usados em contextos específicos: MYSELF, YOURSELF, HIMSELF/HERSELF, OURSELVES,
+    THEMSELVES.'
+  exemplos:
+  - I DID IT MYSELF = Eu fiz isso eu mesmo
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: PRON.2.7
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'Indefinidos: SOMEONE, ANYONE, SOMEBODY, ANYTHING, NOBODY, NOTHING.'
+  exemplos:
+  - SOMEONE IS HERE = Alguém está aqui
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: PRON.2.8
+  origem: consultoria (asl_rules)
+  categoria: pronomes
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: É comum repetir o pronome no final da frase (pronome duplo).
+  exemplos: []
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.1
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: A orientação da palma e das costas da mão indica sujeito e objeto (palma = objeto; costas
+    = sujeito). Depende da orientação da mão — NÃO se verifica no texto da glosa.
+  exemplos:
+  - 'HATE: ''Eu odeio ele'' costas para o sinalizador, palma para o objeto; ''Ele me odeia'' inverso'
+  - TEASE (provocar)
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.2
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: A localização (ponto inicial/final do movimento) indica quem é sujeito e objeto; a orientação
+    não muda. Depende do movimento no espaço — NÃO se verifica no texto da glosa.
+  exemplos:
+  - 'HELP: ''Eu ajudo ele'' começa em A (sinalizador) termina em B; ''Ele me ajuda'' começa em B termina
+    em A'
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.3
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: Tanto localização quanto orientação carregam informação de sujeito e objeto. Em verbos de
+    duas mãos (BOTHER, FLATTER) ambas as mãos marcam sujeito e objeto. NÃO se verifica no texto da glosa.
+  exemplos:
+  - '#SAY-NO-TO, GIVE, ASK, BOTHER, FLATTER'
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.4
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: O verbo começa na localização do objeto e termina na do sujeito. Depende do movimento no
+    espaço — NÃO se verifica no texto da glosa.
+  exemplos:
+  - 'INVITE, HIRE, COPY — ''Eu contrato ele'': começa em B (objeto) termina em A (sujeito)'
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.5
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: Informação sobre dois sujeitos e dois objetos ao mesmo tempo; cada mão marca sujeito e objeto
+    simultaneamente. Depende de configuração das duas mãos — NÃO se verifica no texto da glosa.
+  exemplos:
+  - UNDERSTAND-EACH-OTHER, LOOK-AT-EACH-OTHER, SEE-EACH-OTHER
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.6
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'Incluem apenas informação do objeto; exigem um sinal separado para o sujeito. Isso É verificável
+    no texto: o sujeito precisa aparecer como sinal próprio (ex.: PRO.1) na glosa.'
+  exemplos:
+  - 'TELL: ''Eu digo a ele'' -> PRO.1 TELL PRO.3 (precisa do PRO.1 separado)'
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.7
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: voice2sign
+  enforcement: referencia
+  dimensao: estrutura
+  verificavel_por_texto: true
+  descricao: 'NÃO incluem informação de sujeito nem objeto; todos os argumentos exigem sinais separados.
+    Verificável no texto: sujeito e objeto devem aparecer como sinais próprios.'
+  exemplos:
+  - PUNISH, LOVE, LIKE, TASTE, THINK, UNDERSTAND, SHOCK, KNOW
+  - '''Eu puno você'' -> PRO.1 PUNISH PRO.2 (três sinais)'
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.8
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: 'Classificação por mobilidade no espaço. Direcionais (movem em qualquer direção): LOOK, SEND,
+    PAY, MEET, GIVE, BRING, MOVE, HELP, TELL, SHOW, CALL, ASK, THROW, DRIVE, TEACH. Movimento limitado:
+    GO, COME. NÃO-direcionais: COMPLAIN, READ, DISCUSS, EAT, WANT, PLAY, NEED, SAY, LIVE, FEEL. A direcionalidade
+    em si depende do espaço — NÃO se verifica no texto.'
+  exemplos:
+  - YOU ABSENT HAVE BEEN MUST BRING AN EXCUSE = When you have been absent you must bring an excuse
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml
+- id: VERB.3.9
+  origem: consultoria (asl_rules)
+  categoria: verbos
+  pipeline: sign2voice
+  enforcement: fora_escopo_texto
+  dimensao: estrutura
+  verificavel_por_texto: false
+  descricao: Classificadores são configurações de mão que representam classes de objetos e se combinam
+    com movimento para formar predicados. Depende de configuração de mão e espaço — NÃO se verifica no
+    texto da glosa.
+  exemplos: []
+  contraexemplos: []
+  conflita_com: ''
+  fonte: asl_rules.yaml

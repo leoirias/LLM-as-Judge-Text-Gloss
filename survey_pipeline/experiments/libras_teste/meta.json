@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-07-30T21:03:48",
+  "lingua": "libras",
+  "rule_package_versao": "0.1",
+  "model": "qwen3-32b",
+  "generation": {
+    "enable_thinking": false,
+    "max_new_tokens": 1024,
+    "do_sample": false,
+    "temperature": 0.0,
+    "top_p": 1.0
+  },
+  "n_pares": 5,
+  "n_regras": 14,
+  "deterministico_ativo": false,
+  "estados": {
+    "nao_coberto": 5
+  },
+  "parse_failed": 5
+}

@@ -1,0 +1,59 @@
+# Extração de regras (etapa 1) — ASL_for_dummies.pdf
+#
+# Modelo: Qwen3-30B-A3B-Instruct-2507 (MoE, non-thinking) — ver justificativa
+# em llm.py. Determinístico (do_sample off) de propósito: rodar a mesma
+# janela de novo deve produzir a mesma lista de regras (reprodutibilidade).
+
+model:
+  name: qwen3-30b-a3b-instruct-2507
+  model_id: Qwen/Qwen3-30B-A3B-Instruct-2507
+  dtype: bfloat16
+  device_map: cuda            # GPU única do container (docker-compose) -> cuda:0
+
+generation:
+  enable_thinking: false      # checkpoint non-thinking; explícito por clareza/segurança
+  max_new_tokens: 6000        # 4000 truncou 3/19 janelas no cap.1-13 (janelas com muita
+                               # regra); subido depois de ver truncamento real na 1a rodada
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0
+
+lingua: asl
+lingua_nome: "American Sign Language (ASL)"
+id_prefix: ASLFD
+
+# Vocabulário fechado de categoria — o modelo escolhe uma destas por regra.
+# Compartilhado com libras_pipeline/extraction/config.yaml de propósito: são
+# categorias linguísticas cross-linguísticas, isso facilita comparar/unificar
+# candidatas de ASL e Libras mais pra frente.
+categorias_validas:
+  - morfologia
+  - pronomes
+  - verbos
+  - concordancia
+  - sintaxe
+  - negacao
+  - tempo-aspecto
+  - pergunta
+  - foco
+  - classificadores
+  - expressoes-idiomaticas
+
+# Fonte única (ASL_for_dummies.pdf), duas faixas de página — ver plano/sumário
+# mapeado: caps. 1-13 (gramática core + vocabulário temático, que também
+# ajuda fluidez/naturalidade da glosa) e cap.19 (expressões populares/idiomas).
+# Partes 3-4 (caps. 14-18: comunidade Surda, história, tecnologia, dicas de
+# aprendizado) ficam de fora — não são sinal/vocabulário/gramática da língua.
+books:
+  - label: "ASL for Dummies — Caps. 1-13 (gramática + vocabulário temático)"
+    slug: aslfd_caps1-13
+    path: ASL_for_dummies.pdf
+    start_page: 16
+    end_page: 294
+    window_pages: 15
+  - label: "ASL for Dummies — Cap.19 (Expressões populares)"
+    slug: aslfd_cap19
+    path: ASL_for_dummies.pdf
+    start_page: 335
+    end_page: 340
+    window_pages: 15

@@ -1,0 +1,56 @@
+# Indução: a partir de pares Inglês -> glosa ASL (convenção clínica da consultoria),
+# inferir as REGRAS que os exemplos de fato seguem. Mesmo schema da extração de
+# livro, para poder comparar com a base pelo mesmo compare.py.
+#
+# Thinking LIGADO: raciocina em <think>...</think> e depois emite o JSON.
+
+objective: |
+  Você recebe uma lista de pares "frase em inglês -> glosa em ASL" produzidos por
+  uma convenção de glosagem (domínio clínico). Sua tarefa é INDUZIR, a partir dos
+  padrões recorrentes nos exemplos, as REGRAS gramaticais que essa convenção
+  segue na prática — o que ajuda a entender e representar a estrutura das glosas.
+
+o_que_observar: |
+  Procure padrões SISTEMÁTICOS, por exemplo:
+  - o que é OMITIDO na glosa em relação ao inglês (artigos, preposições, cópula
+    "be", auxiliares, pronomes, plural -s...)
+  - ORDEM dos sinais (posição de tempo/advérbio, do WH em perguntas, do objeto...)
+  - MARCADORES usados (ex.: FINISH para passado, uso de PRO.1/PRO.2/PRO.3)
+  - NOTAÇÃO (ex.: sinal composto de várias palavras unido por "_"; reduplicação
+    com "++"; tudo em maiúsculas)
+  Só proponha uma regra se ela for sustentada por VÁRIOS exemplos. Não invente
+  padrão que aparece uma vez só.
+
+schema: |
+  Retorne um objeto JSON: {"rules": [regra, regra, ...]}. Cada regra tem
+  EXATAMENTE estes campos:
+    id                    - slug curto e único, ex.: "OURO.001"
+    categoria             - morfologia | pronomes | verbos | sintaxe | negacao |
+                            tempo-aspecto | pergunta | notacao
+    titulo                - nome curto da regra
+    descricao             - O QUE a convenção faz (o padrão observado)
+    gatilho               - QUANDO se aplica (condição na frase em inglês)
+    verificavel_por_texto - true se dá para checar só no TEXTO da glosa (aqui,
+                            como só há texto, quase sempre true)
+    exemplos              - 2+ pares "frase -> glosa" dos dados que sustentam a regra
+    fonte_pagina          - use 0 (as regras vêm dos dados, não de um livro)
+    fonte_citacao         - ""  (não há citação de livro)
+
+output_rules: |
+  Produza APENAS o objeto JSON. Sem markdown, sem comentário antes ou depois.
+  Escreva `descricao`/`gatilho`/`titulo` em português; mantenha glosas em
+  maiúsculas como nos dados.
+
+template: |
+  @{objective}
+
+  @{o_que_observar}
+
+  @{schema}
+
+  @{output_rules}
+
+  Pares (frase em inglês -> glosa ASL):
+  {{pairs}}
+
+  JSON:
