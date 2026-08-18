@@ -1,0 +1,33 @@
+# Config do juiz guiado por regras (framework_rules). Autocontida.
+#
+# Thinking LIGADO + temperatura 0.5 (do_sample ligado): a validação exige
+# raciocínio para casar a glosa contra ~15 regras, escolher quais citar e
+# propor correção. O bloco <think> é removido no parse.
+
+model:
+  name: qwen3-32b
+  model_id: Qwen/Qwen3-32B
+  dtype: bfloat16
+  device_map: cuda            # GPU única do container (docker-compose) -> cuda:0
+
+generation:
+  enable_thinking: true       # juiz raciocina antes de emitir o JSON
+  max_new_tokens: 2048        # thinking sozinho gasta ~1000-1400 tokens; 1024 era
+                              # pouco e truncava o raciocínio antes do JSON. 2048 dá
+                              # folga p/ thinking + JSON. Stragglers caem no fallback
+                              # thinking-off do run.py (parse garantido).
+  do_sample: true             # temperatura 0.5 exige amostragem
+  temperature: 0.5
+  top_p: 0.9
+
+batch_size: 8                 # amortiza a leitura dos pesos do 32B por passo de
+                              # decode; cabe na A100 (~64GB pesos + ~4GB KV cache)
+
+io:
+  input: data/pares_review.csv
+  # colunas do CSV de entrada
+  text_col: Input
+  gloss_col: Output
+  review_col: Output review
+  # saídas dos experimentos ficam organizadas em framework_rules/experiments/
+  experiments_dir: framework_rules/experiments

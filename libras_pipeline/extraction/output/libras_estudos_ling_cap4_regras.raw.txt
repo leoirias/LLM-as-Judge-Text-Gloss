@@ -1,0 +1,813 @@
+### p.123-137
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem básica SVO como dominante",
+      "descricao": "A ordem básica da frase na Libras é Sujeito-Verbo-Objeto (SVO), que é a mais comum e gramatical em construções simples sem marcações adicionais.",
+      "gatilho": "frase simples com sujeito, verbo e objeto, sem marcações não-manuais ou estruturas complexas",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "El@ assiste TV",
+        "IX GOSTA FUTEBOL"
+      ],
+      "fonte_pagina": "p.135",
+      "fonte_citacao": "Todas as frases com a ordem SVO são gramaticais:"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Variações SVO, OSV e SOV exigem marcações não-manuais",
+      "descricao": "As ordenações OSV e SOV só são gramaticais quando acompanhadas de marcações não-manuais (como foco, tópico ou concordância), indicando que a variação é motivada por fatores pragmáticos ou semânticos.",
+      "gatilho": "frase com ordem OSV ou SOV",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "<TVb>do <IXa>do <aASSISTEb>do (OSV)",
+        "<IXa>do <TVb>do <aASSISTEb>do (SOV)",
+        "FUTEBOL <IX>do <GOSTA>do (OSV)",
+        "<IX>do FUTEBOL <GOSTA>mc (SOV)"
+      ],
+      "fonte_pagina": "p.136",
+      "fonte_citacao": "As ordens OSV e SOV ocorrem somente quando há alguma coisa a mais na sentença, como a concordância e as marcas não-manuais:"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Apontação ostensiva como marcação de referente",
+      "descricao": "A apontação ostensiva (IX) é usada para estabelecer um referente no espaço, especialmente quando o referente é específico ou já foi introduzido.",
+      "gatilho": "introdução de um referente específico no discurso",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "IX CASA",
+        "CASA IX(casa)"
+      ],
+      "fonte_pagina": "p.124",
+      "fonte_citacao": "c) usar a apontação ostensiva antes do sinal de um referente específico (por exemplo, apontar para o ponto ‘a’ associando esta apontação com o sinal CASA; assim o ponto ‘a’ passa a referir CASA);"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos direcionais com concordância espacial",
+      "descricao": "Verbos direcionais (com concordância) incorporam os argumentos (sujeito e objeto) previamente localizados no espaço, com movimento manual e direção dos olhos que acompanham a direção do verbo.",
+      "gatilho": "verbo com concordância + sujeito e objeto ambos localizáveis no espaço",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "(eu)IR(casa)",
+        "CARRO CL(carro passou um pelo outro)"
+      ],
+      "fonte_pagina": "p.125",
+      "fonte_citacao": "f) usar um verbo direcional (com concordância) incorporando os referentes previamente introduzidos no espaço."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Construções com foco licenciam ordem SOV",
+      "descricao": "A ordem SOV é permitida em construções com foco, onde o último verbo atua como núcleo do foco, permitindo o apagamento do primeiro verbo no VP.",
+      "gatilho": "frase com repetição de núcleos (X0) na posição final, indicando foco",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HOMEM COMPRAR CARRO COMPRAR"
+      ],
+      "fonte_pagina": "p.133",
+      "fonte_citacao": "Propõe-se que na língua de sinais brasileira existe um tipo de construção com foco que licencia a ordem SOV ."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Marcação não-manual de foco com < >mc",
+      "descricao": "A marcação não-manual < >mc é usada para indicar foco em um elemento da frase, especialmente em estruturas SOV ou OSV.",
+      "gatilho": "elemento da frase que é o foco semântico",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "<IX>do FUTEBOL <GOSTA>mc (SOV)"
+      ],
+      "fonte_pagina": "p.128",
+      "fonte_citacao": "• Marcação associada com foco"
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Marcação não-manual de negação com < >n",
+      "descricao": "A marcação não-manual < >n é usada para indicar negação em uma frase, geralmente combinada com o sinal de negação ou em estruturas negativas.",
+      "gatilho": "frase com conteúdo negativo",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "< >n"
+      ],
+      "fonte_pagina": "p.128",
+      "fonte_citacao": "• Marcação de negativas"
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Verbos manuais como indicadores de aspecto",
+      "descricao": "Verbos manuais (como MULHER-BOLO-COLOCAR-FORNO) envolvem uma configuração de mão que representa a ação e são associados a estruturas com aspecto, permitindo variações de ordem como SOV ou OSV.",
+      "gatilho": "uso de verbo manual com configuração de mão que representa objeto",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "MULHER-BOLO-COLOCAR-FORNO"
+      ],
+      "fonte_pagina": "p.132",
+      "fonte_citacao": "Segundo Liddell (1980, p.88), as sentenças com os verbos manuais do tipo HOMEM-LIVRO-LER, são gramaticais em oposição às não-gramaticais *HO-MEN-NÚMERO-ESQUECER e *MENINO-BALA-NÃO-GOSTA, por pertencerem a essa classe restrita da ASL ."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Pronomes com localização espacial para referentes ausentes",
+      "descricao": "Quando os referentes estão ausentes, pontos abstratos no espaço são estabelecidos para representá-los, usando pronomes como IX com localização específica.",
+      "gatilho": "referente não presente fisicamente na situação de enunciação",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "IX(casa) NOVA"
+      ],
+      "fonte_pagina": "p.126",
+      "fonte_citacao": "Quando os referentes estão ausentes da situação de enunciação, são estabelecidos pontos abstratos no espaço (cf. as figuras ilustram)."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Classificadores usados para representar referentes no espaço",
+      "descricao": "Classificadores são usados para representar um referente em uma localização específica no espaço, especialmente quando o referente é um objeto ou entidade com forma definida.",
+      "gatilho": "referente que pode ser representado por uma forma física ou configuração de mão",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "CARRO CL(carro passou um pelo outro)"
+      ],
+      "fonte_pagina": "p.125",
+      "fonte_citacao": "e) usar um classificador (que representa aquele referente) em uma localização particular;"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Topicalização com marcação não-manual < >t",
+      "descricao": "A topicalização é marcada por uma expressão não-manual < >t, que indica que o tópico da frase está no início, justificando variações de ordem como OSV.",
+      "gatilho": "elemento da frase que é o tópico e está no início da frase",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "< >t"
+      ],
+      "fonte_pagina": "p.128",
+      "fonte_citacao": "• Marcação de tópico"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Interrogativas com marcação não-manual < >qu",
+      "descricao": "Perguntas com itens interrogativos (quando, onde, qual, etc.) são marcadas com a expressão não-manual < >qu, que indica a presença de uma pergunta.",
+      "gatilho": "frase com conteúdo interrogativo",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "< >qu"
+      ],
+      "fonte_pagina": "p.129",
+      "fonte_citacao": "• Marcação de interrogativas"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Pronomes com concordância de pessoa no espaço",
+      "descricao": "Os pronomes (como IX) são posicionados no espaço de acordo com a pessoa (1ª, 2ª, 3ª), com base na posição do sinalizador, interlocutor ou outros participantes.",
+      "gatilho": "introdução de referente com base na posição física ou social",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "IX(casa) NOVA"
+      ],
+      "fonte_pagina": "p.126",
+      "fonte_citacao": "Por exemplo, o sinalizador aponta para si indicando a primeira pessoa, para o interlocutor indicando a segunda pessoa e para os outros indicando a terceira pessoa."
+    },
+    {
+      "categoria": "concordancia",
+      "titulo": "Concordância verbal com direção dos olhos",
+      "descricao": "A concordância verbal em Libras é marcada manualmente pelo movimento do verbo e não-manualmente pela direção dos olhos, que acompanham a direção do verbo.",
+      "gatilho": "verbo com concordância + sujeito e objeto localizados no espaço",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "(el@) <aOLHARb>do (el@)",
+        "(el@) <aAJUDARb>do (el@)"
+      ],
+      "fonte_pagina": "p.126",
+      "fonte_citacao": "Na língua de sinais brasileira, os sinalizadores estabelecem os referentes associados à localização no espaço, sendo que tais referentes podem estar fisicamente presentes ou não. Depois de serem introduzidos no espaço, os pontos específicos podem ser referidos posteriormente no discurso."
+    }
+  ]
+}
+
+### p.138-152
+{"rules": [{"categoria": "sintaxe", "titulo": "Ordem básica SVO", "descricao": "A ordem SVO (sujeito-verbos-objeto) é a ordem mais básica e fundamental na Libras, sendo a única que não depende de marcas não-manuais ou estruturas complexas para ser gramaticalmente válida.", "gatilho": "frase simples com verbo sem concordância e objeto simples", "verificavel_por_texto": true, "exemplos": ["EU ACHAR [ IP MARIAa <aIR-EMBORAloc>do]", "JOÃO COMPRAR CARRO AMANHÃ"], "fonte_pagina": "p.138", "fonte_citacao": "Assim, parece que de fato esta ordem é a mais básica."}, {"categoria": "sintaxe", "titulo": "Restrição à ordem SOV com objeto complexo", "descricao": "A ordem SOV não pode ser usada quando o objeto é uma oração subordinada complexa; apenas objetos simples permitem essa reordenação.", "gatilho": "verbo com concordância + objeto complexo (oração subordinada)", "verificavel_por_texto": true, "exemplos": ["EU ACHAR [ IP MARIAa <aIR-EMBORAloc>do]", "*I [IP MARIAa aIR-EMBORA] ACHAR"], "fonte_pagina": "p.138", "fonte_citacao": "As construções ilustradas evidenciam que a ordem SOV não pode ser derivada quando o objeto é uma oração subordinada, diferente de uma oração simples do tipo JOÃO [FUTEBOL] <GOSTAR>f e MARIA [LIVRO] <aDARb>do associadas às respectivas marcas não-manuais."}, {"categoria": "sintaxe", "titulo": "Advérbios não podem interromper verbo-objeto", "descricao": "Advérbios temporais e de freqüência não podem ser inseridos entre o verbo e o objeto em estruturas VP[V NP], o que reforça a base SVO.", "gatilho": "frase com advérbio temporal ou de freqüência entre verbo e objeto", "verificavel_por_texto": true, "exemplos": ["*JOÃO COMPRAR ONTEM CARRO", "*EU BEBER ALGUMAS-VEZES LEITE"], "fonte_pagina": "p.139", "fonte_citacao": "Os advérbios temporais e de freqüência não podem interromper uma relação entre o verbo e o objeto: [VP[V NP]]. Isso é considerado mais um argumento para conceber a ordem SVO como básica na língua de sinais brasileira."}, {"categoria": "sintaxe", "titulo": "Posição flexível de advérbios", "descricao": "Advérbios temporais podem estar antes ou depois da oração (IP AgrP), e advérbios de freqüência podem estar antes ou depois do complemento verbal (VP), sem violar a gramática.", "gatilho": "advérbio temporal ou de freqüência em frase", "verificavel_por_texto": true, "exemplos": ["AMANHÃ JOÃO COMPRAR CARRO", "EU BEBO LEITE ALGUMAS-VEZES"], "fonte_pagina": "p.140", "fonte_citacao": "Os advérbios temporais podem estar antes ou depois da oração (IP (AgrP)). E os advérbios de freqüência podem estar antes ou depois do complemento verbal (VP) (como ilustrado através dos exemplos a seguir, respectivamente)."}, {"categoria": "sintaxe", "titulo": "Topicalização altera a ordem da frase", "descricao": "A topicalização permite mudar a ordem da frase, posicionando o tópico no início com marcação não-manual (elevação das sobrancelhas), seguido por comentários sobre ele.", "gatilho": "frase com tópico no início", "verificavel_por_texto": false, "exemplos": ["<FUTEBOL>t <JOÃO GOSTAR NÃO>n", "<FUTEBOL>t <JOÃO GOSTAR>mc", "<FUTEBOL>t <JOÃO GOSTAR>sn"], "fonte_pagina": "p.143", "fonte_citacao": "A ordem dessas construções foi alterada pela presença do tópico. O tópico é o tema do discurso que apresenta uma ênfase especial posicionado no início da frase e seguido de comentários a respeito desse tema."}, {"categoria": "sintaxe", "titulo": "Marca de tópico delimita escopo", "descricao": "A marca não-manual de tópico só se aplica ao tópico e não se espalha sobre a oração inteira; ela está associada a uma adjunção e não a uma projeção nuclear.", "gatilho": "frase com marcação não-manual de tópico", "verificavel_por_texto": false, "exemplos": ["<*FUTEBOL, JOÃO GOSTA>t", "<BOLA-FUTEBOL>t, <ONDE O JOÃO PEGAR>qu"], "fonte_pagina": "p.144", "fonte_citacao": "Tal restrição é observada a seguir: <*FUTEBOL, JOÃO GOSTA>t"}, {"categoria": "sintaxe", "titulo": "Tópico sempre acima de CP", "descricao": "A posição de tópico é a mais alta na estrutura da frase, acima de CP (Complement Phrase), e é sempre produzida antes da marcação interrogativa ou negativa.", "gatilho": "frase com tópico e interrogativa", "verificavel_por_texto": false, "exemplos": ["<CARRO>t <QUAL DELE?>qu", "*<<CARRO QUAL TEU?>qu>t"], "fonte_pagina": "p.145", "fonte_citacao": "Nessas construções, o tópico sempre será produzido associado à marca não-manual correspondente, seguido pela marca não-manual associada à interrogativa. Jamais será possível incluir o tópico dentro do escopo da interrogativa:"}, {"categoria": "sintaxe", "titulo": "Cópia do tópico em construções com tópico", "descricao": "Construções com tópico podem incluir uma cópia do tópico ou um pronome co-referencial, especialmente quando o tópico não está ligado a posição argumental.", "gatilho": "frase com tópico sem ligação argumental", "verificavel_por_texto": true, "exemplos": ["<[FRANÇA]i>t <EU VOU ti>mc", "<[EU] j>t <[FRANÇA]i>t tj <VOU ti>mc", "<ANIMAIS>, EU GOSTO GATO"], "fonte_pagina": "p.146", "fonte_citacao": "Assim, tais construções sempre podem ter, além do tópico, uma cópia desse tópico ou um pronome co-referencial a esse tópico, como nas ilustrações a seguir."}, {"categoria": "sintaxe", "titulo": "Construções com foco derivam SOV", "descricao": "Construções com foco, marcadas por cópia do constituinte enfatizado e marca não-manual afirmativa, derivam a ordem SOV a partir da estrutura S(V)OV.", "gatilho": "frase com verbo duplicado e marca não-manual afirmativa", "verificavel_por_texto": false, "exemplos": ["EU PERDER LIVRO <PERDER>mc"], "fonte_pagina": "p.149", "fonte_citacao": "Neste último exemplo, foi derivada uma construção com a ordem SOV. Na verdade, a ordem desta construção não é esta, mas sim S(V)OV. O elemento final é apenas a duplicação do verbo original que foi apagado devido à existência de uma cópia com a mesma identidade. Este verbo final é necessariamente associado à marca não-manual afirmativa, como observado em quase todos os casos de construções com foco."}, {"categoria": "verbos", "titulo": "Verbos com concordância permitem elevação do objeto", "descricao": "A presença de concordância verbal permite que o objeto seja elevado para uma posição mais alta, derivando a ordem SOV.", "gatilho": "verbo com concordância + objeto", "verificavel_por_texto": false, "exemplos": ["JOÃOa MARIAb aDARb", "LIVRO NÃO"], "fonte_pagina": "p.150", "fonte_citacao": "A presença de concordância verbal permite a elevação do objeto para uma posição mais alta derivando a ordem SOV:"}, {"categoria": "sintaxe", "titulo": "Omissão de sujeito e objeto em verbos com concordância", "descricao": "Verbos com concordância permitem a omissão tanto do sujeito quanto do objeto, derivando a ordem (S)V(O).", "gatilho": "verbo com concordância em contexto de omissão de sujeito e objeto", "verificavel_por_texto": true, "exemplos": ["JOÃOa MARIAb aDARb", "LIVRO NÃO"], "fonte_pagina": "p.150", "fonte_citacao": "A ordem (S)V(O) é derivada pela possibilidade de omitir-se tanto o sujeito como o objeto nas construções com verbos com concordância (Quadros, 1995)."}, {"categoria": "sintaxe", "titulo": "Ordem VOS em foco contrastivo", "descricao": "A ordem VOS pode ocorrer em contextos de foco contrastivo, especialmente quando há ênfase no verbo.", "gatilho": "frase com foco contrastivo e verbo no início", "verificavel_por_texto": true, "exemplos": ["COMPRAR CARRO <JOÃO> foco", "QUEM COMPRAR CARRO JOÃO OU MARIA?"], "fonte_pagina": "p.151", "fonte_citacao": "A ordem VOS também pode ocorrer em contextos de foco contrastivo (Arratéia, 2003)."}]}
+
+### p.153-167
+{
+  "rules": [
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos com concordância comportam-se como auxiliares",
+      "descricao": "Verbos com concordância na Libras são inseridos totalmente flexionados no processo de derivação, sem operação fonológica de afixação de desinência verbal, similar aos verbos auxiliares em inglês.",
+      "gatilho": "verbo com concordância (direcional, com movimento entre sujeito e objeto)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "JOÃO <aDARb>do LIVRO",
+        "AMANHÃ <aDARb>do LIVRO"
+      ],
+      "fonte_pagina": "p.158",
+      "fonte_citacao": "Os verbos com concordância comportam-se como os verbos auxiliares no inglês, e os verbos sem concordância, como os verbos principais no inglês."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos sem concordância comportam-se como verbos principais",
+      "descricao": "Verbos sem concordância na Libras apresentam uma operação fonológica de afixação de desinência verbal durante a derivação, semelhante aos verbos principais em inglês.",
+      "gatilho": "verbo sem concordância (não direcional, sem movimento entre sujeito e objeto)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "JOÃO GOSTAR CARRO",
+        "JOÃO aAJUDARb MARIA"
+      ],
+      "fonte_pagina": "p.158",
+      "fonte_citacao": "Os verbos sem concordância apresentam uma operação fonológica de afixação de sua desinência verbal durante o processo da derivação (assim como proposto por Lasnik (1995) para os verbos principais em inglês)"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais mais livre com verbos com concordância",
+      "descricao": "Sentenças com verbos com concordância permitem maior liberdade na ordenação dos constituintes em comparação com sentenças com verbos sem concordância.",
+      "gatilho": "verbo com concordância em frase com ordenação não-SVO",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "JOÃO <GOSTAR MARIA>do",
+        "JOÃO <aAJUDARb MARIA>do"
+      ],
+      "fonte_pagina": "p.154",
+      "fonte_citacao": "As sentenças contendo verbos com concordância parecem apresentar mais liberdade na sua ordenação do que aquelas contendo verbos sem concordância."
+    },
+    {
+      "categoria": "concordancia",
+      "titulo": "Marcas não-manuais obrigatórias com verbos com concordância",
+      "descricao": "Verbos com concordância exigem marcas não-manuais (como direção do olhar acompanhando o movimento da mão), enquanto verbos sem concordância permitem que essas marcas sejam opcionais.",
+      "gatilho": "verbo com concordância",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "JOÃO <GOSTAR MARIA>do",
+        "JOÃO <aAJUDARb MARIA>do"
+      ],
+      "fonte_pagina": "p.154",
+      "fonte_citacao": "As marcas não-manuais são obrigatórias nos verbos com concordância e opcionais nos verbos sem concordância."
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Negativa precede verbo com concordância, segue verbo sem concordância",
+      "descricao": "Em sentenças com verbos com concordância, a negação precede o verbo; em sentenças com verbos sem concordância, a negação segue o verbo, exceto quando há auxiliar.",
+      "gatilho": "frase com negação e verbo com ou sem concordância",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "JOÃOa <NÃO <aDARb>do LIVRO MARIAb >n",
+        "JOÃO <NÃO GOSTAR CARRO>n"
+      ],
+      "fonte_pagina": "p.162",
+      "fonte_citacao": "JOÃOa <NÃO <aDARb>do LIVRO MARIAb >n"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Auxiliar necessário para verbo sem concordância em ordens irregulares",
+      "descricao": "Quando a ordem dos constituintes não é SVO, um auxiliar (AUX) é obrigatório para verbos sem concordância, para manter a estrutura sintática válida.",
+      "gatilho": "verbo sem concordância em ordem não-SVO",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "JOÃOa aAUXb <NÃO GOSTAR>n",
+        "JOÃOa <MARIAb aAUXb>do <[GOSTAR] i>mc <bAUXa>do <NÃO [e] i>n"
+      ],
+      "fonte_pagina": "p.159",
+      "fonte_citacao": "O auxiliar na língua de sinais brasileira é uma expressão pura de concordância estabelecida através do movimento de um ponto ao outro (estes pontos compreendem o sujeito e o objeto da sentença)."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Auxiliar expressa concordância espacial e tempo",
+      "descricao": "O auxiliar (AUX) na Libras é um elemento de concordância que expressa a relação entre sujeito e objeto através do movimento da mão, e é usado para indicar tempo e aspecto em verbos sem concordância.",
+      "gatilho": "uso do auxiliar (AUX) com verbo sem concordância",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "JOÃOa aAUXb <NÃO GOSTAR>n",
+        "JOÃOa <MARIAb aAUXb>do <[GOSTAR] i>mc"
+      ],
+      "fonte_pagina": "p.159",
+      "fonte_citacao": "Através da direção do movimento, o auxiliar expressa a relação estabelecida entre os argumentos da sentença."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Construções de foco com duplicação final",
+      "descricao": "Construções com foco na Libras envolvem duplicação do elemento focal na posição final da frase.",
+      "gatilho": "frase com foco em elemento (interrogativo, negação, advérbio, modal, quantificador)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "EU PODER IR <PODER>mc",
+        "EU TER DOIS CARROS <DOIS>mc"
+      ],
+      "fonte_pagina": "p.166",
+      "fonte_citacao": "Foco envolve construções duplas em que o elemento duplicado ocupa a posição final."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Interrogativos em foco seguem estrutura de duplicação",
+      "descricao": "Interrogativos em construções de foco são duplicados na posição final da frase, seguindo a estrutura de foco com duplicação.",
+      "gatilho": "frase interrogativa com foco em elemento interrogativo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "QUANDO JOÃO VIR <QUANDO>mc",
+        "ONDE ELE ESTÁ <ONDE>mc"
+      ],
+      "fonte_pagina": "p.166",
+      "fonte_citacao": "Como na ASL, a língua de sinais brasileira apresenta construções duplas com modais, quantificadores e verbos. Além desses casos, são muito comuns construções duplas com interrogativos, negação e advérbios:"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Omissão de verbo sem auxiliar não é permitida em sentenças complexas",
+      "descricao": "Em sentenças complexas, a omissão de um verbo sem o auxiliar (AUX) é gramaticalmente inválida, exceto quando há identidade entre o verbo e seu antecedente.",
+      "gatilho": "frase complexa com omissão de verbo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "*<aMARIA>do <bJOÃO>do <aAUXb>do <[GOSTAR] i,>mc <bJOÃO>do <TAMBÉM [e] I >mc",
+        "JOÃOa <NÃO <bCARREGAR-CAIXAc>do>n"
+      ],
+      "fonte_pagina": "p.161",
+      "fonte_citacao": "Na língua de sinais brasileira, a omissão sem o auxiliar não é permitida:"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Pronomes de apontação (IX) usados em foco e concordância",
+      "descricao": "Pronomes de apontação (IX) são usados para marcar sujeito e objeto em construções com foco e concordância, especialmente em verbos com concordância.",
+      "gatilho": "uso de IX em construção com foco ou concordância",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "AMANHÃ> IXa CONVERSAR IXb",
+        "JOÃOa <NÃO <aDARb>do LIVRO MARIAb >n"
+      ],
+      "fonte_pagina": "p.156",
+      "fonte_citacao": "AMANHÃ> IXa CONVERSAR IXb"
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Classificadores usados com verbos sem concordância",
+      "descricao": "Classificadores são comumente usados com verbos sem concordância para indicar movimento, forma ou localização de objetos.",
+      "gatilho": "verbo sem concordância com objeto movimentado ou com forma específica",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "JOÃO aAJUDARb MARIA",
+        "JOÃO <aDARb>do LIVRO"
+      ],
+      "fonte_pagina": "p.155",
+      "fonte_citacao": "JOÃO <aAJUDARb MARIA>do"
+    }
+  ]
+}
+
+### p.168-182
+{"rules": [
+  {
+    "categoria": "foco",
+    "titulo": "Duplicação de núcleo em foco apenas em posições nucleares",
+    "descricao": "A duplicação de um elemento em função de foco só é permitida quando o elemento está em posição nuclear (como sujeito, objeto, predicado), não sendo permitida em posições não nucleares como determinantes ou advérbios. O foco exige que o núcleo do sintagma seja movido para o especificador de FP (sintagma de foco), e a duplicação ocorre apenas nesses casos.",
+    "gatilho": "elemento em foco que é núcleo de um sintagma (DP, IP, CP)",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "aJOÃO <aDARb>do LIVRO <MARIAb>do -> *<aJOÃO>do <aDARb>do LIVRO <bMARIA>do <JOÃOa>mc/do",
+      "<QUAL MULHER DESSAS TU GOSTAR>qu -> *<QUAL MULHER DESSAS TU GOSTAR>qu <QUAL MULHER DESSAS>qu"
+    ],
+    "fonte_pagina": "p.170",
+    "fonte_citacao": "Assim sendo, parece que a duplicação de um elemento em função do foco somente se dá com os núcleos dos sintagmas."
+  },
+  {
+    "categoria": "foco",
+    "titulo": "Movimentação de IP para Spec de FP em foco",
+    "descricao": "Quando há foco, o sintagma nominal (IP) inteiro move-se para o especificador de FP (sintagma de foco), mantendo-se a estrutura interna do IP. Isso explica a duplicação de elementos e a presença de marcações não-manuais sobre o IP vazio.",
+    "gatilho": "presença de foco em um elemento de IP (como sujeito, objeto, predicado)",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "[FP [EU PODER IR] i <[F PODER] [IP t i ]>mc",
+      "[FP [EU PERDER LIVRO] i <[F PERDER] [IP t i ]>mc"
+    ],
+    "fonte_pagina": "p.173",
+    "fonte_citacao": "Considerando essa representação, apresentam-se as construções duplas na língua de sinais brasileira com suas respectivas representações:"
+  },
+  {
+    "categoria": "foco",
+    "titulo": "Marca não-manual de foco espalha-se sobre IP vazio",
+    "descricao": "As marcas não-manuais associadas ao foco (como expressão facial, olhar direto, inclinação da cabeça) se espalham sobre todo o IP vazio após a movimentação do núcleo para FP, indicando a presença de foco em toda a estrutura do IP.",
+    "gatilho": "presença de foco com movimentação de IP para Spec de FP",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "[FP [EU <NÃO <aIRb>do ]i >n <[F NÃO] [IP t i ]>n",
+      "[FP [AMANHÃ EL@ COMPRAR CARRO ] i <[F AMANHÃ] [ IP t i ]>mc"
+    ],
+    "fonte_pagina": "p.178",
+    "fonte_citacao": "As marcas não-manuais associadas com os elementos em foco se espalham sobre IP vazio, conforme foi ilustrado nos exemplos anteriores."
+  },
+  {
+    "categoria": "foco",
+    "titulo": "Restrições de ilha de Ross aplicam-se a foco em Libras",
+    "descricao": "Elementos não podem ser extraídos de estruturas sintáticas que funcionam como 'ilhas' (como orações relativas), mesmo quando há foco. Isso impede a duplicação de elementos em posições que violam a estrutura de ilha.",
+    "gatilho": "tentativa de foco em elemento dentro de oração relativa",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "MULHER <BICICLETA CAIR>r ESTAR HOSPITAL -> *MULHER <BICICLETA CAIR>r ESTAR HOSPITAL BICICLETA"
+    ],
+    "fonte_pagina": "p.179",
+    "fonte_citacao": "Como observado por Petrônio (1993) na ASL, na língua de sinais brasileira não há como ter um elemento duplo em uma oração relativa na posição final da sentença conforme ilustrado."
+  },
+  {
+    "categoria": "pergunta",
+    "titulo": "Interrogativas são inerentemente focadas",
+    "descricao": "Toda sentença interrogativa na Libras apresenta foco por natureza, o que impede a ocorrência de outro foco na mesma oração. Isso ocorre porque o CP (sintagma interrogativo) é inerentemente focado.",
+    "gatilho": "presença de palavra interrogativa (QU, ONDE, QUAL, etc.) em uma frase",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "<O QUE JOÃO GOSTAR O QUE>qu -> *<JOÃO GOSTAR QUEM GOSTAR>qu"
+    ],
+    "fonte_pagina": "p.172",
+    "fonte_citacao": "Quando uma interrogativa é inserida, não é possível ter outro elemento com foco dentro da mesma sentença. Assim, parece que CP é inerentemente focado."
+  },
+  {
+    "categoria": "pergunta",
+    "titulo": "Elementos interrogativos podem permanecer in situ ou mover-se para Spec de CP",
+    "descricao": "Os elementos interrogativos (quem, o que, onde, etc.) podem permanecer na posição original (in situ) ou mover-se para o especificador de CP (sintagma interrogativo), dependendo do contexto e da estrutura da frase.",
+    "gatilho": "presença de palavra interrogativa em uma frase",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "<QUEM GOSTAR MARIA>qu (in situ)",
+      "<JOÃO GOSTAR QUEM>qu (in situ)",
+      "<[CP QUEM [ IP t GOSTAR MARIA]]>qu (movido)"
+    ],
+    "fonte_pagina": "p.181",
+    "fonte_citacao": "Os elementos interrogativos (o que, quem, como, onde, por que, etc.) podem mover-se para Spec de CP ou manter-se na posição original na língua de sinais brasileira."
+  },
+  {
+    "categoria": "negacao",
+    "titulo": "Negação com sinal de NÃO e marca não-manual",
+    "descricao": "A negação em Libras é expressa com o sinal NÃO, que pode ser acompanhado de marca não-manual (expressão facial, inclinação da cabeça) e pode ser posicionado antes ou após o verbo, dependendo do foco e da estrutura da frase.",
+    "gatilho": "presença de negação em uma frase",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "EU <NÃO IR>n <NÃO>n",
+      "[FP [EU <NÃO <aIRb>do] i >n <[F NÃO] [IP t i ]>n"
+    ],
+    "fonte_pagina": "p.169",
+    "fonte_citacao": "EU <NÃO IR>n <NÃO>n"
+  },
+  {
+    "categoria": "verbos",
+    "titulo": "Verbos direcionais com concordância espacial",
+    "descricao": "Verbos direcionais (manuais) em Libras concordam com o sujeito e objeto em termos de localização espacial, movimento e direção, exigindo que os elementos envolvidos estejam localizados no espaço.",
+    "gatilho": "verbo direcional com sujeito e objeto localizáveis no espaço",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "aJOÃO <aDARb>do LIVRO <MARIAb>do"
+    ],
+    "fonte_pagina": "p.170",
+    "fonte_citacao": "aJOÃO <aDARb>do LIVRO <MARIAb>do"
+  },
+  {
+    "categoria": "tempo-aspecto",
+    "titulo": "Tempo marcado por sinal de tempo no início da frase",
+    "descricao": "O tempo (como amanhã, ontem, agora) é frequentemente expresso por um sinal posicionado no início da frase, funcionando como marcador temporal que antecede o verbo principal.",
+    "gatilho": "presença de tempo (amanhã, ontem, agora) em uma frase",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "AMANHÃ ELE COMPRAR CARRO <AMANHÃ>mc"
+    ],
+    "fonte_pagina": "p.169",
+    "fonte_citacao": "AMANHÃ ELE COMPRAR CARRO <AMANHÃ>mc"
+  },
+  {
+    "categoria": "sintaxe",
+    "titulo": "Ordem de sinais: sujeito-objeto-verbo com foco",
+    "descricao": "A ordem básica da frase em Libras é sujeito-objeto-verbo, mas pode ser alterada por movimentação de foco, onde o núcleo em foco é movido para o início da frase, seguido do verbo e do restante da estrutura.",
+    "gatilho": "presença de foco em um elemento da frase",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "[FP [EU PERDER LIVRO] i <[F PERDER] [IP t i ]>mc",
+      "[FP [QUEM GOSTAR GATO] i >qu <[F QUEM] [IP t i ]>qu"
+    ],
+    "fonte_pagina": "p.174",
+    "fonte_citacao": "[FP [EU PERDER LIVRO] i <[F PERDER] [IP t i ]>mc"
+  },
+  {
+    "categoria": "pronomes",
+    "titulo": "Pronomes apontados (IX) usam localização espacial",
+    "descricao": "Pronomes em Libras são frequentemente expressos por sinais de apontação (IX) que se referem a um local no espaço previamente estabelecido, permitindo a concordância e a referência sem repetição do sinal.",
+    "gatilho": "presença de referência a um sujeito ou objeto já mencionado",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "IX(casa)",
+      "IX(mãe)"
+    ],
+    "fonte_pagina": "p.168",
+    "fonte_citacao": "EU PERDER LIVRO <PERDER>mc"
+  }
+]}
+
+### p.183-197
+{
+  "rules": [
+    {
+      "categoria": "pergunta",
+      "titulo": "Movimento interrogativo para [Spec CP]",
+      "descricao": "Elementos interrogativos (como quem, o que, onde) movem-se para a posição de especificador de CP (Complementizer Phrase) à esquerda da frase, mesmo quando aparecem em posição final na superfície.",
+      "gatilho": "Presença de palavra interrogativa (quem, o que, onde, por que, como) em oração interrogativa",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "DE QUEM JOÃO GOSTAR t -> DE QUEM JOÃO GOSTAR",
+        "O QUE JOÃO PEGAR O QUE -> O QUE JOÃO PEGAR"
+      ],
+      "fonte_pagina": "p.183",
+      "fonte_citacao": "Portanto, assume-se que o movimento das interrogativas na língua de sinais brasileira é para a posição de especificador de CP [Spec CP]."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Marca não-manual obrigatória em CP",
+      "descricao": "As marcas não-manuais associadas a construções interrogativas se espalham obrigatoriamente sobre todo o IP (Inflectional Phrase), indicando que CP está à esquerda de IP.",
+      "gatilho": "Ocorrência de construção interrogativa com marca não-manual",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "JOÃO PEGAR <BOLA>sn -> inválido",
+        "JOÃO PEGAR <O QUE>qu -> inválido"
+      ],
+      "fonte_pagina": "p.184",
+      "fonte_citacao": "Os exemplos a seguir são considerados agramaticais se o objetivo é significar as mesmas sentenças com a respectiva marca não-manual espalhada por toda sentença como apresentado até aqui."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Interrogativas em posição final como foco duplo",
+      "descricao": "Elementos interrogativos em posição final são instâncias de construção dupla com foco, onde o elemento é movido para [Spec CP] e o segundo é mantido in situ como foco no núcleo de FP (Focus Phrase).",
+      "gatilho": "Elemento interrogativo em posição final com marca não-manual interrogativa sobre toda a sentença",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "QUEM GOSTAR MARIA QUEM -> QUEM GOSTAR MARIA QUEM",
+        "O QUE JOÃO PEGAR O QUE -> O QUE JOÃO PEGAR O QUE"
+      ],
+      "fonte_pagina": "p.185",
+      "fonte_citacao": "Elementos interrogativos em posição final são elementos focalizados ocupando o núcleo da projeção FP. A presença de foco licencia o apagamento da cópia."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Distinção entre interrogativas principais e subordinadas",
+      "descricao": "Interrogativas principais usam marca não-manual < >qu, enquanto interrogativas subordinadas usam < >qu~ com expressão facial diferenciada e mais tensa.",
+      "gatilho": "Oração interrogativa em contexto subordinado (ex: após 'eu quero saber')",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "EU QUERO SABER <QUEM O JOÃO ESCOLHER>qu~~",
+        "EU QUERO SABER <QUEM JOÃO ESCOLHER QUEM>"
+      ],
+      "fonte_pagina": "p.190",
+      "fonte_citacao": "Na língua de sinais brasileira, diferentemente da ASL, as construções interrogativas nas orações principais têm um sinal diferente do sinal de orações subordinadas."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Marca não-manual de confirmação em perguntas indiretas",
+      "descricao": "Perguntas indiretas com marca não-manual < >qu~ indicam desejo de confirmação, não apenas indagação.",
+      "gatilho": "Construção de pergunta indireta com marca não-manual < >qu~",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "TU SABER <QUEM>qu~ IX CONQUISTAR",
+        "TU SABER <QUEM>qu~ IX"
+      ],
+      "fonte_pagina": "p.193",
+      "fonte_citacao": "A marca não-manual desse tipo de interrogativa parece estar associada com a idéia de querer ter uma confirmação."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo com concordância exige localização espacial",
+      "descricao": "Verbos com concordância (como DAR, PERGUNTAR, AJUDAR) exigem marcação espacial (locação) que corresponde ao sujeito ou objeto, com movimento direcional que reflete a relação gramatical.",
+      "gatilho": "Verbo com concordância (ex: DAR, PERGUNTAR) com sujeito e objeto localizáveis no espaço",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "DAR IX(PESSOA) -> DAR IX(PESSOA)",
+        "PERGUNTAR IX(PESSOA) -> PERGUNTAR IX(PESSOA)"
+      ],
+      "fonte_pagina": "p.195",
+      "fonte_citacao": "A grande questão em relação às línguas de sinais é a seguinte: a marcação chamada de concordância nas línguas de sinais é de fato concordância?"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos sem concordância não usam locação espacial",
+      "descricao": "Verbos sem concordância (como CONHECER, AMAR, SABER) não apresentam flexão de pessoa, número ou locação espacial, e são produzidos com movimento fixo.",
+      "gatilho": "Verbo da categoria sem concordância (ex: CONHECER, AMAR)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "CONHECER -> CONHECER",
+        "AMAR -> AMAR"
+      ],
+      "fonte_pagina": "p.197",
+      "fonte_citacao": "Os verbos sem concordância são aqueles que não se flexionam em pessoa e número e não tomam afixos locativos."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Foco em posição final com construção dupla",
+      "descricao": "O foco em orações interrogativas pode ser expresso por um elemento interrogativo em posição final, que é uma instância de construção dupla com apagamento da cópia gerada em [Spec CP].",
+      "gatilho": "Elemento interrogativo em posição final com marca não-manual sobre toda a sentença",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "QUEM GOSTAR MARIA QUEM -> QUEM GOSTAR MARIA QUEM",
+        "O QUE JOÃO PEGAR O QUE -> O QUE JOÃO PEGAR O QUE"
+      ],
+      "fonte_pagina": "p.185",
+      "fonte_citacao": "A posição final pode ser explicada como uma instância de construção dupla, assim como proposto por Petrônio e Lillo-Martin (1997) para a ASL."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais: CP à esquerda de IP",
+      "descricao": "A estrutura da frase em Libras tem CP (Complementizer Phrase) posicionada à esquerda de IP (Inflectional Phrase), com movimento de elementos interrogativos para [Spec CP].",
+      "gatilho": "Presença de oração interrogativa ou subordinada",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "DE QUEM JOÃO GOSTAR",
+        "EU QUERO SABER <QUEM O JOÃO ESCOLHER>qu~~"
+      ],
+      "fonte_pagina": "p.184",
+      "fonte_citacao": "Assumindo que as marcas não-manuais estão associadas com o domínio de c-comando, CP deve estar à esquerda de IP, uma vez que tais marcas se espalham obrigatoriamente sobre IP."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Pronomes apontados (IX) como referência espacial",
+      "descricao": "Pronomes de terceira pessoa são representados por sinais de apontação (IX) que indicam localização espacial, sendo usados para referenciar sujeitos ou objetos já estabelecidos no espaço.",
+      "gatilho": "Referência a terceira pessoa em discurso com localização espacial",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "IX(PESSOA) -> IX(PESSOA)",
+        "IX(CASA) -> IX(CASA)"
+      ],
+      "fonte_pagina": "p.183",
+      "fonte_citacao": "IX(casa), CASA, EXPLICAR-ME"
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Aspecto marcado em verbos sem concordância",
+      "descricao": "Verbos sem concordância (como CONHECER, AMAR) podem flexionar em aspecto, mas não em pessoa ou número.",
+      "gatilho": "Verbo sem concordância com indicação de aspecto (ex: durativo, conclusivo)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "CONHECER (durativo) -> CONHECER",
+        "AMAR (conclusivo) -> AMAR"
+      ],
+      "fonte_pagina": "p.197",
+      "fonte_citacao": "No entanto alguns desses verbos se flexionam em aspecto."
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Negação com marca não-manual e sinal de negação",
+      "descricao": "A negação em Libras é expressa por marca não-manual (como expressão facial de negação) combinada com o sinal de negação (ex: NÃO, NÃO-QUERER).",
+      "gatilho": "Construção negativa em oração",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "NÃO QUERER -> NÃO QUERER",
+        "NÃO (expressão facial) -> NÃO"
+      ],
+      "fonte_pagina": "p.184",
+      "fonte_citacao": "Os exemplos a seguir são considerados agramaticais se o objetivo é significar as mesmas sentenças com a respectiva marca não-manual espalhada por toda sentença como apresentado até aqui."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Classificadores para objetos animados e inanimados",
+      "descricao": "Classificadores são usados para representar objetos animados e inanimados, com variação de configuração de mão e movimento que refletem características do objeto.",
+      "gatilho": "Referência a objeto com características distintas (ex: pessoa, carro, livro)",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "CLASSIFICADOR(Pessoa) -> CLASSIFICADOR(Pessoa)",
+        "CLASSIFICADOR(Carro) -> CLASSIFICADOR(Carro)"
+      ],
+      "fonte_pagina": "p.197",
+      "fonte_citacao": "Nesse sentido, faz-se necessária uma breve discussão sobre os diferentes tipos de verbos encontrados na língua de sinais brasileira."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Tag questions com marca não-manual",
+      "descricao": "Construções com marca não-manual em final de frase (ex: < >sn) podem indicar tag questions, com significado de confirmação.",
+      "gatilho": "Frase com marca não-manual < >sn no final",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "JOÃO PEGAR <BOLA>sn",
+        "JOÃO PEGAR <O QUE>qu"
+      ],
+      "fonte_pagina": "p.184",
+      "fonte_citacao": "Esses exemplos são possíveis na língua de sinais brasileira, mas com outro significado, algo como uma pergunta de confirmação (tag questions)"
+    }
+  ]
+}
+
+### p.198-210
+{
+  "rules": [
+    {
+      "categoria": "concordancia",
+      "titulo": "Verbo com concordância exige negação após o verbo",
+      "descricao": "Verbos com concordância na Libras permitem a negação apenas após o verbo; a negação antes do verbo resulta em sentença gramaticalmente inválida.",
+      "gatilho": "verbo com concordância em uma frase",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ELE NÃO PAGAR",
+        "ELE>do <NÃO <PAGAR>do>n"
+      ],
+      "fonte_pagina": "p.198",
+      "fonte_citacao": "Os verbos sem concordância não admitem a negação antes do verbo, ao contrário dos verbos com concordância (exemplos)."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos manuais finalizam a frase",
+      "descricao": "Verbos manuais, que envolvem a representação de um objeto na mão, sempre ocorrem na posição final da frase, independentemente da estrutura sintática.",
+      "gatilho": "presença de verbo manual (ex: PINTAR-ROLO, PINTAR-PINCEL, BATER-POSTE)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "<JOÃO>t <CASA>t <PINTAR-ROLO>cl",
+        "<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE+>cl"
+      ],
+      "fonte_pagina": "p.200",
+      "fonte_citacao": "Assim como observado com os verbos associados com aspecto, os verbos manuais finalizam a sentença."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construções com classificadores ocupam posição final",
+      "descricao": "Predicados complexos com classificadores, que incorporam objeto e ação em um único sinal, sempre ocupam a posição final da frase.",
+      "gatilho": "presença de classificador com verbo complexo (ex: CL(carro)-BATER-POSTE)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE+>cl",
+        "<JOÃO>t <MARIA>t <CL(pessoa)-CRUZAR-UMa-PELO-OUTRO>cl"
+      ],
+      "fonte_pagina": "p.205",
+      "fonte_citacao": "Note-se ainda que tais construções seguem o mesmo padrão: todas ocupam a posição final da sentença."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Aspecto marcado em posição final",
+      "descricao": "A marcação de aspecto em verbos da Libras ocorre sempre na posição final da frase, independentemente do verbo ter ou não concordância.",
+      "gatilho": "presença de marcação de aspecto (ex: <COMPRAR+>aspecto)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "JOÃO LIVRO <COMPRAR+>aspecto",
+        "*JOÃO <COMPRAR+>aspecto LIVRO"
+      ],
+      "fonte_pagina": "p.199",
+      "fonte_citacao": "Os verbos associados com aspecto na língua de sinais brasileira necessariamente aparecem em posição final:"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbos backward iniciam trajetória no objeto",
+      "descricao": "Verbos com concordância do tipo 'backward' iniciam o movimento do sinal na posição do objeto e terminam na posição do sujeito, ao contrário dos verbos convencionais.",
+      "gatilho": "verbo com concordância que indica movimento do objeto para o sujeito (ex: BUSCAR, CHAMAR)",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "BUSCAR",
+        "CHAMAR"
+      ],
+      "fonte_pagina": "p.199",
+      "fonte_citacao": "Tais verbos iniciam a trajetória do sinal na posição do objeto e concluem-na na posição de sujeito, ao contrário dos demais verbos com concordância, que começam sua trajetória na posição do sujeito e vão em direção à posição do objeto."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Pronomes de apontação (IX) indicam sujeito ou objeto",
+      "descricao": "Pronomes de apontação (IX) são usados para indicar sujeito ou objeto em frases com concordância verbal, ocupando posições espaciais fixas no espaço de sinalização.",
+      "gatilho": "presença de sujeito ou objeto localizável no espaço",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "<ELE>do",
+        "<JOÃO>t"
+      ],
+      "fonte_pagina": "p.198",
+      "fonte_citacao": "verbo com concordância + sujeito e objeto ambos localizáveis no espaço"
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Foco ocupa posição final da frase",
+      "descricao": "O foco de uma frase na Libras é geralmente marcado pela posição final, associada a movimentos de cabeça e a estruturas de tópico-comentário.",
+      "gatilho": "presença de foco em uma frase",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "<JOÃO>t <TELA>t <PINTAR-PINCEL>cl/mc",
+        "<CENTRO>t MULHERES [CL(pessoas)-CRUZANDO-ENTRE-SIb] hn"
+      ],
+      "fonte_pagina": "p.205",
+      "fonte_citacao": "Em termos estruturais, a posição final também é ocupada pelo foco que usualmente está associada com o movimento da cabeça"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem SVO padrão com exceções em construções manuais",
+      "descricao": "A ordem sintática padrão na Libras é SVO, mas construções com verbos manuais podem apresentar ordem não padrão (como OSV) quando envolvem classificadores complexos.",
+      "gatilho": "presença de predicado complexo com classificador",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "BOLA JOÃO BATER-COM-TACO",
+        "WOMAN PIE PUT-IN-OVEN"
+      ],
+      "fonte_pagina": "p.203",
+      "fonte_citacao": "Liddell também observou que há possibilidade de estruturas OSV serem geradas na língua de sinais americana sem marca de tópico em exemplos em que há um predicado complexo"
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Classificadores incorporam objeto e ação em um único sinal",
+      "descricao": "Classificadores podem incorporar informação sobre o objeto, ação e até número ou grau, formando predicados complexos que funcionam como um único sinal.",
+      "gatilho": "uso de classificador com verbo (ex: CL(carro)-BATER-POSTE)",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "<CL(carro)-BATER-POSTE+>cl",
+        "<CL(pessoas)-CRUZANDO-ENTRE-SI>cl"
+      ],
+      "fonte_pagina": "p.201",
+      "fonte_citacao": "os classificadores podem incorporar número e grau. Liddell (1980) refere-se a este tipo de exemplo na língua de sinais americana como ‘predicados complexos’."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Construções manuais com classificadores são convencionais e naturais",
+      "descricao": "Construções com verbos manuais e classificadores são expressões fixas e convencionais na Libras, usadas para expressar ações com instrumentos ou relações espaciais de forma natural.",
+      "gatilho": "uso de classificador com verbo manual (ex: PINTAR-PINCEL, BATER-POSTE)",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "<JOÃO>t <CASA>t <PINTAR-ROLO>cl",
+        "<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE>cl"
+      ],
+      "fonte_pagina": "p.200",
+      "fonte_citacao": "Assim como observado com os verbos associados com aspecto, os verbos manuais finalizam a sentença. Primeiro situa-se sobre o que está se falando e, em seguida, define-se que tipo de verbo manual será usado, como nas construções tópico-comentário."
+    }
+  ]
+}

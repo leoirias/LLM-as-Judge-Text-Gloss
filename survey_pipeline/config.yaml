@@ -1,0 +1,29 @@
+# survey_pipeline — config do resíduo LLM (etapa Verify-LLM).
+# Determinístico de propósito: um validador precisa ser reprodutível (§11 do
+# survey — resultado de LLM-juiz depende de amostragem). thinking ligado porque
+# fidelidade/naturalidade exigem raciocínio.
+
+model:
+  name: qwen3-32b
+  model_id: Qwen/Qwen3-32B
+  dtype: bfloat16
+  device_map: cuda            # GPU escolhida no run via CUDA_VISIBLE_DEVICES
+
+generation:
+  enable_thinking: true
+  max_new_tokens: 2048        # thinking + JSON; stragglers caem no fallback thinking-off
+  do_sample: false            # reprodutível
+  temperature: 0.0
+  top_p: 1.0
+
+batch_size: 8
+
+io:
+  lingua: asl
+  input: data/pares_review.csv
+  text_col: Input
+  gloss_col: Output
+  review_col: Output review
+  rule_package: survey_pipeline/rules/rule_package.yaml
+  prompt: survey_pipeline/prompts/judge.yaml
+  experiments_dir: survey_pipeline/experiments

@@ -1,0 +1,301 @@
+# Base de regras gramaticais de ASL — consultada pelo juiz para validar glosas.
+#
+# Fonte: "REGRAS GRAMATICAIS ASL — MORFOLOGIA E SISTEMA DE PRONOMES E VERBOS
+# EM ASL" (Consultoria: Tania Martins). Primeira entrega da consultoria.
+#
+# COMO CRESCER ESTE ARQUIVO:
+#   Cada regra é uma entrada na lista `rules` com ID estável. Para adicionar
+#   novas regras (novas entregas da consultoria), basta acrescentar entradas —
+#   nenhum código precisa mudar. Mantenha os IDs já existentes estáveis, porque
+#   o juiz os cita nas saídas.
+#
+# CAMPOS:
+#   id                    - identificador estável e citável (ex.: MORF.1.4)
+#   categoria             - morfologia | pronomes | verbos
+#   titulo                - nome curto da regra
+#   descricao             - o que a regra diz, em texto
+#   verificavel_por_texto - true  -> dá para checar só olhando o texto da glosa
+#                           false -> depende de canal que NÃO aparece no texto
+#                                    (expressão facial/não-manual, uso do espaço,
+#                                    orientação/movimento da mão). O juiz é
+#                                    instruído a NÃO reprovar uma glosa por uma
+#                                    regra não verificável por texto.
+#   exemplos              - exemplos ilustrativos (em geral texto -> glosa)
+
+meta:
+  fonte: "Regras Gramaticais ASL — Morfologia e Sistema de Pronomes e Verbos (Consultoria: Tania Martins)"
+  entrega: 1
+
+rules:
+  # ------------------------------------------------------------------ #
+  # 1. MORFOLOGIA
+  # ------------------------------------------------------------------ #
+  - id: MORF.1.1
+    categoria: morfologia
+    titulo: Diferenciação Verbo–Substantivo
+    descricao: >-
+      A ASL deriva substantivos a partir de verbos pelo movimento. Verbo =
+      movimento único (longo ou fluido); Substantivo = movimento reduzido e
+      repetido. Na glosa em texto essa diferença de movimento normalmente NÃO
+      aparece (verbo e substantivo podem ter a mesma forma escrita), então só
+      reprove por esta regra se houver evidência clara no texto.
+    verificavel_por_texto: false
+    exemplos:
+      - "SIT (sentar) -> CHAIR (cadeira): movimento único -> reduzido e repetido"
+      - "FLY (voar) -> AIRPLANE (avião): mesmo sinal, ritmo diferente"
+      - "EAT (comer) -> FOOD (comida): movimento único -> repetido"
+      - "DRINK (beber) -> GLASS/CUP (copo)"
+      - "COMB (pentear) -> COMB-noun (pente): repetição reduzida"
+      - "OPEN-BOOK -> BOOK (livro): repetição"
+
+  - id: MORF.1.2
+    categoria: morfologia
+    titulo: Formação de Compostos
+    descricao: >-
+      Dois sinais independentes podem se combinar em um sinal composto com novo
+      significado, frequentemente com redução fonológica (o segundo sinal perde
+      parte do movimento/localização), um único marcador não-manual cobrindo
+      todo o composto e fronteira suavizada entre os dois sinais.
+    verificavel_por_texto: true
+    exemplos:
+      - "THINK + FREEZE = SHOCKED (chocado, atônito)"
+      - "MOTHER + FATHER = PARENTS (pais)"
+      - "GO + BED = GO-TO-BED (ir dormir)"
+
+  - id: MORF.1.3
+    categoria: morfologia
+    titulo: Incorporação de Numeral
+    descricao: >-
+      Números podem ser morfologicamente incorporados a alguns sinais,
+      especialmente para frequência temporal (a cada X semanas) e quantidades
+      com alguns substantivos. O numeral é incorporado à configuração de mão do
+      sinal-base.
+    verificavel_por_texto: true
+    exemplos:
+      - "EVERY-WEEK -> EVERY-2-WEEKS, EVERY-3-WEEKS"
+      - "AGE -> AGE-5, AGE-10, AGE-16"
+
+  - id: MORF.1.4
+    categoria: morfologia
+    titulo: Reduplicação
+    descricao: >-
+      A repetição do sinal (ou parte dele) é um processo produtivo que pode
+      indicar: pluralidade de substantivos (BOY++ = meninos), aspecto verbal
+      (lento, devagar, rápido) ou derivação de substantivo a partir de verbo
+      (ver MORF.1.1). Na glosa escrita a reduplicação costuma ser marcada com
+      "++".
+    verificavel_por_texto: true
+    exemplos:
+      - "BOY++ = meninos (plural por reduplicação)"
+
+  # ------------------------------------------------------------------ #
+  # 2. SISTEMA DE PRONOMES
+  # ------------------------------------------------------------------ #
+  - id: PRON.2.1
+    categoria: pronomes
+    titulo: Pronomes Pessoais (apontamento IX / PRO)
+    descricao: >-
+      Pronomes pessoais são feitos por apontamento com o indicador (IX/PRO).
+      Características: (1) SEM distinção de gênero na 3a pessoa — PRO.3 serve para
+      qualquer pessoa ausente (não há he/she distinto); (2) SEM distinção
+      sujeito/objeto — a mesma forma serve para ambos, e o papel é dado pela
+      ORDEM dos sinais (PRO.1 ATTRACT PRO.2 = "eu atraio você"; PRO.2 ATTRACT
+      PRO.1 = "você me atrai"); (3) distinção de número singular/plural
+      (PRO.2 singular vs. plural, WE, THEY, TWO-OF-US/THREE-OF-US, etc.).
+    verificavel_por_texto: true
+    exemplos:
+      - "1a sing.: I/me -> PRO.1"
+      - "1a plur.: we/us -> WE, TWO-OF-US, THREE-OF-US"
+      - "2a sing.: you -> PRO.2"
+      - "2a plur.: you -> PRO.2(plural), TWO-OF-YOU, THREE-OF-YOU"
+      - "3a sing.: he/she/it/him/her -> PRO.3"
+      - "3a plur.: they/them -> THEY, TWO-OF-THEM, THREE-OF-THEM"
+
+  - id: PRON.2.2
+    categoria: pronomes
+    titulo: Uso do Espaço e Referenciação
+    descricao: >-
+      Pronomes usam o espaço tridimensional: um referente citado pela primeira
+      vez recebe uma localização (direita/esquerda) e deve ser retomado sempre no
+      mesmo local. A localização articulatória em si não tem significado
+      morfológico independente. Em conversação direta (perguntas/respostas
+      fechadas) a marcação e retomada no espaço podem não ocorrer. Esta regra é
+      espacial e NÃO se verifica no texto da glosa.
+    verificavel_por_texto: false
+    exemplos:
+      - "BOY -> aponta para um local -> retoma sempre nesse local ao falar dele"
+
+  - id: PRON.2.3
+    categoria: pronomes
+    titulo: Pronomes Possessivos
+    descricao: >-
+      Possessivos funcionam como determinantes: MY, YOUR, HIS/HER/ITS (PRO.3 +
+      possessivo), OUR, THEIR.
+    verificavel_por_texto: true
+    exemplos:
+      - "MY DAUGHTER VERY-SICK = Minha filha está muito doente"
+      - "YOUR NAME = Seu nome"
+
+  - id: PRON.2.4
+    categoria: pronomes
+    titulo: Pronomes Demonstrativos
+    descricao: >-
+      Demonstrativos (THIS, THAT, THESE, THOSE) funcionam como determinantes ou
+      pronomes, feitos por apontamento; o que muda são as expressões faciais.
+      Traduzem este/esta/isto (THIS), esse/aquele/isso (THAT), estes/estas
+      (THESE), esses/aqueles (THOSE).
+    verificavel_por_texto: true
+    exemplos:
+      - "THIS MOVIE I HAVE SEEN THREE TIMES -> I have seen this movie three times"
+      - "THAT MAN WHO? -> Who is that man?"
+      - "THAT DOG = Aquele cachorro"
+      - "THIS IS OLD = Isto é velho"
+
+  - id: PRON.2.5
+    categoria: pronomes
+    titulo: Pronomes Interrogativos (WH-questions)
+    descricao: >-
+      Interrogativos são acompanhados de marcadores não-manuais (sobrancelhas
+      franzidas, cabeça levemente inclinada para trás). Principais: WHO, WHAT,
+      WHERE, WHY, HOW, WHICH, HOW-MANY, HOW-MUCH. Posição do WH pode ser no
+      início, no final, ou duplo (repetido nas duas pontas).
+    verificavel_por_texto: true
+    exemplos:
+      - "WHAT TIME? = Que horas são?"
+      - "WHERE YOU FIND? = Onde você achou?"
+      - "WHY NOT? = Por que não?"
+      - "HOW YOU? = Como você está?"
+      - "YOU BELONG CHURCH WHICH? = Which church do you belong to?"
+      - "CHILDREN YOU HAVE HOW-MANY? = How many children do you have?"
+      - "YOU PAY HOW-MUCH? = How much did you pay?"
+
+  - id: PRON.2.6
+    categoria: pronomes
+    titulo: Pronomes Reflexivos
+    descricao: >-
+      Reflexivos usados em contextos específicos: MYSELF, YOURSELF,
+      HIMSELF/HERSELF, OURSELVES, THEMSELVES.
+    verificavel_por_texto: true
+    exemplos:
+      - "I DID IT MYSELF = Eu fiz isso eu mesmo"
+
+  - id: PRON.2.7
+    categoria: pronomes
+    titulo: Pronomes Indefinidos
+    descricao: >-
+      Indefinidos: SOMEONE, ANYONE, SOMEBODY, ANYTHING, NOBODY, NOTHING.
+    verificavel_por_texto: true
+    exemplos:
+      - "SOMEONE IS HERE = Alguém está aqui"
+
+  - id: PRON.2.8
+    categoria: pronomes
+    titulo: Pronomes Duplos
+    descricao: >-
+      É comum repetir o pronome no final da frase (pronome duplo).
+    verificavel_por_texto: true
+    exemplos: []
+
+  # ------------------------------------------------------------------ #
+  # 3. SISTEMA DE VERBOS
+  # ------------------------------------------------------------------ #
+  - id: VERB.3.1
+    categoria: verbos
+    titulo: Verbos com Concordância de Orientação
+    descricao: >-
+      A orientação da palma e das costas da mão indica sujeito e objeto (palma =
+      objeto; costas = sujeito). Depende da orientação da mão — NÃO se verifica
+      no texto da glosa.
+    verificavel_por_texto: false
+    exemplos:
+      - "HATE: 'Eu odeio ele' costas para o sinalizador, palma para o objeto; 'Ele me odeia' inverso"
+      - "TEASE (provocar)"
+
+  - id: VERB.3.2
+    categoria: verbos
+    titulo: Verbos com Concordância de Localização
+    descricao: >-
+      A localização (ponto inicial/final do movimento) indica quem é sujeito e
+      objeto; a orientação não muda. Depende do movimento no espaço — NÃO se
+      verifica no texto da glosa.
+    verificavel_por_texto: false
+    exemplos:
+      - "HELP: 'Eu ajudo ele' começa em A (sinalizador) termina em B; 'Ele me ajuda' começa em B termina em A"
+
+  - id: VERB.3.3
+    categoria: verbos
+    titulo: Verbos com Concordância de Orientação E Localização
+    descricao: >-
+      Tanto localização quanto orientação carregam informação de sujeito e
+      objeto. Em verbos de duas mãos (BOTHER, FLATTER) ambas as mãos marcam
+      sujeito e objeto. NÃO se verifica no texto da glosa.
+    verificavel_por_texto: false
+    exemplos:
+      - "#SAY-NO-TO, GIVE, ASK, BOTHER, FLATTER"
+
+  - id: VERB.3.4
+    categoria: verbos
+    titulo: Verbos com Informação do Objeto Primeiro
+    descricao: >-
+      O verbo começa na localização do objeto e termina na do sujeito.
+      Depende do movimento no espaço — NÃO se verifica no texto da glosa.
+    verificavel_por_texto: false
+    exemplos:
+      - "INVITE, HIRE, COPY — 'Eu contrato ele': começa em B (objeto) termina em A (sujeito)"
+
+  - id: VERB.3.5
+    categoria: verbos
+    titulo: Verbos Recíprocos
+    descricao: >-
+      Informação sobre dois sujeitos e dois objetos ao mesmo tempo; cada mão
+      marca sujeito e objeto simultaneamente. Depende de configuração das duas
+      mãos — NÃO se verifica no texto da glosa.
+    verificavel_por_texto: false
+    exemplos:
+      - "UNDERSTAND-EACH-OTHER, LOOK-AT-EACH-OTHER, SEE-EACH-OTHER"
+
+  - id: VERB.3.6
+    categoria: verbos
+    titulo: Verbos Somente com Informação do Objeto
+    descricao: >-
+      Incluem apenas informação do objeto; exigem um sinal separado para o
+      sujeito. Isso É verificável no texto: o sujeito precisa aparecer como sinal
+      próprio (ex.: PRO.1) na glosa.
+    verificavel_por_texto: true
+    exemplos:
+      - "TELL: 'Eu digo a ele' -> PRO.1 TELL PRO.3 (precisa do PRO.1 separado)"
+
+  - id: VERB.3.7
+    categoria: verbos
+    titulo: Verbos Simples (Plain Verbs)
+    descricao: >-
+      NÃO incluem informação de sujeito nem objeto; todos os argumentos exigem
+      sinais separados. Verificável no texto: sujeito e objeto devem aparecer
+      como sinais próprios.
+    verificavel_por_texto: true
+    exemplos:
+      - "PUNISH, LOVE, LIKE, TASTE, THINK, UNDERSTAND, SHOCK, KNOW"
+      - "'Eu puno você' -> PRO.1 PUNISH PRO.2 (três sinais)"
+
+  - id: VERB.3.8
+    categoria: verbos
+    titulo: Verbos Direcionais e Uso do Espaço
+    descricao: >-
+      Classificação por mobilidade no espaço. Direcionais (movem em qualquer
+      direção): LOOK, SEND, PAY, MEET, GIVE, BRING, MOVE, HELP, TELL, SHOW, CALL,
+      ASK, THROW, DRIVE, TEACH. Movimento limitado: GO, COME. NÃO-direcionais:
+      COMPLAIN, READ, DISCUSS, EAT, WANT, PLAY, NEED, SAY, LIVE, FEEL. A
+      direcionalidade em si depende do espaço — NÃO se verifica no texto.
+    verificavel_por_texto: false
+    exemplos:
+      - "YOU ABSENT HAVE BEEN MUST BRING AN EXCUSE = When you have been absent you must bring an excuse"
+
+  - id: VERB.3.9
+    categoria: verbos
+    titulo: Classificadores como Verbos (Spatial Verbs)
+    descricao: >-
+      Classificadores são configurações de mão que representam classes de objetos
+      e se combinam com movimento para formar predicados. Depende de configuração
+      de mão e espaço — NÃO se verifica no texto da glosa.
+    verificavel_por_texto: false
+    exemplos: []

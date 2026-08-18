@@ -1,0 +1,25 @@
+# Etapa 2 parte 2 — fusão de candidatas duplicadas (voice2sign) por categoria.
+#
+# Mesmo modelo da extração (Qwen3-30B-A3B-Instruct-2507, non-thinking,
+# determinístico). max_new_tokens mais alto que a extração porque a lista
+# consolidada cresce a cada rodada (carrega o estado inteiro pra frente).
+
+model:
+  name: qwen3-30b-a3b-instruct-2507
+  model_id: Qwen/Qwen3-30B-A3B-Instruct-2507
+  dtype: bfloat16
+  device_map: cuda
+
+generation:
+  enable_thinking: false
+  max_new_tokens: 8000
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0
+
+id_prefix: LIBRAS
+lote_tamanho: 15   # candidatas novas por rodada de fusão
+
+io:
+  input: output/voice2sign_candidatas.csv
+  output: output/voice2sign_final.csv

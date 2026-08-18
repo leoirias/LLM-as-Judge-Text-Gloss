@@ -1,0 +1,3170 @@
+### p.31-45
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem flexível de sujeito e verbo em frases simples",
+      "descricao": "Em ASL, o sujeito pode aparecer antes ou depois do verbo em frases simples, sem alterar o significado. Isso permite variações naturais na estrutura da frase, dependendo do foco ou do contexto.",
+      "gatilho": "frase simples com sujeito e verbo, sem objetos diretos ou indiretos",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HE RAN → RAN HIM",
+        "SHE FELL → FELL HER"
+      ],
+      "fonte_pagina": "p.37",
+      "fonte_citacao": "Unlike English grammar rules, which dictate that the subject must go before the verb, Sign allows you to put the subject before or after the verb when dealing with simple sentences; it doesn’t matter which word comes first."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Objeto direto pode vir antes do sujeito ou depois do verbo",
+      "descricao": "O objeto direto em ASL pode ser posicionado antes do sujeito ou após o verbo, dependendo do foco da mensagem. A ordem natural em inglês é mantida apenas quando há risco de ambiguidade.",
+      "gatilho": "frase com sujeito, verbo e objeto direto, especialmente quando a mudança de ordem não causa ambiguidade",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HE SELLS FOOD → FOOD HE SELLS",
+        "ME EAT PIZZA → PIZZA ME EAT"
+      ],
+      "fonte_pagina": "p.38",
+      "fonte_citacao": "In ASL, the direct object can go either before the subject or after the verb."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Objeto indireto posicionado após o sujeito",
+      "descricao": "Em frases com objeto indireto, o objeto indireto é colocado imediatamente após o sujeito, seguido pelo verbo e pelo objeto direto, formando a sequência sujeito-objeto indireto-objeto direto-verb.",
+      "gatilho": "frase com sujeito, verbo, objeto indireto e objeto direto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "DOG BONE — GIRL — THROW",
+        "ME TEACHER — APPLE GAVE"
+      ],
+      "fonte_pagina": "p.40",
+      "fonte_citacao": "You place the indirect object right after the subject and then show the action."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Indicação de passado com 'finish' no início da frase",
+      "descricao": "Para indicar que uma ação já ocorreu no passado, o sinal 'FINISH' é usado no início da frase, com movimento no nível do peito ou acima, dependendo da intensidade. O sinal é acompanhado pela pronúncia de 'fish' (versão abreviada de 'finish').",
+      "gatilho": "frase que descreve uma ação concluída no passado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH HE GO — WILL"
+      ],
+      "fonte_pagina": "p.34",
+      "fonte_citacao": "To place everything you sign into past tense, you sign finish at chest level or higher, depending on the level of intensity, at either the beginning or end of the sentence (most signers do it at the beginning for clarity), while saying the word fish, a shortened version of finish."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Indicação de futuro com 'will' no final da frase",
+      "descricao": "Para indicar futuro, o sinal 'WILL' é colocado no final da frase. A distância do corpo ao qual o sinal é feito indica o grau de proximidade ou distância no tempo: quanto mais longe, mais distante no futuro.",
+      "gatilho": "frase que descreve uma ação futura planejada",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HE GO — WILL",
+        "MY HOUSE — M-I-K-E — WALK — WILL"
+      ],
+      "fonte_pagina": "p.34",
+      "fonte_citacao": "You indicate future tense by signing and saying will at the end of a sentence. The farther you sign the word will from the front of your body, the farther into the future you go."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Indicação de ação não iniciada ou incompleta com 'not yet'",
+      "descricao": "Para indicar que uma ação ainda não começou ou não foi concluída, o sinal 'NOT YET' é usado no final da frase, com movimento de cabeça ligeiro de lado a lado, como um 'não'. Não se pronuncia 'not yet', apenas se sinaliza.",
+      "gatilho": "frase que expressa que uma ação ainda não ocorreu ou não foi concluída",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "ME EAT — NOT YET"
+      ],
+      "fonte_pagina": "p.35",
+      "fonte_citacao": "To show that you’re not yet finished with or you haven’t even started a task, sign the unaccomplished deed and then sign not yet while shaking your head slightly from side to side, as if saying no, though you don’t pronounce not yet, though; you simply sign it."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Adjetivos e advérbios geralmente seguem o termo que modificam",
+      "descricao": "Em ASL, adjetivos e advérbios são normalmente colocados após o substantivo ou verbo que modificam, diferentemente do inglês, onde podem vir antes ou depois.",
+      "gatilho": "frase com adjetivo ou advérbio que modifica um substantivo ou verbo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "SMALL PLANES — FLY — LIKE ME",
+        "PRETTY GIRL",
+        "BAD MOVIE"
+      ],
+      "fonte_pagina": "p.32",
+      "fonte_citacao": "In Sign, you typically place the adjective or adverb — the modifier — after the word it modifies."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "OH/I SEE WHAT",
+      "descricao": "Expressão usada como exclamação única para indicar surpresa, compreensão repentina ou incredulidade. É formada pela datilologia 'W-T' (What?) e usada apenas como uma palavra isolada.",
+      "gatilho": "situação de surpresa, compreensão súbita ou dúvida",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "WHAT:"
+      ],
+      "fonte_pagina": "p.45",
+      "fonte_citacao": "OH/I SEE WHAT: This exclamation is fingerspelled simply as W-T; it’s only used as a one-word exclamation (as “What?!”)."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "FINISH como 'enough already' ou 'stop that'",
+      "descricao": "O sinal 'FINISH' pode ser usado como exclamação para indicar 'basta já' ou 'pare com isso', especialmente com expressão facial de impaciência ou repreensão. É feito com uma mão e acompanhado pela pronúncia de 'fish'.",
+      "gatilho": "situação de frustração, impaciência ou repreensão",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "FINISH"
+      ],
+      "fonte_pagina": "p.45",
+      "fonte_citacao": "Although finish is used at the beginning of a sentence to show past tense (see the section “Talking Tenses” earlier in this chapter), it’s also used as humor in Sign to indicate “enough already” and as a reprimand meaning “stop that.”"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Adjetivos e advérbios expressos por expressões faciais",
+      "descricao": "Em vez de sinalizar adjetivos ou advérbios como 'small', 'big', 'very', 'loudly', o significado pode ser transmitido por expressões faciais e gestos corporais, como puxar os lábios, franzir as sobrancelhas ou mudar a forma da boca.",
+      "gatilho": "descrição de tamanho, intensidade, velocidade ou emoção",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "PRETTY GIRL: Raise eyebrows, form mouth into an “o” shape",
+        "BAD MOVIE: Turn mouth down in a frown and scrunch eyebrows",
+        "GOOD DOG: Slightly smile and raise eyebrows",
+        "RUN VERY FAST: Scrunch eyebrows and clench jaw"
+      ],
+      "fonte_pagina": "p.32",
+      "fonte_citacao": "Your facial expressions can describe things and actions in ASL. For instance, if something is small or big, you can show its size without actually signing small or big."
+    }
+  ]
+}
+
+### p.46-60
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'if' (condicionais)",
+      "descricao": "Em ASL, frases condicionais são formadas com o sinal 'IF' seguido pelo condicionante, e o resultado da condição. O sinal 'IF' é acompanhado por sobrancelhas levantadas, mas as sobrancelhas retornam à posição normal após o sinal 'IF'.",
+      "gatilho": "Frase condicional iniciada com 'if' ou 'suppose' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "IF BEER ORDER YOU — WINE ORDER ME",
+        "IF YOU WANT TO GO — I WILL GO"
+      ],
+      "fonte_pagina": "p.50",
+      "fonte_citacao": "Sign the conditional word while raising your eyebrows, but then follow with the rest of the conditional phrase and sentence with your eyebrows back down in their normal position."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de agentes por personificação",
+      "descricao": "Para transformar um verbo em um agente (pessoa que realiza a ação), o sinal do verbo é feito e, em seguida, os dorsos das mãos são deslizados para baixo ao longo dos lados do corpo com os dedos estendidos.",
+      "gatilho": "Quando se deseja indicar uma pessoa que realiza uma ação (ex: quem escreve, quem cozinha)",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "WRITE + AGENT = WRITER",
+        "COOK + AGENT = CHEF"
+      ],
+      "fonte_pagina": "p.50",
+      "fonte_citacao": "You do it with two simple motions: Sign the verb and then glide the heels of your hands down the sides of your body with your fingers extended outward. The result of this is an agent."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Uso de classificadores para detalhar objetos",
+      "descricao": "Classificadores são usados para representar objetos, pessoas ou lugares com base em forma, tamanho ou posição. Devem ser usados apenas após o assunto já ter sido introduzido, para esclarecer detalhes específicos.",
+      "gatilho": "Após introduzir um assunto, quando se deseja descrever forma, posição ou movimento de um objeto",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "A handshape with thumb up represents a vase, stop sign, or computer tower",
+        "C handshape represents a muscle, glass, or wad of dollars",
+        "F handshape represents coins, small rocks, or polka dots"
+      ],
+      "fonte_pagina": "p.53",
+      "fonte_citacao": "Once you get the hang of them, you can show off your skill to your Deaf friends and let them teach you more about classifiers."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Evitar verbos 'to be' em ASL",
+      "descricao": "Verbos como 'am', 'are', 'was', 'were', 'be', 'being', 'been' não são usados em ASL. Em vez disso, a estrutura ativa é usada, e a afirmação é confirmada com o sinal 'TRUE' no final da frase.",
+      "gatilho": "Quando se deseja fazer uma afirmação ou declarar um estado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TRUE",
+        "I AM HERE → (sem sinal de 'am', apenas 'I HERE TRUE')"
+      ],
+      "fonte_pagina": "p.55",
+      "fonte_citacao": "Never sign am, are, was, were, be, being, or been. They aren’t used in ASL."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Sinal de pergunta com expressão facial",
+      "descricao": "Para indicar uma pergunta em ASL, levante as sobrancelhas e incline a cabeça para frente. Isso sinaliza que a frase é uma pergunta e que o interlocutor está esperando uma resposta.",
+      "gatilho": "Quando se faz uma pergunta em ASL",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "SIGN YOU Q",
+        "DEAF YOU Q",
+        "WHAT’S_UP"
+      ],
+      "fonte_pagina": "p.57",
+      "fonte_citacao": "If you ask a question, raise your eyebrows and tilt your head forward; doing so shows others that your sentence is a question and that you’re waiting for a response."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "OH I SEE WHY",
+      "descricao": "Expressão usada para indicar compreensão imediata de uma razão ou motivação. É usada quando alguém entende o porquê de uma ação ou decisão.",
+      "gatilho": "Após uma explicação ou justificativa, quando se entende a razão",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "OH I SEE WHY — Q",
+        "OH I SEE WHY — YES"
+      ],
+      "fonte_pagina": "p.48",
+      "fonte_citacao": "OH I SEE WHY — Q"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "WOW",
+      "descricao": "Expressão usada para mostrar surpresa, admiração ou entusiasmo diante de algo significativo ou emocionante.",
+      "gatilho": "Quando algo surpreendente ou importante é mencionado, como aniversários, conquistas ou eventos especiais",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ANNIVERSARY — 50 YEARS — US — WOW",
+        "WOW — THAT’S A LONG TIME!"
+      ],
+      "fonte_pagina": "p.46",
+      "fonte_citacao": "Wow! Our 50th anniversary!"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "WHAT’S UP?",
+      "descricao": "Gíria informal usada como saudação, equivalente a 'Oi' ou 'Tudo bem?'. É comum em contextos casuais e entre amigos.",
+      "gatilho": "Início de conversa informal, especialmente com pessoas conhecidas ou em ambientes descontraídos",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "WHAT’S_UP",
+        "WHAT’S UP? — SIGN YOU Q"
+      ],
+      "fonte_pagina": "p.56",
+      "fonte_citacao": "Signing What’s up? is a simple, informal greeting that’s a great opener, too."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de 'MY SISTER' como referente",
+      "descricao": "Em ASL, pronomes como 'my sister' são usados com o sinal do possuidor seguido do nome ou referente. O sinal 'MY' é feito com a mão na posição do peito, seguido pelo sinal do referente.",
+      "gatilho": "Quando se faz referência a uma pessoa próxima com vínculo familiar",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "MY SISTER — DEAF",
+        "MY BROTHER — STUDENT"
+      ],
+      "fonte_pagina": "p.60",
+      "fonte_citacao": "No, my sister is deaf."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Sinal 'FINISH' para interromper",
+      "descricao": "O sinal 'FINISH' é usado para interromper ou concluir uma ação, especialmente em contextos de negação ou impaciência. É uma forma direta de dizer 'pare' ou 'acabe com isso'.",
+      "gatilho": "Quando se quer interromper uma ação ou expressar frustração com algo que está acontecendo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH",
+        "STOP THAT — FINISH"
+      ],
+      "fonte_pagina": "p.49",
+      "fonte_citacao": "You stop that!"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'SO FAR' para tempo longo",
+      "descricao": "O sinal 'SO FAR' é usado para indicar um período de tempo muito longo, especialmente em contextos de aniversários, experiências ou espera prolongada.",
+      "gatilho": "Quando se fala de um tempo extenso, como em aniversários ou experiências duradouras",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "LONG TIME — SO FAR",
+        "SO FAR — 50 YEARS"
+      ],
+      "fonte_pagina": "p.47",
+      "fonte_citacao": "(flick!) — LONG TIME — SO FAR"
+    }
+  ]
+}
+
+### p.76-90
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Posição do tempo no início da frase",
+      "descricao": "Em ASL, a expressão de tempo deve ser colocada o mais próximo possível do início da frase, antes do sujeito, para fornecer um contexto claro sobre quando o evento ocorreu.",
+      "gatilho": "Frase que inclui informação de tempo (data, hora, dia, momento do dia)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "7 P.M. — MY HOUSE — COME — CAN YOU — Q",
+        "MORNING — I ARRIVE — LATE"
+      ],
+      "fonte_pagina": "p.85",
+      "fonte_citacao": "In ASL, telling time can be an important tool to make sure that you’re never too late or too early. As you’re learning this valuable piece of information, always remember that you should put the expression of time as close to the beginning of the sentence as possible; that is, you generally express the time before the subject."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de itens e quantidade em frases numéricas",
+      "descricao": "Para expressar pluralidade ou quantidade em ASL, o item é sinalizado primeiro, seguido pelo número, sem necessidade de mudar o item para forma plural.",
+      "gatilho": "Frase que expressa quantidade de objetos ou pessoas",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "BOOK TWO",
+        "CAR FOUR"
+      ],
+      "fonte_pagina": "p.79",
+      "fonte_citacao": "When you want to specify more than one item — that is, express a plural — you sign the item first, followed by the quantity. Unlike English, you don’t have to change the item to a plural by adding “s.”"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de números de 11 a 19",
+      "descricao": "Números de 11 a 19 são formados com o número base (1-9) seguido do número 10, com a palma da mão voltada para o interlocutor.",
+      "gatilho": "Sinalização de números entre 11 e 19",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ELEVEN",
+        "TWELVE"
+      ],
+      "fonte_pagina": "p.80",
+      "fonte_citacao": "When you’re indicating quantity and counting things, sign the numbers 1 through 5 and 11 through 15 with your palm facing you and the numbers 6 through 10 and 16 through 19 with your palm facing the person to whom you’re signing."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de dezenas e centenas",
+      "descricao": "Números de dezenas (30, 40, etc.) são formados com o número base (3, 4, 5, etc.) seguido do sinal para '0'. Números de centenas (600, 700, etc.) são formados com o número base seguido do sinal para 'hundred'.",
+      "gatilho": "Sinalização de números múltiplos de 10 ou 100",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "THIRTY",
+        "SIX HUNDRED"
+      ],
+      "fonte_pagina": "p.83",
+      "fonte_citacao": "To sign decade numbers — 30, 40, 50, and so on — you sign the first number (3, 4, 5) followed by the sign for the number 0. You sign hundreds — such as 600, 700, 800, and so on — by first signing the number (6, 7, 8) and then the sign for hundred."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de números ordinais",
+      "descricao": "Para indicar números ordinais (primeiro, segundo, terceiro), o sinal do número é feito com um movimento de torção do pulso para dentro.",
+      "gatilho": "Expressão de ordem ou posição em uma sequência",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FIRST",
+        "SECOND",
+        "THIRD"
+      ],
+      "fonte_pagina": "p.84",
+      "fonte_citacao": "To indicate an ordinal number in ASL, twist your wrist inward while signing the respective number."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Sinalização de números em telefone e códigos",
+      "descricao": "Números de telefone e códigos (como número de seguro social) são sinalizados com a palma da mão voltada para fora, em direção ao interlocutor.",
+      "gatilho": "Comunicação de números de telefone, código de segurança ou endereço",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "7 P.M. — MY HOUSE — COME — CAN YOU — Q",
+        "AREA CODE — 555 — 1234"
+      ],
+      "fonte_pagina": "p.85",
+      "fonte_citacao": "As you meet more Deaf people and give out your phone number, sign the numbers with your palm facing outward, toward the person to whom you’re giving the information."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de parênteses em números",
+      "descricao": "É comum usar o sinal de parênteses (com o dedo indicador) antes de sinalizar um código de área, para tornar a informação mais clara.",
+      "gatilho": "Sinalização de número de telefone com código de área",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PARENTHESIS — 555 — 1234"
+      ],
+      "fonte_pagina": "p.85",
+      "fonte_citacao": "You’ll also encounter some Deaf people who use their index fingers to sign parenthesis before signing an area code. Doing so does make the information clearer."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Fórmula para sinalizar horas",
+      "descricao": "Para sinalizar horas, primeiro toca-se o pulso (para indicar relógio) e depois sinaliza-se o número da hora, com a palma da mão voltada para fora.",
+      "gatilho": "Expressão de hora em um relógio",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "WATCH — ONE O'CLOCK",
+        "WATCH — TWO O'CLOCK"
+      ],
+      "fonte_pagina": "p.85",
+      "fonte_citacao": "The time factor can be a date, a day, a month, “now,” “dawn,” “tomorrow,” “immediately,” and so on. However, at this time, the idea of “when” can be as simple as pointing to your watch and then expressing any given hour."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Fórmula para sinalizar minutos",
+      "descricao": "Minutos são sinalizados com dois sinais: primeiro toca-se o pulso (para indicar relógio) e depois sinaliza-se o número de minutos, com a palma da mão voltada para fora.",
+      "gatilho": "Expressão de minutos em um relógio",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "WATCH — TWO MINUTES",
+        "WATCH — TEN MINUTES"
+      ],
+      "fonte_pagina": "p.86",
+      "fonte_citacao": "You sign the following time expressions with two signs: First touch your wrist to indicate a watch/time and then sign the number. Keep your hand with your palm facing outward and you’ll be as clear as Big Ben on a sunny day!"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Fórmula para sinalizar segundos",
+      "descricao": "Como não há sinal específico para segundos, eles são expressos por soletração do termo 'S-E-C' após o número.",
+      "gatilho": "Expressão de segundos em uma frase",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "THREE S-E-C"
+      ],
+      "fonte_pagina": "p.85",
+      "fonte_citacao": "“Seconds” doesn’t have a sign, but if you spell S-E-C after a number, your point will be clear — for example, three S-E-C."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Fórmula para sinalizar dias do ano",
+      "descricao": "Meses do ano são sinalizados por soletração (fingerspell), com exceção de alguns que podem ser abreviados (Jan., Feb., etc.), mas é recomendado soletrar todos os meses até dominar o uso.",
+      "gatilho": "Sinalização de data com mês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "J-A-N 22, 2022",
+        "N-O-V 17, 2022"
+      ],
+      "fonte_pagina": "p.89",
+      "fonte_citacao": "To sign months of the year in ASL, you fingerspell them. You may see a person signing calendar while using the first letter of the month incorporated in the sign. This can get confusing because three months start with the letter “J,” two start with the letter “M,” and two start with the letter “A.” This method isn’t uncommon, but it’s not formal signing either. Until you get your feet under you, fingerspell the months of the year."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Sinalização de números repetidos",
+      "descricao": "Quando dois números são iguais, a palma da mão é virada para baixo (em direção ao chão) e o número é sinalizado de um lado para o outro.",
+      "gatilho": "Sinalização de um número repetido (ex: 22, 11, 00)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "22",
+        "00"
+      ],
+      "fonte_pagina": "p.89",
+      "fonte_citacao": "When two numbers are the same, point your palm downward facing the ground and then sign the number from one side to the other."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Construção de diálogo (Constructed Dialogue)",
+      "descricao": "Em ASL, para recontar uma conversa, o signador muda ligeiramente o corpo (ou cintura) para assumir o papel de cada pessoa envolvida, sem precisar repetir o nome após a primeira vez.",
+      "gatilho": "Recontar uma conversa entre duas ou mais pessoas",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Sheri shifts to the left — Aunt Dee — Orange and cream are too Halloween-like...",
+        "Sheri shifts to the right — Aunt Denni — Don’t be silly, orange is Sheri’s favorite color..."
+      ],
+      "fonte_pagina": "p.76",
+      "fonte_citacao": "When you engage in Constructed Dialogue, keep a couple of things in mind: Make sure the person with whom you’re signing knows the names of the people you’re talking about and also what the gist of the conversation between the two people was."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Construção de ação (Constructed Action)",
+      "descricao": "Em ASL, para recontar uma ação, o signador realiza o movimento físico da ação (como se estivesse fazendo) em vez de sinalizar palavras, sem necessidade de diálogo.",
+      "gatilho": "Recontar uma ação física ou reação emocional de alguém",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "put on the dress — mirror — short on her legs",
+        "Wanda looks into the mirror and signs short on her legs, with open mouth and wide eyes"
+      ],
+      "fonte_pagina": "p.77",
+      "fonte_citacao": "Constructed Action is similar to Constructed Dialogue except that you sign actions instead of words from a conversation."
+    }
+  ]
+}
+
+### p.91-105
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em descrições de localização",
+      "descricao": "Em descrições de localização, o padrão é: [Referente] [Localização] [Direção] [Nome da rua ou estrutura]. O sinal de localização (como 'THIRD RIGHT') vem antes do nome da rua ou estrutura.",
+      "gatilho": "Frase que descreve a localização de um endereço ou ponto de referência",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Right on West Drive; the third house on the right -> HOUSE - THIRD RIGHT - STREET - WEST - D-R",
+        "The garage has a window -> GARAGE - WINDOW HAVE"
+      ],
+      "fonte_pagina": "p.92",
+      "fonte_citacao": "HOUSE - THIRD RIGHT - STREET - WEST - D-R"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de perguntas com 'CAN' e 'Q'",
+      "descricao": "Perguntas com 'CAN' são formadas colocando 'CAN' antes do sujeito e terminando com 'Q' (sinal de pergunta). O sujeito vem após 'CAN'.",
+      "gatilho": "Frase interrogativa com 'Can you...' ou 'Can I...' no início",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Can you give me directions? -> DIRECTIONS - GIVE ME - CAN - Q",
+        "Can I go upstairs? -> UPSTAIRS - GO ME CAN Q"
+      ],
+      "fonte_pagina": "p.91",
+      "fonte_citacao": "DIRECTIONS - GIVE ME - CAN - Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de perguntas com 'WHICH' para escolha",
+      "descricao": "Perguntas que envolvem escolha entre duas opções usam 'WHICH Q' no final, com o sujeito e os itens antecedendo o sinal de pergunta.",
+      "gatilho": "Frase interrogativa com 'Do you own your home or rent?'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Do you own your home or rent? -> YOUR HOME - OWN - RENT WHICH Q"
+      ],
+      "fonte_pagina": "p.96",
+      "fonte_citacao": "YOUR HOME - OWN - RENT WHICH Q"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo 'HAVE' em estruturas possessivas",
+      "descricao": "O verbo 'HAVE' é usado para indicar posse ou existência de algo em um local, com o sujeito seguido por 'HAVE' e o objeto.",
+      "gatilho": "Frase que indica que algo existe ou pertence a um lugar",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The garage has a window -> GARAGE - WINDOW HAVE",
+        "The kitchen is hot -> KITCHEN - HOT"
+      ],
+      "fonte_pagina": "p.97",
+      "fonte_citacao": "GARAGE - WINDOW HAVE"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de imperativos com 'DON'T' e 'THERE'",
+      "descricao": "Imperativos negativos com 'Don't' são formados com 'DON'T' seguido pelo verbo, o local e 'THERE' para indicar o lugar onde a ação não deve ocorrer.",
+      "gatilho": "Frase imperativa negativa com 'Don't play in the living room'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Don't play in the living room -> LIVING ROOM - PLAY THERE - DON'T"
+      ],
+      "fonte_pagina": "p.102",
+      "fonte_citacao": "LIVING ROOM - PLAY THERE - DON'T"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'SIT' e objeto",
+      "descricao": "Frase com verbo 'SIT' seguido diretamente pelo objeto (como 'couch') sem preposição, com o objeto vindo antes do verbo.",
+      "gatilho": "Frase com 'Sit on the couch' ou similar",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Sit on the couch -> COUCH - SIT"
+      ],
+      "fonte_pagina": "p.105",
+      "fonte_citacao": "COUCH - SIT"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de 'condo' e 'apartment' por abreviação e datilologia",
+      "descricao": "Para 'condo', usa-se a abreviação 'C-O-N-D-O' por datilologia. Para 'apartment', usa-se a abreviação 'A-P-T' por datilologia.",
+      "gatilho": "Frase que menciona 'condo' ou 'apartment'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "To sign condo, you fingerspell C-O-N-D-O",
+        "To sign apartment, you use the abbreviation and fingerspell just A-P-T"
+      ],
+      "fonte_pagina": "p.96",
+      "fonte_citacao": "To sign condo, you fingerspell C-O-N-D-O, and to sign apartment, you use the abbreviation and fingerspell just A-P-T."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de 'love seat' e 'couch' com base em 'chair'",
+      "descricao": "O sinal para 'love seat' é formado com o sinal de 'chair' com movimento duplo, seguido de uma posição com a mão dominante ao lado da passiva para indicar dois assentos. O sinal para 'couch' é 'chair' com movimento simples, seguido de movimento para fora para indicar múltiplos assentos.",
+      "gatilho": "Frase que menciona 'love seat' ou 'couch' após 'chair'",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "To sign love seat, sign chair (double motion), and then, with the same handshape, put your dominant hand next to your passive hand to show a couch for two",
+        "To sign couch, make the sign for chair (single motion), and then move your dominant hand outward to show several seats"
+      ],
+      "fonte_pagina": "p.105",
+      "fonte_citacao": "To sign love seat, sign chair (double motion), and then, with the same handshape, put your dominant hand next to your passive hand to show a couch for two. To sign couch, make the sign for chair (single motion), and then move your dominant hand outward to show several seats."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Flick the light off and on para chamar atenção",
+      "descricao": "Para chamar a atenção de uma pessoa surda em um cômodo, apague e acenda a luz rapidamente. É uma expressão idiomática comum para sinalizar presença.",
+      "gatilho": "Situação em que se deseja chamar a atenção de uma pessoa surda em um cômodo",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "To get the attention of a Deaf person in a room you’re entering, flick the light off and on — that will do the trick"
+      ],
+      "fonte_pagina": "p.101",
+      "fonte_citacao": "To get the attention of a Deaf person in a room you’re entering, flick the light off and on — that will do the trick."
+    }
+  ]
+}
+
+### p.106-120
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de palavras em frases declarativas",
+      "descricao": "Em ASL, a ordem dos sinais em frases declarativas geralmente segue o padrão: sujeito, objeto, verbo, mas com flexibilidade baseada no foco e no espaço. O verbo pode vir antes do sujeito quando o foco está no verbo ou na ação.",
+      "gatilho": "frase declarativa com verbo principal",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HOUSE YARD — BIG",
+        "KITCHEN — WANT SEE ME",
+        "COUCH LAMP PICTURES — NEED US"
+      ],
+      "fonte_pagina": "p.106",
+      "fonte_citacao": "The house has a big yard. Sign: HOUSE YARD — BIG"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de espaço para referentes ausentes",
+      "descricao": "Quando se fala de pessoas ou coisas não presentes, um ponto no espaço próximo à mão passiva é usado para representar o referente. O mesmo ponto é usado sempre que se refere à mesma pessoa ou coisa, independentemente do gênero.",
+      "gatilho": "referência a alguém ou algo ausente no espaço físico",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Fingerspell 'Buddy' and point to passive hand area",
+        "Point to a specific place in space to stand in for an absent person or thing"
+      ],
+      "fonte_pagina": "p.114",
+      "fonte_citacao": "If the he, she, or it is nearby, you point your index finger at the person or thing, but if the person or thing isn’t in your general vicinity, you select a specific place in the space in front of you to sort of stand in for the person or thing."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo com movimento direcional para indicar sujeito e objeto",
+      "descricao": "Verbos em ASL frequentemente usam movimento direcional para indicar o sujeito e o objeto. O movimento da mão dominante vai do local do sujeito para o local do objeto, mesmo que o sujeito esteja ausente.",
+      "gatilho": "frase com sujeito e objeto distintos, onde o sujeito está ausente",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "KITCHEN — WANT SEE ME",
+        "COUCH LAMP PICTURES — NEED US"
+      ],
+      "fonte_pagina": "p.107",
+      "fonte_citacao": "Debbie: I want to see the kitchen. Sign: KITCHEN — WANT SEE ME"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Posição do pronome interrogativo no final da frase",
+      "descricao": "Em perguntas simples, os pronomes interrogativos (who, what, when, where, which, why, how) são colocados no final da frase, seguidos do sinal de interrogação manual no final.",
+      "gatilho": "frase com intenção de fazer pergunta",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "GOING — WHO Q",
+        "WANT SEE — KITCHEN Q"
+      ],
+      "fonte_pagina": "p.119",
+      "fonte_citacao": "When you want to sign a question, you simply put the question word at the end of the sentence — words such as who, what, when, where, which, why, and how."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Sinal manual de interrogação no final da frase",
+      "descricao": "Após a frase interrogativa, o sinal manual de interrogação é repetido no final da frase para indicar claramente que se trata de uma pergunta. O sinal é feito com a mão dominante, movendo-se para cima e para baixo com o punho fechado.",
+      "gatilho": "frase que é uma pergunta",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "GOING — WHO Q",
+        "WANT SEE — KITCHEN Q"
+      ],
+      "fonte_pagina": "p.118",
+      "fonte_citacao": "Throughout this book, the letter Q follows all ASL examples and dialogues that are questions. Use the end-of-sentence manual question mark when you see the letter Q in this book."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Sinal manual de interrogação no início da frase",
+      "descricao": "O sinal manual de interrogação também pode ser colocado no início da frase, especialmente em perguntas mais formais ou quando se deseja destacar a intenção interrogativa.",
+      "gatilho": "frase interrogativa com foco no início da pergunta",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Q GOING — WHO",
+        "Q WANT SEE — KITCHEN"
+      ],
+      "fonte_pagina": "p.118",
+      "fonte_citacao": "You also have the option of placing the question mark at the beginning of the sentence:"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Propor um brinde com batida na mesa",
+      "descricao": "Para pedir atenção e propor um brinde em um grupo de surdos, bate-se na mesa com os dedos para criar uma vibração. Isso sinaliza que se tem a palavra e está se convidando para o brinde.",
+      "gatilho": "reunião em torno de uma mesa com surdos, desejo de fazer um brinde",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Knock on the table to create a vibration. You will then have the floor."
+      ],
+      "fonte_pagina": "p.111",
+      "fonte_citacao": "If you’re gathered around a table with some Deaf folks and you want to propose a toast, knock on the table to create a vibration. You will then have the floor."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com múltiplos objetos",
+      "descricao": "Quando se lista mais de um objeto, os sinais são apresentados em sequência, sem separadores, e o verbo é colocado no final, com o sinal de necessidade ou desejo aplicado ao grupo.",
+      "gatilho": "frase com lista de objetos e verbo de necessidade ou desejo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "COUCH LAMP PICTURES — NEED US",
+        "SLEEP DREAM REST PRAY LAUGH VACATION — WANT"
+      ],
+      "fonte_pagina": "p.108",
+      "fonte_citacao": "Dave: We need a couch, lamp, and pictures. Sign: COUCH LAMP PICTURES — NEED US"
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Negativa com 'not' no final da frase",
+      "descricao": "A negação em ASL é expressa com o sinal 'NOT' colocado no final da frase, após o verbo ou o adjetivo, e pode ser combinada com expressões como 'not rent' para indicar contraste.",
+      "gatilho": "frase com negação de uma ação ou estado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HOUSE — OWN GREAT — RENT NOT",
+        "NOT WANT"
+      ],
+      "fonte_pagina": "p.108",
+      "fonte_citacao": "Debbie: It’s great to own, not rent, a house. Sign: HOUSE — OWN GREAT — RENT NOT"
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Expressão de estado permanente com 'own' e 'great'",
+      "descricao": "A combinação de 'OWN' com 'GREAT' expressa um estado de posse duradouro e positivo, indicando que algo é valioso e pertence à pessoa de forma permanente, sem necessidade de tempo específico.",
+      "gatilho": "frase sobre posse de algo com valor emocional ou material",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HOUSE — OWN GREAT — RENT NOT"
+      ],
+      "fonte_pagina": "p.108",
+      "fonte_citacao": "Debbie: It’s great to own, not rent, a house. Sign: HOUSE — OWN GREAT — RENT NOT"
+    }
+  ]
+}
+
+### p.121-135
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em perguntas com 'what' e 'where'",
+      "descricao": "Em perguntas que envolvem 'what' ou 'where', o sinal do interrogativo vem no início da frase, seguido pelo sujeito e pelo verbo, com o sinal de 'Q' no final para indicar pergunta. O pronome 'you' é implícito quando o interlocutor já está presente.",
+      "gatilho": "Frase com pergunta que começa com 'what' ou 'where' e envolve o interlocutor direto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "What do you mean? -> MEAN — WHAT Q",
+        "Where are you moving? -> MOVING YOU — WHERE Q"
+      ],
+      "fonte_pagina": "p.121",
+      "fonte_citacao": "MEAN — WHAT Q (the word “you” is implied because you’re talking to that person already)"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Respostas curtas com intensidade e modificador de tempo",
+      "descricao": "Respostas curtas podem incluir moduladores como 'SHORT' para indicar duração reduzida, e a intensidade do sinal pode reforçar o significado, como em 'I am only working briefly'.",
+      "gatilho": "Resposta afirmativa curta a uma pergunta sobre duração de atividade",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Yes, for two hours. -> YES — TWO HOURS — SHORT"
+      ],
+      "fonte_pagina": "p.121",
+      "fonte_citacao": "this signed answer can be translated to mean, “I am only working briefly”"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Pronomes pessoais em perguntas com 'you' e 'me'",
+      "descricao": "Em perguntas diretas, o pronome 'you' é sinalizado antes do verbo, e 'me' é sinalizado antes do verbo quando é o objeto. O pronome 'you' é implícito quando o interlocutor é o foco da conversa.",
+      "gatilho": "Pergunta direta com 'you' ou 'me' como sujeito ou objeto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "May I join you? -> YOU — ME Q",
+        "Is she your sister? -> (point) HER — SISTER — YOURS Q"
+      ],
+      "fonte_pagina": "p.122",
+      "fonte_citacao": "YOU — ME Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de 'sister-in-law' e 'sibling' com sinais compostos",
+      "descricao": "Para formar 'sister-in-law', o sinal 'law' é adicionado ao sinal 'sister'. Para 'half sibling', o sinal '½' (com palma voltada para o signer e movimento descendente) é usado antes do sinal 'brother' ou 'sister'.",
+      "gatilho": "Expressão de parentesco com 'in-law' ou 'half'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "No, my sister-in-law. -> NO — SISTER LAW — MINE",
+        "He is my half brother. -> MY 1-2 (as in ½) BROTHER — HIM (point)"
+      ],
+      "fonte_pagina": "p.126",
+      "fonte_citacao": "NO — SISTER LAW — MINE"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Dois pés em um pod",
+      "descricao": "A expressão idiomática 'like two peas in a pod' é sinalizada cruzando os dedos indicadores e apertando os lábios, com o mesmo movimento usado para 'good luck'. Indica amizade muito próxima.",
+      "gatilho": "Quando se quer indicar que dois amigos são muito próximos ou semelhantes",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Close friends are like two peas in a pod -> crossed fingers and pursing lips"
+      ],
+      "fonte_pagina": "p.127",
+      "fonte_citacao": "You can also indicate that close friends are like two peas in a pod by signing crossed fingers and pursing your lips; this sign looks the same as when you cross your fingers to mean “good luck” or “I hope so.”"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Formação de endereços com fingerspelling e sinais",
+      "descricao": "Endereços são sinalizados com o nome da rua em fingerspelling, seguido pelo número da casa, com a palma voltada para o interlocutor. O nome da cidade é sinalizado com o sinal ou fingerspelling, dependendo da popularidade.",
+      "gatilho": "Sinalização de endereço residencial",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "171 Anywhere Lane, 98765. -> 1-7-1 A-N-Y-W-H-E-R-E L-A-N-E 9-8-7-6-5"
+      ],
+      "fonte_pagina": "p.131",
+      "fonte_citacao": "1-7-1 A-N-Y-W-H-E-R-E L-A-N-E 9-8-7-6-5"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Sinalização de números em telefones com flexibilidade",
+      "descricao": "O sufixo do número de telefone pode ser sinalizado como quatro dígitos consecutivos ou em dois pares, sem necessidade de hífen. O sinal 'L-D' pode ser usado antes do número para indicar longa distância.",
+      "gatilho": "Sinalização de número de telefone após o código de área",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "1212 -> 1, 2, 1, 2 ou 12, 12",
+        "Phone me when you arrive -> THANKS — ARRIVE YOU — PHONE ME"
+      ],
+      "fonte_pagina": "p.129",
+      "fonte_citacao": "You don’t need to worry about putting a hyphen between the numbers like you would if you were writing the number down."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Sinalização de profissões com acrônimos e sinais",
+      "descricao": "Nomes de empresas ou cargos com acrônimos são fingerspellados. Cargos como 'vice president' são sinalizados como 'V-P' ao lado da cabeça, independentemente do contexto.",
+      "gatilho": "Sinalização de cargo ou nome de empresa com acrônimo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Vice president -> V-P (by the side of the head)"
+      ],
+      "fonte_pagina": "p.134",
+      "fonte_citacao": "All vice presidents are signed V-P by the side of the head, regardless of whether you’re talking about the vice president of the United States or the vice"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Sinalização de 'long distance' com 'L-D'",
+      "descricao": "Para indicar chamada de longa distância, o sinal 'L-D' é usado antes de fornecer o número de telefone, especialmente quando há dúvida sobre clareza.",
+      "gatilho": "Fornecimento de número de telefone com possibilidade de erro ou necessidade de clareza",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Phone me when you arrive -> THANKS — ARRIVE YOU — PHONE ME"
+      ],
+      "fonte_pagina": "p.128",
+      "fonte_citacao": "Alternatively, just sign L-D (for long distance) before you give the number."
+    }
+  ]
+}
+
+### p.136-150
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de palavras em frases simples",
+      "descricao": "Em frases simples, a ordem dos sinais segue a estrutura do inglês (sujeito-verbo-objeto), com o sujeito geralmente sinalizado primeiro, seguido pelo verbo e depois pelo objeto. O sujeito pode ser indicado por um pronome ou nome próprio.",
+      "gatilho": "Frase simples com sujeito, verbo e objeto, sem estrutura complexa ou foco especial",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: He is rich. -> Sign: RICH HIM",
+        "English: She has wisdom. -> Sign: WISDOM HERS"
+      ],
+      "fonte_pagina": "p.142",
+      "fonte_citacao": "Simple sentences can follow English word order."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de pronomes pessoais com base em referência",
+      "descricao": "Pronomes pessoais (I, YOU, HE, SHE, WE, THEY) são usados para referir-se a pessoas já mencionadas ou presentes no espaço. O pronome é sinalizado com a mão dominante apontando para a pessoa ou localização correspondente.",
+      "gatilho": "Referência a uma pessoa já mencionada ou presente no espaço visual",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: He is rich. -> Sign: RICH HIM",
+        "English: They have gold. -> Sign: GOLD HAVE THEM"
+      ],
+      "fonte_pagina": "p.142",
+      "fonte_citacao": "You use pronouns in Sign the same way that you do in English; you need to refer to a noun before you use a pronoun."
+    },
+    {
+      "categoria": "possessivos",
+      "titulo": "Sinalização de posse com palma aberta",
+      "descricao": "Para indicar posse, sinaliza-se a pessoa ou coisa possuída, seguido por uma palma aberta voltada para a pessoa a quem pertence o objeto. O movimento pode ser simples (singular) ou com movimento lateral (plural).",
+      "gatilho": "Expressão de posse sobre um objeto ou pessoa",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: He has money. -> Sign: MONEY HIS",
+        "English: The gold is theirs. -> Sign: GOLD THEIRS"
+      ],
+      "fonte_pagina": "p.140",
+      "fonte_citacao": "Show possession by indicating whom you’re talking about or what’s being possessed and then showing an open palm facing the person."
+    },
+    {
+      "categoria": "possessivos",
+      "titulo": "Uso de nome próprio com soletração para posse",
+      "descricao": "Para perguntar sobre posse de um objeto, soletra-se o nome da pessoa, aponta-se para o objeto e sinaliza-se um ponto de interrogação. Isso equivale a perguntar 'Is that yours?'",
+      "gatilho": "Pergunta sobre posse de um objeto com nome próprio associado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Fingerspell T-O-N-Y, point to coat, sign ? -> 'Is that Tony's?'"
+      ],
+      "fonte_pagina": "p.138",
+      "fonte_citacao": "Fingerspell the name of the person, point to the item you’re talking about, and sign a question mark."
+    },
+    {
+      "categoria": "demonstrativos",
+      "titulo": "Sinalização de demonstrativos com mão em forma de Y",
+      "descricao": "Os pronomes demonstrativos (this, that, these, those) são sinalizados com a mão dominante em forma de Y, dobrada no pulso, apontando para o referente. O movimento lateral indica plural.",
+      "gatilho": "Referência a um objeto ou grupo de objetos visíveis ou recentemente mencionados",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Sign: THIS -> apontar com mão em Y para um objeto próximo",
+        "Sign: THESE -> apontar com movimento lateral para múltiplos objetos"
+      ],
+      "fonte_pagina": "p.141",
+      "fonte_citacao": "Sign the pronoun that by pointing to your subject with your dominant hand in the Y shape and bent at the wrist."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de direções: ponto de referência geral para específico",
+      "descricao": "Ao dar direções, comece com um ponto de referência familiar (como uma loja ou ponte), depois progrida de forma geral para específica (estado → cidade → bairro → rua → número).",
+      "gatilho": "Dando ou recebendo direções em ASL",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: My house is west of the store. -> Sign: STORE — MY HOUSE — WEST"
+      ],
+      "fonte_pagina": "p.144",
+      "fonte_citacao": "Try to start with a point of reference that’s familiar to both of you, such as a store, restaurant, or bridge, and then give the directions. Go from big to small; from general to specific."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Repetição de sinais para intensidade ou quantidade",
+      "descricao": "Para indicar repetição de um movimento (como virar duas vezes), o sinal é repetido. O corpo pode se mover ligeiramente entre as repetições para indicar mudança.",
+      "gatilho": "Expressão de repetição de ação ou movimento, especialmente em direções",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: Turn right twice. -> Sign: RIGHT — RIGHT"
+      ],
+      "fonte_pagina": "p.146",
+      "fonte_citacao": "Notice that you don’t sign the word twice; you simply sign right twice. Make sure you shift your body ever so slightly as you start to sign right the second time."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'straight' para direção e estado",
+      "descricao": "O sinal 'STRAIGHT' usa a forma manual B e é movido diretamente à frente. O mesmo sinal pode significar 'sober' dependendo do contexto. Também é usado para indicar virar à esquerda ou direita.",
+      "gatilho": "Indicação de direção reta ou estado de sobriedade",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: Go straight; don’t turn. -> Sign: STRAIGHT — TURN — DON’T"
+      ],
+      "fonte_pagina": "p.147",
+      "fonte_citacao": "To sign straight, use the B manual handshape and then move it straight out in front of you, bending your wrist. The sign for straight is also one sign for sober — the sentence’s context tells you which word is being signed."
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Formação de perguntas com sinal de interrogação",
+      "descricao": "Perguntas são formadas ao sinalizar um ponto de interrogação no final da frase, geralmente com movimento de cabeça ou expressão facial. A estrutura da frase pode permanecer como em afirmação.",
+      "gatilho": "Frase com intenção de perguntar, especialmente com palavras interrogativas como 'how', 'where', 'what'",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "English: How do I get to the mall? -> Sign: M-A-L-L ARRIVE — HOW Q"
+      ],
+      "fonte_pagina": "p.148",
+      "fonte_citacao": "Buddy: How do I get to the mall? Sign: M-A-L-L ARRIVE — HOW Q"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "What an interesting job",
+      "descricao": "Expressão usada para elogiar ou demonstrar interesse em um cargo ou trabalho. Traduz-se literalmente como 'JOB INTERESTING TRUE', indicando que o trabalho é verdadeiramente interessante.",
+      "gatilho": "Ao ouvir ou comentar sobre um trabalho ou cargo que parece fascinante ou incomum",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: What an interesting job. -> Sign: JOB — INTERESTING — TRUE"
+      ],
+      "fonte_pagina": "p.137",
+      "fonte_citacao": "Kim: What an interesting job. Sign: JOB — INTERESTING — TRUE"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'after' e 'before' em relações temporais",
+      "descricao": "Os sinais 'AFTER' e 'BEFORE' são usados para indicar sequência temporal. São sinalizados com movimentos que indicam progressão ou antecedência no tempo.",
+      "gatilho": "Expressão de sequência temporal em direções ou eventos",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: Turn east after two miles. -> Sign: TWO M-I-L-E-S FINISH — GO EAST"
+      ],
+      "fonte_pagina": "p.150",
+      "fonte_citacao": "Linda: Yes, but turn east after two miles. Sign: YES — BUT TWO M-I-L-E-S FINISH — GO EAST"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'near' e 'far' para distância",
+      "descricao": "Os sinais 'NEAR' e 'FAR' são usados para indicar proximidade ou distância de um local. São sinalizados com movimentos da mão que aproximam ou afastam do corpo.",
+      "gatilho": "Descrever distância entre dois pontos ou locais",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "English: The cross street is near. -> Sign: CROSS STREET NEAR"
+      ],
+      "fonte_pagina": "p.147",
+      "fonte_citacao": "TABLE 7-2 lists the signs for the situational relationships you use to give directions as well as some landmarks and distances that you might use."
+    }
+  ]
+}
+
+### p.151-165
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em direções com landmark",
+      "descricao": "Em direções, os sinais de localização (landmarks) são posicionados antes do verbo de movimento, com o verbo de movimento no final da frase. O sinal de 'arrive' é usado para 'get to', e o sinal de 'there' pode indicar localização final.",
+      "gatilho": "Frase com direção que inclui um landmark (ex: lake, mountain, stop sign) e ação de chegada ou movimento",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "LAKE ARRIVE — RIGHT TURN",
+        "MOUNTAIN BASE — SMALL STORE — THERE",
+        "STOP SIGN ARRIVE — RIGHT"
+      ],
+      "fonte_pagina": "p.152",
+      "fonte_citacao": "When you get to the lake, turn right. Sign: LAKE ARRIVE — RIGHT TURN"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Uso do verbo 'arrive' para 'get to'",
+      "descricao": "O verbo 'arrive' é usado em vez de 'get to' em ASL para indicar chegada a um local, especialmente em contextos de direções.",
+      "gatilho": "Frase com 'get to' seguido de um local (ex: lake, mountain, stop sign)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "LAKE ARRIVE — RIGHT TURN",
+        "STOP SIGN ARRIVE — RIGHT"
+      ],
+      "fonte_pagina": "p.152",
+      "fonte_citacao": "In ASL, you sign get to as arrive."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em frases de localização com 'near'",
+      "descricao": "O sinal 'near' é usado após o local de referência e antes do objeto que está próximo, com a estrutura: [local] — [objeto] — NEAR.",
+      "gatilho": "Frase com 'near' indicando proximidade entre dois locais",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HIGHWAY — GAS STATION — NEAR"
+      ],
+      "fonte_pagina": "p.156",
+      "fonte_citacao": "The gas station is near the highway. Sign: HIGHWAY — GAS STATION — NEAR"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Uso do verbo 'go over' para 'go across'",
+      "descricao": "O verbo 'go over' é usado para indicar passagem sobre uma estrutura, como uma ponte, em ASL.",
+      "gatilho": "Frase com 'go across' seguido de uma estrutura (ex: bridge)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "BRIDGE — GO OVER"
+      ],
+      "fonte_pagina": "p.156",
+      "fonte_citacao": "Go across the bridge. Sign: BRIDGE — GO OVER"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Estrutura de frases com 'pass' em direções",
+      "descricao": "O sinal 'pass' é usado para indicar passagem por um local, seguido do nome do local e do verbo de movimento.",
+      "gatilho": "Frase com 'pass' seguido de um local (ex: park) e direção",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "P-A-R-K PASS — SOUTH THREE M-I-L-E-S GO"
+      ],
+      "fonte_pagina": "p.155",
+      "fonte_citacao": "Pass the park and go three miles south. Sign: P-A-R-K PASS — SOUTH THREE M-I-L-E-S GO"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'me' como objeto direto em frases de necessidade",
+      "descricao": "O pronome 'me' é usado como objeto direto em frases de necessidade, posicionado após o verbo e antes do objeto necessário.",
+      "gatilho": "Frase com 'I need' seguido de um objeto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PLEASE — FORK — KNIFE — SPOON — NEED ME",
+        "THREE BOWLS — NEED ME"
+      ],
+      "fonte_pagina": "p.165",
+      "fonte_citacao": "I need another place setting, please. Sign: PLEASE — FORK — KNIFE — SPOON — NEED ME"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Uso do verbo 'have' para 'was in an accident'",
+      "descricao": "O verbo 'have' é usado para indicar que algo aconteceu com um objeto, como um acidente com um carro.",
+      "gatilho": "Frase com 'was in an accident' referindo-se a um objeto (ex: car)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH — CAR — ACCIDENT — HAVE"
+      ],
+      "fonte_pagina": "p.158",
+      "fonte_citacao": "The car was in an accident. Sign: FINISH — CAR — ACCIDENT — HAVE"
+    },
+    {
+      "categoria": "concordancia",
+      "titulo": "Uso de 'me' como sujeito em frases com 'will'",
+      "descricao": "Em frases com 'will', o pronome 'me' é usado como sujeito para indicar ação futura que afeta o próprio signador.",
+      "gatilho": "Frase com 'I will' seguido de um verbo de ação futura",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TRAIN MISS — FLY ME — WILL"
+      ],
+      "fonte_pagina": "p.158",
+      "fonte_citacao": "If I miss the train, I’ll fly. Sign: TRAIN MISS — FLY ME — WILL"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de 'you' como objeto em frases de necessidade",
+      "descricao": "O pronome 'you' é usado como objeto direto em frases de necessidade quando o sujeito é 'you' e o verbo é 'need'.",
+      "gatilho": "Frase com 'You need' seguido de um objeto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "MOTORCYCLE HELMET — NEED YOU"
+      ],
+      "fonte_pagina": "p.158",
+      "fonte_citacao": "You need a motorcycle helmet. Sign: MOTORCYCLE HELMET — NEED YOU"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Estrutura de frases com 'but' para contraste",
+      "descricao": "O sinal 'but' é usado para introduzir uma contradição ou condição oposta, posicionado entre duas ideias principais.",
+      "gatilho": "Frase com 'but' conectando duas ações ou condições",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PARTY GO — BUT HOME MIDNIGHT — MUST YOU"
+      ],
+      "fonte_pagina": "p.159",
+      "fonte_citacao": "Go to the party but be home at midnight. Sign: PARTY GO — BUT HOME MIDNIGHT — MUST YOU"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "EITHER/FINE como resposta a 'which one?'",
+      "descricao": "Quando alguém pergunta 'which one?' em um contexto de escolha, 'EITHER' seguido de 'FINE' é uma resposta idiomática que significa 'qualquer um é bom'.",
+      "gatilho": "Resposta a uma pergunta 'which one?' com escolha entre duas opções",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "EITHER FINE"
+      ],
+      "fonte_pagina": "p.161",
+      "fonte_citacao": "Either apples or oranges would be fine. Sign response: EITHER FINE"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "NEITHER como resposta a 'neither...nor'",
+      "descricao": "Quando alguém responde a uma pergunta com 'neither...nor', o sinal 'NEITHER' sozinho é usado para indicar que nenhuma das opções é desejada.",
+      "gatilgo": "Resposta a uma pergunta com 'neither...nor' que exclui ambas as opções",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "NEITHER"
+      ],
+      "fonte_pagina": "p.162",
+      "fonte_citacao": "I want neither chicken nor steak. Sign response: NEITHER"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Estrutura de frases com 'either...or' e 'neither...nor'",
+      "descricao": "Em respostas a perguntas com 'either...or' ou 'neither...nor', os sinais são usados sem expressão facial de pergunta, com movimento de cabeça fixo ou aceno para 'yes' em 'either', e balanço lateral para 'no' em 'neither'.",
+      "gatilho": "Resposta a uma pergunta com 'either...or' ou 'neither...nor'",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "APPLES ORANGES — WANT YOU — WHICH",
+        "EITHER FINE"
+      ],
+      "fonte_pagina": "p.160",
+      "fonte_citacao": "When signing either … or and neither … nor, keep in mind that you use these conjunctions to answer these types of questions, not to ask them. So although you don’t use the facial expressions you use to ask questions, you keep your head still or nod 'yes' for affirmation when you sign either, and you shake your head from side to side while signing neither."
+    }
+  ]
+}
+
+### p.166-180
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de objetos em frases de pedido",
+      "descricao": "Os itens desejados são sinalizados antes do verbo 'want' (QUERER), com o pronome 'me' no final da frase, formando a estrutura: [OBJETOS] — QUERER — ME.",
+      "gatilho": "Frase de pedido com 'I want...' em inglês, traduzida para ASL.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I want eggs, not cereal. -> EGGS QUERER — CEREAL NÃO — ME",
+        "I want a cheeseburger and fries. -> CHEESEBURGER — FRIES — QUERER — ME",
+        "I want a fish sandwich and water. -> FISH SANDWICH — WATER — QUERER — ME",
+        "I'd like a potato with my fish. -> MY FISH — POTATO JUNTO — QUERER — ME"
+      ],
+      "fonte_pagina": "p.169",
+      "fonte_citacao": "I want eggs, not cereal. Sign: EGGS WANT — CEREAL NOT — ME"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'now' e 'noon' para indicar tempo presente",
+      "descricao": "O sinal 'NOW' ou 'NOON' é usado no início da frase para indicar o tempo presente, especialmente em contextos de refeições, e é seguido por 'FOOD' para especificar a refeição.",
+      "gatilho": "Frase que indica o momento atual de uma refeição, como 'It's time for lunch.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I'm hungry, and it's time for lunch. -> AGORA TEMPO — NOON FOOD — HUNGRY ME",
+        "I want a sandwich and salad for lunch. -> NOON FOOD — SANDWICH — SALAD — QUERER ME"
+      ],
+      "fonte_pagina": "p.172",
+      "fonte_citacao": "I’m hungry, and it’s time for lunch. Sign: NOW TIME — NOON FOOD — HUNGRY ME"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Uso do verbo 'serve' com 'finish' no início para passado",
+      "descricao": "Colocar 'FINISH' no início de uma frase adiciona o tempo passado a todo o enunciado, indicando que a ação já foi concluída.",
+      "gatilho": "Frase em passado com ação de servir refeições.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Soup and bread were served. -> FINISH — SOUP — BREAD — SERVE"
+      ],
+      "fonte_pagina": "p.178",
+      "fonte_citacao": "Finish at the beginning of a sentence adds past tense to the whole sentence."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Gorging com movimento e expressão facial",
+      "descricao": "Para sinalizar 'gorging', use ambos os punhos alternadamente para imitar colocar comida na boca, com as bochechas inchadas ou a boca aberta larga. A velocidade do sinal aumenta o efeito de comer muito.",
+      "gatilho": "Quando se quer expressar que alguém está comendo muito ou se alimentando excessivamente.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Gorging -> [sinal com ambas as mãos alternando, bochechas inchadas, boca aberta, movimento rápido]"
+      ],
+      "fonte_pagina": "p.168",
+      "fonte_citacao": "If you want to show gorging, sign food with both hands alternately putting food in your mouth while your cheeks are puffed out or your mouth is wide open. The faster you sign, the more you gorge."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Fome extrema com expressão facial e velocidade",
+      "descricao": "Para sinalizar 'starving', use o sinal 'HUNGRY' mais rápido, abra a boca um pouco mais e use expressão facial de fome.",
+      "gatilho": "Quando se quer expressar fome extrema, especialmente em contexto de refeição.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Starving -> HUNGRY (rápido, boca aberta, expressão facial)"
+      ],
+      "fonte_pagina": "p.168",
+      "fonte_citacao": "To sign starving, just sign hungry faster, open your mouth a little, and look hungry."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Sinalizar 'full' com bochechas inchadas",
+      "descricao": "Para sinalizar 'full', use o sinal 'FULL' com as bochechas inchadas, indicando que a pessoa está satisfeita após comer.",
+      "gatilho": "Quando se quer expressar que alguém está cheio após uma refeição.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Full -> FULL (com bochechas inchadas)"
+      ],
+      "fonte_pagina": "p.168",
+      "fonte_citacao": "For example, when you sign full, use puffed cheeks."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso do manual alphabet para alimentos com nomes compostos",
+      "descricao": "Alimentos com nomes compostos, como 'French fries' ou 'pizza', são sinalizados usando a alfabetização manual (datilologia) para partes do nome, especialmente quando o sinal não é intuitivo.",
+      "gatilho": "Quando o nome do alimento é composto e não tem um sinal direto ou não é intuitivo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "French fries -> F (repetido de um lado a outro)",
+        "Pizza -> Z (com dedos dobrados)"
+      ],
+      "fonte_pagina": "p.172",
+      "fonte_citacao": "For example, you sign French fries by repeating the letter F from one side to the other side as if you are dipping them, and you sign pizza by bending your index and middle fingers and then making a manual Z."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso de abreviações para bebidas com letras manuais",
+      "descricao": "Bebidas comuns como 'orange juice' são sinalizadas com as letras iniciais 'O' e 'J' em vez de sinalizar o nome completo.",
+      "gatilho": "Quando se sinaliza uma bebida comum que tem uma abreviação comum em ASL.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Orange juice -> O-J"
+      ],
+      "fonte_pagina": "p.169",
+      "fonte_citacao": "Use the common abbreviations for orange juice and sign the letters O and J to convey this popular breakfast beverage."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Uso de 'R-A-R-E' para indicar cozedura rara",
+      "descricao": "Para indicar que uma carne está mal passada, use a datilologia para 'R-A-R-E', sem sacudir a mão, para evitar confusão com 'restroom' ou 'right'.",
+      "gatilho": "Quando se quer pedir uma carne mal passada em um restaurante.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The steak is rare. -> STEAK — R-A-R-E"
+      ],
+      "fonte_pagina": "p.177",
+      "fonte_citacao": "If you want your steak rare, fingerspell R-A-R-E. Don’t sign rare with a shaken R — the untrained eye could mistake that motion for “restroom” or the direction “right.”"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso do pronome 'me' no final da frase para indicar posse ou desejo",
+      "descricao": "O pronome 'ME' é colocado no final da frase para indicar que a ação ou objeto se refere ao próprio sinalizador, especialmente em frases de desejo ou posse.",
+      "gatilho": "Frase com 'I want...' ou 'I'd like...' em inglês.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I want eggs, not cereal. -> EGGS WANT — CEREAL NOT — ME",
+        "I'd like a potato with my fish. -> MY FISH — POTATO TOGETHER — WANT ME"
+      ],
+      "fonte_pagina": "p.169",
+      "fonte_citacao": "I want eggs, not cereal. Sign: EGGS WANT — CEREAL NOT — ME"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'what' para indicar promoção ou especial",
+      "descricao": "A palavra 'SPECIAL' é seguida por 'WHAT' para indicar que algo está em promoção ou é especial no cardápio.",
+      "gatilho": "Frase que indica que um item está em promoção ou é especial.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Chicken and spaghetti are on special. -> SPECIAL — WHAT — CHICKEN — SPAGHETTI"
+      ],
+      "fonte_pagina": "p.178",
+      "fonte_citacao": "Chicken and spaghetti are on special. Sign: SPECIAL — WHAT — CHICKEN — SPAGHETTI"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'together' para indicar combinação de alimentos",
+      "descricao": "O sinal 'TOGETHER' é usado para indicar que dois alimentos são consumidos juntos, especialmente em frases de pedido.",
+      "gatilho": "Quando se quer expressar que dois alimentos são consumidos juntos, como um acompanhamento.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I'd like a potato with my fish. -> MY FISH — POTATO TOGETHER — WANT ME"
+      ],
+      "fonte_pagina": "p.179",
+      "fonte_citacao": "I’d like a potato with my fish. Sign: MY FISH — POTATO TOGETHER — WANT ME"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso do pronome 'them' com pontuação para indicar terceiros",
+      "descricao": "O pronome 'THEM' é indicado com um gesto de pontuação para referir-se a terceiros, como o restaurante ou o pessoal da cozinha.",
+      "gatilho": "Quando se quer indicar que algo está disponível para outras pessoas, como no cardápio.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "They have chicken. -> CHICKEN — HAVE THEM (pontuação)"
+      ],
+      "fonte_pagina": "p.175",
+      "fonte_citacao": "They have chicken. Sign: CHICKEN — HAVE THEM (point)"
+    }
+  ]
+}
+
+### p.181-195
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em frases de comida e bebida",
+      "descricao": "Em frases sobre alimentos e bebidas, o padrão de ordem é: [objeto] — [atributo ou estado] — [ação ou verbo], com o sujeito geralmente implícito ou indicado por pronomes. O verbo 'EAT' ou 'DRINK' é frequentemente omitido quando o contexto é claro.",
+      "gatilho": "Frase sobre consumo de comida ou bebida, com objeto e atributo explícitos",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TOSTADA — CHEAP",
+        "COLD BEER",
+        "WATER — WARM",
+        "GLASS RED WINE"
+      ],
+      "fonte_pagina": "p.183",
+      "fonte_citacao": "Tostadas are cheap. Sign: TOSTADA — CHEAP"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo 'LIKE' com pronominação direta",
+      "descricao": "O verbo 'LIKE' em ASL é usado com o pronome 'ME' para indicar 'eu gosto', e com o pronome 'SHE' para indicar 'ela gosta', sem necessidade de repetir o sujeito. O pronome é colocado após o objeto.",
+      "gatilho": "Frase com 'gosto' ou 'gostar' de algo, com sujeito pessoal",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "EGG R-O-L-L-S — LIKE ME",
+        "TORTILLAS — SHE LIKES"
+      ],
+      "fonte_pagina": "p.182",
+      "fonte_citacao": "I like egg rolls. Sign: EGG R-O-L-L-S — LIKE ME"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de perguntas com 'WHAT' no início",
+      "descricao": "Perguntas com 'WHAT' são formadas colocando 'WHAT' no início da frase, seguido do verbo ou ação, com a entonação facial de pergunta. O sujeito é geralmente implícito.",
+      "gatilho": "Frase interrogativa com 'o que' como elemento central",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "DRINK — WANT WHAT Q"
+      ],
+      "fonte_pagina": "p.186",
+      "fonte_citacao": "What would you like to drink? Sign: DRINK — WANT WHAT Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Frase de ação com 'GO' e 'FINISH' para passado",
+      "descricao": "Para indicar ações passadas, especialmente em contextos de locais, o sinal 'FINISH' é usado antes do local, seguido do verbo 'GO' e do sujeito. Isso indica que a ação foi concluída.",
+      "gatilho": "Frase sobre ir a um local no passado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH — MEAT STORE — GO ME"
+      ],
+      "fonte_pagina": "p.187",
+      "fonte_citacao": "I went to the butcher's. Sign: FINISH — MEAT STORE — GO ME"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'TODAY' e 'SALE' para promoções",
+      "descricao": "Para indicar promoções ou ofertas do dia, o sinal 'TODAY' é colocado no início da frase, seguido do objeto e do sinal 'SALE', formando uma estrutura direta e concisa.",
+      "gatilho": "Frase sobre produto em promoção no dia",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TODAY — MEAT — SALE"
+      ],
+      "fonte_pagina": "p.189",
+      "fonte_citacao": "The meat is on sale today. Sign: TODAY — MEAT — SALE"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Frase de preço com 'TWO' e 'ONLY ONE'",
+      "descricao": "Para expressar promoções como 'dois por um', o sinal 'TWO' é seguido por 'PAY' e 'ONLY ONE', indicando que o pagamento é feito apenas por um item.",
+      "gatilho": "Frase com oferta de dois itens por preço de um",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TWO STEAKS — PAY — ONLY ONE"
+      ],
+      "fonte_pagina": "p.190",
+      "fonte_citacao": "You can buy two steaks for the price of one. Sign: TWO STEAKS — PAY — ONLY ONE"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Frase de economia com 'FINISH' e 'SAVE' ou 'SPEND'",
+      "descricao": "Para indicar que algo foi economizado ou gasto, o sinal 'FINISH' é usado no início da frase, seguido do verbo 'SAVE' ou 'SPEND' e do pronome 'ME' ou 'YOU', com o sujeito implícito.",
+      "gatilho": "Frase sobre economia ou gasto de dinheiro",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH — MONEY — SAVE ME",
+        "FINISH — SPEND — (you is implied) TOO MUCH"
+      ],
+      "fonte_pagina": "p.190",
+      "fonte_citacao": "I saved money. Sign: FINISH — MONEY — SAVE ME"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Frase de posse com 'YOURS' no final",
+      "descricao": "Para perguntar sobre posse, o sinal 'GLOVES' é seguido por 'YOURS Q', com a pergunta indicada pela entonação facial. O pronome 'YOURS' é colocado no final da frase.",
+      "gatilho": "Frase interrogativa sobre posse de objeto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "GLOVES YOURS Q"
+      ],
+      "fonte_pagina": "p.192",
+      "fonte_citacao": "Are these your gloves? Sign: GLOVES YOURS Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Frase de comando com 'YOUR' e 'WEAR'",
+      "descricao": "Para dar ordens ou instruções sobre vestimenta, o sinal 'YOUR' é seguido pelo sinal 'WEAR', com o objeto no meio. O sujeito é implícito.",
+      "gatilho": "Frase de instrução para usar roupas",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "YOUR COAT WEAR"
+      ],
+      "fonte_pagina": "p.193",
+      "fonte_citacao": "Wear your coat. Sign: YOUR COAT WEAR"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Frase de atributo com objeto e adjetivo em sequência",
+      "descricao": "Para indicar características de objetos, como cor ou estado, o objeto é seguido diretamente pelo adjetivo, sem preposição. A estrutura é [objeto] — [adjetivo].",
+      "gatilho": "Frase com atributo de objeto (cor, temperatura, estado)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "SCARF WHITE",
+        "WATER WARM"
+      ],
+      "fonte_pagina": "p.195",
+      "fonte_citacao": "The scarf is white. Sign: SCARF WHITE"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Frase de oferta 'TWO FOR THE PRICE OF ONE'",
+      "descricao": "Expressão idiomática usada para indicar promoção de dois itens por um preço. O sinal 'TWO' é seguido por 'PAY' e 'ONLY ONE', com a estrutura direta e sem preposição.",
+      "gatilho": "Oferta de dois itens por preço de um",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TWO STEAKS — PAY — ONLY ONE"
+      ],
+      "fonte_pagina": "p.190",
+      "fonte_citacao": "You can buy two steaks for the price of one. Sign: TWO STEAKS — PAY — ONLY ONE"
+    }
+  ]
+}
+
+### p.196-210
+{
+  "rules": [
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de compostos com sinais base",
+      "descricao": "Sinais compostos são formados pela combinação direta de dois ou mais sinais base, sem necessidade de modificação morfológica. A ordem dos sinais no composto segue a estrutura do significado, com o primeiro sinal geralmente indicando o tipo ou categoria e o segundo o objeto específico.",
+      "gatilho": "Quando se forma um sinal composto para roupas ou objetos, como 'T-SHIRT' ou 'SUNGLASSES'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "T-SHIRT -> T SHIRT",
+        "SUNGLASSES -> SUN GLASSES"
+      ],
+      "fonte_pagina": "p.196",
+      "fonte_citacao": "One way to sign T-shirt is with the manual handshape T and then shirt."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de sinais compostos com adjetivos",
+      "descricao": "Adjetivos são colocados diretamente após o substantivo no sinal composto, sem separação ou estrutura sintática adicional. A ordem é substantivo seguido por adjetivo(s), refletindo a estrutura do significado.",
+      "gatilho": "Quando se descreve um objeto com uma característica, como cor ou tamanho.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "HER DRESS — BLUE WHITE",
+        "HER PURSE — BLACK LEATHER"
+      ],
+      "fonte_pagina": "p.207",
+      "fonte_citacao": "Her dress is blue and white. Sign: HER DRESS — BLUE WHITE"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de elementos em frases de descrição",
+      "descricao": "Em frases que descrevem objetos, a estrutura é: [REFERENTE] — [CARACTERÍSTICA(S)]. O referente é sinalizado primeiro, seguido pela característica, com o sinal de '—' indicando a ligação semântica.",
+      "gatilho": "Quando se descreve um objeto com atributos, como cor, material ou estado.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "YOUR DRESS — PRETTY",
+        "HER BLOUSE — NICE"
+      ],
+      "fonte_pagina": "p.198",
+      "fonte_citacao": "English: Your dress is pretty. Sign: YOUR DRESS — PRETTY"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Estrutura de frases condicionais com 'if'",
+      "descricao": "Frase condicional com 'if' é estruturada como: [IF + condição] — [resultado]. A condição vem antes do sinal de '—', seguida pelo resultado, com o sujeito do resultado sinalizado após o '—'.",
+      "gatilho": "Quando se usa 'if' para expressar uma condição que influencia um resultado.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "IF PANTS WEAR — HIGH HEELS WEAR NOT",
+        "IF BLOUSE YOU WEAR — TIE ME WEAR"
+      ],
+      "fonte_pagina": "p.198",
+      "fonte_citacao": "English: If you wear pants, don’t wear high heels. Sign: IF PANTS WEAR — HIGH HEELS WEAR NOT"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Estrutura de perguntas com 'where' e 'when'",
+      "descricao": "Perguntas com 'where' ou 'when' são formadas com o sinal do objeto ou ação seguido por 'WHERE Q' ou 'WHEN Q', onde 'Q' indica a pergunta. O sinal 'Q' é usado para marcar a intenção interrogativa.",
+      "gatilho": "Quando se faz uma pergunta sobre localização ou tempo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "MY SWEATER — WHERE Q",
+        "T-SHIRT SHOP — OPEN — WHEN Q"
+      ],
+      "fonte_pagina": "p.199",
+      "fonte_citacao": "English: Where is my sweater? Sign: MY SWEATER — WHERE Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Estrutura de desejos com 'want'",
+      "descricao": "A estrutura para expressar desejo é: [objeto] — [THAT (one)] — [WANT ME], onde 'THAT (one)' indica o objeto desejado e 'WANT ME' expressa o desejo do falante.",
+      "gatilho": "Quando se expressa desejo por um objeto específico.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "SKIRT — THAT (one) — WANT ME"
+      ],
+      "fonte_pagina": "p.201",
+      "fonte_citacao": "English: I want that skirt. Sign: SKIRT — THAT (one) — WANT ME"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Estrutura de preferência com 'like'",
+      "descricao": "Para expressar preferência, o sujeito é sinalizado primeiro, seguido por 'LIKE ME' ou 'LIKE YOU', dependendo do sujeito. O objeto é sinalizado antes do verbo.",
+      "gatilho": "Quando se expressa preferência por um objeto.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "LEATHER PANTS — LIKE ME",
+        "BLACK SLACKS — YOU LIKE Q"
+      ],
+      "fonte_pagina": "p.210",
+      "fonte_citacao": "English: I like the leather pants. Sign: LEATHER PANTS — LIKE ME"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Sinalizar 'Speedos' como 'panties'",
+      "descricao": "Quando se refere a 'Speedos' (biquínis masculinos), o sinal é feito como 'panties', não como 'swimsuit' ou 'trunks'. Isso é uma convenção fixa para esse tipo específico de roupa.",
+      "gatilho": "Quando se fala de 'Speedos' em contexto de roupas de banho masculinas.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Speedos -> PANTIES"
+      ],
+      "fonte_pagina": "p.204",
+      "fonte_citacao": "But if you’re talking Speedos, sign it like panties."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Fingerspelling para itens específicos",
+      "descricao": "Itens como 'men’s swimming trunks' são fingerspellados, especialmente quando se refere a marcas ou tipos específicos. Isso é uma convenção fixa para evitar ambiguidade.",
+      "gatilho": "Quando se menciona 'men’s swimming trunks' ou itens com design específico.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "men’s swimming trunks -> J-O-H-N-S"
+      ],
+      "fonte_pagina": "p.204",
+      "fonte_citacao": "You fingerspell men’s swimming trunks, or you can sign shorts."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso do sinal 'FINISH' para indicar conclusão",
+      "descricao": "O sinal 'FINISH' é usado antes de descrever um evento passado, especialmente quando se fala de algo que já aconteceu, como vestir uma roupa. Serve como marcador de tempo passado.",
+      "gatilho": "Quando se descreve uma ação passada, como vestir uma roupa.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH — HE WEAR SHIRT — YELLOW COTTON",
+        "FINISH — HER PURSE — BLACK LEATHER"
+      ],
+      "fonte_pagina": "p.208",
+      "fonte_citacao": "English: He wore a yellow cotton shirt. Sign: FINISH — HE WEAR SHIRT — YELLOW COTTON"
+    }
+  ]
+}
+
+### p.211-225
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em frases de pagamento",
+      "descricao": "Em frases sobre pagamento, o sinal de pagamento (PAY) vem após o sinal do método de pagamento, com o sujeito indicado por pronomes ou referência espacial. O tempo verbal é indicado por sinais como FINISH para passado.",
+      "gatilho": "Frase que descreve um pagamento com método específico (ex: cartão de crédito, dinheiro)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I’ll pay with my credit card. -> CREDIT (outline card) — PAY WILL ME",
+        "She wrote a $50 check. -> FINISH — CHECK 5-0 DOLLARS — WRITE HER"
+      ],
+      "fonte_pagina": "p.212",
+      "fonte_citacao": "English: I’ll pay with my credit card. Sign: CREDIT (outline card) — PAY WILL ME"
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Uso de classificadores para cartão",
+      "descricao": "O sinal para cartão (ATM/DEBIT CARD ou CREDIT CARD) pode ser feito com um movimento de contorno de forma de cartão após o sinal base, ou com movimento de deslizar como se fosse em leitor de cartão.",
+      "gatilho": "Sinal para cartão de crédito ou débito",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "CREDIT (outline card) — YOURS USE",
+        "A-T-M (outline card) — B-A-N-K — GIVE ME"
+      ],
+      "fonte_pagina": "p.213",
+      "fonte_citacao": "When signing ATM/debit card or credit card, outline a card shape after making the signs in Table 9-8."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de superlativos com 'top' ou 'worst'",
+      "descricao": "Para indicar superlativo, após o adjetivo base (ex: cheap, expensive, warm, ugly), adiciona-se o sinal TOP para o maior grau ou WORST para o menor grau.",
+      "gatilho": "Frase que compara um item como o melhor ou pior em relação a outros",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "His coat is the warmest. -> HIS COAT — WARM — TOP",
+        "Your shoes are the ugliest. -> YOUR SHOES — UGLY — WORST"
+      ],
+      "fonte_pagina": "p.218",
+      "fonte_citacao": "To sign that you found the cheapest or most expensive item, simply sign cheap or expensive and then sign the word top."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Comparação com 'better' após adjetivo",
+      "descricao": "Para expressar comparação entre dois itens, após o adjetivo base (ex: cheap, expensive), adiciona-se o sinal BETTER para indicar superioridade relativa.",
+      "gatilho": "Frase que compara dois itens com 'better than'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The red shirt is better than the green one. -> RED SHIRT — GREEN SHIRT — RED BETTER"
+      ],
+      "fonte_pagina": "p.217",
+      "fonte_citacao": "English: The red shirt is better than the green one. Sign: RED SHIRT — GREEN SHIRT — RED BETTER"
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Indicação de passado com 'finish'",
+      "descricao": "O sinal FINISH é usado para indicar que uma ação foi concluída, funcionando como marcador de tempo passado em frases.",
+      "gatilho": "Frase no passado que descreve uma ação concluída",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The event was cancelled. -> FINISH — EVENT — CANCEL"
+      ],
+      "fonte_pagina": "p.222",
+      "fonte_citacao": "You sign finish to show that the sentence is in past tense (see Chapter 2 for a discussion of tenses)."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Indicação de hora com toque no pulso",
+      "descricao": "Para indicar a hora, toca-se o pulso (como se fosse um relógio) e depois se sinaliza o número. Para a.m., p.m., manhã, tarde ou noite, adiciona-se o sinal correspondente após o número.",
+      "gatilho": "Frase que indica uma hora específica",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "It's 2 o'clock. -> (touch wrist) — 2 — AFTERNOON"
+      ],
+      "fonte_pagina": "p.223",
+      "fonte_citacao": "To distinguish between a.m. and p.m., you sign morning, afternoon, or night after the number."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Indicação de meio-dia e meia-noite",
+      "descricao": "Para meia-noite, sinaliza-se 12 diretamente para baixo sem tocar o pulso. Para meio-dia, sinaliza-se 12 noon diretamente para cima.",
+      "gatilho": "Frase que menciona meia-noite ou meio-dia",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Midnight -> 12 (straight down)",
+        "Noon -> 12 noon (straight up)"
+      ],
+      "fonte_pagina": "p.223",
+      "fonte_citacao": "For midnight, you don’t touch your wrist; you simply sign the number 12 straight down. And for noon, you sign 12 noon straight up."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de pronomes para sujeito em frases de pagamento",
+      "descricao": "O sujeito de uma frase de pagamento é indicado por pronomes como ME, HER, YOURS, que aparecem após o sinal do método de pagamento.",
+      "gatilho": "Frase de pagamento com sujeito específico (ex: I’ll pay, She wrote)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I’ll pay with my credit card. -> CREDIT (outline card) — PAY WILL ME",
+        "She wrote a $50 check. -> FINISH — CHECK 5-0 DOLLARS — WRITE HER"
+      ],
+      "fonte_pagina": "p.212",
+      "fonte_citacao": "English: I’ll pay with my credit card. Sign: CREDIT (outline card) — PAY WILL ME"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Uso de 'write down' e 'record' com mesmo sinal",
+      "descricao": "Os verbos 'write down' e 'record' compartilham o mesmo sinal em ASL, indicando que são sinônimos na estrutura de comunicação.",
+      "gatilho": "Frase que envolve anotar ou registrar algo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Write it down on your calendar. -> YOUR CALENDAR — WRITE DOWN"
+      ],
+      "fonte_pagina": "p.221",
+      "fonte_citacao": "Write down and record share the same sign."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de 'yours' para posse em frases de pagamento",
+      "descricao": "O pronome YOURS é usado para indicar posse no contexto de pagamento, substituindo 'your' em frases como 'use your card'.",
+      "gatilho": "Frase que envolve uso de um objeto de posse em transação",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Use your credit card. -> CREDIT (outline card) — YOURS USE"
+      ],
+      "fonte_pagina": "p.215",
+      "fonte_citacao": "Robert: Use your credit card. Sign: CREDIT (outline card) — YOURS USE"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Indicação de 'bargain' com 'cheap' + 'top'",
+      "descricao": "Para indicar que algo é o melhor negócio (bargain), sinaliza-se 'cheap' seguido de 'top', mesmo que o item não seja necessariamente barato, mas sim o mais vantajoso.",
+      "gatilho": "Situação de comparação de preços onde se busca o melhor valor",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "This item is the best bargain. -> CHEAP — TOP"
+      ],
+      "fonte_pagina": "p.217",
+      "fonte_citacao": "To sign that you found the cheapest or most expensive item, simply sign cheap or expensive and then sign the word top."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'if' para condição com estrutura direta",
+      "descricao": "A estrutura condicional 'if' é sinalizada com o sinal IF seguido pelo verbo principal e o sujeito, sem inversão, mantendo a ordem natural da frase.",
+      "gatilho": "Frase com condição 'if' (ex: If I buy blouses, I’ll need pants)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "If I buy blouses, I’ll need pants. -> IF BLOUSES BUY — PANTS NEED ME"
+      ],
+      "fonte_pagina": "p.215",
+      "fonte_citacao": "English: If I buy blouses, I’ll need pants. Sign: IF BLOUSES BUY — PANTS NEED ME"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'finish' para indicar conclusão de evento",
+      "descricao": "O sinal FINISH é usado para indicar que um evento foi concluído, especialmente em contextos de agendamento ou planejamento.",
+      "gatilho": "Frase que descreve um evento que foi cancelado ou encerrado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The event was cancelled. -> FINISH — EVENT — CANCEL"
+      ],
+      "fonte_pagina": "p.222",
+      "fonte_citacao": "The event was cancelled. Sign: FINISH — EVENT — CANCEL"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'cancel' com sinal de X",
+      "descricao": "O sinal para cancelar uma reserva ou encontro é feito com um X no lado passivo da mão, simbolizando a anulação.",
+      "gatilho": "Frase que envolve cancelamento de compromisso",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "The event was cancelled. -> FINISH — EVENT — CANCEL"
+      ],
+      "fonte_pagina": "p.221",
+      "fonte_citacao": "The sign for canceling an appointment or date is exactly what you might expect — you make an X on your passive hand."
+    }
+  ]
+}
+
+### p.226-240
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em frases com tempo e evento",
+      "descricao": "Em frases que indicam um evento futuro ou condicional, o sinal de tempo (como 'next Saturday') vem antes do sinal do evento principal, seguido do verbo ou ação. O tempo é expresso antes do evento, não após.",
+      "gatilho": "Frase com tempo futuro ou condicional (ex: 'next Saturday', 'if')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "YES — NEXT WEEK — SATURDAY — GO FUNNY MOVIE — MAYBE",
+        "IF MOVIE O-C — ME GO"
+      ],
+      "fonte_pagina": "p.233",
+      "fonte_citacao": "Yes, I can go next Saturday — maybe a comedy. Sign: YES — NEXT WEEK — SATURDAY — GO FUNNY MOVIE — MAYBE"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo 'go' com marcador de sujeito",
+      "descricao": "O verbo 'GO' é usado com o pronome 'ME' para indicar que o sujeito está indo, especialmente em contextos de intenção ou plano. O pronome 'ME' é colocado antes do verbo 'GO' para indicar o sujeito do movimento.",
+      "gatilho": "Frase com intenção de ir a um lugar (ex: 'I'll go', 'I want to go')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "MOVIE — GO WANT Q",
+        "IF MOVIE O-C — ME GO"
+      ],
+      "fonte_pagina": "p.233",
+      "fonte_citacao": "Denni: Want to go to a movie? Sign: MOVIE — GO WANT Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'finish' para ação concluída",
+      "descricao": "O sinal 'FINISH' é usado como marcador de ação concluída antes de um verbo ou objeto, indicando que a ação já foi realizada. É comum em frases que descrevem experiências passadas.",
+      "gatilho": "Frase que descreve uma ação já realizada (ex: 'We saw...', 'We went to...')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH — NEW MYSTERY — SEE US",
+        "FINISH — PHOTOGRAPHY EXHIBIT SEE"
+      ],
+      "fonte_pagina": "p.227",
+      "fonte_citacao": "We went to see the new mystery. Sign: FINISH — NEW MYSTERY — SEE US"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de perguntas com 'Q' no final",
+      "descricao": "Perguntas são marcadas com o sinal 'Q' no final da frase, especialmente em perguntas diretas. O sinal 'Q' é usado para indicar que a frase é uma pergunta, mesmo sem mudança de expressão facial.",
+      "gatilho": "Frase que é uma pergunta direta (ex: 'Is that the manager?', 'When is payday?')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "MOVIE — GO WANT Q",
+        "MANAGER — HIM (point) Q",
+        "PAYDAY — WHEN Q"
+      ],
+      "fonte_pagina": "p.233",
+      "fonte_citacao": "Denni: Want to go to a movie? Sign: MOVIE — GO WANT Q"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso do pronome 'ME' para sujeito em ações pessoais",
+      "descricao": "O pronome 'ME' é usado como sujeito em ações que envolvem o próprio signador, especialmente em frases de intenção ou planejamento. O sinal 'ME' é colocado antes do verbo para indicar que o sujeito é o signador.",
+      "gatilho": "Frase com intenção de fazer algo (ex: 'I'll write it down', 'I want to go')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "SCHEDULE — WRITE DOWN — ME WILL",
+        "WRITE DOWN — TOO — ME WILL"
+      ],
+      "fonte_pagina": "p.234",
+      "fonte_citacao": "I’ll write it down on my schedule. Sign: SCHEDULE — WRITE DOWN — ME WILL"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'during' e 'when' para tempo",
+      "descricao": "O sinal 'DURING' é usado para indicar um período de tempo durante o qual uma ação ocorre, seguido do verbo. O sinal 'WHEN' é usado em perguntas sobre tempo, geralmente no início da frase.",
+      "gatilho": "Frase com tempo específico (ex: 'during intermission', 'when is payday?')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "DURING INTERMISSION — LEAVE ME",
+        "PAYDAY — WHEN Q"
+      ],
+      "fonte_pagina": "p.229",
+      "fonte_citacao": "During intermission, I’m leaving. Sign: DURING INTERMISSION — LEAVE ME"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Pintar a cidade de vermelho",
+      "descricao": "Expressão idiomática que significa sair para se divertir, especialmente à noite, em grupo. É usada para descrever uma noite de lazer intensa ou social.",
+      "gatilho": "Frase sobre sair à noite com amigos, especialmente em contexto de diversão ou festa",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Deaf people enjoy their social bonds and can paint the town red with the best of them."
+      ],
+      "fonte_pagina": "p.232",
+      "fonte_citacao": "Deaf people enjoy their social bonds and can paint the town red with the best of them."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'light' e 'lights' para estado de iluminação",
+      "descricao": "O sinal 'LIGHTS OUT' é usado para indicar que as luzes foram apagadas. O sinal 'LIGHTS' é usado com movimento de 'flick' (duplo clique) sob o queixo para indicar luzes acesas ou apagadas, dependendo do contexto.",
+      "gatilho": "Frase sobre estado de luzes em teatro ou ambiente",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "LIGHTS OUT — TALKING STOP",
+        "You sign light with a double flick, using your index finger and thumb under your chin and then mimicking the action of screwing in or taking out a light bulb."
+      ],
+      "fonte_pagina": "p.228",
+      "fonte_citacao": "When the lights go out, stop talking. Sign: LIGHTS OUT — TALKING STOP"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de 'time period' com movimento circular do sinal 'T'",
+      "descricao": "O sinal 'TIME' é usado para indicar 'time period' ou 'era' quando feito com movimento circular da mão ativa sobre a mão passiva. O sinal 'T' manual é usado com esse movimento específico.",
+      "gatilho": "Frase que descreve um período histórico ou era (ex: 'in the 1920s', 'time period')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "You sign time periods by signing the manual T in a circular motion with your active hand on your passive hand. This means time period or era."
+      ],
+      "fonte_pagina": "p.231",
+      "fonte_citacao": "You sign time periods by signing the manual T in a circular motion with your active hand on your passive hand. This means time period or era."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de 'photography' com movimento de 'double click'",
+      "descricao": "O sinal 'PHOTOGRAPHY' é feito com um movimento de 'double click' (duplo clique) com a mão, simbolizando o ato de tirar uma foto. Um único clique significa apenas 'to take a picture'.",
+      "gatilho": "Frase sobre fotografia ou tirar fotos",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "You sign photography by mimicking taking a picture. Make sure that you give it a double click because a single click means 'to take a picture.'"
+      ],
+      "fonte_pagina": "p.231",
+      "fonte_citacao": "You sign photography by mimicking taking a picture. Make sure that you give it a double click because a single click means 'to take a picture.'"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'museum' e 'open'",
+      "descricao": "O sinal 'MUSEUM' é usado com o sinal 'OPEN' para indicar que o museu está aberto. A ordem é 'MUSEUM — OPEN', sem necessidade de verbo adicional.",
+      "gatilho": "Frase sobre o estado de abertura de um museu",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The museum is open. Sign: MUSEUM — OPEN"
+      ],
+      "fonte_pagina": "p.231",
+      "fonte_citacao": "The museum is open. Sign: MUSEUM — OPEN"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'boss' e 'have' para posse",
+      "descricao": "A posse é expressa com o sinal 'HAVE' seguido do possuidor. O sinal 'BOSS' é usado como sujeito, e 'MINE' é usado para indicar posse do objeto.",
+      "gatilho": "Frase sobre posse de um documento ou objeto por alguém (ex: 'The boss has my time sheet')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TIME SHEET MINE — BOSS HAVE"
+      ],
+      "fonte_pagina": "p.238",
+      "fonte_citacao": "The boss has my time sheet. Sign: TIME SHEET MINE — BOSS HAVE"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso do pronome 'HIM' com pontuação para referência",
+      "descricao": "O pronome 'HIM' é usado com pontuação (movimento do dedo indicador para uma pessoa) para indicar um referente específico no espaço. É comum em perguntas ou afirmações sobre pessoas.",
+      "gatilho": "Frase que se refere a uma pessoa específica (ex: 'Is that the manager?', 'He is the assistant manager')",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "MANAGER — HIM (point) Q",
+        "NO — ASSISTANT MANAGER — HIM"
+      ],
+      "fonte_pagina": "p.239",
+      "fonte_citacao": "Is that the manager? Sign: MANAGER — HIM (point) Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'write down' e 'me will' para intenção futura",
+      "descricao": "A intenção futura é expressa com o sinal 'ME WILL' no final da frase, após o verbo. O sinal 'WRITE DOWN' é usado para indicar anotação ou registro.",
+      "gatilho": "Frase com intenção de anotar algo no futuro (ex: 'I'll write it down')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "SCHEDULE — WRITE DOWN — ME WILL",
+        "WRITE DOWN — TOO — ME WILL"
+      ],
+      "fonte_pagina": "p.234",
+      "fonte_citacao": "I’ll write it down on my schedule. Sign: SCHEDULE — WRITE DOWN — ME WILL"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'terminate' e 'H-R' para demissão",
+      "descricao": "A demissão é expressa com o sinal 'TERMINATE' seguido do sujeito. 'H-R' é usado como abreviação de 'Human Resources' e é fingerspelled.",
+      "gatilho": "Frase sobre demissão por parte da empresa ou RH",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "H-R TERMINATE HER"
+      ],
+      "fonte_pagina": "p.238",
+      "fonte_citacao": "She was terminated by Human Resources. Sign: H-R TERMINATE HER"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'true' para afirmação",
+      "descricao": "A afirmação é marcada com o sinal 'TRUE' no final da frase, especialmente em respostas afirmativas. É usado para reforçar a validade de uma informação.",
+      "gatilho": "Frase que confirma algo (ex: 'She is a good boss')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "D-E-E — GOOD BOSS — TRUE (affirmation)"
+      ],
+      "fonte_pagina": "p.239",
+      "fonte_citacao": "Dee, she is a good boss. Sign: D-E-E — GOOD BOSS — TRUE (affirmation)"
+    }
+  ]
+}
+
+### p.256-270
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em frases de ação com sujeito e verbo",
+      "descricao": "O sujeito do verbo é sinalizado antes do verbo, e o verbo é sinalizado com movimento direto para o espaço, sem necessidade de pronomes explícitos quando o sujeito já foi introduzido.",
+      "gatilho": "Frase com verbo de ação e sujeito definido, como 'We're going on a picnic.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PICNIC GO US — COME YOU Q",
+        "HIKING — US GO"
+      ],
+      "fonte_pagina": "p.256",
+      "fonte_citacao": "Let’s go hiking. Sign: HIKING — US GO"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Forma de perguntas com pronomes interrogativos",
+      "descricao": "Perguntas em ASL são formadas com pronomes interrogativos (who, what, why, where, when, how) no início da frase, seguidos do verbo e do restante da estrutura, com a entonação facial de pergunta.",
+      "gatilho": "Frase com pergunta direta que exige resposta, como 'Are you coming?' ou 'Who wants to play poker?'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "PICNIC GO US — COME YOU Q",
+        "P-O-K-E-R — PLAY — WANTS — WHO Q"
+      ],
+      "fonte_pagina": "p.257",
+      "fonte_citacao": "Are you coming? Sign: PICNIC GO US — COME YOU Q"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo de ação com sujeito implícito",
+      "descricao": "Quando o sujeito já foi mencionado ou é claro pelo contexto, o verbo pode ser sinalizado sem pronomes explícitos, com o sujeito indicado pelo espaço ou pela entonação facial.",
+      "gatilgo": "Frase com verbo de ação onde o sujeito é conhecido do contexto, como 'He likes playing chess.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "C-H-E-S-S — HE LIKES",
+        "ECLIPSE — RED — TRUE (affirmation)"
+      ],
+      "fonte_pagina": "p.259",
+      "fonte_citacao": "He likes playing chess. Sign: C-H-E-S-S — HE LIKES"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em frases com tempo e localização",
+      "descricao": "Sinais de tempo (como 'today', 'now night') e localização (como 'outside') são colocados no início da frase, seguidos pelos sinais de estado ou condição.",
+      "gatilho": "Frase que inclui tempo ou localização como elemento de contexto, como 'It’s dark and windy this evening.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "NOW NIGHT — DARK WINDY",
+        "OUTSIDE SUNNY"
+      ],
+      "fonte_pagina": "p.268",
+      "fonte_citacao": "It’s dark and windy this evening. Sign: NOW NIGHT — DARK WINDY"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com múltiplos elementos de estado",
+      "descricao": "Quando há mais de um estado ou condição (como clima), os sinais são colocados em sequência direta, sem conectores, com o movimento natural do sinal indicando a relação.",
+      "gatilho": "Frase com múltiplos sinais de condição climática, como 'There is thunder and lightning outside.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "OUTSIDE — THUNDER LIGHTNING"
+      ],
+      "fonte_pagina": "p.268",
+      "fonte_citacao": "There is thunder and lightning outside. Sign: OUTSIDE — THUNDER LIGHTNING"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Perguntas retóricas com resposta implícita",
+      "descricao": "Perguntas retóricas em ASL são feitas com o sinal de pergunta facial (sobrancelhas levantadas), mas o signador responde imediatamente sem esperar resposta, pois o objetivo é enfatizar um ponto, não obter informação.",
+      "gatilho": "Frase que apresenta uma pergunta com resposta óbvia ou já conhecida, como 'Brent is on my team.'",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "MY TEAM-- WHO — B-R-E-N-T"
+      ],
+      "fonte_pagina": "p.270",
+      "fonte_citacao": "Brent is on my team. Sign: MY TEAM-- WHO — B-R-E-N-T"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de substantivos compostos com movimento de coleta",
+      "descricao": "Para formar sinais de atividades que envolvem coleta ou ação repetitiva (como 'stamp collecting'), o sinal é criado com o movimento de reunir objetos na palma da mão.",
+      "gatilho": "Frase que descreve uma atividade de coleta ou organização de itens, como 'I collect stamps.'",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "STAMPS — COLLECT ME"
+      ],
+      "fonte_pagina": "p.261",
+      "fonte_citacao": "To sign stamp collecting, sign stamp and then collect — like gathering a bunch of stamps into the palm of your hand."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Expressão 'as right as rain'",
+      "descricao": "Expressão idiomática que significa estar em perfeitas condições ou tudo certo, usada para indicar que algo está funcionando bem ou está no seu estado ideal.",
+      "gatilho": "Frase que descreve um estado de segurança ou correção, especialmente em contextos de previsão ou preparação, como 'you’ll be as right as rain.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "you’ll be as right as rain"
+      ],
+      "fonte_pagina": "p.264",
+      "fonte_citacao": "Practice the basic weather signs in Table 12-7 and you’ll be as right as rain."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de sinais de tempo e localização no início da frase",
+      "descricao": "Sinais de tempo (como 'today', 'now night') e localização (como 'outside') são posicionados no início da frase para estabelecer o contexto imediatamente.",
+      "gatilho": "Frase que inclui um elemento de tempo ou localização como parte do contexto inicial, como 'It is cloudy today.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "TODAY — CLOUDY"
+      ],
+      "fonte_pagina": "p.267",
+      "fonte_citacao": "It is cloudy today. Sign: TODAY — CLOUDY"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo 'to finish' com sinal de conclusão",
+      "descricao": "O sinal 'FINISH' é usado para indicar o término de uma ação ou evento, frequentemente seguido por um sinal que representa o evento concluído.",
+      "gatilho": "Frase que descreve o fim de um evento ou ação, como 'Did you see the shooting star?'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "FINISH — SHOOTING STAR — SEE— Q"
+      ],
+      "fonte_pagina": "p.264",
+      "fonte_citacao": "Did you see the shooting star? Sign: FINISH — SHOOTING STAR — SEE— Q"
+    }
+  ]
+}
+
+### p.286-294
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com foco no corpo",
+      "descricao": "Quando descrever uma condição física ou sensação corporal, o sinal do corpo parte é colocado no início da frase, seguido pelo sinal de estado ou sintoma, com a estrutura: [CORPO] — [SINTOMA].",
+      "gatilho": "Frase que descreve uma condição física ou sensação corporal, como dor, rigidez ou alteração visual.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "My throat is red -> MY THROAT — RED",
+        "My neck is stiff -> MY NECK — STIFF",
+        "Dizzy me — stomach hurts -> DIZZY ME — STOMACH HURTS"
+      ],
+      "fonte_pagina": "p.289",
+      "fonte_citacao": "When you’re not feeling that well, these sentences can help you get all the sympathy your hands can hold."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Uso do sinal 'freeze' para 'stiff'",
+      "descricao": "O sinal 'stiff' é produzido com o mesmo movimento do sinal 'freeze', onde os dedos são dobrados lentamente como se congelassem.",
+      "gatilho": "Quando se descreve rigidez corporal, especialmente no pescoço ou em membros.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "My neck is stiff -> MY NECK — STIFF"
+      ],
+      "fonte_pagina": "p.289",
+      "fonte_citacao": "You sign stiff by using the same sign as freeze. With your hands in front of you, bend all your fingers slowly as if they’re becoming frozen."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Sinal 'bleed' com intensidade variável",
+      "descricao": "O sinal 'bleed' é feito movendo a mão dominante para cima e para baixo rapidamente; a velocidade do movimento indica a gravidade do sangramento.",
+      "gatilho": "Quando se descreve hemorragia ou sangramento, especialmente em contexto de emergência.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Her mouth is bleeding -> MOUTH BLEEDING — HER"
+      ],
+      "fonte_pagina": "p.291",
+      "fonte_citacao": "Hemorrhage is the same sign as bleed. To sign bleed, move your dominant hand up and down rapidly. The faster you do it, the heavier the bleeding."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com obrigação ou necessidade",
+      "descricao": "A estrutura para expressar obrigação ou necessidade é: [VERBO DE MOVIMENTO] — [SUJEITO] — [MUST] ou [WILL], com o sujeito indicado por pronominação espacial ou sinal de pessoa.",
+      "gatilho": "Frase que expressa necessidade ou intenção de ir a um lugar, especialmente em contexto de emergência.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "You need to get to the hospital -> HOSPITAL — GO — MUST YOU",
+        "We’ll go to the ER -> E-R — GO US — WILL"
+      ],
+      "fonte_pagina": "p.291",
+      "fonte_citacao": "Lily: You need to get to the hospital. Sign: HOSPITAL — GO — MUST YOU"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Sinal 'get all the sympathy your hands can hold'",
+      "descricao": "Expressão idiomática usada para descrever uma situação em que alguém está se sentindo mal e deseja ou recebe empatia e apoio emocional, especialmente em contextos de doença ou dor física.",
+      "gatilho": "Quando alguém está descrevendo um mal-estar físico e o contexto sugere que está buscando compaixão ou apoio.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "When you’re not feeling that well, these sentences can help you get all the sympathy your hands can hold."
+      ],
+      "fonte_pagina": "p.289",
+      "fonte_citacao": "When you’re not feeling that well, these sentences can help you get all the sympathy your hands can hold."
+    }
+  ]
+}
+
+### p.16-30
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de palavras em frases simples",
+      "descricao": "A ordem dos sinais em frases simples geralmente segue o padrão Tópico-Comentário, onde o tópico é apresentado primeiro, seguido pelo comentário. O tópico pode ser um substantivo, uma frase ou uma informação já conhecida, e o comentário fornece nova informação sobre o tópico.",
+      "gatilho": "em frases declarativas simples com tópico definido ou já conhecido",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "THIS	CHAIR	(point)	—	PLEASE	—	SIT",
+        "YES	—	SOON	—	CHRISTMAS	GIFTS	—	START	BUYING	—	WANT	ME"
+      ],
+      "fonte_pagina": "p.29",
+      "fonte_citacao": "In this chapter, we talk about the building blocks that you need to communicate in any language — nouns, verbs, adjectives, and adverbs — and we tell you how to put them together to form simple sentences."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Distinção entre verbo e substantivo por movimento",
+      "descricao": "A distinção entre um verbo e um substantivo que compartilham a mesma forma manual é feita pelo número de movimentos: um movimento indica o verbo, dois movimentos indicam o substantivo. Isso é uma regra geral, com algumas exceções.",
+      "gatilho": "quando um sinal tem a mesma forma manual para verbo e substantivo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "CHAIR	—	SIT",
+        "PLANE	—	FLY",
+        "CAR	—	DRIVE"
+      ],
+      "fonte_pagina": "p.30",
+      "fonte_citacao": "You distinguish the part of speech by signing the motion once if it’s a verb and twice if it’s a noun. Like any language, there are exceptions to the rule."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de pronomes com base no espaço",
+      "descricao": "Pronomes em ASL são frequentemente indicados por localização no espaço, com o uso de pontos fixos para referentes. O espaço é usado para rastrear referentes, e o uso de pronomes depende da posição do referente no espaço.",
+      "gatilho": "quando há um referente já estabelecido no espaço",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "THIS	CHAIR	(point)	—	PLEASE	—	SIT"
+      ],
+      "fonte_pagina": "p.29",
+      "fonte_citacao": "In this chapter, we talk about the building blocks that you need to communicate in any language — nouns, verbs, adjectives, and adverbs — and we tell you how to put them together to form simple sentences."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Formação de palavras compostas",
+      "descricao": "Palavras compostas em ASL são formadas pela combinação de dois ou mais sinais, onde o significado é derivado da junção dos elementos. Essa combinação pode ser literal ou simbólica, dependendo do contexto.",
+      "gatilho": "quando dois ou mais sinais são combinados para formar um novo significado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "M-A-L-L	—	RIDE	—	WANT	YOU	Q",
+        "YES	—	SOON	—	CHRISTMAS	GIFTS	—	START	BUYING	—	WANT	ME"
+      ],
+      "fonte_pagina": "p.27",
+      "fonte_citacao": "Belinda and Terry are getting ready for the holidays. Belinda wants to start shopping for Christmas presents."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Gesto de 'evil eye' como expressão de desaprovação",
+      "descricao": "O gesto de 'evil eye' (olhar malicioso ou desaprovador) é usado para expressar desaprovação, desconfiança ou crítica, geralmente com olhos arregalados e olhar fixo. É uma expressão idiomática com uso social e emocional claro.",
+      "gatilho": "em situações de desaprovação, crítica ou desconfiança",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "GIVE	SOMEONE	THE	'EVIL	EYE'"
+      ],
+      "fonte_pagina": "p.17",
+      "fonte_citacao": "For example, Sign is interwoven in your gestures when you use your index finger to motion to someone to “come here,” when you shake your head “yes” and “no,” and when you give someone the “evil eye.”"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Gesto de 'off to a good start' como expressão de início promissor",
+      "descricao": "A expressão 'off to a good start' é usada para indicar que algo começou bem, com potencial para sucesso. É uma expressão idiomática com valor positivo e é comum em contextos de motivação ou avaliação inicial.",
+      "gatilho": "quando algo começa com sucesso ou promessa",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "off	to	a	good	start"
+      ],
+      "fonte_pagina": "p.19",
+      "fonte_citacao": "You know these gestures already and are off to a good start."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Uso de expressão facial para enfatizar significado",
+      "descricao": "A expressão facial é crucial para o foco e o significado em ASL. A expressão facial pode alterar o tom, intensidade ou emoção de um sinal, tornando-o mais claro ou mais enfático.",
+      "gatilho": "quando se deseja transmitir emoção, intensidade ou tom específico",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "SICK: Both hands move in a small circular motion. One hand touches the head while the other touches the stomach. Looking nauseous as you do the sign.",
+        "NO: When you sign the word, close your eyes if you want to make it more emphatic."
+      ],
+      "fonte_pagina": "p.25",
+      "fonte_citacao": "The speed at which you shake your head from side to side, with eyes open or shut, can say a lot about the degree of no. Quick, short body movements show an emphatic message; an exaggeratedly slow motion with an exaggerated facial expression conveys a similar message."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Uso de formas manuais naturais como classificadores",
+      "descricao": "As formas manuais naturais (A, B, C, S, O, 1, 5) são usadas como classificadores em ASL para representar objetos, pessoas ou ações. Elas são fixas e devem ser usadas com a mão passiva quando não estão sendo usadas como ativa.",
+      "gatilho": "quando se descreve objetos, pessoas ou ações com classificadores",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "START: Place your active index finger between your index and middle fingers of your passive hand, and then turn the active index finger outward",
+        "COOK: Hold your passive hand out, palm up. Lay your active hand across the top of it, palm down. Now flip your active hand over, then flip it back over, palm down."
+      ],
+      "fonte_pagina": "p.23",
+      "fonte_citacao": "The seven natural handshapes are the letters A, B, C, S, and O and the numbers 1 and 5. If you don’t use your passive hand for these handshapes, you’ll be breaking a rule in ASL."
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Indicação de tempo por meio de expressão facial e movimento",
+      "descricao": "O tempo e o aspecto em ASL são indicados principalmente por expressão facial, movimento e velocidade do sinal, em vez de marcas gramaticais. O passado, presente e futuro são sugeridos por contexto, expressão e tempo de execução.",
+      "gatilho": "quando se expressa ação no passado, presente ou futuro",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "YES	—	SOON	—	CHRISTMAS	GIFTS	—	START	BUYING	—	WANT	ME"
+      ],
+      "fonte_pagina": "p.27",
+      "fonte_citacao": "Belinda and Terry are getting ready for the holidays. Belinda wants to start shopping for Christmas presents."
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Uso de movimento e expressão facial para negação",
+      "descricao": "A negação em ASL é expressa por meio de movimento de cabeça (balanço lateral), expressão facial (olhos fechados, sobrancelhas franzidas) e velocidade do sinal. A intensidade da negação pode variar com o movimento e a expressão.",
+      "gatilho": "quando se nega uma ação, ideia ou afirmação",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "NO: When you sign the word, close your eyes if you want to make it more emphatic."
+      ],
+      "fonte_pagina": "p.25",
+      "fonte_citacao": "When you sign the word, close your eyes if you want to make it more emphatic. This sign can be made as gentle as telling your favorite niece, no, or as harshly as possible by telling a pest, NO!"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Formação de perguntas com expressão facial",
+      "descricao": "Perguntas em ASL são formadas principalmente por expressão facial (sobrancelhas levantadas, olhos arregalados) e, às vezes, por movimento de cabeça. Não há mudança estrutural obrigatória no sinal, mas a expressão facial é essencial.",
+      "gatilho": "em frases interrogativas",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "M-A-L-L	—	RIDE	—	WANT	YOU	Q"
+      ],
+      "fonte_pagina": "p.27",
+      "fonte_citacao": "Terry: Do you want a ride to the mall? Sign: M-A-L-L — RIDE — WANT YOU Q"
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso de palavras abreviadas com dedilhado",
+      "descricao": "Palavras abreviadas como LA, SF, BK, BR são formadas por dedilhado completo antes da abreviação, para evitar ambiguidade. Isso garante clareza, pois letras isoladas podem ter significados diferentes.",
+      "gatilho": "quando se usa abreviações de nomes próprios ou marcas",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "L-A",
+        "B-R"
+      ],
+      "fonte_pagina": "p.22",
+      "fonte_citacao": "Remember to fingerspell the complete word before you abbreviate it, because L-A could mean Louisiana and B-R could mean Baton Rouge."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso de dedilhado para palavras com significado gestual",
+      "descricao": "Palavras como 'okay' podem ser dedilhadas (O-K) ou expressas com o sinal da mão F, que é um gesto comum. Isso mostra que gestos e dedilhado são usados alternativamente para palavras com significado claro.",
+      "gatilho": "quando se comunica uma palavra com um gesto reconhecível",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "O-K",
+        "F	handshape"
+      ],
+      "fonte_pagina": "p.21",
+      "fonte_citacao": "You can fingerspell a word like okay as O-K, or you can just show the F handshape. Yes, it’s a gesture, but it gets the point across."
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Uso de olhar e expressão facial para manter atenção",
+      "descricao": "O contato visual é essencial em ASL. O sinalizador deve manter o olhar no rosto do interlocutor, usando a visão periférica para acompanhar os movimentos das mãos, garantindo comunicação clara.",
+      "gatilho": "durante interações de comunicação em ASL",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Keep your eyes on the whole picture, from the signer’s abdomen on up to her head."
+      ],
+      "fonte_pagina": "p.18",
+      "fonte_citacao": "Remember not to watch the signer’s hands primarily. You want to watch the signer’s hands through your peripheral vision. Keep your eyes on the whole picture, from the signer’s abdomen on up to her head."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso de dedilhado para nomes próprios e palavras desconhecidas",
+      "descricao": "O dedilhado é usado para nomes próprios e palavras desconhecidas, especialmente por iniciantes. É uma prática comum e aceitável para garantir clareza.",
+      "gatilho": "quando não se conhece o sinal de uma palavra ou nome",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "P-H-I-L-L-I-P",
+        "M-A-L-L"
+      ],
+      "fonte_pagina": "p.19",
+      "fonte_citacao": "So as a beginner, feel free to fingerspell any word you don’t know the sign for."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso de pausa entre palavras dedilhadas",
+      "descricao": "Quando se dedilha duas ou mais palavras consecutivas, como em títulos ou nomes completos, é necessário fazer uma pausa de um segundo entre cada palavra para evitar confusão.",
+      "gatilho": "quando se dedilha mais de uma palavra em sequência",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "P-H-I-L-L-I-P"
+      ],
+      "fonte_pagina": "p.19",
+      "fonte_citacao": "If you want to fingerspell two or more words in a row, such as a title or someone’s first and last name, pause for just a second between each word."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso de movimento labial para controle de velocidade no dedilhado",
+      "descricao": "Durante o dedilhado, é recomendado mover os lábios silenciosamente para acompanhar os sons das letras, mas sem pronunciar cada letra individualmente. Isso ajuda a manter o ritmo e a clareza.",
+      "gatilho": "durante o dedilhado de palavras",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "P-H-I-L-L-I-P"
+      ],
+      "fonte_pagina": "p.19",
+      "fonte_citacao": "Silently mouth the letter sounds as you fingerspell the letters. Doing so helps you control your speed because you concentrate more on the letters. Don’t pronounce each letter individually; pronounce the sounds as you fingerspell."
+    },
+    {
+      "categoria": "morfologia",
+      "titulo": "Uso de sinais para conceitos abreviados",
+      "descricao": "Conceitos como a.m. e p.m. são sinalizados como 'morning' e 'evening', respectivamente, em vez de serem dedilhados. Isso mostra que certos conceitos têm sinais específicos em vez de serem representados por letras.",
+      "gatilho": "quando se expressa horários como a.m. ou p.m.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "morning",
+        "evening"
+      ],
+      "fonte_pagina": "p.21",
+      "fonte_citacao": "You sign, rather than fingerspell, some initializations — concepts such as a.m. and p.m., which you sign as morning and evening, respectively."
+    }
+  ]
+}
+
+### p.61-75
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Introduções com nome completo",
+      "descricao": "Em introduções, o nome completo (primeiro e último nome) deve ser sinalizado como uma sequência de sinais, com o nome próprio fingerspellado após o sinal de 'ME' para indicar posse ou identificação. O uso de 'ME' após o nome é obrigatório para manter a cortesia e clareza.",
+      "gatilho": "Durante apresentações ou introduções em ASL, quando alguém está se apresentando",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Hi, I'm Dee. -> HI — D-E-E ME",
+        "I'm Cameron. -> C-A-M-E-R-O-N ME"
+      ],
+      "fonte_pagina": "p.62",
+      "fonte_citacao": "During introductions, simply fingerspell your name. ... Keep in mind that when someone asks you your name, sign your first and last name — it’s good manners."
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de 'ME' para indicar posse ou identificação",
+      "descricao": "O sinal 'ME' é usado após o nome fingerspellado para indicar que o nome pertence ao sinalizador, funcionando como um pronome possessivo em contextos de apresentação. É essencial para clareza e cortesia.",
+      "gatilho": "Após fingerspellar um nome em contexto de apresentação",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "C-A-M-E-R-O-N ME",
+        "D-E-E ME"
+      ],
+      "fonte_pagina": "p.62",
+      "fonte_citacao": "During introductions, simply fingerspell your name. ... Keep in mind that when someone asks you your name, sign your first and last name — it’s good manners."
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Expressão de ausência com 'NONE'",
+      "descricao": "O sinal 'NONE' é usado para indicar ausência total ou negação de algo, especialmente em frases que expressam ausência de opções, recursos ou eventos. É mais natural que 'NO' em contextos de negação completa.",
+      "gatilho": "Quando se quer expressar que algo não existe ou não está disponível",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "No sales -> TRUE — DISCOUNTS NONE",
+        "There are so many rivers -> RIVERS — MANY"
+      ],
+      "fonte_pagina": "p.64",
+      "fonte_citacao": "Buddy: Yes, and no sales. Sign: TRUE — DISCOUNTS NONE"
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Uso de 'WILL' para futuro",
+      "descricao": "O sinal 'WILL' é usado para indicar futuro, geralmente posicionado antes do verbo principal ou no início da frase. É uma marcação clara de tempo futuro em ASL, substituindo a estrutura verbal de futuro em inglês.",
+      "gatilho": "Quando se fala de ações futuras ou planos",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "We are going to Texas -> US TRAVEL WHERE — TEXAS CALIFORNIA COLORADO",
+        "Buddy and I are taking a trip -> B-U-D-D-Y (point) ME — TRAVEL — WILL"
+      ],
+      "fonte_pagina": "p.70",
+      "fonte_citacao": "Lindsey: Buddy and I are taking a trip. Sign: B-U-D-D-Y (point) ME — TRAVEL — WILL"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Formação de perguntas com 'Q' no final",
+      "descricao": "Perguntas em ASL são marcadas com o sinal 'Q' no final da frase, especialmente quando a estrutura não envolve mudança de expressão facial ou movimento de cabeça. O 'Q' é um marcador de interrogação textual.",
+      "gatilho": "Quando se faz uma pergunta direta que não depende de expressão facial para ser identificada como tal",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Will you see Chip? -> YOU SEE C-H-I-P Q"
+      ],
+      "fonte_pagina": "p.72",
+      "fonte_citacao": "Angie: Will you see Chip? Sign: YOU SEE C-H-I-P Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'TOO' para concordância de sujeito",
+      "descricao": "O sinal 'TOO' é usado para indicar que o sujeito também está incluído na ação ou sentimento expresso, geralmente posicionado após o sujeito ou em estruturas de concordância. É uma forma natural de expressar inclusão em ASL.",
+      "gatilho": "Quando alguém concorda com uma afirmação ou sentimento expresso por outro",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Me, too. -> ME TOO",
+        "Nice to meet you, too. -> NICE MEET TOO"
+      ],
+      "fonte_pagina": "p.65",
+      "fonte_citacao": "Dee: Me, too. Sign: ME TOO"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Expressão 'WOW — SEEMS FUN'",
+      "descricao": "A expressão 'WOW — SEEMS FUN' é usada para expressar entusiasmo ou surpresa positiva em resposta a uma notícia ou plano. É uma convenção fixa em conversas informais para reagir a algo interessante ou agradável.",
+      "gatilho": "Quando alguém compartilha um plano ou experiência que parece atraente ou emocionante",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Wow! Sounds like a fun time. -> WOW — SEEMS FUN"
+      ],
+      "fonte_pagina": "p.71",
+      "fonte_citacao": "Angie: Wow! Sounds like a fun time. Sign: WOW — SEEMS FUN"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'WHERE' para localização em viagens",
+      "descricao": "O sinal 'WHERE' é usado para indicar o destino ou local de uma ação, especialmente em frases sobre viagens ou deslocamentos. É posicionado antes dos nomes de locais para indicar o foco da ação.",
+      "gatilho": "Quando se menciona destinos em uma viagem ou deslocamento",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "We’re going to Texas, California, and Colorado. -> US TRAVEL WHERE — TEXAS CALIFORNIA COLORADO"
+      ],
+      "fonte_pagina": "p.71",
+      "fonte_citacao": "Lindsey: We’re going to Texas, California, and Colorado. Sign: US TRAVEL WHERE — TEXAS CALIFORNIA COLORADO"
+    },
+    {
+      "categoria": "foco",
+      "titulo": "Uso de 'LA' como abreviação para Los Angeles",
+      "descricao": "O sinal 'LA' é usado como abreviação padrão para 'Los Angeles' em contextos de localização, especialmente em conversas sobre viagens ou localizações. É uma convenção fixa e amplamente aceita.",
+      "gatilho": "Quando se menciona Los Angeles em conversas sobre locais",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Chip’s in Los Angeles. -> YES — C-H-I-P LA"
+      ],
+      "fonte_pagina": "p.72",
+      "fonte_citacao": "Lindsey: Yes, Chip’s in Los Angeles. Sign: YES — C-H-I-P LA"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'TRUE' para concordância afirmativa",
+      "descricao": "O sinal 'TRUE' é usado para concordar com uma afirmação anterior, especialmente em respostas curtas. É mais natural que 'YES' em contextos de confirmação direta.",
+      "gatilho": "Quando se confirma uma afirmação feita por outra pessoa",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Yes, and no sales. -> TRUE — DISCOUNTS NONE"
+      ],
+      "fonte_pagina": "p.64",
+      "fonte_citacao": "Buddy: Yes, and no sales. Sign: TRUE — DISCOUNTS NONE"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'BEAUTIFUL' para expressar admiração",
+      "descricao": "O sinal 'BEAUTIFUL' é usado para expressar admiração ou apreciação visual, especialmente em contextos de paisagens ou experiências estéticas. É frequentemente usado com locais ou objetos naturais.",
+      "gatilho": "Quando se expressa surpresa ou apreciação por algo visualmente atraente",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The trees are beautiful in Japan. -> JAPAN — TREES — BEAUTIFUL"
+      ],
+      "fonte_pagina": "p.74",
+      "fonte_citacao": "Dee: The trees are beautiful in Japan. Sign: JAPAN — TREES — BEAUTIFUL"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'HIGH' para intensidade de altura",
+      "descricao": "O sinal 'HIGH' é usado para indicar grandeza ou intensidade em termos de altura, especialmente em descrições de montanhas ou estruturas. É uma forma natural de expressar escala em ASL.",
+      "gatilho": "Quando se descreve a altura de montanhas ou estruturas naturais",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The mountains are so high. -> MOUNTAINS HIGH"
+      ],
+      "fonte_pagina": "p.75",
+      "fonte_citacao": "Ted: The mountains are so high. Sign: MOUNTAINS HIGH"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'MANY' para quantidade",
+      "descricao": "O sinal 'MANY' é usado para indicar grande quantidade, especialmente em frases que descrevem abundância de algo. É mais natural que 'LOTS' em contextos de descrição de quantidade.",
+      "gatilho": "Quando se descreve a abundância de algo, como rios, pessoas ou objetos",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "There are so many rivers. -> RIVERS — MANY"
+      ],
+      "fonte_pagina": "p.75",
+      "fonte_citacao": "Dee: There are so many rivers. Sign: RIVERS — MANY"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de 'POINT' para indicar referência ao interlocutor",
+      "descricao": "O sinal 'POINT' é usado para indicar que o sujeito está se referindo ao interlocutor, especialmente em frases com 'Buddy and I'. O ponto é feito em direção ao interlocutor para marcar a referência.",
+      "gatilho": "Quando se menciona um grupo que inclui o sinalizador e outra pessoa, com foco no interlocutor",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Buddy and I are taking a trip -> B-U-D-D-Y (point) ME — TRAVEL — WILL"
+      ],
+      "fonte_pagina": "p.70",
+      "fonte_citacao": "Lindsey: Buddy and I are taking a trip. Sign: B-U-D-D-Y (point) ME — TRAVEL — WILL"
+    }
+  ]
+}
+
+### p.241-255
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de sinais em frases com sujeito, verbo e objeto",
+      "descricao": "O sujeito geralmente vem antes do verbo, e o objeto vem após o verbo. Em frases com pronomes, o pronome sujeito pode ser omitido se já estiver claro no contexto, mas o verbo ainda segue a ordem padrão.",
+      "gatilho": "Frase com sujeito, verbo e objeto em contexto de trabalho ou lazer",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The business is closed. -> BUSINESS CLOSED",
+        "The soccer game was good. -> SOCCER GAME GOOD",
+        "He can box and wrestle. -> BOX WRESTLE BOTH CAN HIM"
+      ],
+      "fonte_pagina": "p.246",
+      "fonte_citacao": "The business is closed. Sign: BUSINESS CLOSED"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Forma verbal para 'frozen' e 'froze' em contextos de computador",
+      "descricao": "O verbo 'frozen' ou 'froze' é sinalizado com o movimento de 'congelar', usando a mão em forma manual S, como se estivesse quebrando um galho, com movimento de quebra em ambas as mãos.",
+      "gatilho": "Frase com computador travado ou congelado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "My computer is frozen. -> MY COMPUTER FROZE",
+        "The computer froze. -> COMPUTER FROZE"
+      ],
+      "fonte_pagina": "p.243",
+      "fonte_citacao": "Sign froze or frozen like the word freeze (see Chapter 5)."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Forma verbal para 'broke' e 'broken' em equipamentos",
+      "descricao": "O verbo 'broke' ou 'broken' é sinalizado com movimento de quebra, usando a mão em forma manual S, com ambas as mãos se movendo como se estivessem quebrando um objeto.",
+      "gatilho": "Frase com equipamento quebrado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The copy machine is broken. -> COPY MACHINE BROKE",
+        "The machine broke. -> MACHINE BROKE"
+      ],
+      "fonte_pagina": "p.242",
+      "fonte_citacao": "Sign broke or broken like you’re breaking a stick with both hands in the manual S handshape."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de perguntas com 'Q' no final",
+      "descricao": "Perguntas são formadas colocando o sinal 'Q' no final da frase, após o sinal principal, indicando que a frase é interrogativa.",
+      "gatilho": "Frase com intenção de perguntar",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Where is the stapler? -> STAPLER WHERE Q",
+        "Do we have enough paper? -> PAPER ENOUGH HAVE Q",
+        "What's the score? -> SCORE WHAT Q"
+      ],
+      "fonte_pagina": "p.243",
+      "fonte_citacao": "Where is the stapler? Sign: STAPLER — WHERE — Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de perguntas com 'Q' após o sujeito",
+      "descricao": "Em perguntas com sujeito, o sinal 'Q' é colocado após o pronome sujeito, indicando a interrogação.",
+      "gatilho": "Frase interrogativa com sujeito pronome",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Are you going to the conference? -> CONFERENCE GO YOU Q",
+        "Where do you work? -> WORK YOU WHERE Q"
+      ],
+      "fonte_pagina": "p.245",
+      "fonte_citacao": "Are you going to the conference? Sign: CONFERENCE — GO — YOU — Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases condicionais com 'IF' e 'ME' para 'também'",
+      "descricao": "Frase condicional com 'IF' seguida do verbo e sujeito, e 'ME' usado para indicar 'também' ou 'eu também'.",
+      "gatilho": "Frase com condição e expressão de participação mútua",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "If you trade stocks, I will, too. -> IF TRADE YOU ME SAME",
+        "If you play soccer, you can't play basketball. -> IF SOCCER PLAY YOU BASKETBALL PLAY YOU CAN'T"
+      ],
+      "fonte_pagina": "p.245",
+      "fonte_citacao": "If you trade stocks, I will, too. Sign: IF TRADE — YOU — ME — SAME"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Forma verbal para 'win' e 'won' em competições",
+      "descricao": "O verbo 'win' ou 'won' é sinalizado com movimento de 'vencer', usando a mão em forma manual V, batendo na palma da mão passiva e rebatendo para cima.",
+      "gatilho": "Frase com vitória em competição",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Our team won the race. -> OUR TEAM RACE WON",
+        "He won the match. -> HE MATCH WON"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "Win and won are the same sign. Make the manual V handshape with your dominant hand and allow it to hit your passive palm and bounce up again."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Forma verbal para 'lose' e 'lost' em competições",
+      "descricao": "O verbo 'lose' ou 'lost' é sinalizado com movimento de 'perder', usando a mão em forma manual V, batendo na palma da mão passiva e rebatendo para cima, com movimento semelhante ao de 'win'.",
+      "gatilho": "Frase com derrota em competição",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Did we win or lose? -> WIN LOSE US WHICH Q",
+        "They lost the game. -> THEY GAME LOST"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "Lose and lost are the same sign. Make the manual V handshape with your dominant hand and allow it to hit your passive palm and bounce up again."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'both' para indicar múltiplas ações",
+      "descricao": "O sinal 'BOTH' é usado para indicar que duas ações ou habilidades são possíveis ou realizadas simultaneamente.",
+      "gatilho": "Frase com duas ações ou habilidades realizadas por uma pessoa",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "He can box and wrestle. -> BOX WRESTLE BOTH CAN HIM",
+        "She can swim and run. -> SWIM RUN BOTH CAN HER"
+      ],
+      "fonte_pagina": "p.251",
+      "fonte_citacao": "He can box and wrestle. Sign: BOX — WRESTLE — BOTH CAN HIM"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'can't' para negação de possibilidade",
+      "descricao": "A negação de possibilidade é indicada com o sinal 'CAN’T' no final da frase, após o verbo e o sujeito.",
+      "gatilho": "Frase com impossibilidade de realizar duas ações simultaneamente",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "If you play soccer, you can't play basketball. -> IF SOCCER PLAY YOU BASKETBALL PLAY YOU CAN'T",
+        "You can't go and stay. -> GO STAY CAN'T"
+      ],
+      "fonte_pagina": "p.251",
+      "fonte_citacao": "If you play soccer, you can't play basketball. Sign: IF SOCCER PLAY YOU — BASKETBALL PLAY YOU — CAN’T"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'good' como adjetivo final",
+      "descricao": "O adjetivo 'good' é colocado no final da frase, após o substantivo, para descrever o estado ou qualidade do objeto.",
+      "gatilho": "Frase com avaliação positiva de um evento ou objeto",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The soccer game was good. -> SOCCER GAME GOOD",
+        "The meeting was good. -> MEETING GOOD"
+      ],
+      "fonte_pagina": "p.251",
+      "fonte_citacao": "The soccer game was good. Sign: SOCCER GAME — GOOD"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'upstairs' como localização",
+      "descricao": "O sinal 'UPSTAIRS' é usado no final da frase para indicar localização no andar superior.",
+      "gatilho": "Frase com localização de reunião ou evento no andar superior",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The managers meeting is upstairs. -> MANAGERS MEETING UPSTAIRS",
+        "The office is upstairs. -> OFFICE UPSTAIRS"
+      ],
+      "fonte_pagina": "p.245",
+      "fonte_citacao": "The managers meeting is upstairs. Sign: MANAGERS MEETING — UPSTAIRS"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'player' usando o sinal do esporte + 'AGENT'",
+      "descricao": "Para indicar que alguém é jogador de um esporte, o sinal do esporte é seguido pelo sinal 'AGENT' para indicar o agente.",
+      "gatilho": "Frase com pessoa que pratica um esporte",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "He’s a football player. -> FOOTBALL PLAY HIM",
+        "She’s a golfer. -> GOLF AGENT"
+      ],
+      "fonte_pagina": "p.252",
+      "fonte_citacao": "He’s a football player. Sign: FOOTBALL — PLAY HIM"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Glide hands down after sport sign to indicate player",
+      "descricao": "Após sinalizar um esporte, deslize as mãos para baixo ao longo dos lados do corpo para indicar o praticante do esporte (ex: golf → golfer, run → runner).",
+      "gatilho": "Frase com pessoa que pratica um esporte individual",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Mark is a good golfer. -> M-A-R-K GOOD GOLF (AGENT)",
+        "She is a runner. -> RUN (AGENT)"
+      ],
+      "fonte_pagina": "p.254",
+      "fonte_citacao": "Glide your hands down the sides of your body after signing a sport to change from the sport to the player: golf to golfer, run to runner, and so on."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'score' usando contagem",
+      "descricao": "O sinal 'SCORE' é feito como o sinal de 'count', com uma mão representando um time e a outra o outro time.",
+      "gatilho": "Frase sobre pontuação em competição",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "What's the score? -> SCORE WHAT Q",
+        "The score is 3 to 2. -> SCORE 3 2"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "Here’s a helping tip: You sign score just like count. You may see some Deaf people sign one team’s score on one hand and the other team’s score on the other hand."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'tournament' usando movimento de 'bracket'",
+      "descricao": "O sinal 'TOURNAMENT' é feito com as duas mãos em forma manual (índice e médio dobrados), palmas voltadas para o interlocutor, com a mão dominante acima da passiva, alternando para cima e para baixo como um bracket.",
+      "gatilho": "Frase sobre torneio esportivo",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "The tournament is next week. -> TOURNAMENT NEXT WEEK",
+        "We are in the tournament. -> WE IN TOURNAMENT"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "To sign tournament, start with both hands in the same handshape — index and middle fingers bent, palms facing the addressee, with your dominant hand higher than your passive hand. Now, alternate your hands up and down like making a bracket for a round-robin tournament."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Forma verbal para 'match', 'game' e 'challenge' com movimento duplo ou simples",
+      "descricao": "Os sinais para 'match', 'game' e 'challenge' são iguais, mas com movimento duplo quando são substantivos e movimento simples quando são verbos.",
+      "gatilho": "Frase com 'match', 'game' ou 'challenge' como substantivo ou verbo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The match was exciting. -> MATCH EXCITING",
+        "We challenge you. -> CHALLENGE YOU"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "You sign match, game, and challenge the same way, except the nouns game and match get a double motion while the verb challenge gets a single motion."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Forma verbal para 'race', 'compete' e 'sports' com movimento de A",
+      "descricao": "Os sinais para 'race', 'compete' e 'sports' são feitos com a mão em forma manual A, palmas juntas, alternando para frente e para trás.",
+      "gatilho": "Frase com competição ou corrida",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "They are racing. -> RACE",
+        "We compete in sports. -> COMPETE SPORTS"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "You sign compete, sports, and race the same way. Make the manual A handshape with both hands, put your palms together, and then alternate them back and forth."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Forma verbal para 'referee' ou 'umpire' com sinal de apito",
+      "descricao": "O sinal para 'referee' ou 'umpire' é feito colocando os dedos indicador e médio na boca, como se estivesse assoprando um apito, com movimento duplo.",
+      "gatilho": "Frase com árbitro ou juiz em competição",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "The referee is watching. -> REFEREE WATCHING",
+        "The umpire called the play. -> UMPIRE CALL PLAY"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "Signing referee or umpire is as simple as putting your index and middle fingertips on your lips, like blowing a whistle (and don’t forget that double motion)."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'versus' usando o sinal de 'challenge'",
+      "descricao": "O sinal para 'versus' é o mesmo que o sinal para 'challenge', usado para indicar confronto entre dois lados.",
+      "gatilho": "Frase com confronto entre dois times ou pessoas",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The game is team A versus team B. -> TEAM A CHALLENGE TEAM B",
+        "It's me versus you. -> ME CHALLENGE YOU"
+      ],
+      "fonte_pagina": "p.250",
+      "fonte_citacao": "If you want to sign versus, use the same sign as the one for challenge."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'team' como sujeito",
+      "descricao": "O sinal 'TEAM' é usado como sujeito em frases, geralmente seguido por verbo e complemento.",
+      "gatilho": "Frase com equipe como sujeito",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Our team won the race. -> OUR TEAM RACE WON",
+        "The team is strong. -> TEAM STRONG"
+      ],
+      "fonte_pagina": "p.252",
+      "fonte_citacao": "Our team won the race. Sign: OUR TEAM — RACE — WON"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'tied' ou 'even' usando 'TIE/EVEN'",
+      "descricao": "O sinal 'TIE/EVEN' é usado para indicar empate em competição.",
+      "gatilho": "Frase com empate em jogo ou competição",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The game ended in a tie. -> GAME TIE",
+        "It's even. -> EVEN"
+      ],
+      "fonte_pagina": "p.249",
+      "fonte_citacao": "TIE/EVEN"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'closed' para negação de abertura",
+      "descricao": "O sinal 'CLOSED' é usado para indicar que um local ou serviço não está aberto.",
+      "gatilho": "Frase com local fechado",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The business is closed. -> BUSINESS CLOSED",
+        "The office is closed. -> OFFICE CLOSED"
+      ],
+      "fonte_pagina": "p.246",
+      "fonte_citacao": "The business is closed. Sign: BUSINESS CLOSED"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'discuss' para reunião",
+      "descricao": "O sinal 'DISCUSS' é usado para indicar uma reunião ou conversa formal.",
+      "gatilho": "Frase com reunião ou discussão",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "We need to discuss this. -> DISCUSS THIS",
+        "The meeting is about discussion. -> MEETING DISCUSS"
+      ],
+      "fonte_pagina": "p.244",
+      "fonte_citacao": "DISCUSS"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'promotion' para avanço profissional",
+      "descricao": "O sinal 'PROMOTION' é usado para indicar promoção no trabalho.",
+      "gatilho": "Frase com avanço de cargo",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "She got a promotion. -> SHE PROMOTION",
+        "He was promoted. -> HE PROMOTION"
+      ],
+      "fonte_pagina": "p.244",
+      "fonte_citacao": "PROMOTION"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'trading' para negociação de ações",
+      "descricao": "O sinal 'TRADING' é usado para indicar compra e venda de ações.",
+      "gatilho": "Frase com negociação de ações",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "He is trading stocks. -> HE TRADING STOCKS",
+        "Trading is risky. -> TRADING RISKY"
+      ],
+      "fonte_pagina": "p.244",
+      "fonte_citacao": "TRADING (stocks)"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'work' como verbo ou substantivo",
+      "descricao": "O sinal 'WORK' é usado tanto como verbo quanto como substantivo, dependendo do contexto.",
+      "gatilho": "Frase com trabalho como atividade ou ocupação",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I work every day. -> WORK EVERY DAY",
+        "Work is important. -> WORK IMPORTANT"
+      ],
+      "fonte_pagina": "p.244",
+      "fonte_citacao": "WORK"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'closed down' para tela de computador",
+      "descricao": "O sinal 'CLOSED DOWN' é usado para indicar que a tela do computador está fechada.",
+      "gatilho": "Frase com tela de computador fechada",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The computer is closed down. -> COMPUTER CLOSED DOWN",
+        "The screen is closed down. -> SCREEN CLOSED DOWN"
+      ],
+      "fonte_pagina": "p.244",
+      "fonte_citacao": "CLOSED DOWN (as in computer screen)"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Construção de frases com 'business' como local ou atividade",
+      "descricao": "O sinal 'BUSINESS' é usado para indicar um local de trabalho ou atividade comercial.",
+      "gatilho": "Frase com empresa ou negócio",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The business is open. -> BUSINESS OPEN",
+        "I work in business. -> WORK BUSINESS"
+      ],
+      "fonte_pagina": "p.244",
+      "fonte_citacao": "BUSINESS"
+    }
+  ]
+}
+
+### p.271-285
+{
+  "rules": [
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de elementos em frases com tempo futuro",
+      "descricao": "Em frases com tempo futuro, o sinal de tempo (como TOMORROW) é posicionado antes do verbo principal, seguido pelo sujeito e pelo verbo. O sujeito é indicado por um pronome de pessoa (ME, YOU, HIM, HER) ou por um sinal de referência no espaço.",
+      "gatilho": "Frase com tempo futuro expresso por palavras como 'tomorrow', 'next week', ou 'will' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I’ll go swimming tomorrow. -> TOMORROW — SWIM ME",
+        "I’ll stay home and read. -> NO — HOME STAY — READ"
+      ],
+      "fonte_pagina": "p.271",
+      "fonte_citacao": "TOMORROW — SWIM ME"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Forma de perguntas com 'if' e 'how'",
+      "descricao": "Perguntas iniciadas com 'if' ou 'how' são sinalizadas com o sinal Q no final da frase, e o sinal 'IF' ou 'HOW' é colocado no início. O sinal Q é usado para indicar que a frase é uma pergunta, mesmo que não haja mudança de expressão facial.",
+      "gatilho": "Frase com início em 'if' ou 'how' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "If it rains, are you going swimming? -> IF RAIN — YOU SWIMMING Q",
+        "How do I get blood drawn? -> ME — BLOOD DRAWN — HOW Q"
+      ],
+      "fonte_pagina": "p.271",
+      "fonte_citacao": "IF RAIN — YOU SWIMMING Q"
+    },
+    {
+      "categoria": "pronomes",
+      "titulo": "Uso de pronomes pessoais como sujeito",
+      "descricao": "O pronome pessoal (ME, YOU, HIM, HER, US) é usado como sujeito da frase e é sinalizado antes do verbo. O sinal 'ME' e 'YOU' são feitos com o dedo indicador apontando para o próprio corpo ou para o interlocutor.",
+      "gatilho": "Frase com sujeito pessoal em inglês (I, you, he, she, we)",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I’ll stay home and read. -> NO — HOME STAY — READ",
+        "He needs an injection. -> INJECTION — NEED — HIM"
+      ],
+      "fonte_pagina": "p.279",
+      "fonte_citacao": "INJECTION — NEED — HIM"
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Uso de 'need' com sujeito e objeto",
+      "descricao": "O verbo 'need' é sinalizado com o sujeito antes do verbo, seguido do objeto. O sinal 'NEED' é feito com a mão dominante em forma de C, movendo-se para frente com leve pressão.",
+      "gatilho": "Frase com 'need' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Do you need a nurse? -> NURSE — NEED Q",
+        "You need to see a chiropractor. -> CHIROPRACTOR — NEED YOU"
+      ],
+      "fonte_pagina": "p.275",
+      "fonte_citacao": "NURSE — NEED Q"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem de objetos e ações em frases de ação",
+      "descricao": "Em frases com ações, o objeto é sinalizado antes do verbo, seguido do sujeito. O verbo é sinalizado com movimento direto e claro, sem necessidade de sinal de sujeito explícito se já estiver no contexto.",
+      "gatilho": "Frase com ação e objeto em inglês (ex: 'sit in the wheelchair')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Sit in the wheelchair. -> WHEELCHAIR — SIT"
+      ],
+      "fonte_pagina": "p.283",
+      "fonte_citacao": "WHEELCHAIR — SIT"
+    },
+    {
+      "categoria": "negacao",
+      "titulo": "Uso de 'no' para negação",
+      "descricao": "A negação é sinalizada com o sinal 'NO', que é feito com a mão dominante em forma de C, movendo-se para baixo e para frente, geralmente com expressão facial de negação. O sinal 'NO' é colocado no início da frase.",
+      "gatilho": "Frase com negação em inglês (ex: 'no, I'll stay home')",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "No, I’ll stay home and read. -> NO — HOME STAY — READ"
+      ],
+      "fonte_pagina": "p.272",
+      "fonte_citacao": "NO — HOME STAY — READ"
+    },
+    {
+      "categoria": "tempo-aspecto",
+      "titulo": "Uso de 'here' para indicar presença",
+      "descricao": "O sinal 'HERE' é usado para indicar que alguém ou algo está presente no momento. É sinalizado com o dedo indicador apontando para o local onde a pessoa está, e é comum em frases como 'The doctor is in'.",
+      "gatilho": "Frase com 'is in' ou 'is here' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "The doctor is in. -> DOCTOR HERE"
+      ],
+      "fonte_pagina": "p.275",
+      "fonte_citacao": "DOCTOR HERE"
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Sinal 'K-O' para 'knocked out'",
+      "descricao": "O sinal 'K-O' é usado para indicar que alguém está inconsciente ou desmaiado. É feito com a mão dominante em forma de K, começando no nível dos olhos, movendo-se para o lado da boca, com os olhos fechados e a cabeça inclinada.",
+      "gatilho": "Situação em que alguém está desmaiado ou inconsciente",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "He is knocked out. -> K-O"
+      ],
+      "fonte_pagina": "p.277",
+      "fonte_citacao": "You sign knocked out as K-O. With your dominant hand, start the K handshape at eye level, with the O handshape ending at the side of your mouth. Complete the sign with your eyes closed while bending your head to the side or in front."
+    },
+    {
+      "categoria": "expressoes-idiomaticas",
+      "titulo": "Sinal 'FEEL' com dedo indicador subindo",
+      "descricao": "O sinal 'FEEL' é feito movendo o dedo médio do estômago para o peito e para fora, indicando a sensação física. Se o polegar for levantado após o sinal, significa 'feel good'.",
+      "gatilho": "Expressão de sensação física ou bem-estar",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "I feel good. -> FEEL (com polegar para cima)"
+      ],
+      "fonte_pagina": "p.277",
+      "fonte_citacao": "Sign feel by running your middle finger up your stomach, your chest, and outward. If you put your thumb up after signing feel, it means feel good."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Uso de classificadores para 'cast' em membros",
+      "descricao": "O sinal 'cast' é feito com a mão dominante em forma de C, deslizando duas vezes sobre o membro afetado. Se o cast estiver no braço, o sinal é feito no braço passivo; se no pé, aponta-se para a área. Para corpo inteiro, é fingerspellado como B-O-D-Y-C-A-S-T.",
+      "gatilho": "Frase com 'cast' em inglês, especialmente em contexto médico",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "She has a cast. -> CAST (com movimento no braço ou perna)"
+      ],
+      "fonte_pagina": "p.283",
+      "fonte_citacao": "You sign cast by making the manual C handshape and placing it on your passive arm in a double sliding motion. If the cast is on a leg, point to the area. If it’s a body cast, fingerspell B-O-D-Y-C-A-S-T, or else you’ll be pointing all day."
+    },
+    {
+      "categoria": "classificadores",
+      "titulo": "Uso de classificadores para 'prescription'",
+      "descricao": "O sinal 'prescription' é feito com os dedos R-X fingerspellados, seguidos por um movimento de quadrado com os dois indicadores, começando no topo e se encontrando na base, simbolizando 'slip'.",
+      "gatilho": "Frase com 'prescription' em inglês",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "She has a prescription. -> R-X (fingerspell) + quadrado com dois indicadores"
+      ],
+      "fonte_pagina": "p.283",
+      "fonte_citacao": "You sign prescription with the manual letters R-X and then a square with both index fingers starting at the top and meeting at the bottom — it means “slip.”"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'your' como possessivo em ASL",
+      "descricao": "O sinal 'YOUR' é usado para indicar posse e é sinalizado com o dedo indicador apontando para o interlocutor. É colocado antes do substantivo que é possuído.",
+      "gatilho": "Frase com 'your' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "I need to check your blood pressure. -> YOUR — BLOOD PRESSURE — CHECK — ME — MUST"
+      ],
+      "fonte_pagina": "p.279",
+      "fonte_citacao": "YOUR — BLOOD PRESSURE — CHECK — ME — MUST"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'has' com sujeito e objeto",
+      "descricao": "O verbo 'has' é sinalizado com o sujeito antes do verbo, seguido do objeto. O sinal 'HAS' é feito com a mão dominante em forma de C, movendo-se para frente com leve pressão.",
+      "gatilho": "Frase com 'has' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "She has an infection. -> INFECTION — HAS — HER"
+      ],
+      "fonte_pagina": "p.283",
+      "fonte_citacao": "INFECTION — HAS — HER"
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Uso de 'have' com sujeito e objeto",
+      "descricao": "O verbo 'have' é sinalizado com o sujeito antes do verbo, seguido do objeto. O sinal 'HAVE' é feito com a mão dominante em forma de C, movendo-se para frente com leve pressão.",
+      "gatilho": "Frase com 'have' em inglês",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "You have a sprain. -> SPRAIN — HAVE — YOU"
+      ],
+      "fonte_pagina": "p.284",
+      "fonte_citacao": "SPRAIN — HAVE — YOU"
+    }
+  ]
+}

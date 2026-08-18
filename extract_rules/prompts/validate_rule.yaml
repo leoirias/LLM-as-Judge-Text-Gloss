@@ -1,0 +1,50 @@
+# Validation prompt: one rule + the full gold pair list -> which pairs
+# trigger the rule and whether the gold gloss complies. One call per rule
+# (not per pair) so the model sees all pairs at once and can be consistent.
+
+objective: |
+  You are checking whether a candidate ASL grammar rule (extracted from a
+  reference book) is actually followed by a small human-reviewed set of
+  English-to-ASL-gloss example pairs from a medical/clinical ASL glossing
+  convention. You are NOT judging whether the rule is linguistically true in
+  general — only whether THESE gold pairs are consistent with it.
+
+rule_block: |
+  Rule under test:
+    feature:     {{feature}}
+    trigger:     {{trigger}}
+    constraint:  {{constraint}}
+    exception:   {{exception}}
+    source:      "{{source_quote}}" (page {{source_page}})
+
+instructions: |
+  For each pair below, first decide whether the ENGLISH SENTENCE satisfies
+  the rule's trigger condition. If it does NOT, skip it — do not include it
+  in the output. If it DOES, decide whether the GOLD GLOSS is consistent
+  with what the rule's constraint predicts (taking the stated exception into
+  account). Be conservative: only mark a pair as triggered if the trigger
+  clearly applies; when in doubt, leave the pair out rather than guessing.
+
+output_rules: |
+  Return ONLY a JSON object: {"matches": [match, match, ...]}. Each match
+  has:
+    pair_index - the integer index of the pair (as given below)
+    complies   - true if the gold gloss follows the rule's constraint,
+                 false if it contradicts it
+    note       - one short sentence explaining the verdict
+  If no pairs trigger the rule, return {"matches": []}. No commentary, no
+  markdown fences, no text after the closing brace.
+
+template: |
+  @{objective}
+
+  @{rule_block}
+
+  @{instructions}
+
+  @{output_rules}
+
+  Gold pairs (index: English sentence -> ASL gloss):
+  {{gold_pairs_block}}
+
+  JSON:
