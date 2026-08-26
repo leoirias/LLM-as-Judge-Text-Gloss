@@ -1,0 +1,134 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.1.2 Nomes Nus ===
+=== TRECHO: páginas 24-29 (2 tópicos consecutivos) ===
+
+[p.24]
+25
+Em LS, Abner (2019) aponta para a possibilidade que não somente verbos 
+de ação possam ter uma contraparte nominal do tipo concreta (Ex.: AVIÃO/VOAR-
+-DE-AVIÃO; TELEFONE/TELEFONAR; COMIDA/COMER), mas verbos de não 
+ação também podem derivar nomes abstratos, como (Ex.: SONHAR/TEORIA; 
+VER/VISÃO; OPINAR/OPINIÃO).
+Vale ressaltar que essa preocupação em se distinguir morfologicamente no-
+mes e verbos não se aplica a todos os casos de nomes na Libras, pois há vários nomes 
+comuns que não possuem uma contraparte verbal como no exemplo (6) abaixo: 
+(6) SANDÁLIA, PAPEL, CANETA, MADEIRA, CAMA, CINTO...
+Portanto, independentemente de haver uma grande parcela de nomes que são 
+morfologicamente idênticos às suas contrapartes verbais, há alguns sinais em Libras 
+que são unicamente como nomes, sem uma função, neste estágio da análise verbal. 
+Toda essa exposição serve para dirimir a possibilidade de que as LSs sejam 
+línguas sem nomes ou sem sintagmas nominais. Como vimos nos exemplos acima, 
+pelo menos dois fatores entram em jogo para marcar a diferença entre nomes e 
+verbos na LS: a morfologia e a sintaxe. Por isso, as LSs podem usar uma ou outra 
+estratégia para estabelecer essa distinção, ou as duas concomitantemente, o que 
+tornaria a distinção entre os nomes e verbos mais explícita.
+7.1.2 Nomes Nus
+Almeida-Silva (2019) demonstrou que em Libras, nomes nus podem ocorrer 
+em posições argumentais, no entanto a sua interpretação, definida ou indefinida, 
+não é livre, como em outras línguas que não possuem artigos. 
+No exemplo abaixo em (7), na primeira ocorrência de MULHER, o nome 
+nu3 é interpretado como um sintagma indefinido ‘uma mulher’, pois se trata clara-
+mente de um contexto de primeira menção e apresentação do referente. Já em sua 
+retomada anafórica, logo à frente na sentença, o nome MULHER é interpretado 
+obrigatoriamente como um sintagma definido ‘a mulher’. Almeida-Silva (2019) pro-
+põe, então, que para um nome nu ser interpretado como um sintagma definido em 
+Libras, ele deve estar acompanhado do role-shift, que é uma estratégia de demons-
+tração da ação do referente na sentença ou de uma apontação pré-nominal com 
+o indicador, como em (8). A ausência do role-shift ou da apontação em contextos 
+anafóricos com interpretação definida para o nome nu não é aceitável em Libras, 
+como vemos nas glosas em (7) e (8) abaixo. Os julgamentos de gramaticalidade das 
+sentenças abaixo são oriundos da pesquisa realizada por este autor com 40 surdos 
+de dois perfis, com baixo e alto uso da Língua Portuguesa. 
+3 Aqui não haverá espaço para discutir se o numeral 1 que segue o nome MULHER no exem-
+plo se trata de um numeral, um artigo indefinido, uma relativização do tipo ‘uma mulher que 
+era uma só’ ou a antecipação da configuração de mão do classificador para PESSOA-ANDAR. 
+Por isso, estamos tratando este caso como uma ocorrência de nome nu em Libras.
+
+[p.25]
+26
+      Exemplo (7)
+Exemplo (8)
+    (8)
+Fonte: Almeida-Silva (2019, p. 271)
+No exemplo abaixo em (9), o emprego do nome nu SURDO licencia a leitura 
+indefinida ou definida fraca (genérica), mas não a leitura definida forte (anafóri -
+ca) ou específica, em que existisse algum surdo específico ou único sobre o qual o 
+sinalizador estivesse se referindo no momento da fala. Por isso, a tradução para 
+a Língua Portuguesa deve ser tomada como base com cautela para não enviesar a 
+análise linguística do nome nu em Libras. 
+Exemplo (9) 
+       POR-QUE          [SURDO]       DESCONFIAR              VER                       ORALIZAR
+          POR-QUE                             VOCÊ                             FALAR                                 ENTÃO
+
+[p.26]
+27
+                  ELE                              FALAR                     NÃO FICAR                       CALAR
+POR-QUE [SURDO] DESCONFIAR VER 
+ORALIZAR POR-QUE VOCÊ FALAR ENTÃO 
+ELE FALAR NÃO FICAR-CALAR
+‘Um/o surdo (genérico) fica desconfiado quando 
+tem duas pessoas ouvintes conversando pois ele 
+não sabe o que estão falando’. 
+7.1.3 Nomes acompanhados de determinantes (artigos)
+Além da ocorrência de nomes nus, há ainda os casos em que os nomes em 
+Libras ocorrem acompanhados de determinantes (artigos). Almeida-Silva (2019) 
+analisou de forma detalhada o emprego de apontações, numerais e marcas não 
+manuais junto aos nomes na Libras comparando surdos usuários de Libras com 
+baixo e alto uso da Língua Portuguesa, e propôs, apresentado aqui de forma su -
+mária, que em Libras há pelo menos três itens que podem ser considerados como 
+artigos, quando acompanham os nomes em posição argumental de verbos, são eles:
+1. O artigo definido – apontação (IX) pré-nominal nas formas singular 
+e plural 
+2. O artigo indefinido – numeral 14
+3. O artigo indefinido não específico – marca não manual conhecida 
+como boca-de-ferradura
+ 
+4 Encontrado somente na produção de surdos bilíngues com alto contato com a Língua 
+Portuguesa, mas compreendido como artigo indefinido pelos surdos com baixo contato 
+com a Língua Portuguesa. 
+https://youtu.be/_lKrrCKRB_Y
+
+[p.27]
+28
+ 
+Fonte: Almeida-Silva (2019, p.269, adaptado).
+A Libras possuiria então, um artigo definido e dois artigos indefinidos já 
+gramaticalizados. A prova de que esses elementos são artigos de fato é que nos 
+exemplos abaixo, quando eles ocorrem juntos aos nomes em qualquer posição 
+argumental. Eles obrigam a leitura definida, indefinida e indefinida não específica 
+aos nomes que eles acompanham. 
+O artigo definido – apontação (IX) pré-nominal nas formas singular e plural.
+  (10) Posição de Sujeito
+(11)
+                   [IX.pl                                                       ALUNO                                 OUVINTE]
+
+[p.28]
+29
+FALAR-ORAL
+                   EU                               SURDO                      DV(ficar-olhar)              ENTÃO(nada) 
+                                                        
+  APOIAR                                            IGNORAR   
+[IX.pl ALUNO OUVINTE] FALAR-ORAL  
+EU SURDO DV (ficar-olhar) ENTÃO (nada) 
+APOIAR IGNORAR   
+”Para os/*uns alunos ouvintes é mais fácil 
+aprender, já o surdo espera receber  
+alguma ajuda”.
+https://youtu.be/_mJvTJupuCc
+
+[p.29]
+30
+  (12)  Posição de Objeto
+                          Fonte: Almeida-Silva (2019, p.284-285).
+      2. O artigo indefinido – numeral 1.
+(13) Posição de Sujeito
+    (14)  Posição de Objeto
+(15)
+                  PRIMO                          TER                     [1                  PRIMO]                    SURDO
+    TAMBÉM                                            LÍNGUA-DE-SINAIS
+PRIMO TER [1 PRIMO] SURDO TAMBEM 
+LÍNGUA- DE-SINAIS
+”Eu tenho um primo surdo e sinalizávamos 
+normalmente.”
+Fonte: Corpus da Libras – UFSC.
+https://youtu.be/7JfkQnysxkM

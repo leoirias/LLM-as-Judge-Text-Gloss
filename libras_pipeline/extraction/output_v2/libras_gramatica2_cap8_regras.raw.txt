@@ -1,0 +1,868 @@
+### p.96-100
+{
+  "rules": []
+}
+
+### p.101-103
+{
+  "rules": [
+    {
+      "titulo": "Justaposição assindética de orações coordenadas",
+      "descricao": "A glosa deve apresentar as orações coordenadas justapostas, sem a inclusão de etiquetas de conjunções (como E, OU, MAS) entre elas, a menos que haja um marcador manual explícito na língua. A relação de coordenação é estabelecida pela justaposição e pelo contexto, não por itens lexicais coordenadores.",
+      "gatilho": "A frase em português contém orações coordenadas (conjuntivas, disjuntivas ou adversativas) conectadas por conjunções como 'e', 'ou', 'mas'.",
+      "verificavel_por_texto": true,
+      "exemplos": [],
+      "fonte_pagina": "103",
+      "fonte_citacao": "Nas Línguas de Sinais, sobretudo a ausência de um item lexical coordenador parece frequente, sendo as orações justapostas umas às outras, e o contexto e a relação semântica entre as orações responsáveis pelo estabelecimento do processo de coordenação.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.104-106
+{
+  "rules": []
+}
+
+### p.107-107
+{
+  "rules": []
+}
+
+### p.108-110
+{
+  "rules": [
+    {
+      "titulo": "Ordem fixa em parataxe",
+      "descricao": "A ordem das orações na glosa não pode ser alterada aleatoriamente, pois a interdependência semântica exige uma disposição específica para que o enunciado seja inteligível e gramatical.",
+      "gatilho": "A frase em português contém orações paratáticas (coordenadas ou justapostas) cuja relação semântica impõe uma ordem específica.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu não percebia que eles eram surdos ou eram ouvintes, não. -> IX (eu) NÃO 3PERCEBER1 IX (este) SURDO IX (aquele) OUVINTE NÃO"
+      ],
+      "fonte_pagina": "110",
+      "fonte_citacao": "não se pode alterar a ordem em que estão dispostas, sob o risco de tornar o período ininteligível ou mesmo agramatical",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.111-114
+{
+  "rules": [
+    {
+      "titulo": "Conectivos manuais para parataxe conjuntiva",
+      "descricao": "A glosa deve conter os sinais TAMBÉM, DEPOIS ou É (com função de 'por isso') para marcar a parataxe conjuntiva.",
+      "gatilho": "A frase em português expressa uma relação conjuntiva (adição, sequência ou consequência) entre orações coordenadas.",
+      "verificavel_por_texto": true,
+      "exemplos": [],
+      "fonte_pagina": "111",
+      "fonte_citacao": "As conjuntivas manuais envolvem marcações manuais com conectores que marcam a parataxe: TAMBÉM, DEPOIS, É (com função de por isso).",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Conectivo OU para parataxe disjuntiva",
+      "descricao": "A glosa deve conter o sinal OU para marcar a parataxe disjuntiva.",
+      "gatilho": "A frase em português expressa uma relação disjuntiva (alternância) entre orações coordenadas.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu não percebia, que eles eram surdos ou eram ouvintes, não. -> IX (eu) NÃO 3PERCEBER1 IX (este) SURDO IX (aquele) OUVINTE NÃO"
+      ],
+      "fonte_pagina": "111",
+      "fonte_citacao": "As marcações manuais indicando pausas, oposições estabelecidas por sinais são expressas por ‘OU’, dedos indicadores para cima em alternância e apontação.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Conectivos para parataxe adversativa",
+      "descricao": "A glosa deve conter um dos conectivos MAS1, MAS2, PALM-UP ou MAS-NÃO-É para marcar a parataxe adversativa.",
+      "gatilho": "A frase em português expressa uma relação adversativa (contraste/oposição) entre orações coordenadas.",
+      "verificavel_por_texto": true,
+      "exemplos": [],
+      "fonte_pagina": "111",
+      "fonte_citacao": "Nós usaremos a referência a quatro conectivos MAS1, MAS2, PALM-UP, MAS-NÃO-É, como será mostrado adiante.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Omissão de conectivos em parataxe",
+      "descricao": "A glosa pode não conter nenhum conectivo explícito (como TAMBÉM, OU, MAS), pois a coordenação pode ser expressa assindeticamente.",
+      "gatilho": "A frase em português contém orações coordenadas (paratáticas).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu não percebia, que eles eram surdos ou eram ouvintes, não. -> IX (eu) NÃO 3PERCEBER1 IX (este) SURDO IX (aquele) OUVINTE NÃO"
+      ],
+      "fonte_pagina": "112",
+      "fonte_citacao": "Em Línguas de Sinais, predominantemente, as orações paratáticas/coordenadas se articulam sem a presença de um conectivo.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.115-115
+{
+  "rules": [
+    {
+      "titulo": "Obrigatoriedade de marcadores não manuais em parataxe com marcador manual",
+      "descricao": "A glosa deve ser considerada incompleta ou incorreta se apresentar um marcador manual de parataxe (como MAS, TAMBÉM, PALM-UP, BOIA, É) sem a presença concomitante de marcadores não manuais (expressões faciais, movimentos de torso/cabeça, etc.).",
+      "gatilho": "A glosa contém um marcador manual de parataxe (MAS, TAMBÉM, PALM-UP, BOIA, É).",
+      "verificavel_por_texto": false,
+      "exemplos": [],
+      "fonte_pagina": "115",
+      "fonte_citacao": "Quadros, Silva e Nogueira (2022) verificaram que todas as ocorrências de parataxe com marcador manual estavam associadas com marcadores não manuais.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.116-116
+{
+  "rules": []
+}
+
+### p.117-122
+{
+  "rules": [
+    {
+      "titulo": "Uso de TAMBÉM para inclusão ou equivalência",
+      "descricao": "A glosa deve conter o sinal TAMBÉM quando a frase em português expressa inclusão ('também', 'além disso') ou equivalência/similitude ('da mesma forma', 'assim como') entre orações ou elementos coordenados.",
+      "gatilho": "A frase em português contém marcadores de inclusão ou equivalência (ex: 'também', 'assim como', 'da mesma forma') ligando duas orações ou fatos.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Também na outra família do meu pai... eu também era vista como normal -> TAMBÉM ... TAMBÉM"
+      ],
+      "fonte_pagina": "117",
+      "fonte_citacao": "Do ponto de vista semântico, o sinal ‘TAMBÉM’ indica inclusão que poderia ser traduzido para o Inglês como ‘moreover’ and ‘also’. Mas também pode indicar equivalência ou similitude",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Boia numérica para enumeração",
+      "descricao": "A glosa deve conter a etiqueta BOIA-<número> (ex: BOIA-2, BOIA-1) para marcar a enumeração de itens, ideias ou orações coordenadas, indicando a ordem (primeiro, segundo, etc.).",
+      "gatilho": "A frase em português apresenta uma lista ou enumeração de eventos, itens ou orações coordenadas (ex: 'primeiro... depois...', 'um... outro...').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "o primeiro contato foi na infância... e o segundo contato foi na adolescência -> PRIMEIRO [dedo médio. BOIA-2] ... CONTATO [dedo indicador BOIA-1]"
+      ],
+      "fonte_pagina": "121",
+      "fonte_citacao": "A boia é um mecanismo gramatical utilizado na Libras... a boia é o uso da segunda mão para ser usada em listas para enumerar coisas, ideias, orações coordenadas, quando indica os dedos em uma ordem",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.123-127
+{
+  "rules": [
+    {
+      "titulo": "Boia-IX como marcador de parataxe conjuntiva",
+      "descricao": "A glosa deve conter a etiqueta 'Boia-IX' (ou 'IX' com anotação de boia) para indicar a relação de parataxe conjuntiva entre orações, quando a apontação é mantida no espaço para referir a um elemento enquanto outro é sinalizado.",
+      "gatilho": "A frase em português expressa uma relação de parataxe conjuntiva (coordenação de orações paralelas) e a descrição indica o uso de apontação como boia.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu desviei [do curso de teatro] [para o curso de letras libras], daí frequentei um e outro curso simultaneamente. -> IX (eu) Boia-IX (teatro-esquerda) esquerda DESVIAR direita DOIS ALTERNAR"
+      ],
+      "fonte_pagina": "124",
+      "fonte_citacao": "Quando a apontação é usada como boia, ela pode ser um mecanismo gramatical de marcação paratática.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Sinal É como marcador de parataxe conjuntiva",
+      "descricao": "A glosa deve conter o sinal 'É' para marcar a composição conjuntiva entre orações correlatas, indicando ênfase afirmativa e correlação entre as partes da unidade oracional complexa.",
+      "gatilho": "A frase em português apresenta orações coordenadas com ênfase afirmativa ou correlação entre predicados, e a descrição identifica o uso do sinal 'É' como indicador conjuntivo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "É idioma, é verdadeira para todos nós, é a língua usada por nós, é isso. -> É FS (idioma) É VERDADE IX (nós-todos) É USAR LÍNGUA-DE-SINAIS IX (mão) E(então)"
+      ],
+      "fonte_pagina": "126",
+      "fonte_citacao": "Outro elemento que indica parataxe conjuntiva é o sinal ‘É’. Esse indicador conjuntivo parece representar o verbo de ligação “ser” na oração...",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "PALM-UP como marcador de parataxe conjuntiva",
+      "descricao": "A glosa deve conter o sinal 'PALM-UP' para indicar a marcação conjuntiva entre orações coordenadas, quando o gesto é usado para coordenar orações anteriores com uma subsequente.",
+      "gatilho": "A frase em português expressa uma relação conjuntiva entre orações e a descrição identifica o uso do gesto 'PALM-UP' como marcador.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Na verdade, eu olho para mim mesmo, eu sinalizando, é simplesmente natural. -> VERDADE IX (eu) 1VER1 IX (eu) SINALIZAR PALM-UP NATURAL"
+      ],
+      "fonte_pagina": "127",
+      "fonte_citacao": "Outro marcador é ‘PALM-UP’, um sinal gestual produzido de forma bastante produtiva com diferentes significados. Em algumas ocorrências, ‘PALM-UP’ pode indicar a marcação conjuntiva",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.134-140
+{
+  "rules": [
+    {
+      "titulo": "Opcionalidade da conjunção manual em orações adversativas",
+      "descricao": "A conjunção manual adversativa (como MAS1, MAS2, MAS3 ou PALM-UP) não é obrigatória na glosa; a relação adversativa pode ser expressa apenas pela justaposição das orações.",
+      "gatilho": "A frase em português expressa uma relação adversativa (contraste, oposição, retificação).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quando o professor é surdo consegue se comunicar melhor... mas quando o professor é ouvinte é inclusão. -> PROFESSOR BOM COMUNICAR PODER EXPLICAR SURDO DV(ASSISTIR) CLARO PARECER IDENTIDADE IGUAL IX (ele) PROFESSOR OUVIR INTÉRPRETE INCLUSÃO"
+      ],
+      "fonte_pagina": "134",
+      "fonte_citacao": "a presença da conjunção manual não é obrigatória.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Uso de marcadores manuais específicos para adversatividade",
+      "descricao": "A glosa deve utilizar um dos marcadores manuais adversativos reconhecidos (MAS1, MAS2, MAS3 ou PALM-UP) para indicar a relação de oposição, quando a conjunção é realizada.",
+      "gatilho": "A frase em português contém uma conjunção adversativa (ex: 'mas') e a glosa opta por realizar o marcador manual.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu prefiro (interagir) com surdo, mas eu sou casada com um ouvinte que sinaliza. -> IX (eu) PREFERIR SURDO LÍNGUA-DE-SINAIS MAS1 IX (eu) DESCULPAR HOMEM CASAR OUVINTE IX (orelha) E(positivo) SABER LÍNGUA-DE-SINAIS"
+      ],
+      "fonte_pagina": "138",
+      "fonte_citacao": "o sinal que a autora identificou as conjunções adversativas ‘MAS1’, ‘MAS2’ e ‘MAS3’, essa terceira que estamos referindo como ‘PALM-UP’.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.141-147
+{
+  "rules": [
+    {
+      "titulo": "Marcador adversativo MAS1",
+      "descricao": "A glosa deve conter o sinal MAS1 para marcar a fronteira entre duas orações com relação adversativa (oposição ou contraste).",
+      "gatilho": "A frase em português expressa uma relação adversativa (ex: 'mas', 'porém') entre duas orações, e o contexto indica o uso do marcador manual MAS1.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu sofri muito, mas isso me tornou poderosa e forte. -> IX (eu) SOFRER JÁ PROCESSO MAS1 IX (eu) ADQUIRIR FORTE IX (eu) FORÇA"
+      ],
+      "fonte_pagina": "144",
+      "fonte_citacao": "a oposição é que em contrapartida ao sofrimento, ela se tornou poderosa e forte, introduzida pelo sinal MAS1: MAS1 IX (eu) ADQUIRIR FORTE IX (eu) FORÇA.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Marcador adversativo MAS2",
+      "descricao": "A glosa deve conter o sinal MAS2 para marcar a fronteira entre duas orações com relação adversativa (oposição ou restrição).",
+      "gatilho": "A frase em português expressa uma relação adversativa (ex: 'mas', 'porém') entre duas orações, e o contexto indica o uso do marcador manual MAS2.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Fui interagindo e crescendo, mas eu não estudei apenas aqui não. -> INTERAGIR CRESCER MAS2 IX (aquele) IX (eu) ESTUDAR FIEL IX (aquele) NÃO"
+      ],
+      "fonte_pagina": "145",
+      "fonte_citacao": "A restrição informa que não estudou apenas nesta escola: MAS2 AQUI IX (eu) ESTUDAR FIEL AQUI NÃO. É uma marca manual adversativa",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Marcador adversativo PALM-UP",
+      "descricao": "A glosa deve conter o sinal PALM-UP para marcar a fronteira entre duas orações com relação adversativa (oposição).",
+      "gatilho": "A frase em português expressa uma relação adversativa (ex: 'mas', 'porém') entre duas orações, e o contexto indica o uso do marcador gestual PALM-UP.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "E aí esse problema, mas a mãe não teve culpa não. -> E (então) PROBLEMA PALM-UP IX (essa) MÃE PENSAR CULPAR IX (mãe) NÃO"
+      ],
+      "fonte_pagina": "146",
+      "fonte_citacao": "o sinal ‘PALM-UP’, uma produção gestual com significados dependente do discurso, apresenta a função adversativa anunciando que a mãe não tinha culpa",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Marcador adversativo com negação incorporada MAS-NÃO-É",
+      "descricao": "A glosa deve conter o sinal MAS-NÃO-É para marcar a fronteira entre duas orações com relação adversativa que incorpora a negação.",
+      "gatilho": "A frase em português expressa uma relação adversativa com negação (ex: 'mas não é', 'porém não') entre duas orações.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Sim, eu tenho interações na Língua de Sinais, mas por exemplo não é uma Língua de Sinais que segue obrigatoriamente um registro formal. -> IX (eu) TER INTERAGIR MAS-NÃO-É EXEMPLO NÃO TAMBÉM OBRIGAR PARECER CERTO FORMAL"
+      ],
+      "fonte_pagina": "147",
+      "fonte_citacao": "introduz um contraponto por meio do sinal MAS-NÃO-É que é o sinal MAS2 incorporando a negação com o movimento intermitente",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.151-154
+{
+  "rules": [
+    {
+      "titulo": "Uso do sinal OU para disjunção",
+      "descricao": "A glosa deve conter o sinal OU para representar a conjunção disjuntiva 'ou' quando a frase em português apresenta uma escolha entre duas opções.",
+      "gatilho": "A frase em português contém a conjunção 'ou' indicando disjunção entre duas orações ou termos.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Era APAE ou escola ouvinte. -> É APAE DEM (aquele) OU ESCOLA"
+      ],
+      "fonte_pagina": "152",
+      "fonte_citacao": "A parataxe disjuntiva manual apresenta apenas um sinal manual no corpus analisado. O sinal OU foi formado a partir da soletração da palavra em Língua Portuguesa ‘ou’",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Disjunção sem marcador manual",
+      "descricao": "A glosa pode não conter o sinal OU (ou outro marcador manual de disjunção) quando a disjunção é expressa apenas por marcações não manuais (movimento do torso/cabeça).",
+      "gatilho": "A frase em português apresenta uma estrutura disjuntiva, mas a glosa não inclui o sinal OU.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Então, eu não percebia se eu era surdo ou se eu era ouvinte. -> EU NÃO PERCEBER SURDO OUVINTE NÃO"
+      ],
+      "fonte_pagina": "153",
+      "fonte_citacao": "No entanto, muitas ocorrências de unidades oracionais complexas acontecem sem a presença de um item lexical conjuntivo. Nos dados do Corpus de Libras dos Surdos de Referências analisados neste trabalho, verificamos uma grande produtividade de orações paratáticas sem esses marcadores manuais conjuntivos.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.155-157
+{
+  "rules": [
+    {
+      "titulo": "Ordem da oração dependente temporal em relação à matriz",
+      "descricao": "A oração dependente (satélite) que expressa circunstância temporal deve aparecer antes da oração matriz (núcleo) na glosa.",
+      "gatilho": "A frase em português contém uma oração subordinada temporal (ex: 'Quando eu tinha X anos') que antecede a oração principal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quando eu tinha 12 anos, eu comecei a aprender a Língua de Sinais. -> IDADE COMEÇAR 12 COMEÇAR APRENDER LÍNGUA-DE-SINAIS"
+      ],
+      "fonte_pagina": "157",
+      "fonte_citacao": "A oração complexa acima é constituída pela unidade oracional 1 – IDADE COMEÇAR 12 (Quando eu tinha 12 anos), considerada a oração dependente, e pela unidade oracional 2 – COMEÇAR APRENDER LÍNGUA-DE-SINAIS",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.158-160
+{
+  "rules": [
+    {
+      "titulo": "Ausência de conectivo em hipotaxe",
+      "descricao": "A glosa não deve conter um sinal específico que atue como conectivo entre as orações articuladas em hipotaxe (adverbiais ou adjetivas explicativas). As orações aparecem sequencialmente, sem elemento de ligação explícito na linha de glosa.",
+      "gatilho": "A frase em português contém uma estrutura hipotática (oração subordinada adverbial ou adjetiva explicativa/apositiva) articulada à oração principal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quando eu tinha 12 anos [...] comecei a aprender a Língua de Sinais. -> IDADE COMEÇAR 1-2 COMEÇAR APRENDER LÍNGUA-DE-SINAIS",
+        "Os professores não sinalizavam muito bem: eles sinalizavam de maneira truncada. -> DEM (esse) PROFESSOR LÍNGUA-DE-SINAIS PERFEITO NÃO DV (sinalizar-de-maneira-truncada)"
+      ],
+      "fonte_pagina": "158",
+      "fonte_citacao": "Não há um sinal que atue como conectivo a articular as duas orações, embora haja uma mudança no padrão prosódico que parece distingui-las.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.161-164
+{
+  "rules": []
+}
+
+### p.165-168
+{
+  "rules": []
+}
+
+### p.169-172
+{
+  "rules": []
+}
+
+### p.173-177
+{
+  "rules": [
+    {
+      "titulo": "Ordem canônica das orações causais",
+      "descricao": "A oração causal deve ser posposta à oração matriz (ordem: matriz + causal).",
+      "gatilho": "A frase em português expressa uma relação causal (causa/efeito).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "A escola inclusiva enfrenta certa dificuldade, pois não tem conhecimento da cultura surda. -> ESCOLA INCLUSÃO DIFÍCIL PORQUE TER-NÃO CONHECER CULTURA SURD@"
+      ],
+      "fonte_pagina": "175",
+      "fonte_citacao": "as orações causais em Libras mantêm a ordem canônica das orações causais, que é a posposição",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Marcadores manuais de causalidade",
+      "descricao": "A relação causal pode ser marcada pelo sinal PORQUE ou pelo sinal MOTIVO.",
+      "gatilho": "A frase em português expressa uma relação causal explícita.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu usava Libras porque na faculdade de pedagogia tinha um grupo de surdos. -> IX (eu) LÍNGUA-DE-SINAIS MOTIVO FACULDADE DENTRO..."
+      ],
+      "fonte_pagina": "174",
+      "fonte_citacao": "78,5% das orações (80 ocorrências) são introduzidas pelo sinal porque... e 20,5% (21 ocorrências, são introduzidas pelo sinal motivo",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Justaposição de orações causais",
+      "descricao": "A relação causal pode ser veiculada por justaposição, sem a presença de um marcador manual (como PORQUE ou MOTIVO).",
+      "gatilho": "A frase em português expressa uma relação causal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Você recebeu o SINAL(Marisa), porque teu olho é verde que é o que significa SINAL(Marisa). -> IX (você) SINAL (marisa) OLHO VERDE SIGNIFICAR SINAL (marisa) IX (ele) SINAL (marisa) IX (olho) VERDE SIGNIFICAR SINAL (marisa)"
+      ],
+      "fonte_pagina": "175",
+      "fonte_citacao": "Em Libras, as sentenças podem veicular valor causal estando justapostas, ou seja, sem a presença de um marcador manual",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.188-192
+{
+  "rules": [
+    {
+      "titulo": "Marcadores manuais de comparação de igualdade",
+      "descricao": "A glosa deve conter um dos sinais TAMBÉM, PARECE ou IGUAL para articular orações comparativas de igualdade.",
+      "gatilho": "A frase em português expressa uma comparação de igualdade (ex: 'assim como', 'igual a', 'parece que').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu olhei a situação me sentindo como chocado. -> IX (eu) [ENTÃO] qu TAMBÉM IX (eu) QUEBRAR",
+        "adquirir a Língua de Sinais é vida nova, igual nascer de novo. -> ...VIDA NOVA TAMBÉM NASCER BOIA-2 DE-NOVO",
+        "parece uma flor desabrochando de maneira clara -> ...PARECER DV (desabrochar) CLARO"
+      ],
+      "fonte_pagina": "188",
+      "fonte_citacao": "Apresentamos, ainda, os sinais ‘PARECE’ e ‘IGUAL’, que também estão relacionados à comparação de igualdade.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Ordem das orações em comparativas de igualdade",
+      "descricao": "A oração comparativa (dependente) pode ser anteposta à oração principal (matriz) na glosa.",
+      "gatilho": "A frase em português contém uma construção comparativa de igualdade.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Assim como os ouvintes falam oralmente... nós surdos sinalizamos -> IGUAL ÁREA (os-ouvintes) OUVINTES FALAR-ORAL ... IX (nós) SURDO É"
+      ],
+      "fonte_pagina": "191",
+      "fonte_citacao": "Em (53), há uma diferença no padrão articulatório apresentado até o momento, pois a oração dependente é anteposta à oração principal.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.193-195
+{
+  "rules": [
+    {
+      "titulo": "Marcador de comparação de igualdade",
+      "descricao": "A glosa deve conter o sinal IGUAL para marcar a comparação de igualdade entre orações.",
+      "gatilho": "A frase em português expressa uma comparação de igualdade (ex: 'igual', 'tão... quanto').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ele é surdo igual eu (sou surda) -> IX (ele) É SURDO IGUAL"
+      ],
+      "fonte_pagina": "193",
+      "fonte_citacao": "Em (55), a comparação de igualdade acontece a partir do sinal IGUAL.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Marcador de comparação de desigualdade (superioridade)",
+      "descricao": "A glosa deve conter o sinal SUPERAR ou SUPERIOR para marcar a comparação de desigualdade (superioridade).",
+      "gatilho": "A frase em português expressa uma comparação de desigualdade indicando superioridade (ex: 'mais... que', 'superar').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "a Língua de Sinais é mais (cara do que o ouro é caro) -> LÍNGUA-SINAIS SUPERAR",
+        "ela (tem) mais (valor) do que (quaisquer uma destas coisas tem valor) -> LINGUA-SINAIS VER IX (mão) SUPERIOR IX (mão)"
+      ],
+      "fonte_pagina": "194",
+      "fonte_citacao": "Hipotaxe adverbial comparativa de desigualdade marcada pelo sinal SUPERAR.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Elipse do predicado na oração comparativa",
+      "descricao": "O verbo ou estado de ser da oração comparativa (dependente) pode ser omitido na glosa, sendo recuperado pelo contexto da oração principal.",
+      "gatilho": "A frase em português contém uma oração comparativa em que o predicado da segunda oração é idêntico ou implícito em relação à primeira.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ele é surdo igual eu (sou surda) -> IX (ele) É SURDO IGUAL (o verbo 'ser' e o adjetivo 'surdo' são elididos na segunda parte)",
+        "a Língua de Sinais é mais (cara do que o ouro é caro) -> LÍNGUA-SINAIS SUPERAR (o estado 'caro' é elidido na comparação)"
+      ],
+      "fonte_pagina": "193",
+      "fonte_citacao": "a comparação entre orações se faz normalmente com elipse do verbo, que se entende como igual ao da primeira oração",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.196-197
+{
+  "rules": [
+    {
+      "titulo": "Ordem da prótase e apódose em condicionais",
+      "descricao": "A prótase (oração condicional) deve anteceder a apódose (oração principal) na glosa.",
+      "gatilho": "A frase em português contém uma estrutura condicional (ex: 'se...').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se chover, eu não vou à escola. -> SE CHOVER IX (eu) IR-NÃO ESCOLA"
+      ],
+      "fonte_pagina": "197",
+      "fonte_citacao": "a prótase normalmente antecede a apódose (se p, q).",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.198-203
+{
+  "rules": [
+    {
+      "titulo": "Conjunção manual SE para condicionais",
+      "descricao": "A glosa deve conter o sinal SE no início da prótase (cláusula condicional) quando a oração condicional é introduzida por conjunção manual.",
+      "gatilho": "A frase em português expressa uma condição (ex: 'Se...') e a glosa utiliza a forma com conjunção manual.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se o surdo necessita que eu o incentive na Língua de Sinais... -> SE SURDO PRECISAR IX (eu) ESTIMULAR LÍNGUA-DE-SINAIS..."
+      ],
+      "fonte_pagina": "p.200",
+      "fonte_citacao": "casos de orações condicionais interligadas pelas conjunções manuais SE e EXEMPLO",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Conjunção manual EXEMPLO para condicionais",
+      "descricao": "A glosa deve conter o sinal EXEMPLO no início da prótase (cláusula condicional) quando a oração condicional é introduzida por essa conjunção manual específica.",
+      "gatilho": "A frase em português expressa uma condição (ex: 'Se...') e a glosa utiliza a forma com a conjunção manual EXEMPLO.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se eu tenho uma boa fluência... -> EXEMPLO IX (eu) FLUENTE E (positivo) ESCREVER LÍNGUA..."
+      ],
+      "fonte_pagina": "p.201",
+      "fonte_citacao": "casos de orações condicionais interligadas pelas conjunções manuais SE e EXEMPLO",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Condicional justaposta (sem conjunção)",
+      "descricao": "A glosa pode apresentar a prótase e a apódose sem nenhum sinal de conjunção (SE ou EXEMPLO) entre elas, apenas pela justaposição dos sinais.",
+      "gatilho": "A frase em português expressa uma condição (ex: 'Se...') e a glosa não contém os sinais SE ou EXEMPLO.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se tem dúvida, interage mais pelo celular. -> DÚVIDA IX (celular) INTERAGIR MAIS"
+      ],
+      "fonte_pagina": "p.199",
+      "fonte_citacao": "Na Libras, encontramos, como em (58), casos de justaposição",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.204-210
+{
+  "rules": [
+    {
+      "titulo": "Ordem anteposta em condicionais",
+      "descricao": "A glosa deve apresentar a prótase (cláusula condicional) antes da apódose (cláusula principal).",
+      "gatilho": "A frase em português expressa uma relação condicional (ex: 'se...').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se eu não tivesse ido para a Associação de Surdos, o que eu seria hoje. -> SE IX (eu) IR-NÃO ASSOCIAÇÃO SURDO IX (eu) HOJE IX (eu) O-QUE"
+      ],
+      "fonte_pagina": "210",
+      "fonte_citacao": "Na Libras, estudos prévios confirmam que a anteposição é a ordem não marcada das condicionais",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.211-215
+{
+  "rules": [
+    {
+      "titulo": "Ordem da oração condicional (prótase antes da apódose)",
+      "descricao": "A oração condicional (prótase, iniciada por SE) deve aparecer antes da oração principal (apódose) na glosa.",
+      "gatilho": "A frase em português contém uma estrutura condicional (ex: 'Se [evento], [consequência]').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se eu não tivesse ido para a Associação de Surdos, o que eu seria hoje? -> SE IX (eu) IR-NÃO ASSOCIAÇÃO SURDO IX (eu) HOJE IX (eu) O-QUE"
+      ],
+      "fonte_pagina": "211",
+      "fonte_citacao": "(69) anteposta com conjunção. SE IX (eu) IX (ir NÃO ASSOCIAÇÃO SURDO IX eu) HOJE IX (eu O-QUE",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Omissão de preposições locativas em verbos de movimento",
+      "descricao": "Preposições locativas (como 'para', 'em', 'de') que indicam destino ou origem não devem aparecer na glosa quando o verbo de movimento já expressa essa direção ou quando o referente é apontado.",
+      "gatilho": "A frase em português contém um verbo de movimento seguido de uma preposição locativa indicando destino ou origem.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se eu não tivesse ido para a Associação de Surdos... -> SE IX (eu) IR-NÃO ASSOCIAÇÃO SURDO"
+      ],
+      "fonte_pagina": "211",
+      "fonte_citacao": "SE IX (eu) IR-NÃO ASSOCIAÇÃO SURDO IX (eu HOJE IX (eu) O-QUE",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Uso de IX para pronomes pessoais",
+      "descricao": "Pronomes pessoais (eu, ele, ela, nós, etc.) devem ser representados na glosa pela etiqueta IX seguida do referente entre parênteses (ex: IX (eu), IX (ela)).",
+      "gatilho": "A frase em português contém um pronome pessoal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se eu não tivesse ido... -> SE IX (eu) IR-NÃO...",
+        "Ela me acompanhou... -> IX (ela) JUNTO ACOMPANHAR..."
+      ],
+      "fonte_pagina": "211",
+      "fonte_citacao": "SE IX (eu) IR-NÃO ASSOCIAÇÃO SURDO IX (eu HOJE IX (eu) O-QUE",
+      "categoria": "pronomes"
+    },
+    {
+      "titulo": "Uso de DEM para demonstrativos",
+      "descricao": "Pronomes ou adjetivos demonstrativos (esse, aquele, lá, etc.) devem ser representados na glosa pela etiqueta DEM seguida do referente ou direção entre parênteses (ex: DEM (esse), DEM (lá)).",
+      "gatilho": "A frase em português contém um demonstrativo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se o ouvinte for muito fluente... (contexto de demonstrativo) -> SE DEM (esse) OUVINTE FLUENTE..."
+      ],
+      "fonte_pagina": "212",
+      "fonte_citacao": "SE DEM (esse) OUVINTE FLUENTE CHIQUE O-MÁXIMO APAVORAR VER ENTENDER",
+      "categoria": "pronomes"
+    },
+    {
+      "titulo": "Justaposição em orações de finalidade",
+      "descricao": "Em orações de finalidade, a relação de propósito é estabelecida por justaposição dos eventos, sem o uso de conectivos explícitos como 'para' ou 'a fim de' na glosa.",
+      "gatilho": "A frase em português expressa finalidade (ex: 'levou para ver', 'fui para comprar').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ela me acompanhou e me levou para ver uma revista... -> IX (ela) JUNTO ACOMPANHAR LEVAR IX (lá) VER SINAL CADERNO"
+      ],
+      "fonte_pagina": "215",
+      "fonte_citacao": "IX (ela) JUNTO ACOMPANHAR LEVAR IX (lá) VER SINAL CADERNO FS (revista) CADERNO",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.216-219
+{
+  "rules": [
+    {
+      "titulo": "Omissão de conectivo de finalidade na glosa",
+      "descricao": "A glosa NÃO deve conter um sinal ou etiqueta que represente o conectivo de finalidade (como 'PARA', 'A-FIM-DE' ou 'COM-O-PROPÓSITO-DE'). A relação de finalidade é estabelecida pela justaposição das orações e por marcadores não-manuais (expressão facial, olhar), que não são representados na glosa textual.",
+      "gatilho": "A frase em português expressa uma relação de finalidade (hipotaxe adverbial de finalidade), utilizando conectivos como 'para', 'a fim de', 'com o objetivo de'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Por isso nós aceitamos a obrigação de sacrifício, de esforço, que foi importante para nós aprender e aprimorar-se. -> POR-CAUSA IX (nós) ACEITAR PAGAR ENTRE-ASPAS SACRIFÍCIO ESFORÇO IMPORTANTE PESSOA APRENDER DESENVOLVER",
+        "eu apoio a comunidade surda brasileira para estimular os negros surdos no Brasil. -> IX (eu) APOIAR+ ÁREA COMUNIDADE ÁREA SURDO BRASIL E(isso) ESTIMULAR IX (eles) PRETO SURDO"
+      ],
+      "fonte_pagina": "216",
+      "fonte_citacao": "Não há um sinal manual que desempenhe a função de explicitar a hipotaxe de finalidade, mas as expressões faciais funcionam como um traço linguístico que contribui para realçar a hipotaxe adverbial de finalidade.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.220-224
+{
+  "rules": [
+    {
+      "titulo": "Marcador temporal PRONTO para anterioridade",
+      "descricao": "A glosa deve conter o sinal PRONTO para marcar a relação de anterioridade temporal entre a oração hipotática e a oração nuclear.",
+      "gatilho": "A frase em português expressa uma relação temporal em que o evento da oração subordinada ocorre antes do evento da oração principal (ex: 'quando eu aprendi', 'quando terminei').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quando eu aprendi, eu me tornei professor de Matemática. -> IX (eu) APRENDER PRONTO IX (eu) PROFESSOR IX (eu) MATEMÁTICA"
+      ],
+      "fonte_pagina": "221",
+      "fonte_citacao": "A oração hipotática temporal é marcada pelo sinal PRONTO.",
+      "categoria": "tempo-aspecto"
+    },
+    {
+      "titulo": "Marcador temporal PASSADO para anterioridade",
+      "descricao": "A glosa deve conter o sinal PASSADO para introduzir a oração adverbial temporal que estabelece um tempo anterior ao evento principal.",
+      "gatilho": "A frase em português expressa um evento anterior (ex: 'Antes', 'quando me aproximava') que situa o tempo do evento principal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Antes, quando me aproximava de uma roda de ouvintes que falavam oralmente, acompanhar as falas (era) impossível. -> PASSADO DV-PESSOAS-EM-PÉ OUVINTE DV-PESSOA-APROXIMAR FALAR VER IMPOSSÍVEL"
+      ],
+      "fonte_pagina": "223",
+      "fonte_citacao": "observa-se o olhar do sinalizante direcionado para as próprias mãos, bem como o uso do sinal PASSADO a introduzir a oração adverbial temporal.",
+      "categoria": "tempo-aspecto"
+    },
+    {
+      "titulo": "Marcador temporal ANTERIORMENTE para anterioridade",
+      "descricao": "A glosa deve conter o sinal ANTERIORMENTE para marcar a oração adverbial temporal que situa o tempo do evento da oração matriz.",
+      "gatilho": "A frase em português expressa uma relação temporal de anterioridade (ex: 'Até encontrar', 'antes de').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Até encontrar (a escola) minha mãe procurou muito uma escola de surdos especial. -> ENCONTRAR ANTERIORMENTE POSTERIORMENTE FS (mãe) PROCURAR ESCOLA SURDO ESPECIAL"
+      ],
+      "fonte_pagina": "224",
+      "fonte_citacao": "Hipotaxe Adverbial Temporal marcada pelo sinal ANTERIORMENTE.",
+      "categoria": "tempo-aspecto"
+    },
+    {
+      "titulo": "Marcador temporal PRONTO para posterioridade",
+      "descricao": "A glosa deve conter o sinal PRONTO para marcar a oração adverbial temporal que situa o tempo do evento da oração matriz.",
+      "gatilho": "A frase em português expressa uma relação temporal de posterioridade ou conclusão (ex: 'Depois', 'quando terminou').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Estudar PRONTO DEPOIS IX (eu) FACULDADE PRONTO"
+      ],
+      "fonte_pagina": "224",
+      "fonte_citacao": "Hipotaxe Adverbial Temporal marcada pelo sinal PRONTO.",
+      "categoria": "tempo-aspecto"
+    }
+  ]
+}
+
+### p.225-228
+{
+  "rules": [
+    {
+      "titulo": "Uso de PRONTO para anterioridade temporal",
+      "descricao": "O sinal PRONTO deve aparecer na glosa para marcar a conclusão de um evento anterior, funcionando como conectivo temporal entre a oração dependente (preposta) e a oração principal.",
+      "gatilho": "A frase em português expressa uma relação temporal de anterioridade (ex: 'após terminar', 'depois de') onde a oração dependente antecede a principal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Após o terminar os estudos e, depois, a faculdade, fui trabalhar como professor nesta (escola). -> IX (eu) PEGAR-VAGA TRABALHAR IX (eu) PROFESSOR IX (nessa-escola) ESTUDAR PRONTO DEPOIS IX (eu) FACULDADE PRONTO IX (eu) PEGAR-VAGA TRABALHAR IX (eu) PROFESSOR IX (nessa-escola)"
+      ],
+      "fonte_pagina": "225",
+      "fonte_citacao": "Na sentença (82), o sinal PRONTO parece desempenhar um papel importante na articulação entre orações e na relação de temporalidade que se estabelece entre elas.",
+      "categoria": "tempo-aspecto"
+    },
+    {
+      "titulo": "Omissão de marcadores não manuais na glosa",
+      "descricao": "Marcadores não manuais como aceno de cabeça, mouthing (ex: JÁ), direção do olhar e uso de boia (mão não dominante) NÃO devem ser representados na glosa escrita, pois a glosa é uma representação linear e manual.",
+      "gatilho": "A frase em português envolve orações temporais simultâneas ou não simultâneas que, em Libras, são articuladas com estratégias não manuais (boia, mouthing, aceno).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Enquanto estava sentado e olhava para a janela, imaginava que era impossível para mim. -> DV (braços-sobre-a-mesa) SONHAR DV (braços-sobre-a-mesa) IMPOSSÍVEL IX (eu)",
+        "Quando me formei, comecei a trabalhar dentro do INES, onde estou até agora. -> FORMAR PEGAR-VAGA TRABALHAR DENTRO INES ATÉ-AGORA"
+      ],
+      "fonte_pagina": "226",
+      "fonte_citacao": "A glosa NÃO CARREGA (a menos que haja anotação explícita em separado): expressão facial e demais marcadores não-manuais; uso do espaço de sinalização e localização dos referentes; direção, trajetória, velocidade ou repetição do movimento; configuração de mão.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.229-229
+{
+  "rules": []
+}
+
+### p.230-230
+{
+  "rules": []
+}
+
+### p.231-234
+{
+  "rules": [
+    {
+      "titulo": "Omissão de marcador de oração encaixada substantiva",
+      "descricao": "A glosa não deve conter um item lexical ou marcador específico que indique a existência de uma oração encaixada substantiva; a articulação entre as orações é feita por justaposição.",
+      "gatilho": "A frase em português contém uma oração encaixada substantiva (que funciona como sujeito ou predicado).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ler os lábios (era) impossível. -> DV (lábios) VER IMPOSSÍVEL",
+        "Ler lábios de diferentes professores que se alternavam era difícil. -> TROCAR ORALIZAR PASSAR+ DIFÍCIL PALM-UP",
+        "(Era) possível entender e visualizar (todos). -> POSSÍVEL ENTENDER OLHAR",
+        "É muito especial vir aqui. -> ESPECIAL VIR"
+      ],
+      "fonte_pagina": "231",
+      "fonte_citacao": "Não há um sinal que marque a sentença encaixada, mas a proposição entre as duas sentenças emerge o contexto.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Ordem direta em oração encaixada substantiva",
+      "descricao": "A glosa pode apresentar a ordem direta, com a oração encaixada (sujeito) precedendo o predicado (verbo de estado).",
+      "gatilho": "A frase em português apresenta uma oração encaixada substantiva em ordem direta (Sujeito oracional + Predicado).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ler os lábios (era) impossível. -> DV (lábios) VER IMPOSSÍVEL",
+        "Ler lábios de diferentes professores que se alternavam era difícil. -> TROCAR ORALIZAR PASSAR+ DIFÍCIL PALM-UP"
+      ],
+      "fonte_pagina": "231",
+      "fonte_citacao": "A sentença (86) apresenta a ordem direta de sujeito e predicado. Ao invés de o sujeito ser desempenhado por um substantivo, tem-se, nesse caso, um exemplo de uma oração que desempenha a função de sujeito",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Ordem inversa em oração encaixada substantiva",
+      "descricao": "A glosa pode apresentar a ordem inversa, com o predicado (verbo de estado) precedendo a oração encaixada (sujeito), por razões discursivas.",
+      "gatilho": "A frase em português apresenta uma oração encaixada substantiva em ordem inversa (Predicado + Sujeito oracional).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "(Era) possível entender e visualizar (todos). -> POSSÍVEL ENTENDER OLHAR",
+        "É muito especial vir aqui. -> ESPECIAL VIR"
+      ],
+      "fonte_pagina": "233",
+      "fonte_citacao": "A sentença (88) é constituída por duas orações, sendo sujeito e predicado em ordem inversa: Predicado + Sujeito oracional. A sentença inicia com POSSÍVEL (ser possível), que desempenha a função de predicado",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.235-239
+{
+  "rules": [
+    {
+      "titulo": "Uso do conectivo O-QUE em orações encaixadas substantivas manuais",
+      "descricao": "A glosa deve conter o sinal O-QUE para introduzir a oração encaixada substantiva (seja ela subjetiva ou objetiva) quando a articulação é feita por um item lexical manual, em vez de apenas justaposição.",
+      "gatilho": "A frase em português contém uma oração encaixada substantiva introduzida por 'que' (ex: 'é o que', 'significa que', 'acredito que', 'mostra que') e a descrição indica que a articulação é manual.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "O mais importante é o que, sinalizar, vai [...] -> MAIS IMPORTANTE O-QUE SINALIZAR E (vai)",
+        "Porque a inclusão significa que tem proposta... -> PORQUE INCLUSÃO IX (inclusão) SIGNIFICA O-QUE TER PROPOSTA...",
+        "Eu acredito que o problema é a sociedade... -> ACREDITAR O-QUE PROBLEMA É SOCIAL...",
+        "Isso mostra que o meu processo de aquisição... -> MOSTRAR O-QUE PROCESSO AQUISIÇÃO..."
+      ],
+      "fonte_pagina": "236",
+      "fonte_citacao": "A sentença (91), ao contrário das anteriores, apresenta um item lexical que contribui para evidenciar a relação entre as duas sentenças: O-QUE. Por isso, pode ser classificada como uma oração encaixada substantiva subjetiva manual.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Ordem inversa em orações encaixadas substantivas",
+      "descricao": "A glosa pode apresentar a ordem inversa, iniciando com o predicado oracional (ex: DIFÍCIL, MAIS IMPORTANTE) seguido pelo sujeito oracional, em vez da ordem direta (sujeito + predicado).",
+      "gatilho": "A frase em português é uma oração encaixada substantiva (subjetiva ou objetiva) e a descrição indica que o sinalizante optou pela ordem inversa por razões discursivas.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "É difícil eu responder certo. -> DIFÍCIL IX (eu) RESPONDER CERTO",
+        "O mais importante é o que, sinalizar, vai [...] -> MAIS IMPORTANTE O-QUE SINALIZAR E (vai)"
+      ],
+      "fonte_pagina": "235",
+      "fonte_citacao": "A sentença (90), a exemplo das anteriores, também apresenta a ordem inversa entre sujeito e predicado. Inicia com o predicado oracional DIFÍCIL (ser difícil), que exerce a função sintática de predicativo do sujeito.",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.240-240
+{
+  "rules": [
+    {
+      "titulo": "Uso de O-QUE como conectivo em orações encaixadas substantivas",
+      "descricao": "A glosa deve conter o sinal O-QUE para introduzir a oração encaixada substantiva objetiva direta, funcionando como conectivo entre a oração principal e a subordinada.",
+      "gatilho": "A frase em português contém uma oração encaixada substantiva objetiva direta introduzida por 'que' (ex: 'aprendi que...').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Atualmente já aprendi que o que me fez me movimentar, crescer, desenvolver, também ser líder. -> AGORA IX (eu) APRENDER++ O-QUE MOVIMENTAR MAIS PROCESSO MOVIMENTAR IX (processo) TAMBÉM LÍDER"
+      ],
+      "fonte_pagina": "240",
+      "fonte_citacao": "O objeto direto da sentença é a oração encaixada substantiva objetiva direta, introduzida pelo conectivo O-QUE",
+      "categoria": "sintaxe"
+    }
+  ]
+}
+
+### p.247-252
+{
+  "rules": [
+    {
+      "titulo": "Omissão de conectivo relativo",
+      "descricao": "A glosa não deve conter um item lexical que funcione como conectivo relativo (como 'QUE' ou 'QUAL') entre o termo antecedente e a oração relativa restritiva. As orações são articuladas por justaposição.",
+      "gatilho": "A frase em português contém uma oração relativa restritiva (ex: 'que', 'quem', 'qual' referindo-se a um substantivo anterior).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Tinha um amigo, que era meu vizinho... -> IX (eu) TROCAR TER UM AMIGO VIZINHO IX (eu) SEMPRE-JUNTO INTERAGIR"
+      ],
+      "fonte_pagina": "250",
+      "fonte_citacao": "Não há um conectivo que articule as duas orações, mas é empregada a estratégia de justaposição entre as sentenças.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Uso de IX como marcador relativo",
+      "descricao": "O sinal de apontação IX pode ser utilizado na glosa para exercer o papel sintático de conectivo ou marcador relativo, associando a oração relativa ao referente.",
+      "gatilho": "A frase em português contém uma oração relativa restritiva e a glosa utiliza um sinal de apontação (IX) para articular as orações.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Foi a desenhar que um amigo surdo me ensinou... -> DESENHAR IX (ele) AMIGO SURDO ENSINAR DESENHAR POSITIVO LEGAL DESENHAR."
+      ],
+      "fonte_pagina": "252",
+      "fonte_citacao": "É possível observar nesta sentença uma construção relativa restritiva manual, em que IX (ele) parece exercer um papel sintático de conectivo... demonstrando que o apontamento IX pode ser utilizado como marcador relativo.",
+      "categoria": "pronomes"
+    }
+  ]
+}
+
+### p.253-255
+{
+  "rules": []
+}

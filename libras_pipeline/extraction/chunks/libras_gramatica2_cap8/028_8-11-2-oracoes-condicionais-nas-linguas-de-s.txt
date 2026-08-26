@@ -1,0 +1,138 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.11.2 Orações condicionais nas Línguas de Sinais ===
+=== TRECHO: páginas 198-203 (4 tópicos consecutivos) ===
+
+[p.198]
+199
+2007), na Língua de Sinais britânica (BSL, WATERS; SUTTON-SPENCE, 2005; 
+MONAGHAN, 2009),  na Língua de Sinais  israelense (ISL, DACHKOVSKY, 2008) 
+e em outras. Em relação a Libras, temos os trabalhos de Rodrigues (2018; 2022); 
+Lima (2019); Aleixo (2021) e Paulus (2021), que nos oferecem um bom panorama 
+do funcionamento e do uso das condicionais.
+A oração condicional nas Línguas de Sinais pode ser de dois tipos: introduzi-
+das por conjunção manual e justapostas. Nos dois casos, observamos combinações 
+de marcadores não manuais. Muitos dos trabalhos indicados relatam o uso de uma 
+conjunção condicional manual de modo não obrigatório, sendo que, em alguns 
+casos, fica evidente se tratar de um empréstimo da língua oral majoritária, como é 
+o caso da Língua de Sinais americana e da Língua de Sinais australiana (IF).
+Aleixo (2021) faz uma revisão da literatura nesse sentido e demonstra que 
+muitas Línguas de Sinais urbanas ocidentais usam marcadores não manuais simi-
+lares, como sobrancelhas levantadas e movimentos da cabeça. Entretanto, existem 
+diferenças no uso desses marcadores não manuais. Cabe ressaltar que o uso desses 
+marcadores não manuais pode variar de uma Língua de Sinais para outra. Na 
+ASL, por exemplo, a inclinação de cabeça acompanha o antecedente condicional 
+(LIDDELL, 1986) e, na Língua de Sinais austríaca, a prótase é produzida com a 
+cabeça ligeiramente projetada para cima, ao mesmo tempo o queixo é puxado para 
+baixo (LACKNER, 2013). Na Língua de Sinais holandesa, há um impulso de cabeça 
+durante a realização do antecedente e movimento para baixo no final da sentença. 
+Parece haver, assim, um consenso em relação aos tipos de marcadores não manuais 
+que acompanham a realização das orações condicionais; todavia, suas execuções e 
+a combinação entre eles são diversificadas.
+8.11.3 Orações condicionais na Libras
+Os estudos sobre sintaxe em Libras, iniciados por Ferreira Brito (1989), Fe-
+lipe (1995) e Quadros (1999), estão hoje complementados por uma série de outros 
+trabalhos que partem, em sua maioria, de amostras espontâneas, inclusive, aque-
+las feitas a partir do corpus do Inventário Nacional de Libras – Surdo referência 
+(REF), organizado por pesquisadores da UFSC (QUADROS; SCHMITT; LOHN; 
+LEITE e colaboradores, s.d.).
+Com os arquivos de vídeo do Inventário Nacional de Libras – Surdo referência 
+(REF) e tendo como base os trabalhos de Rodrigues (2018; 2022), Aleixo (2021) 
+e Paulus (2021), apresentaremos, neste subcapítulo, as propriedades das orações 
+condicionais na Libras, como os tipos e os usos dos marcadores não manuais, os 
+marcadores manuais, a ordem e os subtipos semânticos.
+ 8.11.4 Marcadores manuais
+As orações condicionais nas Línguas de Sinais podem se apresentar tanto 
+na forma de justaposição quanto interligadas por conjunção condicional manual.
+
+[p.199]
+200
+Na Libras, encontramos, como em (58), casos de justaposição e, como em (59) e 
+(60), respectivamente, casos de orações condicionais interligadas pelas conjunções 
+manuais SE e EXEMPLO:
+(58) Condicional justaposta.
+     
+     HOJE                IX (eu)  PERCEBER          MAIS           IX (celular)           CELULAR
+     
+  IX (celular) INTERAGIR            DÚVIDA           IX (celular) INTERAGIR           MAIS
+ENCONTRAR PESSOALMENTE       MENOS       DIFERENTE
+HOJE IX (eu) PERCEBER MAIS IX (celular) 
+CELULAR IX (celular) INTERAGIR DÚVIDA   
+IX (celular) INTERAGIR MAIS ENCONTRAR 
+PESSOALMENTE MENOS DIFERENTE
+Hoje, eu percebo que se usa mais o celular para 
+interagir. Se tem dúvida, interage mais pelo 
+celular. Encontra-se menos pessoalmente, é 
+diferente.
+ 
+https://youtu.be/ma_f_s_F8Qg
+
+[p.200]
+201
+(59) Condicional com SE.
+          
+        SE                                SURDO                     PRECISAR               IX (eu) ESTIMULAR
+     
+          
+   LÍNGUA-DE-SINAIS      E (tempo) E (hora) OUTRO
+SE SURDO PRECISAR IX (eu)+ ESTIMULAR 
+LÍNGUA-DE-SINAIS PRECISAR E (tempo  
+E (hora) OUTRO
+Se o surdo necessita que eu o incentive  
+na Língua de Sinais, eu preciso fazer isso  
+em outro momento.
+Figura 22: Sinal ‘SE’.
+Fonte: Corpus de Libras (2022).
+https://youtu.be/Do5-KeCXCNY
+
+[p.201]
+202
+ (60) Condicional com EXEMPLO.
+   EXEMPLO             IX (eu)      FLUENTE         E (positivo)  ESCREVER   LÍNGUA 
+  
+IX (eu) POESIA            ESCREVER          LER                 IX (eu) E (positivo) 
+  
+IX (eu) BILÍNGUE
+EXEMPLO IX (eu) FLUENTE E(positivo) 
+ESCREVER LÍNGUA PORTUGUESA IX (eu) 
+POESIA ESCREVER LER IX (eu) E(positivo) 
+IX (eu) BILÍNGUE
+Se eu tenho uma boa fluência, eu escrevo em 
+Língua Portuguesa,  eu interpreto poesia, eu 
+escrevo e leio,  
+eu sou bom nisso, então eu sou bilíngue.
+https://youtu.be/UYufgpewfxY
+
+[p.202]
+203
+Figura 23: Sinal EXEMPLO.
+Fonte: Corpus de Libras (2022).
+8.11.5 Marcadores não manuais
+O uso de marcadores não manuais como arqueamento (ou “levantamento”) 
+de sobrancelha, mouthing e inclinação de cabeça é considerado, na maioria das 
+Línguas de Sinais já descritas, com os marcadores não manuais mais recorrentes 
+para a produção de orações condicionais. Na Libras, isso também é observado 
+como evidenciado nos exemplos a seguir (61) e (62):
+8.11.6 Arqueamento de sobrancelhas
+Na Libras, encontramos casos de orações condicionais em que a prótase é 
+acompanhada de arqueamento de sobrancelha, como em (61) (justaposta) e (62) 
+(introduzida por SE):
+(61) Justaposta com arqueamento de sobrancelha.
+DÚVIDA          IX (celular) INTERAGIR        MAIS
+DÚVIDA   IX (celular) INTERAGIR MAIS
+Se tem dúvida, interage mais pelo celular.
+https://youtu.be/gPXpGis1lpY
+
+[p.203]
+204
+Figura 24: Arqueamento de Sobrancelha em Condicional Justaposta na Libras.
+Fonte: Corpus de Libras (2022).
+(62) condicional com SE com arqueamento de sobrancelha.
+           
+SE                      PARTICIPAR   LÍNGUA-DE-SINAIS           FS (vai) DILUIR 
+FS (vai) ORALIZAR           DILUIR 
+SE PARTICIPAR+ LÍNGUA-DE-SINAIS FS 
+(vai) DILUIR FS (vai) ORALIZAR DILUIR      
+  
+Se você começar a usar a Língua de Sinais, 
+você vai perder a sua oralização.
+https://youtu.be/JaAHgpFT36g

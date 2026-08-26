@@ -1,0 +1,37 @@
+id,titulo,canal_extracao,canal_confirmado,motivo_confirmacao
+LIBRAS.SINTAXE.001,Ordem básica SVO,voice2sign,sign2voice,"Glosa não carrega função sintática, impossível verificar ordem SVO."
+LIBRAS.FOCO.001,Construção de foco com ordem SOV,voice2sign,sign2voice,Regra descreve fenômeno sem exigir nada sobre a linha escrita.
+LIBRAS.PRONOMES.002,Argumentos nulos,voice2sign,sign2voice,Exige verificação de referentes espaciais não representados na glosa.
+LIBRAS.SINTAXE.004,Ordem básica SVO,voice2sign,sign2voice,Exige detectar marcas não-manuais ausentes na glosa escrita.
+LIBRAS.FOCO.004,Construções com foco (duplicação),sign2voice,voice2sign,A duplicação do sinal é visível na sequência escrita de glosas.
+LIBRAS.PRONOMES.003,Ocorrência de argumentos nulos com verbos de concordância,voice2sign,sign2voice,"Exige distinguir verbos com e sem concordância, informação não presente na glosa."
+LIBRAS.FOCO.008,Estrutura de construção dupla para foco,voice2sign,sign2voice,"Exige interpretação semântica de foco, não verificável apenas pela sequência de glosas."
+LIBRAS.FOCO.009,Incompatibilidade de foco e interrogativa,voice2sign,sign2voice,Foco sintático não é representado na glosa escrita.
+LIBRAS.FOCO.010,Restrição de ilha sintática no foco,voice2sign,sign2voice,Exige análise de estrutura sintática não explícita na glosa linear.
+LIBRAS.FOCO.011,Construções interrogativas duplas (foco),voice2sign,sign2voice,"Exige verificar marcação não-manual de foco, invisível na glosa."
+LIBRAS.MORFOLOGIA.001,Verbos sem concordância,voice2sign,sign2voice,Flexão morfológica não é representada na glosa linear.
+LIBRAS.MORFOLOGIA.002,Verbos com concordância,voice2sign,sign2voice,"Concordância depende de configuração de mão e movimento, ausentes na glosa."
+LIBRAS.NEGACAO.002,Posição da negação em verbos com e sem concordância,voice2sign,sign2voice,"Exige distinguir concordância espacial, que não está na glosa."
+LIBRAS.MORFOLOGIA.004,Morfemas livres e presos,voice2sign,sign2voice,"Exige conhecimento externo sobre status lexical dos sinais, não presente na glosa."
+LIBRAS.MORFOLOGIA.006,Composição Base + Especificador,voice2sign,sign2voice,Regra descreve fenômeno sem exigir nada sobre a linha escrita.
+LIBRAS.MORFOLOGIA.009,Composição por Subordinação,voice2sign,sign2voice,"Exige análise semântica de modificação, não verificável apenas pela ordem das glosas."
+LIBRAS.MORFOLOGIA.011,Composição Simultânea,sign2voice,voice2sign,A regra define a notação textual esperada para a simultaneidade.
+LIBRAS.MORFOLOGIA.016,Justaposição de Classificador com Item Lexical,voice2sign,sign2voice,"Exige distinguir classificador de item lexical, o que não está explícito na glosa."
+LIBRAS.MORFOLOGIA.018,Compostos aparentes (ordem variável),voice2sign,sign2voice,A regra descreve propriedade gramatical sem exigir verificação específica na sequência escrita.
+LIBRAS.MORFOLOGIA.022,Distinção nome/verbo por posição sintática,voice2sign,sign2voice,Exige análise de propriedades distribucionais e funcionais não presentes na glosa linear.
+LIBRAS.MORFOLOGIA.044,Transcrição visual das articulações-boca (Sons Surdos),voice2sign,sign2voice,"Exige análise visual do movimento, não apenas leitura da glosa."
+LIBRAS.EXPRESSOES-IDIOMATICAS.003,Blocos de sentido em sinal único,voice2sign,sign2voice,Regra descreve fenômeno sem exigir nada sobre a linha escrita.
+LIBRAS.EXPRESSOES-IDIOMATICAS.005,Expressões idiomáticas de mão única,voice2sign,sign2voice,Exige conhecimento cultural externo não presente na glosa escrita.
+LIBRAS.EXPRESSOES-IDIOMATICAS.006,Expressões idiomáticas de múltiplos sinais,voice2sign,sign2voice,"Exige conhecimento externo sobre o significado idiomático, não presente na glosa."
+LIBRAS.EXPRESSOES-IDIOMATICAS.009,Metáforas baseadas em mãos e fluência,voice2sign,sign2voice,Regra descreve fenômeno sem exigir nada na linha escrita.
+LIBRAS.EXPRESSOES-IDIOMATICAS.010,Expressões Idiomáticas Equivalentes,voice2sign,sign2voice,Exige conhecimento externo de equivalências semânticas não presentes no texto.
+LIBRAS.EXPRESSOES-IDIOMATICAS.011,Expressões Idiomáticas Semelhantes,voice2sign,sign2voice,"Exige julgamento semântico de equivalência idiomática, não verificável apenas pela sequência de glosas."
+LIBRAS.EXPRESSOES-IDIOMATICAS.012,Expressões Idiomáticas Diferentes (Próprias da Libras),voice2sign,sign2voice,"Exige análise semântica externa, não verificável apenas pela sequência de glosas."
+LIBRAS.EXPRESSOES-IDIOMATICAS.013,Falsos Cognatos Idiomáticos,voice2sign,sign2voice,Exige conhecimento semântico externo não presente na glosa.
+LIBRAS.EXPRESSOES-IDIOMATICAS.014,Metáforas Estruturais: Pessoas como Tempero,voice2sign,sign2voice,Regra descreve mapeamento sem especificar quais sinais devem aparecer na glosa.
+LIBRAS.EXPRESSOES-IDIOMATICAS.015,Metáforas Estruturais: Pessoas como Máquinas,voice2sign,sign2voice,Regra descreve fenômeno sem exigir nada sobre a linha escrita.
+LIBRAS.EXPRESSOES-IDIOMATICAS.016,Metáforas Estruturais: Pessoas como Animais,voice2sign,sign2voice,Regra descreve mapeamento metafórico sem exigir sequência específica de sinais na glosa.
+LIBRAS.CONCORDANCIA.008,Concordância verbal em expressões idiomáticas,voice2sign,sign2voice,Direção da ação não está na glosa escrita.
+LIBRAS.MORFOLOGIA.047,Produtividade morfológica de expressões idiomáticas,voice2sign,sign2voice,"Exige interpretação semântica de significado, não verificável apenas pela sequência de glosas."
+LIBRAS.SINTAXE.002,Posição do advérbio de tempo modificando locativo,voice2sign,sign2voice,Exige distinguir função sintática não explícita na glosa linear.
+LIBRAS.VERBOS.001,Verbo intransitivo com direcionalidade,voice2sign,sign2voice,"Direcionalidade é executada no movimento, não na glosa escrita."

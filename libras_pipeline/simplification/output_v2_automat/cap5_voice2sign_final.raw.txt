@@ -1,0 +1,273 @@
+### morfologia lote 1
+{
+  "decisoes": [
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.001",
+      "funde_com": "",
+      "titulo": "Pluralização por repetição sequencial",
+      "descricao": "A pluralização de um sinal é representada na glosa pela repetição sequencial do sinal, indicada por três sinais idênticos seguidos (ex: CASA+++).",
+      "gatilho": "A frase em português expressa o plural de um substantivo ou sinal que em Libras é pluralizado por repetição.",
+      "exemplos": [
+        "casas -> CASA+++"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.002",
+      "funde_com": "LIBRAS.MORFOLOGIA.008",
+      "titulo": "Representação de compostos por coordenação",
+      "descricao": "A glosa deve representar o composto por coordenação utilizando o símbolo '^' entre os núcleos simétricos (ex: NUCLEO1^NUCLEO2). Isso inclui casos onde a mão não dominante antecipa o segundo sinal.",
+      "gatilho": "A frase em português corresponde a um conceito formado por dois ou mais núcleos em relação simétrica (coordenação), incluindo casos com antecipação da mão não dominante.",
+      "exemplos": [
+        "boa noite -> BOA^NOITE",
+        "acidente -> CARRO^BATER",
+        "oftalmologista -> MÉDICO^OLHO"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem a mesma determinação (uso do símbolo '^' para compostos) sob a mesma condição estrutural (coordenação de núcleos simétricos). A candidata 002 menciona a antecipação da mão não dominante como detalhe de produção, mas o fenômeno morfológico de composição por coordenação é idêntico ao da candidata 008."
+    },
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.003",
+      "funde_com": "",
+      "titulo": "Representação de compostos com eliminação de movimento interno",
+      "descricao": "A glosa deve representar o composto usando o símbolo '^' entre as etiquetas dos sinais (ex: SÁBADO^DOMINGO), indicando que o movimento interno ou repetição foi eliminado na composição.",
+      "gatilho": "A frase em português corresponde a um composto onde o movimento interno ou a repetição do movimento de um dos sinais é eliminada (regra da sequência única).",
+      "exemplos": [
+        "fim de semana -> SÁBADO^DOMINGO"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.004",
+      "funde_com": "",
+      "titulo": "Representação de compostos por justaposição sequencial",
+      "descricao": "A glosa deve representar o composto por justaposição sequencial utilizando o símbolo '^' entre as etiquetas dos sinais, na ordem em que são produzidos (ex: SINAL1^SINAL2).",
+      "gatilho": "A frase em português corresponde a um conceito formado pela justaposição sequencial de dois sinais distintos, onde ambos são realizados em sua totalidade e consecutivamente.",
+      "exemplos": [
+        "zebra -> CAVALO^LISTRA-PELO-CORPO",
+        "rio -> ÁGUA^CAMINHO",
+        "lago -> ÁGUA^CÍRCULO",
+        "piscina -> ÁGUA^RETÂNGULO",
+        "divórcio -> ASSINAR^SEPARAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.005",
+      "funde_com": "",
+      "titulo": "Representação de compostos por justaposição simultânea",
+      "descricao": "A glosa deve representar o composto por justaposição simultânea utilizando o símbolo '^' entre as etiquetas dos sinais.",
+      "gatilho": "A frase em português corresponde a um conceito formado pela justaposição simultânea de dois sinais, realizados ao mesmo tempo pelas duas mãos.",
+      "exemplos": [
+        "composição -> PALAVRA^PALAVRA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.006",
+      "funde_com": "",
+      "titulo": "Representação de compostos com classificador",
+      "descricao": "A glosa deve representar a composição de um classificador com um item lexical utilizando o símbolo '^' entre a etiqueta do classificador (CL-...) e a etiqueta do sinal lexical.",
+      "gatilho": "A frase em português corresponde a um sinal composto por um classificador e um item lexical (ex: alfinete, agulha).",
+      "exemplos": [
+        "alfinete -> CL-coisa-pequena^PERFURAR",
+        "agulha -> CL-coisa-pequena^APLICAR-NO-BRAÇO"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.007",
+      "funde_com": "",
+      "titulo": "Representação de compostos por subordinação",
+      "descricao": "A glosa deve representar o composto por subordinação utilizando o símbolo '^' entre o núcleo e o modificador (ex: NUCLEO^MODIFICADOR).",
+      "gatilho": "A frase em português corresponde a um conceito formado por um núcleo modificado por um especificador (ex: escola).",
+      "exemplos": [
+        "escola -> CASA^ESTUDAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.MORFOLOGIA.008",
+      "funde_com": "",
+      "titulo": "Representação de compostos por coordenação",
+      "descricao": "A glosa deve representar o composto por coordenação utilizando o símbolo '^' entre os núcleos simétricos (ex: NUCLEO1^NUCLEO2).",
+      "gatilho": "A frase em português corresponde a um conceito formado por dois ou mais núcleos em relação simétrica (ex: oftalmologista).",
+      "exemplos": [
+        "oftalmologista -> MÉDICO^OLHO"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### expressoes-idiomaticas lote 1
+{
+  "decisoes": [
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.001",
+      "funde_com": "",
+      "titulo": "Composição por justaposição simultânea (duas mãos)",
+      "descricao": "O sinal de 'composição' é representado na glosa pela justaposição do sinal PALAVRA duas vezes, separado por um acento circunflexo (PALAVRA^PALAVRA), indicando que os dois sinais são articulados simultaneamente, um por cada mão.",
+      "gatilho": "A frase em português contém o substantivo 'composição' (no sentido de arte/ato de compor, não o processo linguístico).",
+      "exemplos": [
+        "composição -> PALAVRA^PALAVRA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.002",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'cabelos em pé' (susto)",
+      "descricao": "A glosa deve usar a etiqueta CABELOS-EM-PÉ para representar o sinal que significa 'ficar de cabelos em pé' no sentido figurado de estar espantada, chocada ou com susto.",
+      "gatilho": "A frase em português expressa o estado de estar 'de cabelos em pé' devido a susto, espanto ou choque (sentido idiomático), e não devido a desordem física ou vento.",
+      "exemplos": [
+        "Ficar de cabelos em pé. -> CABELOS-EM-PÉ"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.003",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Quebrar a cara' (1 sinal)",
+      "descricao": "A glosa deve usar o sinal composto CARA-QUEBRAR para representar o sentido idiomático de 'quebrar a cara', 'ficar sem palavras' ou 'ficar sem graça'.",
+      "gatilho": "A frase em português contém a expressão 'quebrar a cara' ou sinônimos como 'ficar sem palavras' ou 'ficar sem graça'.",
+      "exemplos": [
+        "Quebrar a cara. -> CARA-QUEBRAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.004",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Quebrar a cara' (2 sinais)",
+      "descricao": "A glosa pode usar a sequência de dois sinais CARA QUEBRAR para representar o sentido idiomático de 'quebrar a cara', 'sem noção' ou 'foi pego em flagrante'.",
+      "gatilho": "A frase em português contém a expressão 'quebrar a cara' ou sinônimos como 'sem noção' ou 'foi pego em flagrante'.",
+      "exemplos": [
+        "Quebrar a cara. -> CARA QUEBRAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.005",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Esticar conversa'",
+      "descricao": "A glosa deve usar o sinal composto LINHA-PUXAR para representar o sentido idiomático de 'esticar conversa' ou 'falar mais que o necessário'.",
+      "gatilho": "A frase em português contém a expressão 'esticar conversa' ou 'falar mais que o necessário'.",
+      "exemplos": [
+        "Esticar conversa. -> LINHA-PUXAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.006",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Pessoa turrona'",
+      "descricao": "A glosa deve usar a sequência de sinais CABEÇA DURA para representar o sentido idiomático de 'um sem noção' ou 'pessoa turrona'.",
+      "gatilho": "A frase em português contém a expressão 'pessoa turrona' ou 'um sem noção'.",
+      "exemplos": [
+        "Pessoa turrona. -> CABEÇA DURA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.007",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Cara de pau'",
+      "descricao": "A glosa deve usar a sequência de sinais VERGONHA NÃO TER para representar o sentido idiomático de 'não ter vergonha na cara' ou 'um cara de pau'.",
+      "gatilho": "A frase em português contém a expressão 'cara de pau' ou 'não ter vergonha na cara'.",
+      "exemplos": [
+        "Um cara de pau. -> VERGONHA NÃO TER"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.008",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Olho vivo'",
+      "descricao": "A glosa deve usar a sequência de sinais ORELHA CARA para representar o sentido idiomático de 'olho vivo', 'ter audição boa' ou 'pessoa muito esperta'.",
+      "gatilho": "A frase em português contém a expressão 'olho vivo', 'ter audição boa' ou 'pessoa muito esperta'.",
+      "exemplos": [
+        "Olho vivo. -> ORELHA CARA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.009",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Não prestar atenção'",
+      "descricao": "A glosa deve usar a sequência de sinais ORELHA BARATA para representar o sentido idiomático de 'não prestar atenção' ou 'não dar bola para as coisas'.",
+      "gatilho": "A frase em português contém a expressão 'não prestar atenção' ou 'não dar bola para as coisas'.",
+      "exemplos": [
+        "Não prestar atenção. -> ORELHA BARATA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.010",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Bom observador'",
+      "descricao": "A glosa deve usar a sequência de sinais OLHO CARO para representar o sentido idiomático de 'ter olhos de águia', 'ter olhar atento' ou 'bom observador'.",
+      "gatilho": "A frase em português contém a expressão 'bom observador', 'ter olhos de águia' ou 'ter olhar atento'.",
+      "exemplos": [
+        "Bom observador. -> OLHO CARO"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.011",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Como é voado'",
+      "descricao": "A glosa deve usar a sequência de sinais OLHO BARATO para representar o sentido idiomático de 'ter olhar desatento', 'não prestar atenção' ou 'como é voado'.",
+      "gatilho": "A frase em português contém a expressão 'como é voado', 'ter olhar desatento' ou 'não prestar atenção'.",
+      "exemplos": [
+        "Como é voado! -> OLHO BARATO"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.012",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Não se amole'",
+      "descricao": "A glosa deve usar o sinal composto PEITO-BATER-MÃO-FECHADA para representar o sentido idiomático de 'não se amole com isso', 'deixar pra lá' ou 'ignore isso'.",
+      "gatilho": "A frase em português contém a expressão 'não se amole', 'deixar pra lá' ou 'ignore isso'.",
+      "exemplos": [
+        "Não se amole com isso -> PEITO-BATER-MÃO-FECHADA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.013",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Radiante da vida'",
+      "descricao": "A glosa deve usar o sinal SORRISO-DUPLO para representar o sentido idiomático de 'dar o maior sorriso do mundo' ou 'radiante da vida'.",
+      "gatilho": "A frase em português contém a expressão 'radiante da vida' ou 'dar o maior sorriso do mundo'.",
+      "exemplos": [
+        "Radiante da vida! -> SORRISO-DUPLO"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.014",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'Isso mesmo'",
+      "descricao": "A glosa deve usar o sinal LÍNGUA-FORA para representar o sentido idiomático de 'isso mesmo', 'é, é, é' ou 'exatamente isso'.",
+      "gatilho": "A frase em português contém a expressão 'isso mesmo', 'é, é, é' ou 'exatamente isso'.",
+      "exemplos": [
+        "Isso mesmo! -> LÍNGUA-FORA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.EXPRESSOES-IDIOMATICAS.015",
+      "funde_com": "",
+      "titulo": "Expressão idiomática 'LÁBIOS-FECHADOS'",
+      "descricao": "A glosa deve usar a etiqueta LÁBIOS-FECHADOS para representar a expressão idiomática, e não a tradução literal das palavras 'lábios' e 'fechados' separadamente ou outras variações.",
+      "gatilho": "A frase em português expressa os significados 'Como consegue?', 'Impressionante!', 'Que coisa!', 'Viu aí o que eu consigo?' ou 'Viu que eu sei?'.",
+      "exemplos": [
+        "Como consegue? -> LÁBIOS-FECHADOS",
+        "Impressionante! -> LÁBIOS-FECHADOS"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+

@@ -1,87 +1,190 @@
-# Extração (etapa 1): texto de um trecho de livro acadêmico de linguística
-# sobre Libras -> regras candidatas em JSON. `id` NÃO é pedido aqui
-# (extract.py atribui depois, por categoria); o modelo só escolhe
-# `categoria` de uma lista fechada.
+# Extração (etapa 1): trecho de documento -> regras candidatas em JSON.
+# Prompt estruturado no formato AUTOMAT:
+#   Act as · User persona/audience · Targeted action · Output definition ·
+#   Mode/tonality · Atypical cases · Topic whitelisting
 #
+# `id` NÃO é pedido aqui (extract.py atribui depois, por categoria).
 # Thinking DESLIGADO (ver config.yaml) — resposta direta, sem <think>.
 
-objective: |
-  Você está extraindo regras gramaticais da Língua Brasileira de Sinais
-  (Libras) a partir de um trecho de um livro acadêmico de linguística (não é
-  um guia introdutório — é texto de linguística descritiva, mais denso e
-  técnico). O objetivo é capturar regras que ajudem a produzir/validar uma
-  GLOSA de Libras (a sequência de sinais escrita a partir de uma frase em
-  português) mais correta e mais fluida/natural.
+# ---------------------------------------------------------------- ACT AS
+act_as: |
+  Você é um linguista computacional especializado em Língua Brasileira de
+  Sinais (Libras). Sua especialidade é ler descrições linguísticas e extrair
+  delas REGRAS OPERACIONAIS — enunciados que dizem, sem ambiguidade, o que
+  uma glosa deve ou não deve conter e como deve se comportar.
 
+# ------------------------------------------------- USER PERSONA / AUDIENCE
+audiencia: |
+  O que você produzir NÃO será lido por um humano. Será carregado por um
+  VALIDADOR AUTOMÁTICO que recebe um par (frase em português, glosa em
+  Libras) e precisa decidir se a glosa está correta, citando a regra em que
+  se apoiou.
+
+  Consequência prática: uma regra vaga é inútil para esse validador. Se o
+  enunciado não permitir decidir "esta glosa respeita ou viola", ele não
+  serve. Prefira poucas regras aplicáveis a muitas regras genéricas.
+
+# ------------------------------------------------ DEFINIÇÃO: o que é glosa
+o_que_e_glosa: |
+  DEFINIÇÃO DE GLOSA — é a saída que o validador vai checar, então esta
+  definição delimita o que pode e o que não pode virar regra verificável.
+
+  Glosa é a representação ESCRITA e LINEAR de uma sequência de sinais. Cada
+  sinal é representado por uma ETIQUETA em letras MAIÚSCULAS, emprestada do
+  português. A etiqueta IDENTIFICA o sinal, não o traduz: CASA numa glosa
+  significa "o sinal cujo identificador é CASA". A glosa NÃO é uma frase em
+  português e não deve ser lida como tal.
+
+  A glosa CARREGA:
+    - quais sinais são produzidos;
+    - em que ORDEM são produzidos;
+    - convenções escritas: hífen para um sinal único de várias palavras
+      (EXPLICAR-ME, IR-EMBORA); IX ou IX(referente) para apontação;
+      letras separadas por hífen para datilologia (M-A-R-I-A).
+
+  A glosa NÃO CARREGA (a menos que haja anotação explícita em separado):
+    - expressão facial e demais marcadores não-manuais;
+    - uso do espaço de sinalização e localização dos referentes;
+    - direção, trajetória, velocidade ou repetição do movimento;
+    - configuração de mão.
+
+  Tudo que estiver nesta segunda lista é invisível para quem lê apenas a
+  glosa — e é exatamente por isso que existe o campo `verificavel_por_texto`.
+
+# ------------------------------------------------------- TARGETED ACTION
+acao: |
+  Leia o trecho abaixo e extraia as regras da Libras que ele AFIRMA.
+
+  Para cada regra, separe com clareza:
+    - o GATILHO — a condição que faz a regra valer (o "quando")
+    - a DETERMINAÇÃO — o que deve acontecer na glosa (o "então")
+
+  Se o texto descreve um mecanismo e a consequência para a glosa é evidente
+  e afirmada pelo texto, enuncie a consequência. Exemplo do tipo de
+  raciocínio esperado: se o texto diz que a direção do movimento do verbo já
+  expressa o destino, e afirma que por isso a preposição não é realizada,
+  a regra é "a preposição locativa não aparece na glosa". Mas NÃO invente a
+  consequência se o texto não a afirmar.
+
+# ---------------------------------------------------- TOPIC WHITELISTING
 escopo: |
-  INCLUA regras de nível de FRASE ou de PALAVRA sobre gramática/estrutura da
-  Libras: ordem dos sinais na frase, morfologia (composição, derivação,
-  flexão), concordância verbal (verbos com/sem concordância, verbos
-  direcionais/"manuais"), sistema de pronomes (apontação/IX), formação de
-  interrogativas (perguntas com item-QU: QUANDO/ONDE/QUAL...), foco,
-  negação, classificadores, tempo/aspecto, tópico-comentário, e expressões
-  fixas/convencionais de uso que tornem a glosa mais natural.
-  IGNORE: listas de sinais sem padrão gramatical por trás, notas de
-  história/documentação de corpus, variação regional/lexical de sinais sem
-  relevância estrutural, e comentários bibliográficos/metodológicos do texto
-  acadêmico (citações de autores, referências a outros estudos) que não
-  descrevem a estrutura da língua em si.
+  EXTRAIA regras sobre a estrutura da língua:
+    ordem dos sinais na frase · omissão/obrigatoriedade de elementos ·
+    morfologia (composição, derivação, flexão, incorporação) ·
+    concordância verbal · pronomes e apontação (IX) · interrogativas ·
+    negação · foco e topicalização · tempo e aspecto · classificadores
 
-schema: |
-  Retorne um objeto JSON: {"rules": [regra, regra, ...]}. Cada regra tem
-  EXATAMENTE estes campos (NÃO inclua um campo "id" — isso é atribuído depois):
-    categoria             - EXATAMENTE uma destas:
-                            morfologia | pronomes | verbos | concordancia |
-                            sintaxe | negacao | tempo-aspecto | pergunta |
-                            foco | classificadores | expressoes-idiomaticas
-    titulo                - nome curto da regra
-    descricao             - O QUE a regra determina (o resultado na glosa/estrutura)
-    gatilho                - QUANDO a regra se aplica: a condição na frase/contexto
-                            que a ativa (ex.: "verbo com concordância + sujeito e
-                            objeto ambos localizáveis no espaço")
-    verificavel_por_texto - true se dá para checar só olhando o TEXTO da glosa;
-                            false se depende de canal fora do texto (expressão
-                            facial/não-manual, uso do espaço, direcionalidade/
-                            movimento da mão, concordância espacial)
-    exemplos              - lista de exemplos ilustrativos (português -> glosa
-                            quando houver no texto)
-    fonte_pagina          - o número exatamente como aparece nos marcadores [p.N]
-                            do texto abaixo
-    fonte_citacao         - citação verbatim curta (<=200 chars) do texto que
-                            sustenta a regra, copiada (não parafraseada)
+  EXTRAIA TAMBÉM mapeamentos lexicais QUE TENHAM GATILHO — em especial
+  expressões idiomáticas. O critério é a FORMA, não o assunto:
 
-instrucoes: |
-  - Uma regra por fenômeno gramatical distinto. Não repita a mesma regra com
-    palavras diferentes, mesmo que o texto acadêmico a explique em vários
-    parágrafos com exemplos diferentes.
-  - Se o texto enuncia a regra junto de uma exceção, descreva a exceção dentro
-    da `descricao` em vez de criar uma segunda regra.
-  - NÃO invente regra que o texto não afirma. Se algo é só sugerido, hipótese
-    de pesquisa em aberto, ou comparação com outra língua (ex.: LSA, ASL)
-    sem afirmar o que vale pra Libras, não extraia.
-  - `fonte_citacao` deve ser copiada do texto, não parafraseada.
-  - Mantenha os SINAIS/glosas em maiúsculas como no original (ex.: IX(casa),
-    CASA, EXPLICAR-ME).
-  - NÃO use aspas duplas (") dentro dos valores de texto (descricao, gatilho,
-    exemplos, fonte_citacao) — aspas duplas cruas ali quebram o JSON. Se
-    precisar destacar uma palavra/expressão, use aspas simples ('assim').
+    - Se o texto diz QUANDO usar e QUAL forma resulta na glosa, é regra.
+      Esquema: o texto afirma que a expressão P do português corresponde à
+      glosa G, e não à tradução literal de P. Isso vira uma regra com
+      gatilho 'a frase em português contém P' e determinação 'a glosa usa
+      G'. Vale também quando a tradução literal PARECE certa mas tem outro
+      sentido em Libras (falso cognato) — esse caso é especialmente útil
+      para o validador, que existe justamente para pegar essa armadilha.
 
-output_rules: |
-  Produza APENAS o objeto JSON descrito. Sem cercas de markdown, sem comentário
+    - Se o texto só informa que um sinal existe e o que significa, sem
+      condição de uso, NÃO é regra: uma glosa não tem como violar isso.
+
+  NÃO EXTRAIA:
+    - entrada solta de dicionário: o sinal X existe e significa Y, sem
+      nenhuma condição de uso que a glosa possa respeitar ou violar
+    - história da língua, política linguística, documentação de corpus
+    - variação regional sem consequência estrutural
+    - comentários bibliográficos ("segundo Fulano (1999)...") que não
+      afirmam uma regra da Libras
+    - dicas de ensino ou de como praticar
+    - descrição de UMA frase específica que não generaliza
+
+# ---------------------------------------------------- OUTPUT DEFINITION
+saida: |
+  Retorne um objeto JSON: {"rules": [regra, regra, ...]}
+  Cada regra tem EXATAMENTE estes campos (NÃO inclua "id"):
+
+    titulo                - nome curto e específico da regra
+    descricao             - a DETERMINAÇÃO: o que deve/não deve ocorrer na glosa
+    gatilho               - o GATILHO: a condição que ativa a regra
+    verificavel_por_texto - true|false — ver o critério abaixo, é decisivo
+    exemplos              - exemplos do próprio texto (português -> glosa quando houver)
+    fonte_pagina          - o número como aparece no marcador [p.N] do trecho
+    fonte_citacao         - trecho VERBATIM (<=200 chars) que sustenta a regra
+    categoria             - UMA palavra, escolhida EXATAMENTE desta lista fechada:
+                              {{categorias}}
+                            NÃO invente rótulo novo nem use sinônimo: se nenhum
+                            servir bem, escolha o mais próximo da lista. Campo
+                            secundário — não gaste raciocínio nele.
+
+# --------------------------------------- CRITÉRIO DECISIVO: canal da regra
+criterio_canal: |
+  COMO DEFINIR `verificavel_por_texto` — aplique este teste, literalmente:
+
+    "Se eu receber APENAS a sequência de glosas escrita em letras maiúsculas
+     — sem vídeo, sem imagem, sem anotação de expressão, sem descrição de
+     movimento — eu consigo dizer se esta regra foi respeitada ou violada?"
+
+    SIM, só com as palavras escritas  -> verificavel_por_texto: true
+    NÃO, preciso de qualquer outra coisa -> verificavel_por_texto: false
+
+  Marque **false** se a regra depender de QUALQUER artefato fora do texto,
+  incluindo: expressão facial · sobrancelhas · direção do olhar ·
+  articulação-boca ou movimento labial · balanço/inclinação de cabeça ·
+  postura ou movimento de tronco · uso do espaço de sinalização ·
+  localização ou ponto de articulação · direção, trajetória ou repetição do
+  movimento · configuração de mão · velocidade, tensão ou intensidade.
+
+  Regra prática: se para checar a regra você precisaria VER a pessoa
+  sinalizando, é false. Se bastasse ler a linha de texto, é true.
+
+  NA DÚVIDA, marque false.
+
+# ------------------------------------------------------- ATYPICAL CASES
+casos_atipicos: |
+  - **Descrição x prescrição.** O texto muitas vezes diz o que a língua
+    PERMITE ("pode ocorrer", "frequentemente", "tende a"). Preserve essa
+    modalidade na `descricao` — escreva "pode" quando o texto diz "pode".
+    NÃO transforme possibilidade em obrigação.
+  - **Regra com exceção.** Descreva a exceção dentro da própria `descricao`,
+    em vez de criar uma segunda regra.
+  - **Fenômeno citado mas não afirmado** (hipótese em aberto, comparação com
+    outra língua, menção de passagem): não extraia.
+  - **Trecho sem nenhuma regra.** É um resultado legítimo: devolva
+    {"rules": []}. Não force extração para "encher" a resposta.
+  - **Mesma regra repetida no trecho** com outras palavras: extraia uma vez.
+
+# ---------------------------------------------------- MODE / TONALITY
+modo: |
+  Técnico e literal. Escreva `titulo`, `descricao` e `gatilho` em português.
+  Mantenha SINAIS e glosas em maiúsculas como no original (IX(casa), CASA,
+  EXPLICAR-ME). `fonte_citacao` é copiada, nunca parafraseada.
+
+  NÃO use aspas duplas (") dentro dos valores de texto — aspas cruas quebram
+  o JSON. Use aspas simples ('assim') se precisar destacar algo.
+
+  Responda APENAS com o objeto JSON. Sem cercas de markdown, sem comentário
   antes ou depois, nada após a chave final.
 
 template: |
-  @{objective}
+  @{act_as}
+
+  @{audiencia}
+
+  @{o_que_e_glosa}
+
+  @{acao}
 
   @{escopo}
 
-  @{schema}
+  @{saida}
 
-  @{instrucoes}
+  @{criterio_canal}
 
-  @{output_rules}
+  @{casos_atipicos}
 
-  Texto do trecho (páginas marcadas inline como [p.N]):
+  @{modo}
+
+  Trecho do documento (páginas marcadas inline como [p.N]):
   {{chapter_text}}
 
   JSON:

@@ -1,0 +1,1053 @@
+### verbos lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Verbos direcionais com concordância espacial",
+      "descricao": "Verbos direcionais em Libras concordam com o sujeito e objeto em termos de localização espacial, movimento e direção, exigindo que os elementos envolvidos estejam localizados no espaço. O movimento manual e a direção dos olhos refletem a trajetória da ação, com o ponto inicial ligado ao sujeito (em concordância dupla regular) ou ao objeto (em concordância dupla reversa), e o ponto final ligado ao outro argumento. Verbos com concordância espacial podem ser unimanuais ou bimanuais, e a reciprocidade é marcada por cópia da segunda mão (M2) com movimento alternado (A->B e B->A) ou conversão do movimento.",
+      "gatilho": "Verbo direcional com sujeito e objeto localizáveis no espaço; verbo com concordância que indica movimento entre dois pontos no espaço; verbo unimanual ou bimanual com construção recíproca",
+      "exemplos": [
+        "(eu)IR(casa)",
+        "CARRO CL(carro passou um pelo outro)",
+        "aJOÃO <aDARb>do LIVRO <MARIAb>do",
+        "DAR IX(PESSOA) -> DAR IX(PESSOA)",
+        "PERGUNTAR IX(PESSOA) -> PERGUNTAR IX(PESSOA)",
+        "1ªpessoaENSINAR3ªpessoa",
+        "3ªpessoaENSINAR1ªpessoa",
+        "1ªpessoaCONVIDAR2ªpessoa",
+        "2ªpessoaCONVIDAR1ªpessoa",
+        "EXPLICAR-ME",
+        "DAR-IX",
+        "MOSTRAR-IX",
+        "AVISAR -> DUAS-PESSOAS-AVISAM (M1: A->B, M2: B->A)",
+        "DAR -> DUAS-PESSOAS-DÃO (M1: A->B, M2: B->A)",
+        "AJUDAR -> AJUDAR(recíproco) (movimento alternado A->B e B->A)",
+        "CONVERSAR EM LIBRAS -> CONVERSAR EM LIBRAS(recíproco)",
+        "MANDAR MENSAGEM -> MANDAR MENSAGEM(recíproco)"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.001",
+        "LIBRAS.VERBOS.003",
+        "LIBRAS.VERBOS.004",
+        "LIBRAS.VERBOS.006",
+        "LIBRAS.VERBOS.007",
+        "LIBRAS.VERBOS.011",
+        "LIBRAS.VERBOS.012",
+        "LIBRAS.VERBOS.013",
+        "LIBRAS.VERBOS.014",
+        "LIBRAS.VERBOS.015"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem variações do mesmo fenômeno gramatical: verbos direcionais com concordância espacial em Libras, incluindo concordância dupla regular e reversa, reciprocidade por cópia e conversão de movimento, e exigência de localização espacial para sujeito e objeto."
+    },
+    {
+      "titulo": "Verbos com concordância permitem elevação do objeto",
+      "descricao": "A presença de concordância verbal em Libras permite que o objeto seja elevado para uma posição mais alta no espaço, resultando em uma estrutura sintática com ordem SOV (sujeito-objeto-verbo), onde o objeto é posicionado acima do sujeito antes do verbo.",
+      "gatilho": "Verbo com concordância + objeto",
+      "exemplos": [
+        "JOÃOa MARIAb aDARb",
+        "LIVRO NÃO"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos de concordância única",
+      "descricao": "Verbos que não apresentam movimento de trajetória direcional podem ter concordância com apenas um argumento (sujeito ou objeto), dependendo da estrutura sintática da frase, sendo articulados em um único ponto no espaço.",
+      "gatilho": "Verbo articulado em um único ponto no espaço, com concordância com um único argumento",
+      "exemplos": [
+        "ESTUDAR",
+        "TRABALHAR",
+        "BRINCAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Concordância número-pessoal com movimento reto",
+      "descricao": "Verbos com concordância número-pessoal em Libras utilizam movimento reto entre as mãos espelhadas, com direções opostas e simultâneas, para marcar sujeito e objeto no espaço, com o movimento refletindo a relação entre os participantes da ação.",
+      "gatilho": "verbo com concordância número-pessoal em Libras",
+      "exemplos": [
+        "ME-INFORMAR",
+        "CONTROLAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Orientação da mão para marcar objeto",
+      "descricao": "Verbos com concordância número-pessoal marcam o objeto pela alteração na orientação da mão (palma ou dorso) ou nos dedos (frente ou trás), em vez de movimento direcional, permitindo a distinção entre sujeito e objeto sem trajetória espacial.",
+      "gatilho": "verbo com concordância número-pessoal com objeto localizável no espaço",
+      "exemplos": [
+        "FALAR (dorso da mão)",
+        "ME-FALAR (palma da mão)"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos backward iniciam trajetória no objeto",
+      "descricao": "Verbos com concordância do tipo 'backward' iniciam o movimento do sinal na posição do objeto e terminam na posição do sujeito, ao contrário dos verbos convencionais, refletindo a direção inversa da ação (ex: BUSCAR, CHAMAR).",
+      "gatilho": "verbo com concordância que indica movimento do objeto para o sujeito (ex: BUSCAR, CHAMAR)",
+      "exemplos": [
+        "BUSCAR",
+        "CHAMAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.005"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### verbos lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Verbos direcionais com concordância espacial",
+      "descricao": "Verbos direcionais em Libras concordam com o sujeito e objeto em termos de localização espacial, movimento e direção, exigindo que os elementos envolvidos estejam localizados no espaço. O movimento manual e a direção dos olhos refletem a trajetória da ação, com o ponto inicial ligado ao sujeito (em concordância dupla regular) ou ao objeto (em concordância dupla reversa), e o ponto final ligado ao outro argumento. Verbos com concordância espacial podem ser unimanuais ou bimanuais, e a reciprocidade é marcada por cópia da segunda mão (M2) com movimento alternado (A->B e B->A) ou conversão do movimento. A reciprocidade só ocorre com verbos não ancorados ao corpo, sendo que verbos ancorados usam estratégia bi-oracional. Movimentos de eixo (como rotação do antebraço ou flexão do pulso) e movimentos alternados (vai para frente e volta para trás) são parâmetros fonológicos relevantes para a marcação de sujeito e objeto, e podem ocorrer em verbos com concordância número-pessoal, com movimento reto ou curvo, sendo ambos equivalentes, embora um possa estar em processo de desuso.",
+      "gatilho": "Verbo direcional com sujeito e objeto localizáveis no espaço; verbo com concordância que indica movimento entre dois pontos no espaço; verbo unimanual ou bimanual com construção recíproca; verbo com concordância número-pessoal com movimento de eixo ou alternado; verbo com concordância que indica movimento do objeto para o sujeito (ex: BUSCAR, CHAMAR); construção recíproca com verbo em Libras; verbo com concordância número-pessoal com movimento reto ou curvo",
+      "exemplos": [
+        "(eu)IR(casa)",
+        "CARRO CL(carro passou um pelo outro)",
+        "aJOÃO <aDARb>do LIVRO <MARIAb>do",
+        "DAR IX(PESSOA) -> DAR IX(PESSOA)",
+        "PERGUNTAR IX(PESSOA) -> PERGUNTAR IX(PESSOA)",
+        "1ªpessoaENSINAR3ªpessoa",
+        "3ªpessoaENSINAR1ªpessoa",
+        "1ªpessoaCONVIDAR2ªpessoa",
+        "2ªpessoaCONVIDAR1ªpessoa",
+        "EXPLICAR-ME",
+        "DAR-IX",
+        "MOSTRAR-IX",
+        "AVISAR -> DUAS-PESSOAS-AVISAM (M1: A->B, M2: B->A)",
+        "DAR -> DUAS-PESSOAS-DÃO (M1: A->B, M2: B->A)",
+        "AJUDAR -> AJUDAR(recíproco) (movimento alternado A->B e B->A)",
+        "CONVERSAR EM LIBRAS -> CONVERSAR EM LIBRAS(recíproco)",
+        "MANDAR MENSAGEM -> MANDAR MENSAGEM(recíproco)",
+        "ME PROVOCAR -> (rotação do antebraço)",
+        "MANDAR -> (flexão do pulso para baixo)",
+        "ME MANDAR -> (flexão do pulso para trás)",
+        "ME DAR (movimento reto) -> ME DAR",
+        "ME DAR (movimento curvo) -> ME DAR",
+        "Sinal com movimentos alternados (mãos em direções opostas)",
+        "Sinal com movimentos 'vai para frente e volta para trás'"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.001",
+        "LIBRAS.VERBOS.003",
+        "LIBRAS.VERBOS.004",
+        "LIBRAS.VERBOS.006",
+        "LIBRAS.VERBOS.007",
+        "LIBRAS.VERBOS.011",
+        "LIBRAS.VERBOS.012",
+        "LIBRAS.VERBOS.013",
+        "LIBRAS.VERBOS.014",
+        "LIBRAS.VERBOS.015",
+        "LIBRAS.VERBOS.016",
+        "LIBRAS.VERBOS.017",
+        "LIBRAS.VERBOS.018",
+        "LIBRAS.VERBOS.019"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem variações e aspectos complementares do mesmo fenômeno central: concordância verbal em Libras com base espacial, direcional e fonológica, incluindo reciprocidade, movimentos de eixo, alternados, reto/curvo, e restrições de ancoragem ao corpo."
+    },
+    {
+      "titulo": "Verbos com concordância permitem elevação do objeto",
+      "descricao": "A presença de concordância verbal em Libras permite que o objeto seja elevado para uma posição mais alta no espaço, resultando em uma estrutura sintática com ordem SOV (sujeito-objeto-verbo), onde o objeto é posicionado acima do sujeito antes do verbo.",
+      "gatilho": "Verbo com concordância + objeto",
+      "exemplos": [
+        "JOÃOa MARIAb aDARb",
+        "LIVRO NÃO"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos de concordância única",
+      "descricao": "Verbos que não apresentam movimento de trajetória direcional podem ter concordância com apenas um argumento (sujeito ou objeto), dependendo da estrutura sintática da frase, sendo articulados em um único ponto no espaço.",
+      "gatilho": "Verbo articulado em um único ponto no espaço, com concordância com um único argumento",
+      "exemplos": [
+        "ESTUDAR",
+        "TRABALHAR",
+        "BRINCAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Concordância número-pessoal com movimento reto",
+      "descricao": "Verbos com concordância número-pessoal em Libras utilizam movimento reto entre as mãos espelhadas, com direções opostas e simultâneas, para marcar sujeito e objeto no espaço, com o movimento refletindo a relação entre os participantes da ação.",
+      "gatilho": "verbo com concordância número-pessoal em Libras",
+      "exemplos": [
+        "ME-INFORMAR",
+        "CONTROLAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Orientação da mão para marcar objeto",
+      "descricao": "Verbos com concordância número-pessoal marcam o objeto pela alteração na orientação da mão (palma ou dorso) ou nos dedos (frente ou trás), em vez de movimento direcional, permitindo a distinção entre sujeito e objeto sem trajetória espacial.",
+      "gatilho": "verbo com concordância número-pessoal com objeto localizável no espaço",
+      "exemplos": [
+        "FALAR (dorso da mão)",
+        "ME-FALAR (palma da mão)"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos backward iniciam trajetória no objeto",
+      "descricao": "Verbos com concordância do tipo 'backward' iniciam o movimento do sinal na posição do objeto e terminam na posição do sujeito, ao contrário dos verbos convencionais, refletindo a direção inversa da ação (ex: BUSCAR, CHAMAR).",
+      "gatilho": "verbo com concordância que indica movimento do objeto para o sujeito (ex: BUSCAR, CHAMAR)",
+      "exemplos": [
+        "BUSCAR",
+        "CHAMAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.005"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### foco lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Foco marcado por marcação não-manual em IP vazio",
+      "descricao": "A marcação não-manual de foco, como expressão facial, olhar direto e inclinação da cabeça, se espalha sobre todo o IP vazio após a movimentação do núcleo para Spec de FP, indicando a presença de foco em toda a estrutura do IP. Essa marcação também pode ocorrer em estruturas SOV ou OSV, com o foco sendo destacado por elementos não-manuais como < >mc.",
+      "gatilho": "Presença de foco com movimentação de IP para Spec de FP; elemento da frase que é o foco semântico",
+      "exemplos": [
+        "<IX>do FUTEBOL <GOSTA>mc (SOV)",
+        "[FP [EU <NÃO <aIRb>do ]i >n <[F NÃO] [IP t i ]>n ; [FP [AMANHÃ EL@ COMPRAR CARRO ] i <[F AMANHÃ] [ IP t i ]>mc"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.001",
+        "LIBRAS.FOCO.002"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem a mesma estrutura: a marcação não-manual de foco se espalhando sobre o IP vazio após movimentação do núcleo para Spec de FP, com variações apenas no exemplo e na forma de apresentação."
+    },
+    {
+      "titulo": "Foco em posição final com construção dupla em perguntas",
+      "descricao": "O foco em orações interrogativas é expresso por um elemento interrogativo em posição final, que resulta de uma construção dupla com apagamento da cópia gerada em [Spec CP], sendo marcado por expressão facial e articulação não-manual sobre toda a sentença.",
+      "gatilho": "Elemento interrogativo em posição final com marca não-manual sobre toda a sentença",
+      "exemplos": [
+        "QUEM GOSTAR MARIA QUEM",
+        "O QUE JOÃO PEGAR O QUE"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Foco na posição final da frase com marcações não-manuais",
+      "descricao": "O foco de uma frase na Libras é geralmente marcado pela posição final, associada a movimentos de cabeça, expressão facial e estruturas de tópico-comentário, com destaque visual por localização espacial e articulação não-manual.",
+      "gatilho": "Presença de foco em uma frase",
+      "exemplos": [
+        "<JOÃO>t <TELA>t <PINTAR-PINCEL>cl/mc",
+        "<CENTRO>t MULHERES [CL(pessoas)-CRUZANDO-ENTRE-SIb] hn"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Foco interrogativo com morfema-boca em U e expressão facial",
+      "descricao": "O morfema-boca em U, combinado com sobrancelhas franzidas, indica foco interrogativo, especialmente em perguntas sobre conteúdo, funcionando como marcação não-manual para destacar o elemento interrogativo.",
+      "gatilho": "Frase interrogativa com foco em conteúdo (ex: O quê?)",
+      "exemplos": [
+        "SINAL <O QUE> + BOCA EM U + SOBRANCELHAS FRANZIDAS"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.005"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca especificadora para pares mínimos",
+      "descricao": "A articulação-boca especificadora é usada para diferenciar sinais manuais com parâmetros visuais idênticos, especialmente em pares mínimos ou sinais polissêmicos, garantindo clareza semântica por meio de variações na boca.",
+      "gatilho": "Sinais manuais com parâmetros visuais idênticos e significados diferentes",
+      "exemplos": [
+        "NORMAL -> eecuaaa (para significar ESCOLA REGULAR)",
+        "DE-NOVO -> pais (para significar 'mais')",
+        "DE-NOVO -> te-tofo (para significar 'de novo')"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca divergente para função discursiva",
+      "descricao": "A articulação-boca divergente é usada em situações em que não há relação semântica direta com o sinal manual, mas contribui para a construção discursiva, como em expressões de dúvida, ênfase ou ironia.",
+      "gatilho": "Sinal manual com articulação-boca sem relação semântica direta, mas com função discursiva",
+      "exemplos": [
+        "AJUDAR -> copo (para expressar 'como ajudar?')",
+        "ESCRITA -> so (para significar 'só escrita')",
+        "PROBLEMA -> pote (para significar 'não tem problema')"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Foco visual como indicador estrutural na narrativa",
+      "descricao": "O foco da narrativa é determinado pela direção do olhar do sinalizador, que indica o que é relevante no momento, com o olhar direcionado a elementos no espaço de sinalização para marcar foco semântico ou temporal.",
+      "gatilho": "Quando o sinalizador direciona o olhar para um elemento específico no espaço de sinalização",
+      "exemplos": [
+        "olhar para cima indicando objeto alto",
+        "olhar para trás indicando profundidade"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Foco por localização espacial dos sinais",
+      "descricao": "O foco de uma frase em Libras é indicado pela localização espacial dos sinais, com o uso de pontos de articulação específicos para destacar o elemento central, funcionando como recurso estrutural para marcar foco.",
+      "gatilho": "Quando se deseja destacar um elemento da frase como foco",
+      "exemplos": [
+        "SINAL LOCALIZADO NO ESPAÇO PARA INDICAR FOCO",
+        "USO DE PONTO DE ARTICULAÇÃO ESPECÍFICO PARA DESTACAR SUJEITO"
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Foco em ações direcionais em expressões idiomáticas",
+      "descricao": "O foco da ação em expressões idiomáticas é determinado pela direcionalidade do movimento do sinal, indicando quem realiza a ação e quem é afetado, com o sentido dependendo da direção do movimento.",
+      "gatilho": "Expressão idiomática com movimento direcional que indica sujeito e objeto",
+      "exemplos": [
+        "1-3PEGAR-NO-PÉ -> Eu pego no pé del@.",
+        "2-1PEGAR-NO-PÉ -> Pegou no meu pé!",
+        "1-EXPULSAR-2 -> Expulsei el@.",
+        "2-EXPULSAR-1 -> Fui expulso."
+      ],
+      "ids_origem": [
+        "LIBRAS.FOCO.010"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### negacao lote 0
+{"regras_finais": [{"titulo": "Negação por marca não-manual e sinal de NÃO", "descricao": "A negação em Libras é expressa por meio da combinação de marcações não-manuais (como expressão facial, inclinação da cabeça, balanço da cabeça) com o sinal de NÃO, que pode ser posicionado antes ou após o verbo, dependendo do foco e da estrutura da frase. Essa combinação é essencial para a formação de orações negativas.", "gatilho": "Presença de negação em uma frase", "exemplos": ["< >n", "EU <NÃO IR>n <NÃO>n", "[FP [EU <NÃO <aIRb>do] i >n <[F NÃO] [IP t i ]>n", "NÃO QUERER -> NÃO QUERER", "NÃO (expressão facial) -> NÃO", "balanço da cabeça + movimento de 'não' manual", "EXPRESSION FACIAL DE NEGATIVA", "MOVIMENTO DE CABEÇA PARA LADO"], "ids_origem": ["LIBRAS.NEGACAO.001", "LIBRAS.NEGACAO.002", "LIBRAS.NEGACAO.003", "LIBRAS.NEGACAO.006", "LIBRAS.NEGACAO.007"], "justificativa_fusao": "Todas as candidatas descrevem a negação em Libras como uma combinação de marcações não-manuais (faciais, de cabeça) com o sinal de NÃO, sendo que o sinal pode variar em posição e o fenômeno é o mesmo: negação por meio de recursos não-manuais e manual simultâneos."}, {"titulo": "Negação por movimento da cabeça incorporado ao sinal", "descricao": "A negação em Libras pode ser incorporada diretamente ao sinal por meio do movimento da cabeça de um lado para o outro, que altera o parâmetro de movimento do sinal original, tornando-o negativo sem necessidade de sinal adicional.", "gatilho": "Sinal que expressa negação, com movimento da cabeça de um lado para o outro", "exemplos": ["NÃO SABER", "NÃO TER"], "ids_origem": ["LIBRAS.NEGACAO.004"], "justificativa_fusao": ""}, {"titulo": "Negação por articulação-boca", "descricao": "A articulação-boca, como a curvatura dos lábios para baixo e o apertamento dos lábios, pode funcionar como marcador de negação, conferindo significado negativo diretamente ao verbo sem necessidade de sinais ou gestos adicionais, substituindo recursos não manuais.", "gatilho": "verbo com articulação-boca que confere significado negativo ao sinal manual", "exemplos": ["SINAL <ALGUNS> + MORFEMA APERTANDO OS LÁBIOS CURVADOS PARA BAIXO -> 'alguns não'", "lábios apertados, curvados para baixo associados a sinal manual -> negação"], "ids_origem": ["LIBRAS.NEGACAO.005"], "justificativa_fusao": ""}, {"titulo": "Negação em expressões idiomáticas com movimento de recuo", "descricao": "A negação em expressões idiomáticas é indicada por movimentos de recuo das mãos, especialmente em expressões que envolvem retirada, afastamento ou exclusão, como em 'Tirar o corpo fora!' ou 'Me deixe fora disso!'.", "gatilho": "Expressão idiomática com movimento de recuo ou afastamento das mãos", "exemplos": ["MÃOS-RECUAR -> Tirar o corpo fora!", "MÃOS-TIRAR -> Me deixe fora disso!", "MÃOS-LIMPAR -> Lavar as mãos."], "ids_origem": ["LIBRAS.NEGACAO.008"], "justificativa_fusao": ""}]}
+
+### tempo-aspecto lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Marcação de aspecto por articulação-boca",
+      "descricao": "A articulação-boca pode modificar o aspecto de um verbo, indicando intensidade, duração, frequência ou grau de ação, funcionando como marcador de aspecto semelhante a advérbios. Isso inclui variações como lábios apertados para intensidade ou lábios semiapertados com sopro para indicar movimento e quantidade. Além disso, a articulação-boca flexionada pode marcar o tempo verbal, especialmente o passado, sem necessidade de sinais manuais adicionais.",
+      "gatilho": "sinal manual com articulação-boca que modifica a intensidade ou aspecto da ação; verbo manual com necessidade de marcação de tempo passado",
+      "exemplos": [
+        "lábios apertados com sinal manual -> intensidade",
+        "lábios semiapertados com sopro + classificador de linha de tempo -> movimento e quantidade",
+        "VIAJAR -> foi",
+        "LEMBRAR -> eepaa (lembra), nao-eepoo (não lembro)"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.005",
+        "LIBRAS.TEMPO-ASPECTO.006"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem o uso da articulação-boca como marcador de aspecto e tempo verbal, com foco em modificações não manuais que afetam a temporalidade e a intensidade da ação."
+    },
+    {
+      "titulo": "Expressão de tempo e aspecto por parâmetros não-manuais",
+      "descricao": "O tempo e o aspecto em Libras são expressos principalmente por meio de expressões faciais, movimentos corporais, direcionalidade e mudanças no espaço de sinalização, sem marcação fonológica no verbo. Isso inclui a progressão de ações em diferentes planos espaciais, expressões faciais de passado, movimentos lentos para indicar continuidade, e a ausência de marcas verbais para tempo e aspecto.",
+      "gatilho": "Quando se expressa tempo (passado, presente, futuro) ou aspecto (completo, contínuo, habitual); quando se narra uma sequência de eventos em uma cena visual",
+      "exemplos": [
+        "SINAL COM EXPRESSÃO FACIAL DE PASSADO",
+        "MOVIMENTO LENTO PARA INDICAR CONTINUIDADE",
+        "progressão de ações em diferentes planos espaciais",
+        "mudança de posição no espaço para indicar tempo",
+        "SONHAR (dois movimentos repetidos)",
+        "COMER (dois movimentos internos)"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.003",
+        "LIBRAS.TEMPO-ASPECTO.007",
+        "LIBRAS.TEMPO-ASPECTO.008"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem a expressão de tempo e aspecto por meio de elementos não-manuais, como expressão facial, movimento corporal, direcionalidade e organização espacial, sem depender de alterações fonológicas no sinal manual."
+    },
+    {
+      "titulo": "Pluralidade verbal sobre tempo por repetição do movimento no mesmo ponto",
+      "descricao": "A pluralidade verbal que incide sobre o tempo dos eventos é marcada pela repetição do movimento do verbo no mesmo ponto do espaço, indicando repetição com pequena distância temporal, como aspecto habitual ou iterativo. Isso se aplica a ações que ocorrem múltiplas vezes em momentos próximos.",
+      "gatilho": "evento repetido ao longo do tempo com pequena distância temporal",
+      "exemplos": [
+        "PAGAR -> PAGAR (movimento repetido no mesmo ponto)",
+        "PAGAR (pluralidade de tempo) -> PAGAR (repetição do movimento no mesmo local)"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Pluralidade verbal sobre diferentes participantes por reduplicação em arco",
+      "descricao": "A pluralidade verbal que incide sobre diferentes participantes é marcada por múltiplas reduplicações do movimento verbal distribuídas em um arco em frente ao corpo, indicando leitura exaustiva (múltiplos eventos com participantes distintos). Isso permite expressar ações realizadas por várias pessoas de forma clara e visual.",
+      "gatilho": "evento com múltiplos participantes distintos (leitura exaustiva)",
+      "exemplos": [
+        "DEMITIR -> DEMITIR (movimentos reduplicados em arco)",
+        "ENCONTRAR -> ENCONTRAR (movimentos reduplicados em arco)"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.011"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Pluralidade verbal sobre diferentes lugares por reduplicação em arco",
+      "descricao": "A pluralidade verbal que incide sobre diferentes lugares é marcada por múltiplas reduplicações do movimento verbal distribuídas em um arco em frente ao corpo, indicando distribuição espacial do evento. Isso permite expressar ações que ocorrem em locais distintos de forma visual e organizada.",
+      "gatilho": "evento repetido ou sequencial em diferentes lugares",
+      "exemplos": [
+        "FREQUENTAR -> FREQUENTAR (movimento em arco)",
+        "FREQUENTAR(plural) -> FREQUENTAR (movimento em arco)"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.012"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos manuais como indicadores de aspecto",
+      "descricao": "Verbos manuais (como MULHER-BOLO-COLOCAR-FORNO) envolvem uma configuração de mão que representa a ação e são associados a estruturas com aspecto, permitindo variações de ordem como SOV ou OSV. Esses verbos incorporam elementos de objeto e ação em uma única forma manual, funcionando como indicadores de aspecto.",
+      "gatilho": "uso de verbo manual com configuração de mão que representa objeto",
+      "exemplos": [
+        "MULHER-BOLO-COLOCAR-FORNO"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.001"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Auxiliar expressa concordância espacial e tempo",
+      "descricao": "O auxiliar (AUX) na Libras é um elemento de concordância que expressa a relação entre sujeito e objeto através do movimento da mão, e é usado para indicar tempo e aspecto em verbos sem concordância. Ele atua como marcador de tempo e aspecto, especialmente em estruturas onde o verbo não possui concordância direta.",
+      "gatilho": "uso do auxiliar (AUX) com verbo sem concordância",
+      "exemplos": [
+        "JOÃOa aAUXb <NÃO GOSTAR>n",
+        "JOÃOa <MARIAb aAUXb>do <[GOSTAR] i>mc"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Expressões idiomáticas com marcadores de aspecto temporal",
+      "descricao": "Expressões idiomáticas podem indicar aspecto temporal (completivo, durativo, iterativo) por meio de variações no movimento ou repetição do sinal. Essas variações são parte do significado figurado da expressão e não dependem de marcas verbais convencionais.",
+      "gatilho": "Expressão idiomática com repetição ou movimento prolongado que indica aspecto",
+      "exemplos": [
+        "OLHOS-QUICAR -> Abismado!",
+        "OLHOS-INCHAR -> Encher os olhos.",
+        "OLHOS-CAIR ROUPA-LIMPAR -> Inacreditável!"
+      ],
+      "ids_origem": [
+        "LIBRAS.TEMPO-ASPECTO.009"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### pronomes lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Pronomes de apontação com localização espacial",
+      "descricao": "Pronomes em Libras são expressos por sinais de apontação (IX) que se referem a um local no espaço previamente estabelecido, permitindo a referência a sujeitos, objetos ou terceiras pessoas, com base na posição física do sinalizador, interlocutor ou outros participantes. Essa localização espacial é usada para concordância verbal, foco e marcação de pessoa (1ª, 2ª, 3ª), especialmente em construções com verbos que concordam com sujeito e objeto. O apontamento direcionado ao peito marca a 1ª pessoa, ao interlocutor a 2ª, e a um ponto no espaço a 3ª. A articulação-boca pode complementar ou substituir a apontação para especificar sujeito, objeto ou gênero.",
+      "gatilho": "introdução de referente com base na posição física ou social; presença de referência a um sujeito ou objeto já mencionado; verbo com concordância número-pessoal; apontamento com direção específica no espaço de sinalização; necessidade de indicar sujeito ou objeto em uma frase; expressão idiomática com indicação de sujeito ou objeto por direcionalidade ou apontação; sinal manual com referência anterior + articulação-boca referencial",
+      "exemplos": [
+        "IX(casa) NOVA",
+        "AMANHÃ> IXa CONVERSAR IXb",
+        "JOÃOa <NÃO <aDARb>do LIVRO MARIAb >n",
+        "IX(casa)",
+        "IX(mãe)",
+        "IX(PESSOA) -> IX(PESSOA)",
+        "IX(CASA) -> IX(CASA)",
+        "<ELE>do",
+        "<JOÃO>t",
+        "IX(peito)",
+        "IX(interlocutor)",
+        "IX(ponto no espaço)",
+        "IX(casa)",
+        "DIFERENTE + tifeete -> referência ao sinal anterior",
+        "ESCOLA + esola -> referência ao lugar",
+        "PROFESSOR + poofessoo -> referência ao papel e localização",
+        "1-3PEGAR-NO-PÉ -> Eu pego no pé del@",
+        "2-1PEGAR-NO-PÉ -> Pegou no meu pé!",
+        "2-DIZER-ALGO-PARA-1 -> …Me ofendeu!",
+        "1-DIZER-ALGO-PARA-2 -> Vou dizer uma palavra só!",
+        "surdo nativo produz articulação-boca associada a verbo classificador para definir o sujeito",
+        "irmão vs irmã com articulação-boca especificando sexo"
+      ],
+      "ids_origem": [
+        "LIBRAS.PRONOMES.001",
+        "LIBRAS.PRONOMES.002",
+        "LIBRAS.PRONOMES.003",
+        "LIBRAS.PRONOMES.004",
+        "LIBRAS.PRONOMES.005",
+        "LIBRAS.PRONOMES.006",
+        "LIBRAS.PRONOMES.007",
+        "LIBRAS.PRONOMES.008",
+        "LIBRAS.PRONOMES.012",
+        "LIBRAS.PRONOMES.013",
+        "LIBRAS.PRONOMES.014"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem o mesmo fenômeno central: o uso de apontação espacial (IX) e articulação-boca como mecanismos para referenciar sujeitos, objetos e pessoas em Libras, com base na posição física, direção do apontamento e complementação com articulação-boca, especialmente em concordância verbal e construção de referência."
+    },
+    {
+      "titulo": "Articulação-boca como marcador de referência e gênero",
+      "descricao": "A articulação-boca em Libras é usada para especificar o sujeito, objeto ou gênero de um referente, funcionando como recurso de referência que substitui ou complementa a apontação espacial. Pode indicar gênero lexicalizado em substantivos sem necessidade de sinais adicionais como HOMEM ou MULHER, e também realiza referenciação em conjunto com sinais manuais, especialmente em verbos classificadores ou em expressões idiomáticas.",
+      "gatilho": "verbo classificador com articulação-boca que especifica o sujeito do verbo; substantivo com articulação-boca que indica gênero sem sinal adicional; sinal manual com referência anterior + articulação-boca referencial",
+      "exemplos": [
+        "surdo nativo produz articulação-boca associada a verbo classificador para definir o sujeito",
+        "irmão vs irmã com articulação-boca especificando sexo",
+        "DIFERENTE + tifeete -> referência ao sinal anterior",
+        "ESCOLA + esola -> referência ao lugar",
+        "PROFESSOR + poofessoo -> referência ao papel e localização"
+      ],
+      "ids_origem": [
+        "LIBRAS.PRONOMES.009",
+        "LIBRAS.PRONOMES.010",
+        "LIBRAS.PRONOMES.011"
+      ],
+      "justificativa_fusao": "As três candidatas descrevem fenômenos distintos mas relacionados: a articulação-boca como marcador de sujeito em verbos classificadores, como indicador de gênero lexicalizado, e como recurso de referenciação em conjunto com sinais manuais, todos funcionando como complemento ou substituto da apontação espacial."
+    }
+  ]
+}
+
+### classificadores lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Classificadores para representar referentes no espaço",
+      "descricao": "Classificadores são usados para representar um referente em uma localização específica no espaço, especialmente quando o referente é um objeto ou entidade com forma definida. A localização no espaço é determinada pela posição da mão, direção do olhar e intensidade do movimento, podendo incluir profundidade espacial com elementos atrás do outro, confirmada pelo olhar direcionado para trás.",
+      "gatilho": "Referente que pode ser representado por uma forma física ou configuração de mão; quando se representa uma cena com múltiplos elementos em diferentes planos espaciais, como um menino e um policial atrás dele; quando o sinalizador posiciona um signo em um local específico do espaço, com base em direção visual e movimento direcional",
+      "exemplos": [
+        "CARRO CL(carro passou um pelo outro)",
+        "menino e policial um atrás do outro no espaço",
+        "direção do olhar para cima",
+        "direção do olhar para trás",
+        "posição da mão em local específico"
+      ],
+      "ids_origem": [
+        "LIBRAS.CLASSIFICADORES.001",
+        "LIBRAS.CLASSIFICADORES.009",
+        "LIBRAS.CLASSIFICADORES.010"
+      ],
+      "justificativa_fusao": "Todas as três candidatas descrevem o uso de classificadores para representar objetos ou entidades em posições espaciais específicas, com base em localização, direção visual e profundidade, sendo fenômenos distintos apenas em detalhes de exemplo, mas unificados pelo mesmo princípio espacial."
+    },
+    {
+      "titulo": "Classificadores com verbos sem concordância",
+      "descricao": "Classificadores são comumente usados com verbos sem concordância para indicar movimento, forma ou localização de objetos. Eles podem incorporar informação sobre o objeto, ação e até número ou grau, formando predicados complexos que funcionam como um único sinal, especialmente em contextos de descrição ou narrativa.",
+      "gatilho": "Verbo sem concordância com objeto movimentado ou com forma específica; uso de classificador com verbo (ex: CL(carro)-BATER-POSTE); sinal que envolve movimento ou configuração de mão para representar objetos ou ações complexas",
+      "exemplos": [
+        "JOÃO aAJUDARb MARIA",
+        "JOÃO <aDARb>do LIVRO",
+        "<CL(carro)-BATER-POSTE+>cl",
+        "<CL(pessoas)-CRUZANDO-ENTRE-SI>cl",
+        "VIDEOCONFERÊNCIA",
+        "HIPERTEXTO"
+      ],
+      "ids_origem": [
+        "LIBRAS.CLASSIFICADORES.002",
+        "LIBRAS.CLASSIFICADORES.004",
+        "LIBRAS.CLASSIFICADORES.005"
+      ],
+      "justificativa_fusao": "As três candidatas descrevem o uso de classificadores em combinação com verbos sem concordância para expressar ações, movimentos e relações espaciais, com foco na formação de predicados complexos que integram objeto, ação e localização."
+    },
+    {
+      "titulo": "Classificadores para objetos animados e inanimados",
+      "descricao": "Classificadores são usados para representar objetos animados e inanimados, com variação de configuração de mão e movimento que refletem características do objeto, como forma, tamanho, movimento ou estado. Essa representação pode incluir especificações por articulação-boca, especialmente em sinais com função substantiva ou adjetiva.",
+      "gatilho": "Referência a objeto com características distintas (ex: pessoa, carro, livro); sinal manual com função substantiva ou adjetiva; articulação-boca classificadora com repetição de movimento",
+      "exemplos": [
+        "CLASSIFICADOR(Pessoa) -> CLASSIFICADOR(Pessoa)",
+        "CLASSIFICADOR(Carro) -> CLASSIFICADOR(Carro)",
+        "PEQUENO -> peeto",
+        "BEBÊ -> peeto",
+        "CRIANÇA -> peeto",
+        "PEQUENO -> pepepe",
+        "BEBÊ -> pepepe"
+      ],
+      "ids_origem": [
+        "LIBRAS.CLASSIFICADORES.003",
+        "LIBRAS.CLASSIFICADORES.007",
+        "LIBRAS.CLASSIFICADORES.008"
+      ],
+      "justificativa_fusao": "As três candidatas tratam da representação de objetos por classificadores com base em características semânticas e morfológicas, incluindo uso de articulação-boca para especificar substantivos e adjetivos, com variação de repetição para maior lexicalização."
+    },
+    {
+      "titulo": "Articulação-boca classificadora",
+      "descricao": "A articulação-boca é usada para especificar características classificadoras ao sinal manual, como quantidade, movimento, estado ou intensidade, especialmente em verbos classificadores ou sinais com função substantiva ou adjetiva. Pode incluir movimento repetitivo para indicar maior lexicalização.",
+      "gatilho": "Verbo classificador com articulação-boca que especifica característica do referente; sinal manual com função substantiva ou adjetiva; articulação-boca classificadora com repetição de movimento",
+      "exemplos": [
+        "lábios semiapertados, com sopro, associados ao classificador que indica linha de tempo",
+        "sopro com lábios apertados -> quantidade, movimento",
+        "PEQUENO -> peeto",
+        "BEBÊ -> peeto",
+        "CRIANÇA -> peeto",
+        "PEQUENO -> pepepe",
+        "BEBÊ -> pepepe"
+      ],
+      "ids_origem": [
+        "LIBRAS.CLASSIFICADORES.006",
+        "LIBRAS.CLASSIFICADORES.007",
+        "LIBRAS.CLASSIFICADORES.008"
+      ],
+      "justificativa_fusao": "As três candidatas descrevem o uso da articulação-boca como complemento semântico em classificadores, com foco em especificação de características e intensificação lexical, sendo fenômenos interdependentes e parte de um mesmo sistema."
+    },
+    {
+      "titulo": "Transferência espacial e incorporação de ações",
+      "descricao": "A transferência espacial é usada para representar profundidade, movimento ou relações entre elementos em uma cena, com base na disposição no espaço e direção visual. O narrador pode incorporar o objeto ou personagem, transformando-se fisicamente nele para representar ações, sentimentos ou percepções, especialmente em narrativas visuais.",
+      "gatilho": "Quando se representa uma cena com múltiplos elementos em diferentes planos espaciais, como um menino e um policial atrás dele; quando se narra uma ação ou estado de um personagem, especialmente em narrativas visuais",
+      "exemplos": [
+        "menino e policial um atrás do outro no espaço",
+        "olhar do menino direcionado para trás",
+        "narrador desempenha o papel do personagem",
+        "olhos do narrador enunciam o que o desenho mostra"
+      ],
+      "ids_origem": [
+        "LIBRAS.CLASSIFICADORES.009",
+        "LIBRAS.CLASSIFICADORES.012"
+      ],
+      "justificativa_fusao": "As duas candidatas descrevem processos de representação espacial e incorporação narrativa, onde o espaço de sinalização é usado para criar profundidade e o narrador assume o papel do personagem, sendo fenômenos complementares em narrativas visuais."
+    },
+    {
+      "titulo": "Transferência de movimento e vibração para criar significados",
+      "descricao": "O movimento entre dois sinais é usado para criar um novo significado, como a junção de 'fora' e 'dentro' para formar 'juntos'. A vibração é representada por sinais manuais combinados com expressão facial e movimento que transmitem sensações táteis ou corporais, como o estalar de um beijo.",
+      "gatilho": "Quando dois sinais são conectados por um movimento direcional que altera ou cria um novo significado; quando se representa uma sensação vibratória sentida pelo corpo, como um carro passando ou um beijo na orelha",
+      "exemplos": [
+        "movimento de 'fora' para 'dentro' resultando em 'juntos'",
+        "sinal de beijo com movimento vibratório na orelha"
+      ],
+      "ids_origem": [
+        "LIBRAS.CLASSIFICADORES.011",
+        "LIBRAS.CLASSIFICADORES.013"
+      ],
+      "justificativa_fusao": "As duas candidatas tratam de processos de transformação semântica por meio de movimento direcional e vibração corporal, sendo fenômenos distintos mas relacionados à expressão de ações e sensações físicas."
+    }
+  ]
+}
+
+### sintaxe lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Topicalização com marcação não-manual",
+      "descricao": "A topicalização em Libras é marcada por uma expressão não-manual < >t no início da frase, posicionando o tópico na posição mais alta da estrutura sintática, acima de CP, e permitindo variações de ordem como OSV. A marcação não se estende sobre a oração inteira, mas está associada apenas ao tópico, funcionando como uma adjunção. A ordem do tópico é sempre anterior à marcação interrogativa ou negativa.",
+      "gatilho": "frase com tópico no início, marcado por < >t",
+      "exemplos": [
+        "< >t",
+        "<FUTEBOL>t <JOÃO GOSTAR NÃO>n",
+        "<FUTEBOL>t <JOÃO GOSTAR>mc",
+        "<FUTEBOL>t <JOÃO GOSTAR>sn",
+        "<*FUTEBOL, JOÃO GOSTA>t",
+        "<BOLA-FUTEBOL>t, <ONDE O JOÃO PEGAR>qu",
+        "<CARRO>t <QUAL DELE?>qu",
+        "*<<CARRO QUAL TEU?>qu>t"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.001",
+        "LIBRAS.SINTAXE.002",
+        "LIBRAS.SINTAXE.003",
+        "LIBRAS.SINTAXE.004"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem a mesma estrutura sintática de topicalização em Libras, com marcação não-manual < >t, posição acima de CP, e efeitos sobre a ordem da frase e escopo da marcação."
+    },
+    {
+      "titulo": "Foco com cópia do constituinte e marca não-manual afirmativa",
+      "descricao": "Construções com foco em Libras derivam a ordem SOV a partir da estrutura S(V)OV, marcadas por cópia do constituinte enfatizado e pela presença de uma marca não-manual afirmativa, que indica ênfase sintática e prosódica.",
+      "gatilho": "frase com verbo duplicado e marca não-manual afirmativa",
+      "exemplos": [
+        "EU PERDER LIVRO <PERDER>mc"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.005"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Posicionamento de CP à esquerda de IP em orações interrogativas",
+      "descricao": "Em Libras, a estrutura da frase apresenta CP (Complementizer Phrase) posicionada à esquerda de IP (Inflectional Phrase), com elementos interrogativos movidos para [Spec CP], o que determina a ordem dos sinais em orações interrogativas e subordinadas.",
+      "gatilho": "Presença de oração interrogativa ou subordinada",
+      "exemplos": [
+        "DE QUEM JOÃO GOSTAR",
+        "EU QUERO SABER <QUEM O JOÃO ESCOLHER>qu~~"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Distinção entre nome e verbo por posição sintática",
+      "descricao": "A categoria gramatical de um sinal (nome ou verbo) em Libras é determinada pela sua posição na frase e pelas propriedades distribucionais, não por mudanças fonológicas ou morfológicas, permitindo que o mesmo sinal funcione como nome ou verbo conforme o contexto sintático.",
+      "gatilho": "Sinal que pode funcionar como nome ou verbo dependendo da posição na frase",
+      "exemplos": [
+        "TELEFONE (um movimento)",
+        "COMER (dois movimentos internos)"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca como marcador de vinculação em frases nominais",
+      "descricao": "A articulação-boca pode vincular sujeitos a verbos em frases nominais ou unidades prosódicas maiores, funcionando como recurso sintático para estabelecer relações gramaticais entre elementos da frase, especialmente em estruturas nominais.",
+      "gatilho": "frase nominal com articulação-boca que conecta sujeito a verbo",
+      "exemplos": [
+        "articulação-boca vinculando sujeito a verbo em frase nominal"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca como desambiguadora de pares mínimos",
+      "descricao": "A articulação-boca é usada para desambiguar sinais que são idênticos em movimento manual, mas diferem semanticamente, permitindo distinguir entre significados diferentes, como gênero ou referente específico.",
+      "gatilho": "sinal manual com articulação-boca que distingue entre dois significados possíveis",
+      "exemplos": [
+        "irmão vs irmã com articulação-boca especificando sexo",
+        "SPOUSE na Auslan com 'wife' ou 'husband' para especificar referente"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Sincronicidade da articulação-boca com sinal manual",
+      "descricao": "A articulação-boca síncrona inicia e termina simultaneamente com o sinal manual, sendo semanticamente ancorada a ele e comum em substantivos e verbos, indicando uma ligação direta entre o movimento manual e a articulação oral.",
+      "gatilho": "sinal manual com articulação-boca que acompanha todo o movimento",
+      "exemplos": [
+        "REFLEXÃO + eeflexao",
+        "ATÉ + ate (em diferentes variações de movimento)"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca reduzida no final do sinal manual",
+      "descricao": "A articulação-boca reduzida é produzida no final do sinal manual, com tempo de duração menor que o sinal, e está semanticamente ligada ao significado do sinal, funcionando como um marcador prosódico ou semântico final.",
+      "gatilho": "sinal manual com articulação-boca no final da produção",
+      "exemplos": [
+        "FORMAR + foopa",
+        "HISTÓRIA + iistoiia"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.011"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca estendida sobre sinais adjacentes",
+      "descricao": "A articulação-boca estendida se sobrepõe temporalmente a um ou mais sinais manuais, sendo influenciada semanticamente pelos sinais adjacentes, mesmo que não seja prototipicamente associada a todos, funcionando como um recurso prosódico ou discursivo.",
+      "gatilho": "articulação-boca que se estende por sinais anteriores ou posteriores ao sinal prototípico",
+      "exemplos": [
+        "titaa sobre VER e TER",
+        "ooxe sobre ATÉ e HOJE",
+        "tatuaau sobre sinais adjacentes a NATURAL"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.012"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca sobreposta sem relação semântica",
+      "descricao": "A articulação-boca sobreposta se sobrepõe a sinais manuais sem relação semântica direta, mas com função discursiva ou prosódica, como marcação de ritmo, ênfase ou transição entre ideias.",
+      "gatilho": "articulação-boca produzida sobre sinal manual sem relação semântica",
+      "exemplos": [
+        "copo sobre AJUDAR",
+        "fasee-o-ee sobre AJUDA"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.013"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca independente com significado lexical",
+      "descricao": "A articulação-boca pode ser produzida de forma independente do sinal manual, carregando significado por si só, especialmente em lacunas lexicais ou para solicitar repetição, funcionando como um sinal autônomo.",
+      "gatilho": "articulação-boca produzida sem sinal manual associado",
+      "exemplos": [
+        "tao-eteti sem sinal manual ENTENDER-NÃO"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.014"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Ordem de sinais em narrativas visuais com foco na perspectiva",
+      "descricao": "A ordem dos sinais em narrativas visuais em Libras segue a perspectiva visual do narrador, com foco no que é visto, e não na sequência linear do tempo, permitindo uma representação espacial e temporal não convencional.",
+      "gatilho": "Em narrativas visuais, especialmente em contextos de descrição de cenas ou eventos",
+      "exemplos": [
+        "descrição de cena com foco no olhar do menino",
+        "sequência baseada na visão do narrador"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.015"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### pergunta lote 0
+{"regras_finais": [{"titulo": "Marca não-manual interrogativa < >qu", "descricao": "Perguntas com itens interrogativos (quando, onde, qual, etc.) são marcadas com a expressão não-manual < >qu, que indica a presença de uma pergunta. Essa marcação é obrigatória em construções interrogativas principais e se espalha sobre todo o IP (Inflectional Phrase), indicando que CP está à esquerda de IP. A direção visual e o movimento manual também contribuem para a formação dessas perguntas, especialmente quando o item interrogativo está em posição final, funcionando como foco duplo com o elemento mantido in situ.", "gatilho": "Ocorrência de construção interrogativa com item interrogativo (quando, onde, qual, etc.) ou em posição final, com marca não-manual < >qu", "exemplos": ["< >qu", "JOÃO PEGAR <O QUE>qu", "QUEM GOSTAR MARIA QUEM", "O QUE JOÃO PEGAR O QUE", "ONDE VOCÊ VAI?", "QUAL É O SEU NOME?", "olhar direcionado para cima + sinal de 'quando?'", "olhar para trás + sinal de 'onde?'"], "ids_origem": ["LIBRAS.PERGUNTA.001", "LIBRAS.PERGUNTA.002", "LIBRAS.PERGUNTA.003", "LIBRAS.PERGUNTA.006", "LIBRAS.PERGUNTA.007"], "justificativa_fusao": "Todas as candidatas descrevem a marcação não-manual < >qu como elemento central na formação de perguntas em Libras, com variações em contexto (principal vs. subordinada), posição do item interrogativo e uso de direção visual, mas todos referem ao mesmo fenômeno gramatical fundamental: a marcação não-manual obrigatória para indicar interrogatividade."}, {"titulo": "Marca não-manual interrogativa diferenciada < >qu~ em subordinadas e indiretas", "descricao": "Interrogativas subordinadas e indiretas usam a marca não-manual < >qu~ com expressão facial mais tensa, indicando não apenas indagação, mas também desejo de confirmação. Essa marcação distingue claramente perguntas subordinadas de principais e é usada em contextos como 'eu quero saber' ou 'tu saber'.", "gatilho": "Oração interrogativa em contexto subordinado (ex: após 'eu quero saber') ou em perguntas indiretas com intenção de confirmação", "exemplos": ["EU QUERO SABER <QUEM O JOÃO ESCOLHER>qu~~", "EU QUERO SABER <QUEM JOÃO ESCOLHER QUEM>", "TU SABER <QUEM>qu~ IX CONQUISTAR", "TU SABER <QUEM>qu~ IX"], "ids_origem": ["LIBRAS.PERGUNTA.004", "LIBRAS.PERGUNTA.005"], "justificativa_fusao": "Ambas as candidatas descrevem o uso da marca não-manual < >qu~ em contextos de perguntas subordinadas e indiretas, com variações de função (desejo de confirmação vs. estrutura subordinada), mas referem ao mesmo fenômeno de distinção prosódica e facial entre tipos de perguntas."}]}
+
+### concordancia lote 0
+{"regras_finais": [{"titulo": "Concordância verbal com direção dos olhos e marcas não-manuais", "descricao": "Em Libras, a concordância verbal é marcada tanto manualmente pelo movimento do verbo quanto não-manualmente pela direção dos olhos, que deve acompanhar a direção do movimento da mão. Essas marcas não-manuais são obrigatórias em verbos com concordância, diferentemente de verbos sem concordância, onde são opcionais.", "gatilho": "verbo com concordância + sujeito e objeto localizados no espaço", "exemplos": ["(el@) <aOLHARb>do (el@)", "(el@) <aAJUDARb>do (el@)", "JOÃO <GOSTAR MARIA>do", "JOÃO <aAJUDARb MARIA>do"], "ids_origem": ["LIBRAS.CONCORDANCIA.001", "LIBRAS.CONCORDANCIA.002"], "justificativa_fusao": "Ambas as candidatas descrevem o mesmo fenômeno: a concordância verbal em Libras depende do movimento do verbo e da direção dos olhos, com marcas não-manuais obrigatórias em verbos com concordância."}]}
+
+### expressoes-idiomaticas lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Tag questions com marca não-manual",
+      "descricao": "Construções com marca não-manual em final de frase (ex: < >sn) podem indicar tag questions, com significado de confirmação, sendo um recurso idiomático da Libras para expressar dúvida ou solicitação de validação do que foi dito.",
+      "gatilho": "Frase com marca não-manual < >sn no final",
+      "exemplos": [
+        "JOÃO PEGAR <BOLA>sn",
+        "JOÃO PEGAR <O QUE>qu"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.001"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Construções manuais com classificadores como expressões convencionais",
+      "descricao": "Construções com verbos manuais e classificadores são expressões fixas e convencionais na Libras, usadas para expressar ações com instrumentos ou relações espaciais de forma natural, funcionando como unidades idiomáticas na língua.",
+      "gatilho": "uso de classificador com verbo manual (ex: PINTAR-PINCEL, BATER-POSTE)",
+      "exemplos": [
+        "<JOÃO>t <CASA>t <PINTAR-ROLO>cl",
+        "<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE>cl"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulações-boca como reflexo do contato bilíngue",
+      "descricao": "Articulações-boca são formas de produção bucal que derivam do contato com a língua oral circundante, sendo comuns em surdos e CODAs, mesmo em contextos potencialmente monolíngues, funcionando como marca de bilíngue e identidade cultural.",
+      "gatilho": "presença de articulação-boca em surdos ou CODAs",
+      "exemplos": [
+        "[ff] com o sinal ACABAR",
+        "[pa] ('pah') com SUCESSO"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca como elemento de estilo discursivo",
+      "descricao": "A articulação-boca pode ser usada de forma estilística para representar atitudes, personagens ou expressões culturais, especialmente em surdos nativos que incorporam aspectos da cultura oral de forma teatral, funcionando como recurso idiomático expressivo.",
+      "gatilho": "articulação-boca usada para representar atitude, personagem ou estilo discursivo",
+      "exemplos": [
+        "sinalizante representando atitude de pessoa usando língua oral de forma teatral"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Articulação-boca performática para imitar fala de ouvintes",
+      "descricao": "A articulação-boca performática é usada para imitar o comportamento de fala de ouvintes, especialmente em contextos narrativos, com sons como 'papapa' para representar tagarelice, sem referência direta à oralidade, mas à visualidade vibracional da língua, funcionando como expressão idiomática narrativa.",
+      "gatilho": "contexto narrativo envolvendo fala de ouvintes",
+      "exemplos": [
+        "TELEFONE + BONITO -> papapa",
+        "situção com professora -> papapa"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.005"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Morfemas faciais com valor morfêmico em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas em Libras podem ser constituídas por morfemas faciais (como expressão da boca) que têm valor morfêmico, contribuindo para o significado idiomático, como em LÍNGUA-FORA (isso mesmo!) e LÁBIOS-FECHADOS (impressionante!).",
+      "gatilho": "Presença de sinais com expressão facial não manual que contribui para o significado idiomático",
+      "exemplos": [
+        "LÍNGUA-FORA",
+        "LÁBIOS-FECHADOS",
+        "LÁBIOS-TREME"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Adaptação cultural de expressões idiomáticas da Língua Portuguesa",
+      "descricao": "Expressões idiomáticas da Língua Portuguesa são adaptadas para Libras com ajustes culturais que respeitam a modalidade visual e manual da língua, como substituir 'boca' por 'mãos' ou 'ouvidos' por 'olhos', mantendo o sentido original em formato visual.",
+      "gatilho": "Expressão idiomática em Português com base em partes do corpo que é adaptada para Libras",
+      "exemplos": [
+        "CALE AS MÃOS! (em vez de Cale a boca)",
+        "VEJA (em vez de Ouçam)",
+        "OLHOS-SAIR (em vez de Entrar por um ouvido e sair pelo outro)"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Significados metafóricos baseados em mapeamentos cognitivos",
+      "descricao": "Expressões idiomáticas em Libras frequentemente usam mapeamentos cognitivos que transferem conceitos de um domínio físico (como mãos, olhos) para um domínio abstrato (como fala, controle, emoção), resultando em significados conotativos e expressivos.",
+      "gatilho": "Uso de sinais corporais (mãos, olhos, corpo) para expressar ideias abstratas",
+      "exemplos": [
+        "MÃOS/DEDOS-BALANÇAR -> Papo furado",
+        "MÃOS-LIMPAR -> Estou fora",
+        "ESMAGAR -> Refere-se ao preconceito"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Metáfora espacial/orientacional em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas em Libras usam orientação espacial (para cima, para baixo, perto, longe) para representar valores emocionais ou conceituais, onde movimentos para cima indicam positividade e para baixo negatividade, funcionando como recurso idiomático de expressão emocional.",
+      "gatilho": "expressão idiomática envolve movimento de mão em direção ao corpo ou afastamento do corpo",
+      "exemplos": [
+        "AFASTAR-EU",
+        "VOMITAR",
+        "EMPURRAR-X",
+        "CHOQUE",
+        "APERTAR-PESCOÇO-TRÁS"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Metáfora ontológica em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas baseadas em metáforas ontológicas tratam conceitos abstratos (como ideias, emoções, conhecimento) como entidades físicas que podem ser manipuladas, armazenadas ou transferidas, como colocar algo na cabeça ou tirar da cabeça, funcionando como estrutura idiomática para expressar estados mentais.",
+      "gatilho": "expressão idiomática envolve ação de colocar ou tirar algo da cabeça",
+      "exemplos": [
+        "APRENDER",
+        "ESQUECER",
+        "CABEÇA-EXPLODIR"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.010"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### morfologia lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Flexão por sobreposição de movimentos simultâneos",
+      "descricao": "A flexão em Libras é realizada por sobreposição de movimentos simultâneos, onde morfemas são produzidos ao mesmo tempo, sobrepostos uns aos outros, em uma estrutura locação-movimento-locação, permitindo marcar concordância e aspecto gramatical.",
+      "gatilho": "morfemas produzidos simultaneamente com sobreposição de movimento",
+      "exemplos": [
+        "flexão de concordância",
+        "flexão aspectual"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.020"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Morfemas-boca como afixos derivacionais",
+      "descricao": "Morfemas-boca em Libras funcionam como afixos derivacionais, combinando-se com sinais manuais para formar palavras complexas, não sendo independentes no léxico. Eles exigem coordenação dinâmica com os sinais manuais e podem envolver múltiplos articuladores não manuais, como cabeça e ombros, para alterar ou completar o significado. A articulação-boca pode atuar como morfema derivacional, especificar gênero verbal, transformar categoria gramatical, ou ser prototípica em sinais substantivos e adjetivos.",
+      "gatilho": "morfema-boca em combinação com sinal manual; presença de morfema-boca com sinal manual; morfema-boca associado a movimentos de cabeça ou ombros; sinal manual com necessidade de especificação de gênero; sinal manual com função substantiva ou adjetiva; sinal manual + articulação-boca especificadora",
+      "exemplos": [
+        "cs 'perto'",
+        "th 'desleixadamente'",
+        "oo grau surpreendente",
+        "ESTOURAR+BOCA EM POW",
+        "BALANÇO DE CABEÇA+ELEVAÇÃO DE SOBRANCELHAS+BOCA EM U",
+        "ESCOLA-REGULAR -> NATURAL + articulação-boca 'eeculaa'",
+        "COPIAR -> sinal manual + articulação-boca 'copiaa'",
+        "IRMÃO -> iipa",
+        "IRMÃO -> ii-pao",
+        "ESCOLA -> esola",
+        "ESTUDAR -> esola",
+        "CASA -> poaaa",
+        "CONHECER + ooesipeto -> CONHECIMENTO",
+        "CASA -> ASA",
+        "IGUAL -> IUA"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.027",
+        "LIBRAS.MORFOLOGIA.028",
+        "LIBRAS.MORFOLOGIA.029",
+        "LIBRAS.MORFOLOGIA.030",
+        "LIBRAS.MORFOLOGIA.032",
+        "LIBRAS.MORFOLOGIA.033",
+        "LIBRAS.MORFOLOGIA.034",
+        "LIBRAS.MORFOLOGIA.035"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem fenômenos relacionados ao uso de morfemas-boca como elementos derivacionais em Libras, com variações em função de coordenação, articuladores envolvidos, função gramatical e transcrição, mas todos pertencem ao mesmo fenômeno central de morfemas-boca como afixos derivacionais."
+    },
+    {
+      "titulo": "Formação de sinais por iconicidade de contorno e ação",
+      "descricao": "Sinais em Libras são formados com base na imitação de formas (contorno) ou ações, especialmente em surdos adultos isolados, refletindo uma base iconicidade na criação de novos sinais.",
+      "gatilho": "Quando sinais são criados por surdos adultos isolados para representar entidades ou eventos",
+      "exemplos": [
+        "sinais com contorno de forma",
+        "sinais com imitação de ação"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.036"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Derivação e composição de sinais por meio de parâmetros",
+      "descricao": "Novos sinais em Libras são criados por derivação e composição, utilizando configuração, orientação, movimento e localização como elementos morfológicos, permitindo a formação de novos visemas a partir de sinais existentes.",
+      "gatilho": "Quando se cria um novo sinal ou se modifica um existente",
+      "exemplos": [
+        "SINAL COM NOVA CONFIGURAÇÃO DE MÃO",
+        "SINAL COM NOVO MOVIMENTO"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.037"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+

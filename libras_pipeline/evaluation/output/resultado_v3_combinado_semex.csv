@@ -1,0 +1,9 @@
+Texto,Glosa,Estado,Fidelidade,Naturalidade,Regras,Problema,Sugestao,Esperado,Acertou,Origem
+Quando a dor começou?,DOR COMEÇAR QUANDO?,invalido,Sim,Não,LIBRAS.PERGUNTA.1; TANIA.PERGUNTA.1,"O item-QU (QUANDO) deve estar no início da frase (Spec CP) ou no final (foco), não no meio entre o verbo e o sujeito.",QUANDO DOR COMEÇAR,valido,não,llm
+Quando a dor começou?,QUANDO DOR COMEÇAR?,valido,Sim,Sim,LIBRAS.PERGUNTA.1; LIBRAS.SINTAXE.1,,,invalido,não,llm
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,invalido,Sim,Não,TANIA.SINTAXE.2; LIBRAS.PERGUNTA.1; TANIA.PERGUNTA.1,A preposição 'PARA' deve ser elidida (regra TANIA.SINTAXE.2) e a estrutura interrogativa não está marcada (regras LIBRAS.PERGUNTA.1/TANIA.PERGUNTA.1).,EU PODER IR CASA HOJE,invalido,sim,llm
+Bebeu água suficiente?,BEBER ÁGUA SUFICIENTE?,valido,Sim,Sim,LIBRAS.SINTAXE.1; TANIA.SINTAXE.5,,,valido,sim,llm
+Comeu algo estranho?,COMER ESTRANHO ALGO?,invalido,Sim,Não,LIBRAS.PERGUNTA.1; LIBRAS.PERGUNTA.2; TANIA.PERGUNTA.1,"Em perguntas com item-QU (implícito em 'algo'), o elemento interrogativo deve estar no início (Spec CP) ou final (foco), não no meio da frase entre o adjetivo e o verbo.",ALGO ESTRANHO COMER?,invalido,sim,llm
+Pode explicar o tratamento?,PODER EXPLICAR TRATAMENTO,invalido,Sim,Não,LIBRAS.PERGUNTA.1; LIBRAS.PERGUNTA.2,Frase interrogativa sem marcação de pergunta (foco/interrogativo) e estrutura linear que não reflete a sintaxe de pergunta em Libras.,TRATAMENTO EXPLICAR PODER?,valido,não,llm
+Posso ir para casa hoje?,EU PODER IR CASA HOJE,invalido,Sim,Não,LIBRAS.PERGUNTA.1; LIBRAS.PERGUNTA.2; TANIA.SINTAXE.2; TANIA.SINTAXE.3,Falta a marcação interrogativa (movimento do item-QU ou não-manual) e a ordem do advérbio de tempo pode ser ajustada para maior naturalidade em estruturas locativas.,EU PODER IR CASA HOJE [PERGUNTA],valido,não,llm
+"Chamar a enfermeira, agora.",ENFERMEIRA CHAMAR AGORA,valido,Sim,Sim,LIBRAS.SINTAXE.3; LIBRAS.TEMPO-ASPECTO.1,,,valido,sim,llm

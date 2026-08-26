@@ -1,0 +1,9 @@
+Texto,Glosa,Estado,Fidelidade,Naturalidade,Regras,Problema,Sugestao,Esperado,Acertou,Origem
+Quando a dor começou?,DOR COMEÇAR QUANDO?,nao_coberto,Sim,Sim,,Nenhuma regra específica na base cobre a estrutura sintática de interrogativas com advérbio interrogativo (QUANDO) ou a ordem temporal em perguntas.,,valido,,llm
+Quando a dor começou?,QUANDO DOR COMEÇAR?,nao_coberto,Sim,Sim,,Nenhuma regra específica na base cobre a estrutura sintática de interrogativas temporais com o marcador QUANDO ou a ordem dos sinais nesta construção específica.,,invalido,,llm
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,invalido,Sim,Não,LIVRO.SINTAXE.043,A preposição locativa 'PARA' deve ser omitida na glosa quando o verbo de movimento (IR) já expressa a direção ou o destino é apontado.,EU PODER IR CASA HOJE,invalido,sim,llm
+Bebeu água suficiente?,BEBER ÁGUA SUFICIENTE?,nao_coberto,Sim,Sim,,Nenhuma regra da base cobre especificamente a estrutura de interrogativas sim/não (sem QU) ou a ordem de advérbios de quantidade como 'suficiente' em relação ao objeto.,,valido,,llm
+Comeu algo estranho?,COMER ESTRANHO ALGO?,nao_coberto,Sim,Sim,,Nenhuma regra da base cobre a ordem específica de adjetivos e objetos indefinidos em interrogativas simples sem concordância.,,invalido,,llm
+Pode explicar o tratamento?,PODER EXPLICAR TRATAMENTO,nao_coberto,Sim,Sim,,"A frase é uma interrogativa sim (polar), mas as regras fornecidas não especificam a estrutura gramatical para perguntas sim/não (ausência de regras sobre intonação não manual ou marcadores específicos para interrogativas sim/não).",,valido,,llm
+Posso ir para casa hoje?,EU PODER IR CASA HOJE,valido,Sim,Sim,LIVRO.SINTAXE.003; LIVRO.SINTAXE.043; LIVRO.PRONOMES.005,,,valido,sim,llm
+"Chamar a enfermeira, agora.",ENFERMEIRA CHAMAR AGORA,valido,Sim,Sim,LIVRO.SINTAXE.014,,,valido,sim,llm

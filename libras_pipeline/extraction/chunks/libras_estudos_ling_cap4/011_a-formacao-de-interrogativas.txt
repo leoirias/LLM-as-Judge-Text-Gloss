@@ -1,0 +1,122 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A FORMAÇÃO DE INTERROGATIVAS ===
+=== TRECHO: páginas 187-194 (parte 2 de 2 do mesmo tópico) ===
+
+[p.187]
+LÍNGUA DE SINAIS BRASILEIRA     191
+na posição de tópico não é desejável, uma vez que tal posição é ocupada por
+uma informação pressuposta, uma entidade específica.
+A análise sobre construções duplas (focalizadas) parece dar conta desses
+fatos na língua de sinais brasileira. No exemplo anterior, não há um elemento
+interrogativo entre o verbo e o adjunto, portanto, o objeto interrogativo não
+está in situ. Assim, assume-se que houve um movimento da interrogativa da
+posição de objeto para [Spec, CP] como ilustrado a seguir:
+<[CP O QUE i [IP JOÃO PEGAR t i ONTEM ] O QUE>qu
+Assim, tem-se um elemento interrogativo movido para a posição de
+especificador de CP , em que a posição final está ocupada pelo elemento
+interrogativo duplo (focalizado). Isso se aplica aos demais exemplos, ou seja,
+ou há um sujeito interrogativo em CP ou in situ na posição inicial e um ele-
+mento interrogativo duplo em posição final ou há um objeto interrogativo na
+posição inicial movido para CP e outro elemento interrogativo duplo na posi-
+ção final. Como mencionado antes, as construções duplas podem derivar sen-
+tenças com o elemento duplo apagado, o que pode ocorrer, da mesma forma,
+com as construções interrogativas duplas.
+Outra evidência que mostra o elemento interrogativo ocupando a posi-
+ção de foco está na sentença a seguir:
+
+[p.188]
+192     QUADROS & KARNOPP
+Nesse exemplo, o elemento interrogativo aparece simultaneamente
+na posição gerada na base in situ e na outra posição. Considerando a aná-
+lise apresentada, a posição final é ocupada pelo elemento interrogativo
+duplo no núcleo de FP , que força o movimento da sentença inteira para a
+posição de especificador de FP [Spec FP]. Uma vez que o movimento do
+elemento interrogativo para a posição de especificador de CP é opcional
+na língua brasileira de sinais, há uma instância de interrogativa in situ
+aqui. O que é interessante com esse tipo de construção é que há uma dife-
+rença entre os elementos interrogativos de CP ( in situ  ou movido) e o ele-
+mento interrogativo duplo associado com foco. As instâncias de inter-
+rogativas in situ  apresentam o mesmo escopo da marcação não-manual
+associada com este tipo de construção, que difere da ênfase associada à
+marcação não-manual do elemento interrogativo duplo.
+(iv) CP está abaixo de TP (topicalização), uma vez que a marcação
+não-manual associada com as interrogativas deve seguir a marca-
+ção não-manual de tópico. Essas marcações não-manuais nunca
+co-ocorrem.
+<JOÃO PEGAR O QUE ONTEM O QUE>qu
+
+[p.189]
+LÍNGUA DE SINAIS BRASILEIRA     193
+(v) Na língua de sinais brasileira há uma distribuição similar de CP em
+orações principais e orações subordinadas.
+Na língua de sinais brasileira, diferentemente da ASL, as construções
+interrogativas nas orações principais têm um sinal diferente do sinal de ora-
+ções subordinadas. Neste caso, a marca não-manual associada com a oração
+interrogativa subordinada é mais tensa do que aquela produzida com a ora-
+ção principal, além de poder ser produzida com uma ou duas mãos, conforme
+ilustrado no sistema de transcrição no Capítulo 1 e repetido aqui através das
+figuras a seguir:
+a) interrogativa 1 – são as interrogativas que indagam sobre alguma coi-
+sa normalmente associadas às palavras interrogativas O QUE, COMO,
+ONDE, POR QUE, QUEM < >qu
+<QUE>qu
+b) interrogativa 2 – são aquelas que expressam dúvida, desconfiança
+< >~~
+<QUE>~~
+
+[p.190]
+194     QUADROS & KARNOPP
+c) interrogativa 3 – são aquelas que aparecem normalmente em orações
+subordinadas com expressão facial diferenciada < >qu~
+<QUE>qu~
+Isso é muito interessante, uma vez que a ASL não apresenta tal distinção
+nesses dois contextos. Na língua de sinais brasileira torna-se, portanto, mais
+fácil distinguir a verdadeira oração subordinada daquela oração que parece
+ser subordinada, mas, na verdade, é uma oração principal. Os exemplos a
+seguir ilustram orações subordinadas interrogativas:
+<EU QUERO SABER> <QUEM O JOÃO ESCOLHER>qu~~
+Eu quero saber quem o João escolheu
+
+[p.191]
+LÍNGUA DE SINAIS BRASILEIRA     195
+<EU QUERO SABER> <QUEM JOÃO ESCOLHER QUEM>
+<EU QUERO SABER> <JOÃO ESCOLHER QUEM>qu~~
+
+[p.192]
+196     QUADROS & KARNOPP
+Essas construções apresentam exatamente a mesma distribuição das
+interrogativas analisadas até então. Há um movimento para a esquerda em
+direção à posição de especificador de CP da oração subordinada no primeiro
+exemplo, bem como uma construção com instância de interrogativa dupla
+no último exemplo que licencia o apagamento da cópia, como no exemplo
+anterior.
+Esse não seria o caso da seguinte derivação:
+JOÃO PERGUNTAR <QUEM MARIA GOSTAR>qu
+O João perguntou: “De quem Maria gosta?”
+Se for intencionado expressar uma oração subordinada utilizando a mar-
+cação não-manual associada com as interrogativas junto com orações princi-
+pais, a derivação não terá essa leitura. A leitura possível é de interrogativa
+direta, conforme ilustrado no último exemplo.
+Outro tipo de construção interrogativa é aquela que inclui a pergunta
+indireta. Para Petrônio e Lillo-Martin, não há marcação não-manual associa-
+da com as perguntas indiretas na ASL (por exemplo, EU SEI QUEM MARIA
+GOSTAR). Na verdade, esse tipo de construção sem qualquer pista não-manual
+é o caso que ilustra de forma clara o movimento para a esquerda. Nesses
+casos, há uma tendência de iniciar a pergunta indireta com o elemento
+interrogativo na posição inicial da oração subordinada. Esse tipo de derivação
+é análogo às construções subordinadas da língua de sinais brasileira apresen-
+
+[p.193]
+LÍNGUA DE SINAIS BRASILEIRA     197
+tadas nos exemplos anteriores. Nesse tipo de construção, há um outro tipo de
+marca não-manual associada à oração interrogativa indireta. O exemplo a
+seguir ilustra este caso:
+TU SABER <QUEM>qu~ IX CONQUISTAR
+Tu sabes quem el@ conquistou
+TU SABER <QUEM>qu~ IX
+Tu sabes quem é el@
+
+[p.194]
+198     QUADROS & KARNOPP
+TU SABER IX CONQUISTAR <QUEM>qu~
+TU SABER <QUEM-c>qu~ IX CONQUISTAR <QUEM>qu~

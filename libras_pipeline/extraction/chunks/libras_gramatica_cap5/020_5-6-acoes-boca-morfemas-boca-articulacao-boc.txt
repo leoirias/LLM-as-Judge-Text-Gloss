@@ -1,0 +1,87 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.6 Ações-boca: morfemas-boca, articulação-boca e gestos-boca ===
+=== TRECHO: páginas 236-237 (parte 1 de 2 do mesmo tópico) ===
+
+[p.236]
+237
+5.6 Ações-boca: morfemas-boca, articulação-boca  
+e gestos-boca
+Carolina Ferreira Pego
+ O estudo da linguística das Línguas de Sinais contribui não apenas para as 
+Línguas Sinalizadas, propriamente, mas também para os estudos das línguas orais. 
+Nas últimas décadas, a Linguística e suas áreas afins têm direcionado seus olhares 
+para algumas das facetas não tão exploradas na estrutura das Línguas de Sinais: 
+a iconicidade inerente a uma língua visuoespacial, a gestualidade que os usuários 
+incorporam ao discurso e os fenômenos que decorrem do inevitável contato entre 
+as Línguas Sinalizadas e as línguas de modalidade oral-auditiva, apesar de alguns 
+aspectos desses fenômenos aparentarem uma forma de intersecção entre a Língua 
+de Sinais e a língua oral. Os movimentos de boca, como, por exemplo, a articulação-
+-boca (descreveremos em outro item desse capítulo),  representa essa capacidade 
+acolhedora da Língua de Sinais de incorporar alguns elementos da língua oral cir-
+cundante e gramaticalizá-los, de uma forma que as línguas orais não conseguem, 
+devido à sua limitação oral-auditiva; não há possibilidade de duas línguas orais 
+serem produzidas de forma simultânea, pois têm o componente bucal-articulató-
+rio como canal de expressão, o que resulta em uma produção linear, consecutiva, 
+sendo assim impossível duas línguas orais serem produzidas simultaneamente, 
+enquanto a Língua de Sinais, por ser corporal-visual, permite incorporação de 
+alguns componentes lexicais das línguas orais. Isso não quer dizer, no entanto, 
+que as línguas orais tenham somente características resultantes do uso do aparato 
+vocal, mas também possuem nuances corporais, por exemplo, pelo uso de gestos 
+que vão se lexicalizando na comunidade ouvinte (PÊGO, 2021).
+As ações-boca estão dentro do escopo das expressões não manuais gramati-
+cais; assim, para entendê-las melhor, vamos, na seção seguinte, entender como o 
+corpo, principalmente a face, carrega significado e é parte do conjunto da sinalização 
+da Libras, sendo indissociável a ela. 
+5.6.1 Expressões não manuais gramaticais
+As línguas de sinais vão além da manualidade, isto é, utilizam-se de recursos 
+não manuais, em uma sincronia inteligentemente orquestrada pela mente do si -
+nalizante. O olhar limitante da manualidade das Línguas de Sinais é um dos mitos 
+existentes sobre essas línguas, como apontado por Pfau e Quer (2010). No entanto, 
+Mohr (2014) enumera alguns estudos que, desde a década de 1980, evidenciam 
+os aspectos linguísticos dos recursos não manuais: Coulter (1978); Woll (1981); 
+Engberg-Pedersen (1990); Sandler (1999); Sutton-Spence e Woll (2006) e Pfau e 
+Quer (2010).
+
+[p.237]
+238
+Alguns dos estudiosos, como Karnopp (1999), optam por enquadrar a Língua 
+de Sinais dentro da modalidade gestual-visual, “outros utilizam o termo espaço-vi-
+sual” (FAULSTICH, 2016, p. 7). São inúmeros termos para um mesmo conceito. 
+No entanto, assim como apontado por Prometi (2020), esses termos não abrangem 
+todos os elementos que compõem a Língua de Sinais, pois “é preciso que estes con-
+tenham em si todos os elementos oriundos de um processo de criação adequado e 
+de acordo com a língua em questão”(PROMETI, 2020, p.66). Assim, os termos que 
+limitam as Línguas de Sinais à manualidade não são suficientes para descrever essa 
+modalidade linguística, pois não fazem referência aos componentes não manuais, 
+ou seja, corporais − que envolvem cabeça, tronco e membros. No caso deste estudo, 
+as articulações-boca e os gestos-boca enquadram-se na parte não manual, a qual 
+tem a mesma relevância do sinal manual para a constituição do significado, das 
+sentenças e do discurso. 
+ Pêgo (2013), ao estudar os morfemas-boca (que se encaixam no conceito 
+de articulações-boca, por serem um dos componentes dessa categoria gramatical), 
+enfatiza a importância do estudo das expressões não manuais gramaticais ao citar 
+pesquisas como as de Siple (1978) e as de Swisher et al. (1989), que apontam para 
+o fato de que os sinalizantes, quando se comunicam, não concentram sua atenção 
+sobre a mão do outro, mas sim, sobre a face, na qual a informação gramatical es-
+sencial é codificada “não manualmente”.
+Pfau e Quer (2010) reconhecem o importante papel que as mãos exercem 
+nas Línguas Sinalizadas; porém, ressaltam o mesmo status de importância e de 
+complexidade que outros articuladores – o corpo, a cabeça e a face – possuem 
+na gramática dessa modalidade de língua. Todos os elementos linguisticamente 
+significativos que não são expressos pelas mãos são referidos como marcadores 
+não manuais ou simplesmente não manuais (PÊGO, 2013).
+A dupla articulação é tida como uma das propriedades universais das línguas 
+naturais, de acordo com Hockett (1960).  Stokoe (1960) foi o primeiro pesquisador 
+a demonstrar que a Língua de Sinais Americana (ASL) e, por extensão, todas as Lín-
+guas Sinalizadas, também são duplamente articuladas. Sua demonstração consistiu 
+em evidenciar que as unidades significativas dessa língua, tradicionalmente cha -
+madas de sinais, são decomponíveis em unidades menores que, como nas línguas 
+orais, não têm significado, mas são capazes de distingui-lo.  Na proposta pioneira 
+de Stokoe, as unidades distintivas das Línguas Sinalizadas seriam de três tipos: 
+a configuração de mão (estado dos dedos), a localização (ponto de articulação) e 
+o movimento. Posteriormente, outras unidades distintivas, ou parâmetros, como 
+mais frequentemente são chamadas, foram identificadas, a saber: a orientação da 
+palma (BATTISON, 1978) e as marcações não manuais − MNM (BRENNAN, 1992 
+apud XAVIER; BARBOSA, 2017, p. 982).
+Na Libras temos, além dos sinais manuais, os olhos, as bochechas, a boca, o 
+tronco e as sobrancelhas como recursos não manuais para a construção do signo

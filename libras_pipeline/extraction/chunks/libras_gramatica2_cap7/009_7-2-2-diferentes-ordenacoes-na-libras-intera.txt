@@ -1,0 +1,136 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2.2 Diferentes ordenações na Libras (interação dos tipos de verbos, tipos de e ===
+=== TRECHO: páginas 46-51 (parte 2 de 2 do mesmo tópico) ===
+
+[p.46]
+47
+(49) Sentença com verbos de concordância locativa com argumentos nulos.
+ [[3VER1+] V     NORMAL            IX (eu)O]                             |       [1IRloc+]V      |       [locVIR1+]V
+ [3VER1+] V NORMAL IX (eu)O] | [1IRloc+] V |  
+[locVIR1+] V
+(As pessoas) (me) olhavam normal, (eu) ia  
+(aos lugares) e (eu) vinha (dos lugares).
+ (50) Sentença com discurso direto (role shift) – verbo concordância 3AVISAR1  
+e verbo simples sem concordância OLHAR.
+                                 MAS [IX (eu) ANTES                                    IX (eu)] O          PAIS            [3AVISAR1] V | 
+[OLHARV:                 IX (você)S                                 3IRV] ESTUDAR
+MAS [IX (eu) ANTES IX (eu)] O PAIS [3AVISAR1] V 
+| [OLHARV: IX (você)S 3IRV] ESTUDAR
+Antes, meu pai me dizia: olha, você vai estudar.
+https://youtu.be/_LMXch7Sf98C
+https://youtu.be/4jFco2RO7ho
+
+[p.47]
+48
+ (51) Sentença subordinada/encaixada (verbo com concordância: AJUDAR).
+    [letras-LibrasAJUDAR1] V                                       | DESENVOLVERV MESTRADOO
+[letras-LibrasAJUDAR1] V | DESENVOLVERV 
+MESTRADOO
+O letras Libras me ajudou a desenvolver para o 
+mestrado. 
+ Também há verbos de concordância que incluem o locativo, também cha-
+mado de concordância espacial. Esses verbos também favorecem os argumentos 
+nulos e diferentes ordenações.
+ 
+ (52)
+eu/aquiCARREGAR-MALAláV
+(Eu) carrego a mala (daqui para lá).
+ 
+ (53)
+        [MAIS-MENOS DISTÂNCIA                JOINVILLE                          IX (lá)
+https://youtu.be/iOd-CnI5G6w
+
+[p.48]
+49
+        PROVA] tópico     IX (eu)S                              1ENTRARlocV                            IX (lá)O
+[MAIS-MENOS DISTÂNCIA JOINVILLE IX (lá) 
+PROVA] tópico IX (eu)S 1ENTRARlocV IX (lá)O
+(Eu fui fazer prova no curso a distância em Joinvil-
+le,) eu entrei lá.
+Fonte: Royer (2019, p. 129).
+ 
+Verbos manuais/instrumentais são aqueles que usam a mão para pegar algo 
+ou para substituir um instrumento. Esses verbos implicam mudanças da ordem por 
+serem considerados verbos morfologicamente “pesados” (heavy verbs), ou seja, 
+verbos que são muito ricos morfologicamente. Os verbos manuais/instrumentais 
+podem ser classificadores. Os classificadores verbais também acabam implican -
+do mudança de ordem. Esses verbos pesados sempre ficam no final da sentença. 
+Assim, a ordem observada quando esses verbos entram em jogo na produção em 
+Libras é SOV ou OSV.
+ (54)
+ESTANTEO (eu)S PEGAR-LIVROV 
+Da estante, pego-o-livro
+(55)
+CASAO (eu)S PINCELAR-PAREDE-COM-PINCEL-ROLOV 
+A casa, eu pinto-com-pincel-rolo
+(56)
+IX (você)S [ROUPA PILHA] O PASSAR-COM-FERROV  
+Você, a pilha de roupa, passa com ferro
+https://youtu.be/EvCNqx1yLmA
+
+[p.49]
+50
+(57)
+IX (eu)S [GELÉIA GOIABADA] O COZINHAR-COM-COLHER-MEXER-CÍRCULOV  
+Eu, geleia de goiaba, cozinho com colher mexendo em círculo
+ 
+(58) Verbo manual – tirar/colocar.
+               TIRAR-MOCHILA-COSTAS     COLOCAR-MOCHILA-CADEIRA
+TIRAR-MOCHILA-COSTAS COLOCAR-MOCHILA-
+-CADEIRA
+Tirou a mochila das costas e colocou na cadeira.
+(59) Verbo manual e classificador.
+                  ATIRAR-PEDRA                                             ATIRAR-PEDRA
+CL (estilhaçar-vidro)
+ATIRAR-PEDRA ATIRAR-PEDRA – CL  
+(estilhaçar-vidro)
+Atirou as pedras e o vidro estilhaçou
+https://youtu.be/-KfWYr0qLmY
+https://youtu.be/5CHjhVp1LsM
+
+[p.50]
+51
+(60) Dois tipos de classificadores de pessoa: ereto e andando
+[MENINO                CL (andar)] direita CL (homem)esquerda
+[MENINO CL (andar)] direita CL (homem)
+esquerda
+Enquanto o homem estava parado, o menino 
+desviou e correu.
+Outra categoria de verbos de concordância são os chamados verbos reversos. 
+Esses verbos fazem o movimento na direção oposta dos verbos de concordância 
+clássicos. Ao invés do sujeito para o objeto, os verbos reversos começam o movimen-
+to do objeto para o sujeito, por isso são chamados reversos. Esses verbos marcam 
+também concordância de pessoa e número, também podem marcar concordância 
+locativa. Eles reversos apresentam diferentes possibilidades de ordenação, assim 
+como observado com os verbos com concordância clássica, pois os argumentos 
+ficam estabelecidos por meio da morfologia verbal.
+https://youtu.be/SS7P_kwA_pk
+
+[p.51]
+52
+(61) Sentença SVO com concordância verbal –verbo reverso (além do sujeito, a concordância aqui 
+pode ser tanto com a filha (objeto) como com a escola (locativo), pois as duas estão associadas ao 
+mesmo ponto no espaço).
+IX (eu) AGRADECER       3CONVIDAR1
+ IX (eu) AGRADECER 3CONVIDAR1
+Eu agradeço terem me convidado.
+Com os verbos de concordância, incluindo a concordância reversa, o sujeito 
+e o objeto podem estar na posição de tópico, pois percebemos que natural para os 
+informantes produzir essas sentenças com uma pausa entre o sujeito e o objeto, ou 
+o objeto e o sujeito associada à marcação não manual mais marcada (de tópico). 
+Em uma perspectiva mais semântica e considerando a iconicidade inerente 
+das Línguas de Sinais, Napoli, Sutton-Spence e Quadros (2017), apresentam uma 
+análise da ordenação dos sinais na Libras. As autoras analisaram produções de 
+surdos com verbos instrumentais (PRENDER-ROUPA; TOCAR-FLAUTA) e ver -
+bos operacionais (PENSAR, SONHAR). Os primeiros se enquadram nos verbos 
+chamados “pesados” (morfema, iconicidade) já analisados. Já os verbos da se-
+gunda categoria são normalmente verbos simples (nada morfema etc.). As autoras 
+verificaram que há também um efeito de ordem icônica que pode determinar o 
+favorecimento da ordem com verbo final (SOV ou OSV), e o outro verbo simples 
+(SVO), isso é uma análise semântica.
+Assim como observado em ASL (MATSUOKA, 1997), modulações aspectuais 
+no verbo também podem alterar a ordem dos constituintes na sentença (QUADROS, 
+1999; QUADROS e KARNOPP, 2004). Verbos cujo movimento é alterado para 
+marcar diferentes leituras aspectuais (como continuativo, durativo ou iterativo, 
+por exemplo) aparecem em posição final da sentença. 
+https://youtu.be/kkOb8hPp3pc

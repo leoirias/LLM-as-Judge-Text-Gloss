@@ -1,0 +1,122 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.6 DISJUNTIVAS ===
+=== TRECHO: páginas 151-154 (2 tópicos consecutivos) ===
+
+[p.151]
+152
+(29) Parataxe adversativa com marcações não manuais de movimento da cabeça indicando a quebra 
+prosódica entre as orações coordenadas.
+ 
+         ELE              ÀS-VEZES          3AJUDAR1             IX (eu) MAS                IX (eu)
+  
+   
+USAR              VER        LER-LÁBIOS 
+ELE ÀS-VEZES AJUDAR1 [MAIS EU] 
+adversativa USAR VER LER-LÁBIOS
+Ele às vezes me ajudava, mas eu usava mais 
+frequentemente a leitura labial.
+Em (28), temos duas orações, ELE ÀS VEZES AJUDAR-1, apresentando o 
+evento que normalmente acontecia, e, então, indicando um contraste que indica 
+que isso não era a regra, [MAIS EU] adversativa USAR VER LER-LABIAL, ‘mas eu 
+usava mais frequentemente a leitura labial’. O contraste semântico é em relação ao 
+advérbio temporal: ÀS VEZES e frequentemente indicado aspectualmente por meio 
+do movimento associado ao verbo LER-LÁBIOS. Os contrastes dos movimentos da 
+cabeça associados com a primeira e a segunda oração compõem a quebra prosódica 
+marcada entre uma e outra oração.
+8.6 DISJUNTIVAS 
+A parataxe disjuntiva manual apresenta apenas um sinal manual no corpus 
+analisado. O sinal OU foi formado a partir da soletração da palavra em Língua 
+Portuguesa ‘ou’ que é um item lexical disjuntivo usado em Língua Portuguesa.  e 
+sua produção é associada à articulação da boca em ‘O’. Todos os participantes que 
+https://youtu.be/x6YM5OQW4Qc
+
+[p.152]
+153
+produziram orações disjuntivas com marcação manual usaram OU associado com 
+a articulação da boca em ‘O’, conforme ilustrado na figura 17 e também observado 
+no exemplo em (29).
+Figura 17: OU
+(30) Parataxe disjuntiva OU.
+        
+        É                  APAE                  DEM (aquele) OU                                      ESCOLA 
+É APAE DEM (aquele) OU ESCOLA
+Era APAE ou escola ouvinte.
+A relação semântica de disjunção indica que uma das opções estava dispo -
+nível, no caso do exemplo em (29), era estudar na APAE ou na escola de ouvinte. 
+A participante estava explicando que não havia outras opções, apenas essas s duas 
+e que era necessário fazer uma escolha de uma delas entre as duas.
+A seguir, apresentamos outro exemplo de disjuntiva associado à alternância 
+da apontação combinada com alternância do torso.
+https://youtu.be/azdUG1-zQEQ
+
+[p.153]
+154
+(31) Disjuntiva com alternância da apontação combinada com alternância do torso.
+    E (então) IX (eu)   NÃO               PERCEBER        DEM (aquele)     SURDO      
+OUVINTE          DEM (este) NÃO
+EU NÃO PERCEBER SURDO OUVINTE NÃO
+Então, eu não percebia se eu era surdo ou se eu 
+era ouvinte.
+Em (30), temos o contraste disjuntivo estabelecido pelo movimento do torso 
+para direita associado ao sinal SURDO e, para a esquerda, associado ao sinal OU-
+VINTE combinado com a apontação evidenciando a disjunção, entre SURDO ou 
+OUVINTE. Nesse exemplo, há também a combinação da alternância do movimento 
+do torso com o direcionamento do olhar.
+As estruturas paratáticas com marcadores manuais são mais facilmente 
+identificadas devido à presença do item lexical que conecta as orações coordena-
+das. Essas orações estão associadas com marcadores não manuais, assim como 
+observado por Rodrigues (2019). Assim, constatamos o uso dessas conjunções em 
+orações paratáticas corroborando os resultados do estudo de Rodrigues (2019).  
+No entanto, muitas ocorrências de unidades oracionais complexas acontecem 
+sem a presença de um item lexical conjuntivo. Nos dados do Corpus de Libras dos 
+Surdos de Referências analisados neste trabalho, verificamos uma grande pro-
+dutividade de orações paratáticas sem esses marcadores manuais conjuntivos. A 
+análise indica que o uso dos marcadores não manuais é muito representativo e, 
+muitas vezes, preferido pelos sinalizantes. Assim, dedicaremos a próxima seção 
+para discutirmos sobre esses dados.
+https://youtu.be/Uh7GLC7nXRc
+
+[p.154]
+155
+8.6.1 Disjuntivas sem marcação manual, com marcações  
+não manuais
+ Por fim, o último tipo de marca não manual paratático é disjuntivo. A marca 
+identificada no corpus analisado envolve o movimento do torso alternado de um 
+lado e de outro, estabelecendo o contraste que indica a disjunção. O movimento 
+de um lado para o outro, normalmente, é associado também com movimento para 
+trás e para frente combinado com o movimento da cabeça.  
+As marcações não manuais são mais sutis do que as marcações manuais. 
+No entanto, verificamos no corpus que são as mesmas que aparecem quando há a 
+marcação manual explícita. Isso indica que as marcações não manuais são mais con-
+sistentes, apesar de serem mais difíceis de serem isoladas paradigmaticamente. Isso 
+acontece porque a Língua de Sinais tem essa característica atrelada à modalidade 
+em Língua de Sinais que viabiliza a produção simultânea de vários elementos. No 
+caso da parataxe adversativa, a elevação ou rebaixamento das sobrancelhas pode 
+ser associado com movimentos do corpo e o direcionamento do olhar. Quando 
+temos uma disjuntiva, a marcação de contraste do corpo e/ou da cabeça associada 
+a uma oração e a outra alternativamente pode ser combinada ou não e, também, 
+estar associada ao direcionamento do olhar. Quanto às conjuntivas, podemos ter 
+o direcionamento do olhar indicando a conjunção, assim como o aceno pontual da 
+cabeça, a alternância do uso da cabeça e o uso do role-shift. 
+Quadros, Silva e Nogueira (2022-no prelo) destacam os seguintes achados: 
+a) a principal estratégia de organização sintática de orações paratáticas da Libras 
+é do tipo conjuntiva não manual, com 164 ocorrências; b) embora os casos de 
+parataxe conjuntiva não manual sejam os mais frequentes, outras estratégias são 
+usadas pelos sinalizantes, a saber: conjuntivas manuais, com marcadores como 
+TAMBÉM, uso de boia com apontação para uma sequência de orações, o uso do 
+sinal ‘É’, ‘PALM UP’; c) disjuntivas manuais, tendo como padrão a marca ‘OU’, 
+podendo haver outras estratégias, a exemplo da elevação dos dedos indicadores 
+no espaço neutro com movimentos alternados para cima e para baixo indicando a 
+disjunção;  d) disjuntivas não manuais em número bastante reduzido (02 ocorrên-
+cias apenas); e) paratáticas adversativas manuais, tendo como padrão o marcador 
+‘MAS’ e suas variantes; f) adversativas com marcas não manuais, também bastante 
+frequentes; por fim, g) destacam-se os casos em que há combinação de paratáticas, 
+ou seja, num mesmo enunciado, há mais de um tipo de parataxe.
+Em todos os tipos de parataxe analisados foram encontradas estruturas 
+com marcas manuais e não manuais, fato comum em outras pesquisas envolvendo 
+línguas de sinais (TANG e LAU, 2012; DAVIDSON, 2013). Importante observar 
+o processo de marcação em sobreposição de marcas manuais e não manuais, fato 
+possível em função, sobretudo da modalidade linguística das Línguas de Sinais. Em 
+outros termos, quando há um marcador manual, junto dele marcas não manuais 
+atuam na expressão linguística, sendo, por vezes, apenas as marcações não manuais 
+suficientes para a expressão sintático-semântica. Ainda assim, como mostra David-

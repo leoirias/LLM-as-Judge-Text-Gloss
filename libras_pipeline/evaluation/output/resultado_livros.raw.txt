@@ -1,0 +1,102 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.PERGUNTA.3"
+],
+"problema": "O item interrogativo QUANDO deve ser movido para o início da frase (Spec CP) e/ou duplicado no final, não ficando apenas no final sem marcação de foco.",
+"sugestao": "QUANDO DOR COMEÇAR"
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.3"
+],
+"problema": "Interrogativo em foco deve ser duplicado na posição final",
+"sugestao": "QUANDO DOR COMEÇAR QUANDO?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.TEMPO-ASPECTO.1"
+],
+"problema": "Falta a marcação não-manual de pergunta e o tempo 'HOJE' deveria estar no início da frase, não no final.",
+"sugestao": "HOJE EU PODER IR PARA CASA?"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.PERGUNTA.2"
+],
+"problema": "A glosa não marca a estrutura interrogativa (foco inerente da pergunta) e não posiciona o elemento interrogativo/foco adequadamente, parecendo uma frase declarativa com interrogação apenas no final.",
+"sugestao": "ÁGUA SUFICIENTE BEBER?"
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.SINTAXE.1",
+"LIBRAS.PERGUNTA.1"
+],
+"problema": "A ordem dos sinais não segue a estrutura SVO básica (Sujeito-Verbo-Objeto) e a colocação do elemento interrogativo/foco não está marcada corretamente para uma pergunta natural em Libras.",
+"sugestao": "ALGO ESTRANHO COMER?"
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.PERGUNTA.2"
+],
+"problema": "Frase interrogativa com item-QU ('o quê') que não foi marcado nem movido para Spec CP, violando a estrutura de pergunta.",
+"sugestao": "TRATAMENTO EXPLICAR O-QUE?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.TEMPO-ASPECTO.1",
+"LIBRAS.PERGUNTA.1"
+],
+"problema": "O marcador temporal 'HOJE' deve estar no início da frase e a frase interrogativa requer marcação não-manual de pergunta (não representada na glosa linear proposta).",
+"sugestao": "HOJE EU PODER IR CASA?"
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.TEMPO-ASPECTO.1"
+],
+"problema": "O marcador temporal 'AGORA' deve estar no início da frase, não no final.",
+"sugestao": "AGORA ENFERMEIRA CHAMAR"
+}
+

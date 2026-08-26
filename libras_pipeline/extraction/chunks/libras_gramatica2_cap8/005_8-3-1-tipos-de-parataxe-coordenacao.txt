@@ -1,0 +1,96 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.3.1 Tipos de Parataxe/Coordenação ===
+=== TRECHO: páginas 108-110 (parte 1 de 3 do mesmo tópico) ===
+
+[p.108]
+109
+A seguir, cada tipo de articulação de orações será descrita e ilustrada por 
+meio de exemplos.
+8.3.1 Tipos de Parataxe/Coordenação
+Nesta seção, abordaremos as orações paratáticas a partir de Silva e Quadros 
+(2021) e Quadros, Silva e Machado (no prelo). Na perspectiva adotada aqui, con-
+trariamente ao que tradicionalmente se postula sobre a coordenação, cuja principal 
+ideia é a de independência (sintática) entre as orações que compõem o conjunto, 
+assume-se que, mesmo nos casos de coordenação, há dependência entre as orações 
+constituintes do conjunto. Isso é bastante evidente em línguas de sinais, como se 
+verá adiante. Nesse sentido, tomando-se por base a proposta de Hopper e Traugott 
+(1993), em que as relações entre orações são vistas em perspectiva gradiente, não 
+binária (coordenada/subordinada), o termo parataxe, oração caracterizada pelos 
+traços semânticos menos dependente e menos encaixada, será adotado para as 
+análises.
+É evidente que entre os termos coordenação e parataxe há aproximações a tal 
+medida que um termo poderia ser tomado pelo outro sem prejuízos, mas sobressai 
+ao termo parataxe a ideia de que as relações semânticas estão sempre ativadas 
+nas relações sintáticas, o que tem algumas consequências: a) a impossibilidade de 
+mudança de ordem das orações nos enunciados aleatoriamente; b) um contínuo 
+(relação gradiente) das orações paratáticas, hipotáticas e encaixadas.
+Para efeito de análise, portanto, a descrição aqui apresentada adotará a pa-
+rataxe como objeto de interesse e, seguindo a proposta de Haspelmath (2004), 
+quanto aos tipos semânticos de estruturas coordenadas serão analisados os seguin-
+tes tipos: parataxe conjuntiva, parataxe disjuntiva e adversativa. Considerando a 
+especificidade da expressão linguística das línguas de sinais, esses tipos oracionais 
+podem aparecer com ou sem marcas manuais.
+Os tipos de parataxe analisados na Libras são aqueles cuja relação com a 
+oração subsequente é menos dependente e menos encaixada. Dito de outra forma, 
+a articulação por parataxe consiste na simples justaposição entre orações. Tal 
+justaposição se caracteriza pela disposição de uma oração imediatamente ao 
+lado da outra, sem que haja interseção sintática entre elas [...], o que significa 
+que orações paratáticas são sintaticamente autônomas  (KENEDY e OTHERO, 
+2018, p. 122).
+As orações paratáticas podem apresentar dois tipos de configuração sintática: 
+interligadas por conjunção ou justaposição. As orações justapostas não apresentam 
+elemento conjuncional interligando as sentenças, sendo que a vinculação entre elas 
+é de natureza semântico/pragmática. A seguir, quadro-resumo (não exclusivo) das 
+relações de significado entre as paratáticas/coordenadas em línguas orais (Língua 
+Portuguesa).
+
+[p.109]
+110
+Quadro 3: Relações de significado entre as orações paratáticas na Língua Portuguesa. 
+Fonte: Kenedy e Othero (2018, p. 126).
+Essas relações são amplamente conhecidas e encontradas nas descrições 
+referentes às línguas orais. Mas, mesmo em línguas orais, as relações entre as ora-
+ções podem acontecer sem a necessidade da presença obrigatória de um conectivo. 
+O importante para o discurso é o tipo de proposição que emerge. Os conectivos 
+explicitam as relações entre as orações, mas não as determinam, (NEVES, 2001).
+Ser sintaticamente autônoma significa que uma oração não é constituinte 
+sintático de outra. Isso não quer dizer que não haja relação entre as orações, mas 
+nesse caso, a relação é semântica e não sintática. Vejamos um exemplo na Libras:
+    
+(1) 
+ 
+IX (eu) NÃO   3PERCEBER1   IX (este) SURDO    IX (aquele)
+ 
+   
+    OUVINTE          NÃO
+IX (eu) NÃO 3PERCEBER1, IX (este) SURDO, IX 
+(aquele) OUVINTE, NÃO
+Eu não percebia que eles eram surdos ou eram 
+ouvintes, não.
+Fonte: (SILVA e QUADROS, 2021).
+https://youtu.be/bFxbNkKR65A
+
+[p.110]
+111
+No exemplo em (1), temos duas orações encaixadas coordenadas entre si. 
+A relação sintática entre o verbo PERCEBER e a oração encaixada é dependente. 
+Dentro da encaixada, há duas orações combinadas: IX (esse1) SURDO1, IX (esse2) 
+OUVINTE2 que formam entre si a parataxe. A negação final está sintaticamente 
+relacionada com a oração principal marcando foco de ênfase:
+  IX (eu) NÃO                 3PERCEBER1                 IX(este)             SURDO    
+     IX (aquele) OUVINTE NÃO
+ 
+Segundo Silva e Quadros (2021), em (1), temos o encadeamento, ou melhor, 
+a justaposição de três orações em que não se pode alterar a ordem em que estão 
+dispostas, sob o risco de tornar o período ininteligível ou mesmo agramatical. Isso 
+porque há uma interdependência semântica entre as orações, o que as coloca numa 
+ordem específica para fazerem sentido na língua.
+ Rodrigues (2019) analisou orações paratáticas adversativas na Libras, sob 
+a perspectiva funcionalista, tendo como foco as propriedades semânticas desse 
+tipo de construção e cujos dados foram coletados em blogs e redes sociais. Para a 
+autora, de modo análogo ao que ocorre em línguas orais, as adversativas em Libras 
+podem expressar valores semânticos de contraste, contraexpectativa, refutação/
+correção, comparação e negação. Além disso, a autora mostra que as adversativas 
+em Libras podem atuar em dois domínios: epistêmico e de atos de fala. Por fim, 
+Rodrigues explicita a variação existente em Libras para MAS, conforme as seguintes 
+variações estruturais:

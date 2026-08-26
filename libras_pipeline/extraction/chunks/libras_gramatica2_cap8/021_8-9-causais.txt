@@ -1,0 +1,124 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.9 CAUSAIS ===
+=== TRECHO: páginas 173-177 (2 tópicos consecutivos) ===
+
+[p.173]
+174
+elevação das sobrancelhas. Essas estratégias marcam as orações adjetivas expli -
+cativas, promovem uma quebra no padrão prosódico e as distingue em relação à 
+oração matriz.
+8.9 CAUSAIS 
+8.9.1 Orações causais nas línguas orais
+A classificação das orações causais, explicativas e conclusivas é alvo de diver-
+gência entre gramáticos e linguistas que centram as discussões deles no estatuto 
+sintático dessas orações, ora descritas como coordenadas, ora como subordinadas, 
+e nos conectivos que explicitam o tipo de relação semântica em questão.
+Para Castilho (2010, p. 349), as orações conclusivas e explicativas se enqua-
+dram entre as orações subordinadas (adverbiais). O autor chama a atenção para a 
+dificuldade de sustentar a proposta tradicional de uma distinção semântica entre 
+as causais e explicativas a partir de sentenças como (36) e (37). Na primeira, a lei-
+tura causal é favorecida pela posposição da oração causal de efeito à oração matriz 
+(ou principal) de causa e, na segunda, a ordem invertida leva a uma interpretação 
+explicativa:
+  (36) A rua está molhada porque choveu.
+  (37)  Choveu, porque a rua está molhada.
+ 
+Apenas em (36) podemos aceitar uma leitura causal, uma vez que em 
+(36) só uma leitura conclusiva é possível. Em (37), o fato de a rua estar molhada 
+leva à conclusão de que havia chovido, todavia a rua poderia estar molhada por 
+outros motivos. Não há uma relação causal que se sustente nesse caso. Sendo assim, 
+percebemos que a ordenação tem papel fundamental no efeito de sentido que se 
+pode depreender de cada uma dessas sentenças. 
+Segundo Neves, Braga e Dall’Aglio-Hattnher (2008, p. 946-947), “a cons-
+trução causal pode ser caracterizada como a junção entre um evento-causa e um 
+evento-consequência ou evento-efeito”, implicando “sequência temporal entre 
+os eventos, que se soma a ideia de que o segundo evento é previsível a partir do 
+primeiro (ou porque tem nele a sua razão, ou porque há entre eles uma sucessão 
+regular”). As autoras defendem que o valor semântico de “causa” abrange “causa 
+real, razão, motivo, justificativa ou explicação” e “’efeito’ abrange consequência real, 
+resultado, conclusão” (NEVES; BRAGA; DALL’AGLIO-HATTNHER, 2008, p. 952).
+8.9.2 Orações causais nas Línguas de Sinais
+Pfau (2016, p. 156) chama atenção para o fato de que as sentenças com as 
+conjunções manuais causais because ‘porque’, na NGT, e reason ‘porque’, na DGS,
+
+[p.174]
+175
+são similares às sentenças do Inglês e de outras línguas orais, como em (38) e (39), 
+respectivamente:
+(38)  NGT
+  index1 angry [because index3a always late come].
+        Eu estou bravo porque ela se atrasou.
+(39) DGS
+           index tired [reason night little sleep].
+        Estou cansado porque ontem à noite dormi pouco.
+8.9.3 As Orações causais em Libras
+Rodrigues (2020), analisando orações causais coletadas do Corpus de Libras, 
+revela que 78,5% das orações (80 ocorrências) são introduzidas pelo sinal porque 
+(Figura 18) e 20,5% (21 ocorrências, são introduzidas pelo sinal motivo (Figura 
+19), apresentados a seguir: 
+Figura 18: porque
+ 
+Figura 19: motivo
+
+[p.175]
+176
+ Em Libras, as sentenças podem veicular valor causal estando justapostas, 
+ou seja, sem a presença de um marcador manual, como em (40):
+ (40)
+      
+    
+            IX (você) SINAL (marisa)  OLHO          VERDE     SIGNIFICAR 
+    SINAL (marisa)
+IX (ele) SINAL (marisa) IX (olho) VERDE 
+SIGNIFICAR SINAL (marisa)
+Você recebeu o SINAL(Marisa), porque teu olho 
+é verde que é o que significa SINAL(Marisa). 
+   
+Segundo Rodrigues e Souza (2019), as orações causais em Libras mantêm a ordem canônica das 
+orações causais, que é a posposição (41 e 42).
+   (41) 
+ESCOLA             INCLUSÃO              DIFÍCIL              PORQUE           TER-NÃO     CONHECER
+https://youtu.be/5nfbh8k4KNo
+
+[p.176]
+177
+   
+CULTURA         SURD@
+ESCOLA INCLUSÃO DIFÍCIL PORQUE TER-NÃO CONHECER CULTURA SURD@
+A escola inclusiva enfrenta certa dificuldade, pois não tem conhecimento da cultura surda.
+Fonte: (RODRIGUES, 2020).
+  (42) 
+        
+ 
+X (esse)    FRASE                 IX (eu)              CONHECER    PORQUE              IX (eu) 
+SINALIZAVA        CONECTAR       CONSEGUIR
+IX (esse) FRASE IX (eu) CONHECER PORQUE 
+IX (eu) SINALIZAVA CONECTAR CONSEGUIR
+As frases eu conhecia, porque eu sinalizava elas 
+e conectava o sentido, eu conseguia.  
+https://youtu.be/_dsX8HtFO9c
+
+[p.177]
+178
+Considerando as discussões sobre causa e explicação, vemos nas ocorrências 
+(43) e (44), que o mesmo tipo de sentença pode veicular valores de causa e explicação, 
+o que corrobora a proposta de Castilho (2010) de tratar orações causais e explicativas 
+como adverbiais. Em (44), observamos uma relação de causalidade entre o estado de 
+coisa expresso na oração principal e aquele expresso na oração causal. Nesse enunciado, 
+a sinalizante afirma que usava Línguas de Sinais na faculdade de Pedagogia (evento 
+efeito) porque havia muitos surdos na sala (evento causa):
+(43)
+    
+    
+        IX (eu) LÍNGUA-DE-SINAIS        MOTIVO            FACULDADE         DENTRO
+          
+   FACULDADE        CONTATO         PEDAGOGIA         TER                  GRUPO                      SÓ
+SURDO 
+ IX (eu) LÍNGUA-DE-SINAIS MOTIVO 
+FACULDADE DENTRO FACULDADE CONTATO 
+PEDAGOGIA TER GRUPO SÓ SURDO 
+ 
+Eu usava Libras porque na faculdade de 
+pedagogia tinha um grupo de surdos.
+Fonte: (RODRIGUES, 2020).
+https://youtu.be/Bhwbws5j6JM

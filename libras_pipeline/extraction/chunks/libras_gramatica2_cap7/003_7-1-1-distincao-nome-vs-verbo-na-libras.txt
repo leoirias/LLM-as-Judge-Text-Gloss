@@ -1,0 +1,28 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.1.1 Distinção nome vs. verbo na Libras ===
+=== TRECHO: páginas 23-23 (parte 2 de 2 do mesmo tópico) ===
+
+[p.23]
+24
+Exemplo (4)
+No entanto, devemos ser cautelosos ao dizer que somente as MNM dariam 
+conta da diferença entre o sintagma nominal e verbal nas LSs, pois assim como 
+pontua Bertone (2009) para a Língua Italiana de Sinais – LIS, essas MNMs podem 
+variar de sinalizador para sinalizador em sua intensidade ou por alguma modifi -
+cação leve na prosódia, típico de alterações estilísticas.
+Em Libras, atestamos que quando o nome se encontra na posição de objeto, 
+como em (5a), as MNMs acima descritas não se espraiam de forma consistente 
+sobre todo o sintagma nominal, mas pode ir enfraquecendo conforme se atinge o 
+limite final do sintagma nominal, como se pode ver na descontinuidade da linha 
+que ocorre sobre a glosa em (5a). 
+                                 _______ _ _ _ _ _ _ _ _DP
+(5a) EU COMPRAR [ø PÁSSARO PEQUENO] = sentença
+“Eu comprei/compro (o/os/um/uns) pássaro (s) pequeno(s).”
+Isso explica porque uma análise do sintagma nominal na Libras só é possível 
+se considerarmos exemplos como em (5a), mas não em (5b) abaixo, visto que 
+em (5b), ao sinalizar somente o par de sinais PÁSSARO PEQUENO, não temos 
+indicações de posições argumentais, nem de MNMs demarcando o limite entre os 
+constituintes. Desse modo, não podemos afirmar se tratar de um sintagma nominal 
+ou de uma sentença, como vemos na tradução.
+(5b) PÁSSARO PEQUENO = sintagma nominal ou uma sentença
+“‘Um/O pássaro pequeno’ ou ‘Um/O pássaro é pequeno’”.

@@ -1,0 +1,109 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: Cap_04 ===
+=== TRECHO: páginas 123-128 ===
+
+[p.123]
+A SINTAXE ESPACIAL
+A língua de sinais brasileira, usada pela comunidade surda brasileira
+espalhada por todo o País, é organizada espacialmente de forma tão com-
+plexa quanto às línguas orais-auditivas. Analisar alguns aspectos da sintaxe
+de uma língua de sinais requer “enxergar” esse sistema que é visuoespacial
+e não oral-auditivo. De certa forma, tal desafio apresenta certo grau de difi-
+culdade aos lingüistas; no entanto, abre portas para as investigações no campo
+da Teoria da Gramática enquanto manifestação possível da capacidade da
+linguagem humana. A organização espacial dessa língua, assim como da
+ASL – Língua de Sinais Americana – (Siple, 1978; Lillo-Martin, 1986; Fischer,
+1990; Bellugi, Lillo-Martin, O’Grady e van Hoek, 1990), apresenta possibili-
+dades de estabelecimento de relações gramaticais no espaço, através de di-
+ferentes formas.
+No espaço em que são realizados os sinais, o estabelecimento nominal e
+o uso do sistema pronominal são fundamentais para tais relações sintáticas.
+Qualquer referência usada no discurso requer o estabelecimento de um local
+no espaço de sinalização (espaço definido na frente do corpo do sinalizador),
+observando várias restrições. Segundo Baker e Cokely (1980, p.227) e Loew
+(1984, p.12), esse local pode ser referido através de vários mecanismos espa-
+ciais, apresentados a seguir:
+a) fazer o sinal em um local particular (se a forma do sinal permitir;
+por exemplo, o sinal de CASA pode acompanhar o local estabeleci-
+do para o referente);
+4
+
+[p.124]
+128     QUADROS & KARNOPP
+b) direcionar a cabeça e os olhos (e talvez o corpo) em direção a uma
+localização particular simultaneamente com o sinal de um substan-
+tivo ou com a apontação para o substantivo;
+CASA (do João) CASA (do Pedro)
+c) usar a apontação ostensiva antes do sinal de um referente específico
+(por exemplo, apontar para o ponto ‘a’ associando esta apontação
+com o sinal CASA; assim o ponto ‘a’ passa a referir CASA);
+IX CASA
+CASA IX(casa)
+
+[p.125]
+LÍNGUA DE SINAIS BRASILEIRA     129
+d) usar um pronome (a apontação ostensiva) numa localização parti-
+cular quando a referência for óbvia;
+IX(casa) NOVA
+e) usar um classificador (que representa aquele referente) em uma lo-
+calização particular;
+f) usar um verbo direcional (com concordância) incorporando os refe-
+rentes previamente introduzidos no espaço.
+(eu)IR(casa)
+CARRO CL(carro passou um pelo outro)
+
+[p.126]
+130     QUADROS & KARNOPP
+Os verbos direcionais são também chamados de verbos com concordân-
+cia, conforme analisado no Capítulo 3. Na língua de sinais brasileira, esses
+verbos têm que concordar com o sujeito e/ou com o objeto indireto/direto da
+frase. Como se pode observar nas fotos a seguir, há uma relação entre os
+pontos estabelecidos no espaço e os argumentos que estão incorporados no
+verbo. Verifica-se que a direção do olhar também acompanha o movimento.
+Esse é um tipo de flexão próprio das línguas de sinais que aparece com essa
+classe de verbos (cf. Loew, 1980; Lillo-Martin, 1986; Padden, 1990; Emmorey,
+1991; Quadros, 1995, 1997).
+(el@) <aOLHARb>do (el@)
+ (el@) <aAJUDARb>do (el@)
+Na língua de sinais brasileira, os sinalizadores estabelecem os referentes
+associados à localização no espaço, sendo que tais referentes podem estar
+fisicamente presentes ou não. Depois de serem introduzidos no espaço, os
+pontos específicos podem ser referidos posteriormente no discurso. Quando
+os referentes estão presentes, os pontos no espaço são estabelecidos baseados
+na posição real ocupada pelo referente. Por exemplo, o sinalizador aponta
+para si indicando a primeira pessoa, para o interlocutor indicando a segunda
+pessoa e para os outros indicando a terceira pessoa. Quando os referentes
+(el@) <aENTREGARb>do (el@)
+
+[p.127]
+LÍNGUA DE SINAIS BRASILEIRA     131
+Sinalizador
+Interlocutor
+Sinalizador
+Interlocutor
+estão ausentes da situação de enunciação, são estabelecidos pontos abstratos
+no espaço (cf. as figuras ilustram).
+Formas pronominais usadas com referentes presentes
+Formas pronominais usadas com referentes ausentes
+(Quadros, 1997, p.51-52 adaptada de Lillo-Martin e Klima, 1990, p.192-193)
+Os sinais manuais são freqüentemente acompanhados por expressões
+faciais que podem ser consideradas gramaticais (para mais detalhes, ver Liddel,
+1980 e Bahan, 1996). Tais expressões são chamadas de marcações não-manu-
+ais. Conforme Liddel (1980, p.13), “a face do sinalizador raramente é neutra
+ou descontraída; a sinalização também é acompanhada pela posição da cabe-
+Sinalizador
+Receptor
+João Maria
+
+[p.128]
+132     QUADROS & KARNOPP
+ça ‘não-neutra’, por movimentos da cabeça e movimentos do corpo”.1 A seguir,
+são ilustradas algumas expressões não-manuais da língua de sinais brasileira:
+• Marcação de concordância gramatical através da direção dos olhos
+1No original, Liddel (1980, p.13): A signer’s face is rarely ‘neutral’ or relaxed; signing is also
+accompanied by ‘nonneutral’ head position, head movements, and body movements.
+• Marcação associada com foco
+• Marcação de negativas
+< >n
+< >mc
+< >do

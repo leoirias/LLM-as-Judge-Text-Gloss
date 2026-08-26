@@ -1,0 +1,129 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.13 TEMPORAIS ===
+=== TRECHO: páginas 220-224 (parte 1 de 3 do mesmo tópico) ===
+
+[p.220]
+221
+O conteúdo expresso na oração hipotática adverbial tem a função de estabe-
+lecer o momento do evento das orações envolvidas, dentro de uma linha temporal. 
+A oração hipotática temporal, VIR INTERVALO COMER (no intervalo, quando 
+descíamos para lanchar) é marcada por uma expressão facial específica. Além 
+disso, o evento da oração hipotática é simultâneo ao conteúdo expresso nas orações 
+nucleares. Novamente, a oração hipotática não faz parte da estrutura argumental 
+das orações nucleares, tanto que pode ser retirada sem comprometer a estrutura 
+sintática. O exemplo, a seguir, ilustra, mais uma vez, orações relacionadas a nível 
+de hipotaxe temporal simultânea:
+(77) Hipotaxe Adverbial Temporal simultânea.
+   DEPOIS      PASSEAR     MAIS       SÁBADO       DOMINGO     1GRUPO3        SURDO
+SEMPRE         ENTÃO
+DEPOIS PASSEAR MAIS SÁBADO 
+DOMINGO 1GRUPO3 SURDO SEMPRE 
+ENTÃO
+Além disso, quando passeávamos aos 
+sábados e domingos, sempre me reunia com 
+os surdos.
+Nessa sentença, o evento expresso na oração hipotática “quando passeáva-
+mos aos sábados e domingos”, ocorria de forma simultânea ao evento expresso 
+na oração principal “reunia com os surdos sempre”. Essa sentença é marcada por 
+expressões faciais específicas: o posicionamento do corpo e o leve giro da cabeça 
+https://youtu.be/QryDlQtmOJY
+
+[p.221]
+222
+para o lado. Nesse sentido, a sinalizante explora o uso do espaço para articular a 
+sentença hipotática temporal. 
+Nos casos de hipotaxe temporal não simultânea, os eventos da sentença 
+hipotática não são expressos ao mesmo tempo em que o evento da sentença prin-
+cipal acontece. Nos exemplos a seguir, vamos apresentar uma oração hipotática 
+temporal, em que o evento acontece em momento anterior ao tempo do evento da 
+oração nuclear: 
+(78) Hipotaxe Adverbial Temporal não simultânea.
+    
+IX (eu)          APRENDER       PRONTO        IX (eu       PROFESSOR IX (eu) MATEMÁTICA
+IX (eu) APRENDER PRONTO IX (eu) 
+PROFESSOR IX (eu) MATEMÁTICA
+Quando eu aprendi, eu me tornei professor de 
+Matemática.
+O evento da oração hipotática IX (eu) APRENDER PRONTO (Quando eu aprendi) 
+acontece em um tempo anterior ao tempo do evento da oração principal IX (eu) 
+PROFESSOR IX (eu) (eu me tornei professor de Matemática). Por isso, a oração 
+hipotática temporal é considerada não simultânea. A oração hipotática temporal é 
+marcada pelo sinal PRONTO. O exemplo, a seguir, ilustra, mais uma vez, orações 
+relacionadas a nível de hipotaxe temporal não simultânea.
+             
+https://youtu.be/BmgotzoJvZM
+
+[p.222]
+223
+(79) Hipotaxe Adverbial Temporal não simultânea.
+[DESENVOLVER+ ATÉ OITAVA-SÉRIE] FIM
+[DESENVOLVER+ ATÉ OITAVA- 
+SÉRIE] FIM
+Fui passando até chegar a 8a. série, quando 
+terminei (os estudos).
+Nessa sentença, temos uma oração hipotática não simultânea DESENVOL-
+VER+ ATÉ OITAVA-SÉRIE (Fui passando até chegar a 8a. série), em que o tempo 
+do evento é anterior ao tempo do evento da oração posposta, a saber, FIM (quando 
+terminei (os estudos)). Observa-se marcação não manual específica da oração 
+hipotática, a diminuição do olhar e franzir a testa.
+Em relação às estratégias articulatórias em orações adverbiais temporais, 
+reconhecemos estratégias manuais e não manuais. Sobre as estratégias manuais, 
+de acordo com Carneiro, El Khouri e Ludwig (2020), os sinais que possuem uma 
+função de marcador temporal desempenham um papel importante na articulação de 
+orações ou, pelo menos, na coesão da sentença, embora reconheçam a necessidade 
+de desenvolver critérios mais objetivos para definir um marcador manual (ou não 
+manual) como um conectivo. Os dados, a seguir, ilustram marcadores manuais em 
+orações adverbiais temporais. 
+                 (80) Hipotaxe Adverbial Temporal com estratégia manual.
+           
+ 
+PASSADO    DV-PESSOAS-EM-PÉ OUVINTE DV-PESSOA-APROXIMAR         FALAR         VER 
+https://youtu.be/KcWYzRL9Uqk
+
+[p.223]
+224
+IMPOSSÍVEL
+PASSADO DV-PESSOAS-EM-PÉ OUVINTE 
+DV-PESSOA-APROXIMAR FALAR  
+VER IMPOSSÍVEL
+Antes, quando me aproximava de uma roda de 
+ouvintes que falavam oralmente, acompanhar as 
+falas (era) impossível.
+Em (80), podemos distinguir duas partes que estão articuladas a nível de 
+hipotaxe, a partir de uma relação temporal que emerge da proposição estabelecida 
+pelo discurso. A primeira parte, em PASSADO DV-PESSOAS-EM-PÉ OUVINTE 
+DV-PESSOA-APROXIMAR (Antes, quando me aproximava de uma roda de ouvin-
+tes que falavam oralmente), pode ser considerada uma oração hipotática adverbial 
+temporal, pois estabelece o tempo em que o evento da oração principal acontece. 
+Nessa parte, observa-se ainda uma oração encaixada adjetiva restritiva que, no 
+conjunto da primeira parte, relaciona-se com a segunda parte a nível de hipotaxe. 
+A segunda parte, em FALAR VER IMPOSSÍVEL (acompanhar as falas (era) impos-
+sível), pode ser considerada oração matriz, cujo evento é marcado temporalmente 
+pela oração que a antecede. Da mesma forma, aqui se pode observar uma oração 
+encaixada substantiva subjetiva que, como um todo, relaciona-se com a primeira 
+parte enquanto oração matriz. Na primeira parte, observa-se o olhar do sinalizante 
+direcionado para as próprias mãos, bem como o uso do sinal PASSADO a introduzir 
+a oração adverbial temporal. 
+https://youtu.be/oyjqN6xGw8s
+
+[p.224]
+225
+(81) Hipotaxe Adverbial Temporal marcada pelo sinal ANTERIORMENTE.
+ENCONTRAR ANTERIORMENTE POSTERIORMENTE FS (mãe)  PROCURAR  ESCOLA
+    SURDO      ESPECIAL
+ENCONTRAR ANTERIORMENTE POSTE -
+RIORMENTE FS (mãe) PROCURAR ESCO -
+LA SURDO ESPECIAL
+Até encontrar (a escola) minha mãe procurou 
+muito uma escola de surdos especial.
+ Em (81), há duas orações articuladas a nível de hipotaxe. Da oração matriz, 
+em ENCONTRAR (Até encontrar (a escola)), emerge a oração adverbial temporal 
+que tem a função de situar o tempo do evento codificado na oração matriz. Em AN-
+TERIORMENTE POSTERIORMENTE FS (mãe) PROCURAR ESCOLA ESTUDAR 
+SURDO ESPECIAL (minha mãe procurou muito uma escola de surdos especial), 
+considerada a oração temporal, há um adendo em relação à oração nuclear, con-
+siderada, assim, uma informação suplementar. Observa-se a marcação manual a 
+introduzir a oração adverbial temporal. 
+(82) Hipotaxe Adverbial Temporal marcada pelo sinal PRONTO.
+    ESTUDAR        PRONTO        DEPOIS      IX (eu) FACULDADE     PRONTO
+https://youtu.be/YclmZJ9Vpz4

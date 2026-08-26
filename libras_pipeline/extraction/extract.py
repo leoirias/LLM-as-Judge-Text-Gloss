@@ -128,6 +128,30 @@ def _raw_chunks_from_file(raw_path: Path) -> list[tuple[int, int, str]]:
     return chunks
 
 
+def _chunk_files(slug: str, chunks_dir: Path, aplicar_triagem: bool = True) -> list[tuple[int, int, str]]:
+    """Lê os trechos por tópico gerados pelo chunk_topicos.py.
+
+    Cada .txt já vem com o cabeçalho de tópico e os marcadores [p.N] inline,
+    então é enviado ao modelo como está. As faixas de página são disjuntas
+    (o chunk_topicos verifica cobertura), o que deixa o formato do *.raw.txt
+    ("### p.INI-FIM") reutilizável sem ambiguidade."""
+    manifesto = chunks_dir / slug / "manifest.csv"
+    if not manifesto.exists():
+        raise SystemExit(f"sem trechos em {manifesto} — rode antes:\n"
+                         f"  python libras_pipeline/extraction/chunk_topicos.py --book {slug}")
+    trechos, excluidos = [], 0
+    with manifesto.open(newline="", encoding="utf-8") as fh:
+        for row in csv.DictReader(fh):
+            if aplicar_triagem and row.get("incluir", "1").strip() == "0":   # triagem do passo 2
+                excluidos += 1
+                continue
+            texto = (chunks_dir / slug / row["arquivo"]).read_text(encoding="utf-8")
+            trechos.append((int(row["pagina_ini"]), int(row["pagina_fim"]), texto))
+    if excluidos:
+        print(f"  triagem: {excluidos} trecho(s) pulados (incluir=0 no manifest.csv)")
+    return trechos
+
+
 def _finalize(label: str, slug: str, chunks: list[tuple[int, int, str]],
               id_prefix: str, categorias_validas: set[str]) -> None:
     """Parseia todas as janelas (regra por regra, ver _parse_rules), atribui
@@ -157,8 +181,11 @@ def _finalize(label: str, slug: str, chunks: list[tuple[int, int, str]],
     print(msg + ")")
 
 
-def _run_book(book: dict, cfg: dict, prompt_config, llm, *, from_raw: bool) -> None:
+def _run_book(book: dict, cfg: dict, prompt_config, llm, *,
+              from_raw: bool, chunks_dir: Path | None = None,
+              aplicar_triagem: bool = True) -> None:
     label = book["label"]
+    cats_txt = " · ".join(cfg.get("categorias_validas", []))
     raw_path = OUTPUT_DIR / f"{book['slug']}_regras.raw.txt"
     id_prefix = cfg["id_prefix"]
     categorias_validas = {c.lower() for c in cfg.get("categorias_validas", [])}
@@ -169,6 +196,17 @@ def _run_book(book: dict, cfg: dict, prompt_config, llm, *, from_raw: bool) -> N
             return
         chunks = _raw_chunks_from_file(raw_path)
         print(f"[{label}] reconstruindo CSV de {raw_path} ({len(chunks)} janelas, sem GPU)")
+    elif chunks_dir is not None:
+        trechos = _chunk_files(book["slug"], chunks_dir, aplicar_triagem)
+        print(f"[{label}] {len(trechos)} trechos por tópico de {chunks_dir / book['slug']}")
+        chunks = []
+        for s, e, text in tqdm(trechos, desc=label, unit="trecho"):
+            raw = llm.generate(render(prompt_config, {"chapter_text": text,
+                                                  "categorias": cats_txt}))
+            chunks.append((s, e, raw))
+        raw_path.parent.mkdir(parents=True, exist_ok=True)
+        raw_path.write_text("\n\n".join(f"### p.{s}-{e}\n{r}" for s, e, r in chunks), encoding="utf-8")
+        _chmod(raw_path)
     else:
         pdf = ROOT / book["path"]
         windows = _windows(int(book["start_page"]), int(book["end_page"]), int(book.get("window_pages", 15)))
@@ -176,7 +214,8 @@ def _run_book(book: dict, cfg: dict, prompt_config, llm, *, from_raw: bool) -> N
         chunks = []
         for s, e in tqdm(windows, desc=label, unit="janela"):
             text = extract_pages(pdf, s, e)
-            raw = llm.generate(render(prompt_config, {"chapter_text": text}))
+            raw = llm.generate(render(prompt_config, {"chapter_text": text,
+                                                  "categorias": cats_txt}))
             chunks.append((s, e, raw))
         raw_path.parent.mkdir(parents=True, exist_ok=True)
         raw_path.write_text("\n\n".join(f"### p.{s}-{e}\n{r}" for s, e, r in chunks), encoding="utf-8")
@@ -192,6 +231,7 @@ def _patch_book(book: dict, cfg: dict, prompt_config, llm, ranges: list[list[int
     partir do conjunto completo — sem gastar GPU nas janelas que já estavam
     boas."""
     label = book["label"]
+    cats_txt = " · ".join(cfg.get("categorias_validas", []))
     raw_path = OUTPUT_DIR / f"{book['slug']}_regras.raw.txt"
     id_prefix = cfg["id_prefix"]
     categorias_validas = {c.lower() for c in cfg.get("categorias_validas", [])}
@@ -206,7 +246,8 @@ def _patch_book(book: dict, cfg: dict, prompt_config, llm, ranges: list[list[int
     new_chunks: list[tuple[int, int, str]] = []
     for s, e in tqdm(patch_windows, desc=f"{label} (patch)", unit="janela"):
         text = extract_pages(pdf, s, e)
-        raw = llm.generate(render(prompt_config, {"chapter_text": text}))
+        raw = llm.generate(render(prompt_config, {"chapter_text": text,
+                                                  "categorias": cats_txt}))
         new_chunks.append((s, e, raw))
 
     old_chunks = _raw_chunks_from_file(raw_path) if raw_path.exists() else []
@@ -232,11 +273,28 @@ def main() -> None:
     p.add_argument("--patch-pages", action="append", nargs=2, type=int, metavar=("START", "END"),
                     help="reprocessa só esta faixa de páginas (repita a flag pra várias faixas); "
                          "exige --book resolvendo a exatamente 1 livro; funde no raw.txt/CSV existentes")
+    p.add_argument("--chunks", action="store_true",
+                    help="usa os trechos por tópico (chunk_topicos.py) em vez de janelas de página")
+    p.add_argument("--no-triagem", action="store_true",
+                    help="com --chunks, processa TODOS os trechos, ignorando a coluna "
+                         "incluir do manifesto (usado para isolar o efeito da triagem)")
+    p.add_argument("--chunks-dir", type=str, default=str(HERE / "chunks"),
+                    help="onde estão os trechos por tópico")
+    p.add_argument("--out-dir", type=str, default=None,
+                    help="diretório de saída (default: extraction/output). Use um nome novo "
+                         "pra não sobrescrever uma extração anterior")
     args = p.parse_args()
+
+    global OUTPUT_DIR
+    if args.out_dir:
+        OUTPUT_DIR = HERE / args.out_dir
+        OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+        print(f"saída: {OUTPUT_DIR}")
 
     books = cfg["books"]
     if args.book:
-        books = [b for b in books if args.book.lower() in b["label"].lower()]
+        books = [b for b in books
+                 if args.book.lower() in (b["label"] + " " + b["slug"]).lower()]
         if not books:
             raise SystemExit(f"nenhum livro em books: bate com --book {args.book!r}")
 
@@ -251,8 +309,10 @@ def main() -> None:
         return
 
     llm = None if args.from_raw else get_llm()
+    chunks_dir = Path(args.chunks_dir) if args.chunks else None
     for book in books:
-        _run_book(book, cfg, prompt_config, llm, from_raw=args.from_raw)
+        _run_book(book, cfg, prompt_config, llm, from_raw=args.from_raw,
+                  chunks_dir=chunks_dir, aplicar_triagem=not args.no_triagem)
 
 
 if __name__ == "__main__":

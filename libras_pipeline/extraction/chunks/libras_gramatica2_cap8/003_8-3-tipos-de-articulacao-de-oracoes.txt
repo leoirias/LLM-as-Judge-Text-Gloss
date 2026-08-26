@@ -1,0 +1,112 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.3 TIPOS DE ARTICULAÇÃO DE ORAÇÕES ===
+=== TRECHO: páginas 104-106 (parte 2 de 2 do mesmo tópico) ===
+
+[p.104]
+105
+para detectar o tipo de coordenação, o que dá às chamadas marcas não manuais 
+(MNM) importante destaque como recurso para delimitação das sentenças. Nesse 
+sentido, o uso de ferramentas tecnológicas que vão desde a captura de vídeos em 
+alta qualidade até softwares adequados para a transcrição dos dados, a exemplo 
+do ELAN, é necessário para melhor visualização dos recursos e estratégias de que 
+as línguas de sinais dispõem para coordenar sentenças.
+Para Tang e Lau (2012, p. 341), “[...] a crucial question to ask is what marks 
+clause boundaries in sign languages, or precisely what linguistic or prosodic cues 
+are there to signal coordination and subordination”, em outras palavras, diferen-
+temente do que ocorrem nas línguas orais em que dispositivos morfossintáticos 
+fornecem pistas para a delimitação de fronteiras oracionais, parece não haver, ain-
+da, pesquisas suficientes para o desenvolvimento consolidado de uma metodologia 
+voltada para esse fim em línguas de sinais, o que não significa que essas línguas 
+não tenham suas próprias estratégias de encadear sentenças.
+Num estudo recente envolvendo a Libras, Rocha (2021) analisou três narra-
+tivas de surdos do Inventário Nacional de Libras, Surdos de Referência. As delimi-
+tações das orações foram realizadas por meio da identificação de pausas marcadas 
+pela piscada do olhar e sinais indicativos de finalização, tais como, FIM, ACABAR, 
+ENTÃO. A autora identificou os seguintes marcadores não manuais que marcam 
+algum tipo de dependência sintática nas unidades oracionais produzidas em Libras: 
+movimento de torso para frente ou para trás; elevação de torso; incorporação de 
+personagem/redirecionamento de torso; movimento de cabeça; direcionamento 
+de olhar; elevação ou contração de sobrancelhas; contração de olhos; movimento 
+de boca ou lábios e elevação de queixo. Além de tais marcadores, Rocha aponta a 
+questão da incorporação de referentes como uma estratégia para indicar orações 
+que possam estar encaixadas. O uso da simultaneidade lexical, ou seja, a composição 
+simultânea das duas mãos expressando diferentes eventos pode também ser um 
+mecanismo de estabelecimento de dependência sintática oracional.
+ Os achados de Rocha (2021) na Libras são compatíveis com os de outras 
+Línguas de Sinais, como mostra Tang e Lau (2012, p. 341)2.
+ Recentemente, marcações não manuais como piscar de 
+olhos têm sido identificadas como pistas prosódicas das 
+fronteiras oracionais (WILBUR, 1994; HERRMANN, 2010). 
+Sze (2008) e, posteriormente, Tang et al. (2010), verifi -
+caram que enquanto o piscar de olhos geralmente marca 
+frases entonacionais em muitas línguas, Hong Kong Sign 
+2 Recently, non manuals like eye blinks have been identified as prosodic cues for clause 
+boundaries (Wilbur 1994; Herrmann 2010). Sze (2008) and subsequently Tang et al. 
+(2010) found that while eye blinks generally mark intonational phrases in many sign 
+languages, Hong Kong Sign Language (HKSL) uses them to mark phonological phrases 
+as well. Sandler (1999) also observed that sentence-final boundaries are further marked 
+by an across-the-board change of facial expression, head position, eye gaze direction, or 
+eye blinks. [Tradução dos autores].
+
+[p.105]
+106
+Language (HKSL) também os usa para marcar frases fono-
+lógicas.  Sandler (1999) também observou que as fronteiras 
+são delimitadas marcando o final da sentença por meio da 
+mudança da expressão facial, posição da cabeça, direção 
+dos olhos, ou piscar de olhos. 
+ 
+Ainda assim, apesar de já haver pesquisas que demonstram uma série de 
+marcas não manuais recorrentes na estruturação de orações em línguas de sinais, 
+a sutileza dessas marcas torna a análise muito complexa. Um dos aspectos que 
+precisam ser identificados está relacionado com a identificação do que compreende 
+mecanismos gramaticais considerados paradigmaticamente e o que são compo -
+nentes prosódicos que podem favorecer ou mascarar a identificação do escopo das 
+orações em unidades oracionais complexas. 
+Os aspectos metodológicos considerados no escopo desta seção incluíram 
+discussões realizadas com os seus autores, Amanda Rocha, Angélica Rodrigues, 
+Bruno Carneiro, Carlos Ludwig, Felipe Aleixo, Jair Barbosa da Silva, José Ishac, 
+Liona Paulus, Miriam Royer, Rodrigo Nogueira Machado, Ronice Müller de Qua-
+dros, Thamara Cristina Santos e Vinicius Rodrigues da Silva. O grupo de pesqui -
+sadores integrou vários encontros para discutir aspectos que envolvem a definição 
+das unidades oracionais complexas, a segmentação e os tipos de orações incluídas 
+na análise. A partir desses encontros foram definidos os tipos de articulação de 
+sentenças analisados nesta gramática conforme listado a seguir:
+Tipos de paratáticas
+a) conjuntiva manual e não manual
+b) disjuntiva manual e não manual
+c) adversativa manual e não manual
+Tipos de hipotáticas
+a) adverbial causal manual e não manual
+b) adverbial comparativa manual e não manual
+c) adverbial conclusiva manual e não manual
+d) adverbial condicional manual e não manual
+e) adjetiva explicativa manual e não manual
+f) adverbial final manual e não manual
+g) adverbial temporal manual e não manual
+Tipos de encaixadas
+a) relativa interrogativa manual e não manual
+b) relativa livre manual e não manual
+c) relativa restritiva manual e não manual
+
+[p.106]
+107
+d) substantiva subjetiva manual e não manual
+e) substantiva objetiva manual e não manual
+Como foram identificados múltiplos tipos de combinação de orações para -
+táticas e hipotáticas, foi incluída a categoria combinação de orações que envolve 
+mais de tipo de articulação da mesma categoria. 
+Os Surdos de Referência incluídos na análise apresentada aqui neste capítulo 
+são os seguintes:
+Quadro 2: Participantes da pesquisa.
+Todos os participantes são fluentes em Libras, reconhecidos pelas respecti-
+vas comunidades de surdos como referência linguística.  Os dados analisados aqui 
+são das entrevistas realizadas, em que os participantes contam suas experiências 
+pessoais e linguísticas, assim como comentam sobre a sua representação na co-
+munidade surda local a que pertencem.
+Para análise dessas combinações, foi usado o Sistema de Anotação Eudico 
+Annotator – ELAN (CRASBORN et al., 2012, 2016; QUADROS, 2016). Foram 
+criadas trilhas para cada tipo de articulação de orações analisadas com vocabulário 
+controlado, incluindo cada subtipo de oração conforme listado acima. Cada um dos 
+tipos pode ser estabelecido com marcações manuais, ou seja, itens lexicais que mar-
+cam a relação entre as orações, ou com marcações não manuais, isto é, justapostas

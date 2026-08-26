@@ -1,0 +1,139 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.2.2. Morfemas lexicais e gramaticais ===
+=== TRECHO: páginas 182-186 (parte 1 de 3 do mesmo tópico) ===
+
+[p.182]
+183
+e. Sinais monomorfêmicos articulados com duas mãos com CMs diferentes, 
+em que a CM inicial e a final são iguais nas duas mãos, como em (15) REGRA e 
+(16) CURSO.
+                                    (15) REGRA                                                                 (16) CURSO
+f.  Sinais monomorfêmicos articulados com duas mãos com CMs diferentes, 
+em que a CM inicial e a final da mão ativa são diferentes, e a CM inicial e final da 
+mão passiva são iguais, como em (17) MARTHA FALCÃO (nome de uma faculdade).
+                     (17) MARTHA FALCÃO 
+5.2.2. Morfemas lexicais e gramaticais
+Do ponto de vista da significação, os morfemas podem ser lexicais ou gra -
+maticais:
+ 
+a. Morfemas lexicais: São unidades lexicais com significação externa, com 
+conteúdo e forma, indicam o sentido básico da palavra, uma vez que se re-
+ferem a fatos do mundo extralinguístico; representam a própria significação 
+externa dos vocábulos e são responsáveis pela significação não gramatical 
+contida na raiz do vocábulo. O morfema lexical no vocábulo é o seu núcleo 
+de significação, ou seja, são os radicais das palavras. São eles que permitem 
+uma grande variedade de palavras com significados diferentes em uma 
+https://youtu.be/lqosp0crZsA 
+https://youtu.be/QeF7wHTbrjA 
+https://youtu.be/RaiTAAPPNsg
+
+[p.183]
+184
+língua. Trata-se de uma unidade de significação que permite a formação de 
+diversas palavras as quais atribuem nomes às variadas situações, pessoas, 
+sentimentos, objetos; designa seres e conceitos abstratos (substantivos e 
+adjetivos), ações (verbos) etc.
+b. Morfemas gramaticais: São os artigos, os pronomes, os numerais, as 
+preposições, as conjunções e os demais advérbios, bem como os elementos 
+mórficos que indicam número, gênero, tempo, aspecto verbal, responsáveis 
+pelas funções gramaticais do vocábulo. Os morfemas gramaticais dividem-
+-se em (i) morfemas gramaticais derivacionais (prefixos e sufixos); (ii) 
+morfemas gramaticais flexionais ( desinências verbais e nominais refe -
+rem-se ao tempo, modo, número, pessoa nos verbos, gênero e número nos 
+nomes); e (iii) morfemas gramaticais classificadores (nomes ou verbos).
+ 
+5.2.3. Morfemas livres e presos
+Do ponto de vista do significante, os morfemas podem ser 
+livres ou presos. Os morfemas livres e presos, em princípio, são hie-
+rarquicamente distribuídos como em Língua Portuguesa, entendendo 
+os morfemas livres como lexicais ou gramaticais e os morfemas presos 
+como derivacionais ou flexionais.
+Figura 2 - Distribuição Hierárquica dos morfemas livres e presos 
+Fonte: Infopédia, 2003-20223
+Quadros e Karnopp (2004, p.86) identificaram a existência dos morfemas 
+presos que, em geral, são os sufixos e os prefixos, uma vez que não podem ocorrer 
+isoladamente, e os morfemas livres que constituem sinais. Felipe (2006, p. 207) 
+reforçou que, no processo de formação de palavras, itens lexicais, morfemas livres, 
+3 Dicionários Porto Editora. Rua da Restauração, 365, 4099-023. Porto. Disponível em: 
+https://www.infopedia.pt/apoio/artigos/$morfema. Acesso em: 04 jul. 2022.
+
+[p.184]
+185
+se justapõem ou se aglutinam para formar um novo item lexical.
+Ratificando essa afirmação, identificamos que os morfemas, como objeto 
+de estudo da Morfologia, podem ser livres quando ocorrem isolados e, por si sós, 
+encerram o significado de um vocábulo, e presos, quando não podem ocorrer isola-
+dos, mas exclusivamente ligados a outro(s) morfema(s), pois, isolados, não detêm 
+significado (FARIA-NASCIMENTO, 2013, p.83). Em outras palavras, Faria-Nas -
+cimento (2013) define morfemas livres e presos da seguinte forma:
+a.  Morfemas livres: São morfemas independentes, constituídos de 
+unidades lexicais sinalizadas consolidadas na Língua de Sinais, as 
+quais podem ser consideradas como unidades primeiras/primitivas, 
+que servem de base ou complemento especificador na construção de 
+novas unidades lexicais e terminológicas, sinalizadas, como em (18) 
+CASA e (19) LÍNGUA-DE-SINAIS. 
+                                  (18) CASA                                                              (19) LÍNGUA-DE-SINAIS 
+                                                                         
+Conforme dito anteriormente, morfemas duplicados são o mesmo morfema. 
+Para a constituição de novas unidades, o morfema perde apenas a duplicação, mas 
+continua o mesmo morfema livre.
+b.  Morfemas presos: São morfemas dependentes; sozinhos não se 
+constituem como estruturas autônomas; associam-se a pelo menos 
+um outro morfema para constituir outro sinal, uma unidade lexical ou 
+terminológica sinalizada livre. Assim, morfemas presos são unidades 
+dependentes de outras. Grosso modo, pode-se dizer que morfemas 
+presos funcionam como afixos, sejam eles sufixos, infixos etc.
+Os exemplos a seguir ilustram os morfemas presos incorporados ao mor -
+fema base (19) LÍNGUA-DE-SINAIS. Dele derivam as construções morfológicas 
+registradas em (20), (21), (22), (23), (24) e (25), conforme os registros a seguir:
+https://youtu.be/EjUIH6XXCpQ 
+ https://youtu.be/jzvfUN-NA8Y
+
+[p.185]
+186
+https://youtu.be/8W6HgSetc6U 
+(20) LÍNGUA-DE-SINAIS^INFERIOR 
+(+ morfema boca)
+ou 
+(21) 
+LÍNGUA-DE-SINAIS^FÁCIL 
+(+ morfema boca)
+https://youtu.be/OFW73gzSK7M 
+(22)
+LÍNGUA-DE-SINAIS^SINALIZADA-VÁ-
+RIOS 
+(+ morfema boca)
+  
+  ou 
+(23) 
+LÍNGUA-DE-SINAIS^FLUENTE 
+(+ morfema boca)
+https://youtu.be/gHhN8CNBomY 
+ https://youtu.be/rih4tZmjtbs 
+https://youtu.be/G_aXxuKaj6k 
+https://youtu.be/UC9aYFKYXGE
+
+[p.186]
+187
+(24) 
+LÍNGUA-DE-SINAIS^MUITO-FLUENTE
+ ou
+(25) 
+LÍNGUA-DE-SINAIS^ADMIRÁVEL 
+(+ morfema boca)
+Nessas construções, constituídas a partir do sinal (19), reconhecido como a 
+forma morfológica neutra, o referido morfema livre atua como radical na derivação 
+de uma sequência de outros sinais. Assim, esse morfema livre (19) é um morfema 
+lexical que se comporta como morfema base (cf. FARIA-NASCIMENTO, 2009), 
+bastante produtivo na ampliação lexical e terminológica da Libras, de forma a 
+nomear distintos e variados conceitos, constituídos a partir dessa base livre (19) 
+LÍNGUA-DE-SINAIS. Esse morfema raiz ocupa a posição de radical na constituição 
+de novas unidades lexicais sinalizadas – ULS. Os sinais de (20) a (25) agregam ao 
+morfema base, morfemas afixais presos que compreendem tanto o morfema boca  
+(PÊGO, 2013, p.65), quanto outros movimentos que, ao lado do morfema boca, 
+acrescentam informação linguística ao radical.
+Em (20), acrescenta-se a ideia de “inferioridade”. Em (21), o valor agregado 
+ao morfema base é de “facilidade”, marcado tanto pelo morfema boca quanto pela 
+https://youtu.be/KgAFBp_jHKI 
+https://youtu.be/eKC1GO2dIFw 
+https://youtu.be/9yV2zmHfI3o

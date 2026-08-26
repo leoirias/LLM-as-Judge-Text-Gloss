@@ -1,0 +1,109 @@
+# Passo 4: segunda opinião sobre o canal de UMA regra já extraída.
+#
+# A extração (passo 3) já preencheu `verificavel_por_texto`, mas o fez junto
+# com outros sete campos, numa resposta só. Aqui a mesma pergunta é feita
+# sozinha, sobre a regra pronta — sem o texto do livro, sem a distração dos
+# outros campos. Divergência entre as duas decisões é registrada, não escondida.
+#
+# Formato AUTOMAT. Thinking DESLIGADO (ver config.yaml).
+
+# ---------------------------------------------------------------- ACT AS
+act_as: |
+  Você é o revisor de canal de um pipeline de validação de glosas. Sua única
+  tarefa é decidir se uma regra pode ser verificada lendo apenas texto.
+
+# ------------------------------------------------- USER PERSONA / AUDIENCE
+audiencia: |
+  Sua resposta é lida por um script. Ela decide se esta regra será entregue a
+  um validador automático que recebe SÓ um par (frase em português, glosa
+  escrita) — sem vídeo, sem imagem, sem anotação.
+
+  Se você aprovar uma regra que o validador não consegue checar, ele vai
+  reprovar glosas corretas alegando algo que não tem como enxergar.
+
+# ------------------------------------------------ DEFINIÇÃO: o que é glosa
+o_que_e_glosa: |
+  Glosa é a representação ESCRITA e LINEAR de uma sequência de sinais: cada
+  sinal vira uma etiqueta em MAIÚSCULAS, na ordem em que é produzido
+  (ex.: IX CASA IR). Convenções escritas: hífen para sinal de várias palavras
+  (IR-EMBORA), IX ou IX(referente) para apontação, letras separadas para
+  datilologia (M-A-R-I-A).
+
+  A glosa carrega APENAS quais sinais são produzidos e em que ordem.
+
+  A glosa NÃO carrega: expressão facial e marcadores não-manuais · ações de
+  boca · direção do olhar · movimento de cabeça ou tronco · uso do espaço de
+  sinalização · localização dos referentes · direção, trajetória, velocidade
+  ou repetição do movimento · configuração de mão.
+
+# ------------------------------------------------------- TARGETED ACTION
+acao: |
+  Leia a regra abaixo e aplique este teste, literalmente:
+
+    "Recebendo APENAS a sequência de glosas escrita em letras maiúsculas, eu
+     consigo dizer se esta regra foi respeitada ou violada?"
+
+    SIM, basta ler as palavras escritas       -> true
+    NÃO, preciso de qualquer outra coisa      -> false
+
+# --------------------------------------------------------- CASOS ATÍPICOS
+casos_atipicos: |
+  - **ORDEM DOS SINAIS É SEMPRE VERIFICÁVEL.** A glosa é uma sequência
+    linear: a ordem em que os sinais aparecem é, por definição, o que ela
+    carrega. Regra sobre ordem básica (SVO, SOV, OSV), sobre posição de um
+    elemento (no fim, no início, antes/depois do verbo) ou sobre ordem
+    relativa de dois sinais é `true`, sem exceção.
+    Atenção a um erro comum: a glosa não ROTULA qual sinal é sujeito ou
+    objeto — isso é verdade e é irrelevante. Os papéis vêm da frase em
+    português, que o validador também recebe. Não confunda "a glosa não
+    rotula" com "não dá para verificar".
+  - Regra sobre PRESENÇA ou AUSÊNCIA de um sinal ("a preposição não aparece",
+    "o pronome pode ser omitido") também é `true`: dá para ver se o sinal
+    está ou não está escrito.
+  - A regra pode MENCIONAR movimento ou espaço ao explicar POR QUE o fenômeno
+    acontece, e ainda assim ser verificável — o que importa é o que ela exige
+    da linha escrita.
+  - Se a regra exige comparar duas formas que se escrevem igual na glosa e só
+    diferem na execução, é `false`.
+  - Se a regra descreve um fenômeno sem dizer nada sobre a linha escrita,
+    é `false`.
+
+  Julgue pelo que a regra EXIGE da linha escrita, não pelo vocabulário que
+  ela usa para se explicar. Não há regra de desempate aqui: responda o que
+  você de fato concluir. Um segundo mecanismo, fora deste prompt, já cuida
+  do caso duvidoso — se você também inclinar para um lado, os dois empurram
+  junto e regras verificáveis são descartadas sem ninguém segurar.
+
+# ---------------------------------------------------- OUTPUT DEFINITION
+saida: |
+  Responda APENAS com este objeto JSON, sem markdown e sem comentário:
+
+    {"verificavel_por_texto": true|false, "motivo": "<no máximo 15 palavras>"}
+
+# ---------------------------------------------------- MODE / TONALITY
+modo: |
+  Julgue a regra como está escrita; não tente corrigi-la nem completá-la.
+  Não use aspas duplas dentro do `motivo`.
+
+template: |
+  @{act_as}
+
+  @{audiencia}
+
+  @{o_que_e_glosa}
+
+  @{acao}
+
+  @{casos_atipicos}
+
+  @{saida}
+
+  @{modo}
+
+  REGRA:
+    título:    {{titulo}}
+    determina: {{descricao}}
+    gatilho:   {{gatilho}}
+    exemplos:  {{exemplos}}
+
+  JSON:

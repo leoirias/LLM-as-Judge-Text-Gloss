@@ -1,0 +1,82 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.6.2.2 Gestos-boca ===
+=== TRECHO: páginas 259-260 (parte 2 de 3 do mesmo tópico) ===
+
+[p.259]
+260
+As articulações-boca na Libras se associam mais a advérbios, adjetivos e 
+substantivos, pois a interpretação visual-vibracional da Língua Portuguesa e do 
+mundo exterior é representada pelas articulações-boca em categorias mais concre-
+tas e que são nomeadas. Os gestos-boca se associam mais a verbos, pois a ação que 
+é descrita é possível de ser visualizada pela forma que a boca assume (frequência, 
+duração, intensidade da ação).
+As articulações-boca são obrigatoriamente presentes quando assumem fun-
+ções específicas, tais como: desambiguação de pares mínimos, referência a algo ou a 
+um papel no discurso, características classificadoras ao sinal manual e especificação 
+do significado do sinal manual. 
+Alguns papéis que a articulação-boca, na Libras, possui permitem que ela 
+tenha maior flexibilidade de produção durante a sinalização manual, sendo opção 
+consciente do sinalizante produzi-la ou não: flexão de verbos, flexão de gênero (caso 
+não haja acréscimo do sinal HOMEM ou do sinal MULHER ao sinal-substantivo) 
+e articulação-boca performática que, por sua vez, apresenta características que 
+exigem do sinalizante escolhas lexicais-prosódicas complexas e não obrigatórias, 
+pois variam de acordo com o maior ou com o menor grau de performance discur-
+siva do sinalizante. 
+5.6.2.3.1  Distribuição e função das articulações-boca na Libras
+As articulações-boca, como dito anteriormente, constituem-se em movi -
+mentos de boca (referidos aqui como ações-boca) que se originam da língua oral 
+circundante, da língua falada (Boyes Braem; Sutton-Spence, 2001; Mohr, 2012). 
+Dentro do grupo das ações-boca, as articulações-boca são a categoria mais fre -
+quente, apresentando alta regularidade. Em estudos na NGT, realizados por Bank 
+et al. (2011), calculou-se que 77% dos sinais manuais são acompanhados por ar -
+ticulações-boca. Bauer (2018) cita pesquisas, como as de Johnston et al. (2016) e 
+as de Bank (2014), ao referir-se a essa presença das articulações-boca na produção 
+de sinais manuais dos sinalizantes: na Língua de Sinais Australiana (Auslan), as 
+articulações-boca apresentaram-se em 70% dos movimentos de boca, e, na NGT, 
+80% das ações-boca são deste tipo. 
+As articulações-boca acompanham, em sua maioria, substantivos, advérbios 
+e adjetivos e, em sua minoria, verbos e pronomes, conforme estudos de Ebbinghaus 
+e Hessmann (1994), de Schembri e Johnston (2007) e de Crasborn et al. (2008), 
+quando estudaram as respectivas línguas de sinais, BSL, NGT e Língua de Sinais 
+Sueca (SSL). Johnston et al. (2016) confirmaram os achados dos estudiosos citados, 
+ao concluírem que as articulações-boca tendem a seguir mais os sinais de conteúdo 
+do que os de função na Auslan. Os autores afirmam, mais especificamente, que as 
+articulações-boca estão mais presentes em nomes e em verbos morfologicamente 
+simples (verbos direcionais, verbos espaciais, verbos classificadores) do que em 
+verbos e em palavras de classes morfologicamente complexas. Além disso, elas 
+são semanticamente congruentes e alinhadas, temporalmente, ao sinal manual
+
+[p.260]
+261
+que com elas coocorre (Bauer, 2018; Schermer, 1990; Boyes Braem, 2001; Bank 
+et al., 2011; Mohr, 2014). Seguem alguns exemplos ilustrados dessa congruência 
+de significado, conforme identificado nos estudos de Bank (2014, p. 95) e também 
+em dados da Libras.
+Figura 29 - Sinal COPIAR com a articulação-boca ´copiaa´, acompanhando o movimento 
+https://youtu.be/eBNQ3MA151A 
+Fonte: Pêgo (2021) 
+As articulações-boca assumem funções de marcadores prosódicos na Língua 
+de Sinais. Porém, não ficam limitadas ao léxico e à prosódia, mas assumem, tam-
+bém, funções estilísticas, semânticas e sociolinguísticas.
+Pêgo (2021) lista as principais funções que as articulações-boca podem as-
+sumir nas Línguas de Sinais:
+a. Desambiguação, complementação ou especificação 
+de itens lexicais: Crasborn et al. (2008) corroboram os es-
+tudos de Schremer (1990) ao afirmarem que essas funções 
+ocorrem quando são sinais iguais com significados dife -
+rentes, classes gramaticais diferentes ou com classes com 
+significado mais específico. Johnston e Schembri (2007) 
+citam o exemplo da Auslan para o sinal SPOUSE , no qual 
+o mouthing, com as palavras em inglês wife ou husband, 
+serve para indicar mais especificamente a qual pessoa o 
+sinalizante se refere (Johnston et al., 2016). Na Libras, te-
+mos o exemplo “irmão” e “irmã”, que são sinalizados com 
+as articulações-boca especificando o sexo, sem necessidade 
+de um sinal adicional de HOMEM ou MULHER. 
+b. Preenchimento de lacunas lexicais: Boyes Braem 
+(2001) verificou que os surdos tardios utilizavam as arti -
+culações-boca quando não havia um sinal correspondente, 
+e que surdos de outras Línguas de Sinais os empregavam 
+acompanhados de soletração manual para nomes próprios 
+ou para conceitos que não são conhecidos/usados na Co -
+munidade Surda.

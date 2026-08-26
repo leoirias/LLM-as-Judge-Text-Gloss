@@ -1,78 +1,131 @@
-# Fusão de candidatas duplicadas dentro de UMA categoria, em rodadas
-# (consolidado até agora + lote novo -> consolidado atualizado).
+# Passo 5 — fusão de candidatas duplicadas dentro de UMA categoria.
+# Formato AUTOMAT: Act as · User persona · Targeted action · Output definition ·
+#                  Mode/tonality · Atypical cases
+#
+# Rodadas: consolidado até agora + lote novo -> DECISÕES sobre o lote.
+# O modelo NÃO reimprime a lista consolidada — devolve só o que fazer com cada
+# candidata. Antes ele reimprimia tudo, e com a base passando de ~40 regras o
+# JSON estourava max_new_tokens e truncava no meio (6 lotes perdidos numa rodada).
 # Thinking DESLIGADO (ver config.yaml).
 
-objective: |
-  Você está organizando candidatas a regra gramatical da Língua Brasileira
-  de Sinais (Libras), extraídas de livros acadêmicos de linguística, todas
-  da MESMA categoria linguística ("{{categoria}}"), pra chegar numa lista
-  final SEM DUPLICATAS. Duas candidatas devem virar UMA regra final quando
-  descrevem o MESMO fenômeno gramatical — mesmo vindas de páginas/livros
-  diferentes, com exemplos diferentes, ou escritas com palavras diferentes.
+# ---------------------------------------------------------------- ACT AS
+act_as: |
+  Você é o curador de uma base de regras gramaticais da Língua Brasileira de
+  Sinais (Libras). As regras foram extraídas de livros por leitura automática,
+  trecho a trecho, e por isso o MESMO fenômeno aparece várias vezes, escrito
+  com palavras diferentes. Seu trabalho é reconhecer quando duas candidatas
+  são a mesma regra.
 
+# ------------------------------------------------- USER PERSONA / AUDIENCE
+audiencia: |
+  A lista final não será lida por um humano: ela é injetada inteira no prompt
+  de um validador automático, que recebe um par (frase em português, glosa) e
+  precisa citar por ID a regra em que se apoiou.
+
+  Isso torna a duplicata cara de duas formas. Ela infla o prompt do validador,
+  e — pior — faz ele escolher entre regras quase idênticas, o que já foi
+  observado produzir citação errada. Fundir bem é o que mantém a base
+  utilizável.
+
+# ------------------------------------------------------- TARGETED ACTION
+acao: |
+  Para CADA candidata nova listada abaixo, tome UMA decisão:
+
+    (a) é o MESMO fenômeno de uma regra já consolidada
+        -> funde com ela, informando o índice entre colchetes (ex.: "3");
+    (b) é o MESMO fenômeno de OUTRA candidata deste mesmo lote
+        -> funde com ela, informando o ID dela (ex.: "LIBRAS.SINTAXE.007");
+    (c) é um fenômeno DISTINTO de tudo
+        -> vira regra nova (deixe `funde_com` vazio).
+
+  Ao FUNDIR: reescreva `descricao` cobrindo os dois casos, atualize `titulo` e
+  `gatilho`, combine os `exemplos` sem repetir, e escreva a
+  `justificativa_fusao` — ela é OBRIGATÓRIA quando há fusão.
+
+  Ao criar regra NOVA: deixe `funde_com` e `justificativa_fusao` vazios. Os
+  campos de texto podem ficar vazios também — o texto original da candidata é
+  mantido automaticamente.
+
+# ------------------------------------------- CRITÉRIO: o que é o mesmo fenômeno
+criterio: |
+  Duas candidatas são a MESMA regra quando exigem a MESMA COISA da glosa sob a
+  MESMA CONDIÇÃO. Compare o par (gatilho, determinação), não o vocabulário.
+
+  Mesma regra, escrita diferente -> FUNDE.
+  Mesma determinação, condição diferente -> NÃO funde: são duas regras.
+
+  Categoria ampla não é evidência de fusão: "sintaxe" cobre ordem, negação,
+  interrogativa e topicalização, que são fenômenos distintos entre si.
+
+# ------------------------------------------------------- ATYPICAL CASES
+casos_atipicos: |
+  - **Pares opostos NÃO são duplicata.** Regras que se distinguem justamente
+    pela condição — uma valendo COM certo traço e outra SEM ele, ou uma para
+    um sentido e outra para o sentido inverso — são duas regras. Fundi-las
+    apaga a distinção que as torna úteis.
+  - **Geral x específica.** Se uma candidata é um caso particular de outra
+    (mesma determinação, gatilho mais estreito), funda e faça a `descricao`
+    da regra fundida declarar a condição especial em vez de apagá-la.
+  - **Permissiva x prescritiva.** Uma que diz que algo PODE ocorrer e outra
+    que diz que DEVE ocorrer não são a mesma regra, mesmo falando do mesmo
+    elemento. Preserve a modalidade de cada uma.
+  - **Mesmo sinal, regras diferentes.** Duas candidatas podem citar o mesmo
+    sinal e descrever fenômenos distintos. O sinal em comum não é evidência.
+  - **Na dúvida, NÃO funda.** Duas regras parecidas custam prompt; uma fusão
+    errada apaga uma regra para sempre e não deixa rastro.
+
+# ---------------------------------------------------- OUTPUT DEFINITION
+saida: |
+  Retorne APENAS um objeto JSON com UMA decisão por candidata nova:
+
+    {"decisoes": [
+       {"id_origem": "<ID da candidata>",
+        "funde_com": "<índice da consolidada, ou ID de outra candidata, ou vazio>",
+        "titulo": "...", "descricao": "...", "gatilho": "...",
+        "exemplos": ["..."], "justificativa_fusao": "..."}
+    ]}
+
+  O número de decisões deve ser EXATAMENTE o número de candidatas novas, uma
+  para cada, sem pular nenhuma e sem inventar ID que não esteja na lista.
+
+  NÃO devolva as regras já consolidadas — elas são mantidas automaticamente.
+
+# ---------------------------------------------------- MODE / TONALITY
+modo: |
+  Técnico e literal. Mantenha SINAIS e glosas em maiúsculas como no original.
+  NÃO use aspas duplas (") dentro dos valores — use aspas simples ('assim').
+  Responda APENAS com o objeto JSON: sem cercas de markdown, sem comentário
+  antes ou depois, nada após a chave final.
+
+# ------------------------------------------------------------- ESTADO
 estado: |
-  Lista CONSOLIDADA até agora (resultado das rodadas anteriores; pode estar
-  vazia se esta é a primeira rodada — nesse caso, cada nova candidata abaixo
-  vira uma entrada nova, a menos que duas delas sejam claramente o mesmo
-  fenômeno entre si):
+  Lista CONSOLIDADA até agora (vazia na primeira rodada). O índice entre
+  colchetes é o que você usa em `funde_com`:
   {{consolidado}}
 
 novas: |
-  NOVAS candidatas a considerar nesta rodada (ainda não avaliadas):
+  NOVAS candidatas desta rodada:
   {{novas}}
 
-instrucoes: |
-  - Para cada nova candidata: decida se ela é o MESMO fenômeno de alguma
-    regra já na lista consolidada (funda as duas — a nova candidata NÃO
-    vira uma entrada separada, ela se junta à existente) ou se é um
-    fenômeno DISTINTO de tudo que já está na lista (vira uma entrada nova).
-  - Regras já consolidadas que NENHUMA nova candidata tocar nesta rodada
-    devem ser devolvidas EXATAMENTE como estavam (mesmo texto, mesmo
-    ids_origem) — não reescreva o que não mudou.
-  - Ao fundir, escreva uma `descricao` clara que cubra os casos de todas as
-    candidatas fundidas, e combine os `exemplos` das duas sem repetir.
-  - `ids_origem` acumula TODOS os IDs de candidatas já fundidas naquela
-    regra, incluindo fusões de rodadas anteriores — nunca remova um ID que
-    já estava lá.
-  - `justificativa_fusao`: frase curta explicando por que as candidatas são
-    o mesmo fenômeno. Deixe "" se a regra ainda tem só 1 id_origem.
-  - NÃO invente regra que nenhuma candidata sustente. NÃO funda duas
-    candidatas só porque são da mesma categoria — categoria ampla (ex.
-    "sintaxe") cobre vários fenômenos distintos; só funda se for
-    literalmente a mesma regra.
-  - NÃO use aspas duplas (") dentro dos valores de texto — use aspas
-    simples ('assim') se precisar destacar uma palavra/sinal.
-
-schema: |
-  Retorne APENAS um objeto JSON: {"regras_finais": [regra, regra, ...]},
-  com a lista COMPLETA e atualizada (consolidado anterior + o que mudou
-  nesta rodada). Cada regra tem EXATAMENTE estes campos:
-    titulo               - nome curto da regra final
-    descricao            - o que a regra determina, cobrindo todas as
-                            candidatas fundidas nela
-    gatilho               - quando a regra se aplica
-    exemplos              - lista de exemplos (combinados, sem repetir)
-    ids_origem            - lista dos IDs das candidatas (ex.:
-                            "ASLFD.SINTAXE.003") fundidas nesta regra
-    justificativa_fusao  - por que foram fundidas; "" se só 1 id_origem
-
-output_rules: |
-  Produza APENAS o objeto JSON descrito. Sem cercas de markdown, sem
-  comentário antes ou depois, nada após a chave final.
-
 template: |
-  @{objective}
+  @{act_as}
 
-  Categoria: {{categoria}}
+  @{audiencia}
+
+  Categoria em curadoria: {{categoria}}
+
+  @{acao}
+
+  @{criterio}
+
+  @{casos_atipicos}
 
   @{estado}
 
   @{novas}
 
-  @{instrucoes}
+  @{saida}
 
-  @{schema}
-
-  @{output_rules}
+  @{modo}
 
   JSON:

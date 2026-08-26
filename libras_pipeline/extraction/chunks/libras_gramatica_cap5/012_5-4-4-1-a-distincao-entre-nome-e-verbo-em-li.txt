@@ -1,0 +1,98 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.4.4.1 A distinção entre nome e verbo em Libras ===
+=== TRECHO: páginas 209-211 ===
+
+[p.209]
+210
+(101)  NÃO TER
+A derivação por modificação da raiz (ou do radical) ocorre de forma simul-
+tânea, principalmente por meio da mudança no padrão do movimento, como a 
+reduplicação, nos casos de distinção entre nomes e verbos em algumas Línguas de 
+Sinais, mas também pela mudança de outros parâmetros do sinal. A seguir, será 
+apresentado como se dá a distinção de nomes e verbos na Libras, que parece se 
+diferenciar do padrão de mudança de movimento da ASL. 
+5.4.4.1 A distinção entre nome e verbo em Libras
+Em relação à Libras, as primeiras publicações que abordam esse tema indi-
+cam posições diferentes. Enquanto Quadros e Karnopp (2004) sugerem que talvez 
+o mesmo comportamento da ASL possa ser encontrado na Libras, apresentando 
+alguns possíveis exemplos (conforme ilustrado abaixo), Felipe (2006) afirma que 
+a Libras apresenta derivação zero, ou seja, não há diferença morfofonológica entre 
+nomes e verbos. A autora propõe que, para saber a diferença entre nomes e verbos 
+se observe a posição do sinal na sentença, pois dessa forma seria possível perceber 
+o que é um nome ou um verbo.
+Fonte: Quadros e Karnopp (2004, p. 97 e 98).
+ Felipe (2006), em seus dados de pesquisa, observou uma diferença no padrão 
+do movimento dos pares AVIÃO/IR-DE-AVIÃO e FERRO/PASSAR-COM-FERRO, 
+em que o verbo apresentou um movimento mais alongado em relação ao nome, 
+https://youtu.be/JTsSyRIS-ss
+
+[p.210]
+211
+corroborando com os dados encontrados em Supalla e Newport (1978). Entretanto, 
+pelo fato de essa diferenciação não se aplicar a todos os pares de nomes e verbos na 
+Libras, Felipe opta por manter o uso de derivação zero para esse tipo de formação 
+de palavras.
+Pesquisas mais recentes parecem apontar para os mesmos achados de Feli-
+pe (2006), pois mostram que nem sempre o padrão de movimento para nomes e 
+verbos é observado, conforme análise de Pizzio e Silva (2021) acerca dos autores 
+apresentados a seguir. 
+Pizzio (2011) investigou o processo de derivação e criação de nomes, usando 
+um teste de eliciação de sinais. Sua pesquisa demonstrou uma falta de regularidade 
+neste processo para a Libras, isto é, que a repetição e a reduplicação do parâmetro 
+não são um padrão na criação de nomes a partir de verbos nesta língua e não podem 
+ser associados a determinadas categorias de palavras. 
+Para se certificar dos resultados, a autora ainda comparou seus dados com 
+uma busca dos pares em dicionários de Libras (impresso e online), a fim de observar 
+se havia diferença entre nomes e verbos no que diz respeito ao movimento. As bus-
+cas foram realizadas no dicionário de Capovilla e Raphael (2001), no Acesso Brasil6 
+e no Libras Net7, sendo os dois últimos disponíveis e acessíveis online. A autora 
+observou que há uma variedade grande na forma de representar os sinais entre 
+os diferentes dicionários, no que se refere ao padrão no movimento. Um mesmo 
+par foi representado de maneiras diferentes em cada um dos dicionários, de forma 
+que não foi possível confirmar a generalização de Supalla e Newport para Libras.
+Lima (2012) também investigou propriedades morfológicas que permiti -
+riam distinguir nomes de verbos da Libras, em uma perspectiva teórico cognitiva 
+funcional, com foco nas propriedades semânticas das classes, a partir de aspectos 
+cognitivos e comunicativos. O autor procurou observar quais características se -
+mânticas corresponderiam às categorias de palavras em questão, verificando que 
+um critério para contrastar as noções verbais e nominais em Libras seria mesmo o 
+semântico, pois o movimento não pode ser associado a esta distinção, assim como 
+Pizzio (2011) também constatou.
+Em relação ao reconhecimento de tais categorias, o autor argumenta que 
+os critérios sintáticos e pragmáticos se mostram eficientes para sua identificação 
+e posterior classificação. No que se refere ao mecanismo sintático, observou que 
+um sinal em Libras funcionará como Nome ou Verbo a depender das propriedades 
+distribucionais e/ou funcionais, ou ambas.
+Chaibue (2013), na mesma perspectiva teórica, busca discutir o universal de 
+que todas as línguas distinguem nome e verbo, com foco na Libras, questionando o 
+padrão absoluto de distinção destas categorias de palavras. Os resultados da análise 
+6 Disponível em: www.acessobrasil.org.br/libras, acesso em jan2011
+7 Disponível em: www.librasnet.com.br, acesso em dez/2010
+
+[p.211]
+212
+do corpus evidenciaram uma inconsistência em associar o parâmetro movimento 
+como característica distintiva para as categorias de palavra analisadas.
+A autora sugere que, na Libras, “propriedades N e V sejam analisadas como 
+pertinentes às construções, indissociáveis do contexto, e não como definidoras de 
+categorias de ordem lexical, conforme proposto por Croft (2001)” (CHAIBUE, 2013, 
+p. 143). Cabe ressaltar que muitas das características analisadas foram observadas 
+nos níveis semântico e pragmático de análise linguística.
+Tanto a pesquisa de Lima (2012) quanto de Chaibue (2013) utilizaram dados 
+de produção espontânea para subsidiar suas análises e seus resultados.
+Mais recentemente, Lavras (2019) e Silva (2020) empregam os mesmos pares 
+de nomes e verbos de Pizzio (2011) para suas análises, ambos se utilizando da teoria 
+gerativa para embasar seus estudos. Enquanto Lavras (2019) realizou um teste com 
+imagens em contexto para eliciar sentenças em Libras, Silva (2020) usou os dados 
+de produção espontânea do corpus de Libras em sua pesquisa. Os resultados da 
+análise de Lavras (2019) demonstram que, independentemente da posição na frase, 
+se em posição nominal ou verbal, o sinal pode ocorrer com a mesma articulação.
+Ademais, os dados de Silva (2020), de natureza espontânea, ou seja, aqueles 
+em que não há eliciação de qualquer natureza nem monitoramento da fala, rati -
+ficam os resultados das pesquisas anteriores de que há irregularidade fonológica 
+associada à distinção morfológica, logo, não havendo distinção morfofonológica 
+entre as categorias gramaticais.
+                    
+(102) TELEFONE (um movimento)                      (103) COMER (dois movimentos internos)
+https://youtu.be/7c0C-8z4CO0 
+https://youtu.be/cvo_iLvZTW4

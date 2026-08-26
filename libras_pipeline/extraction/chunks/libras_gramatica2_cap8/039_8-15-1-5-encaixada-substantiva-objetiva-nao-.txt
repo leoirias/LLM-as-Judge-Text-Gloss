@@ -1,0 +1,120 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.15.1.5 Encaixada substantiva objetiva não manual ===
+=== TRECHO: páginas 241-244 (parte 1 de 2 do mesmo tópico) ===
+
+[p.241]
+242
+ 
+8.15.1.5 Encaixada substantiva objetiva não manual
+Nos exemplos a seguir, a oração encaixada exerce a função de objeto direto 
+da oração principal. Mas a articulação entre a oração principal e a oração encaixada 
+acontece sem o conectivo, apenas por justaposição.
+(96) Substantiva objetiva não manual com justaposição.
+MÃE SABER NOME ESCOLA PERGUNTAR ENTRAR FONOAUDIÓLOGA
+ONDE                        ESCOLA             SURDO
+MÃE SABER NOME ESCOLA PERGUNTAR 
+ENTRAR FONOAUDIÓLOGA [ONDE ESCOLA 
+SURDO]
+Minha mãe não sabia o nome da escola, e daí foi à 
+fonoaudióloga e perguntou onde teria uma escola 
+para surdos.
+A sentença (96) estabelece a relação entre duas sentenças por meio de justa-
+posição. A primeira parte da sentença MÃE [...] PERGUNTAR apresenta o sujeito 
+(MÃE) e o predicado (PERGUNTAR). A última parte da sentença ONDE ESCOLA 
+SURDO funciona como objeto direto da primeira sentença MÃE [...] PERGUNTAR. 
+A sinalizante articula o discurso da participante que realiza a pergunta. Há uma 
+marcação não manual, as sobrancelhas franzidas, sobre o sinal ONDE, que marca 
+o início da sentença encaixada, a qual faz parte da estrutura da oração nuclear. 
+Há uma interpolação discursiva na sentença encaixada ENTRAR FONOAU-
+DIÓLOGA, que é natural em contextos discursivos orais. Assim, as duas sentenças 
+podem ser sintetizadas dessa forma: MÃE [...] PERGUNTAR [...] ONDE ESCOLA 
+SURDO. 
+https://youtu.be/-HVxNRHpxFY
+
+[p.242]
+243
+(97)
+(97) Substantiva objetiva não manual com justaposição.
+  3AJUDAR1  DESENVOLVER MESTRADO
+3AJUDAR1 [DESENVOLVER MESTRADO]
+(O Letras Libras) me ajudou a desenvolver para 
+o mestrado. 
+A relação entre oração principal e oração encaixada acontece a partir da jus-
+taposição, sem um conectivo. A oração principal é 3AJUDAR1, cujo verbo já possui 
+dois argumentos, a partir da trajetória de movimento do verbo direcional e exige 
+mais um argumento para funcionar como objeto direto. A oração DESENVOLVER 
+MESTRADO cumpre a função de objeto direto e, por isso, faz parte da estrutura 
+sintática da oração principal. 
+(98) Substantiva objetiva não manual com justaposição.
+IDADE   COMEÇAR L2 COMEÇAR APRENDER LÍNGUA-DE-SINAIS
+IDADE COMEÇAR 12 COMEÇAR 
+[APRENDER LÍNGUA-DE-SINAIS]
+Quando eu tinha 12 anos, eu comecei a aprender  
+a Língua de Sinais.
+A oração (98) é constituída por uma oração hipotática adverbial temporal e 
+uma oração matriz que, por sua vez, apresenta uma encaixada substantiva objetiva. 
+A oração temporal é a primeira parte da sentença, IDADE COMEÇAR 12 (Quando 
+https://youtu.be/raQrYdNAweQ
+https://youtu.be/B9oVbM56xKg
+
+[p.243]
+244
+eu tinha 12 anos), que se articula com a oração matriz, COMEÇAR APRENDER 
+LÍNGUA-DE SINAIS (eu comecei a aprender a Língua de Sinais). O verbo ‘COME-
+ÇAR’ considerando a oração matriz, exige dois argumentos: sujeito e objeto. Ao 
+invés de haver um núcleo nominal como objeto direto da oração principal, tem-se 
+uma sentença encaixada, APRENDER LÍNGUA-DE-SINAIS. Essa oração funciona 
+como objeto direto do predicado COMEÇAR e está integrada em sua estrutura 
+sintática. Essas orações são articuladas pela justaposição, sem a presença de um 
+item lexical para evidenciar a relação entre elas. A proposição entre as orações 
+surge do contexto de sinalização. 
+Há uma mudança no padrão prosódico entre as orações. Na primeira parte 
+da sentença, na oração temporal IDADE COMEÇAR 12, o tronco do sinalizante está 
+para trás, voltado mais para a direita. Já na sentença encaixada, em APRENDER 
+LÍNGUA-DE-SINAIS, o sinalizante inclina o tronco para frente e gira a cabeça 
+lentamente para a esquerda. Essa mudança no padrão prosódico da sentença con-
+tribui para marcar a articulação entre as orações, explicitando a oração temporal 
+e a encaixada substantiva objetiva. 
+(99) Substantiva objetiva não manual com justaposição.
+ FASE                    E (negativo) PARECER             VIDA                        TER-NÃO            VIDA
+ 
+TER-NÃO
+FASE E(negativo) PARECER [VIDA TER-NÃO  
+VIDA TER-NÃO]
+Antes (era) péssimo; parece que não havia vida,  
+não havia vida. 
+https://youtu.be/WF_sK87ffro
+
+[p.244]
+245
+O exemplo (99) possui uma oração encaixada substantiva objetiva direta. 
+A primeira parte da oração constitui a oração principal, PARECER, cujo sujeito é 
+inexistente. Nesse contexto, o verbo PARECER exige apenas um argumento, ou 
+seja, o objeto direto, que é constituído pela oração VIDA TER-NÃO VIDA TER -
+-NÃO. Essa oração encaixada faz parte da estrutura sintática da oração principal. 
+As duas orações são articuladas pela estratégia de justaposição, sem a presença de 
+um item lexical para articulá-las. 
+Há uma mudança de padrão prosódico entre as orações. Na primeira oração, 
+PARECER, o sinalizante está olhando para sua interlocutora, com o tronco centra-
+lizado e as sobrancelhas levantadas. Na sentença encaixada substantiva objetiva, o 
+sinalizante olha para a direita e depois para a esquerda, bem como inclina o tronco 
+para frente e mantém as sobrancelhas franzidas. Essa mudança na marcação não 
+manual distingue a sentença encaixada e a nuclear. 
+(100) Substantiva objetiva não manual com justaposição.
+IX (eu)  MÃE       FAMÍLIA   COMBINAR  MUDAR  PORTO ALEGRE  
+IX (eu) MÃE FAMÍLIA COMBINAR [MUDAR  
+PORTO ALEGRE]
+Eu, minha mãe e minha família decidimos mudar  
+para Porto Alegre.
+A sentença (100) é constituída por uma oração nuclear e uma encaixada. Trata-se 
+de uma sentença encaixada substantiva objetiva. A oração principal é constituída 
+por um sujeito composto IX (eu) MÃE FAMÍLIA e pelo predicado, cujo núcleo é 
+o verbo COMBINAR. O verbo COMBINAR exige dois argumentos, um sujeito e 
+um objeto. O objeto da sentença IX (eu) MÃE FAMÍLIA COMBINAR é a sentença 
+encaixada substantiva objetiva, MUDAR PORTO ALEGRE. Ao invés de haver ape-
+nas um sintagma nominal, há uma oração que exerce a função de objeto da oração 
+principal. As duas orações são articuladas pela estratégia de justaposição, sem a 
+presença de um conectivo entre elas. 
+Assim como nos exemplos acima, ocorre uma mudança de padrão prosódi-
+co entre as duas sentenças. Enquanto a enunciadora sinaliza a oração principal, 
+https://youtu.be/2y2sI0JNtHI

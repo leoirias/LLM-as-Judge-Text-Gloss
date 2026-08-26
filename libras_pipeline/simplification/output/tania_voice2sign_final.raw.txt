@@ -1,0 +1,76 @@
+### sintaxe lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Ordem Sujeto-Predicado em Libras",
+      "descricao": "A estrutura básica da frase em Libras é Sujeto (SUJ) seguido de Predicado (PRED), com o sujeito geralmente expresso por um pronome (IX) ou nome próprio, e o predicado iniciado por um verbo direcional ou intransitivo.",
+      "gatilho": "frase com sujeito e predicado em contexto de comunicação direta",
+      "exemplos": [
+        "PODER EXPLICAR TRATAMENTO",
+        "EU PODER IR CASA HOJE",
+        "DOR COMEÇAR QUANDO?",
+        "COMER ALGO ESTRANHO?",
+        "BEBER ÁGUA SUFICIENTE?",
+        "ENFERMEIRA CHAMAR AGORA"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.001"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Elipse da preposição locativa em 'IR CASA'",
+      "descricao": "A preposição locativa 'para' é elíptica em Libras e não aparece na glosa; o movimento do sinal 'IR' já indica a direção, tornando a preposição redundante.",
+      "gatilho": "verbo 'IR' seguido de substantivo de local (ex: CASA)",
+      "exemplos": [
+        "IR CASA"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Posição e flexibilidade do advérbio de tempo",
+      "descricao": "O advérbio de tempo (ex: HOJE, AGORA) pode ser posicionado após o verbo, no nível do objeto ou no início da frase. A posição depende de se ele modifica o evento verbal ou o destino locativo (podendo ser tratado como adjunto nominal) e pode variar mantendo a naturalidade da comunicação.",
+      "gatilho": "advérbio de tempo em frase com verbo de movimento, objeto locativo ou verbo intransitivo",
+      "exemplos": [
+        "EU PODER IR CASA HOJE",
+        "ENFERMEIRA CHAMAR AGORA",
+        "AGORA ENFERMEIRA CHAMAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.003",
+        "LIBRAS.SINTAXE.007"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem a mesma regra sintática sobre a flexibilidade de posição dos advérbios de tempo em Libras, variando apenas nos exemplos e na especificidade do contexto verbal."
+    },
+    {
+      "titulo": "Estrutura de perguntas com sujeito nulo ou pronome IX",
+      "descricao": "Em perguntas com item-QU, o sujeito pode ser nulo ou expresso por um pronome IX, especialmente quando o foco está no verbo ou no complemento.",
+      "gatilho": "frase interrogativa com item-QU e sujeito implícito ou expresso por IX",
+      "exemplos": [
+        "COMER ALGO ESTRANHO?",
+        "BEBER ÁGUA SUFICIENTE?"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Complemento direto como nome com adjetivo",
+      "descricao": "O complemento direto em Libras é formado por um nome (NOME) que pode ser acompanhado por um adjetivo (ADJN), onde o adjetivo é projetado como um nó adjunto nominal (ADJN) ao nome.",
+      "gatilho": "complemento direto com nome e adjetivo (ex: ALGO ESTRANHO, ÁGUA SUFICIENTE)",
+      "exemplos": [
+        "ALGO ESTRANHO",
+        "ÁGUA SUFICIENTE"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.005"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+

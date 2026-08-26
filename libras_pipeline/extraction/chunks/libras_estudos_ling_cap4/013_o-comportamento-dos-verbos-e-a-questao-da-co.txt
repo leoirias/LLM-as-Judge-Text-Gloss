@@ -1,0 +1,134 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: O COMPORTAMENTO DOS VERBOS E A QUESTÃO DA CONCORDÂNCIA ===
+=== TRECHO: páginas 197-202 (parte 2 de 3 do mesmo tópico) ===
+
+[p.197]
+LÍNGUA DE SINAIS BRASILEIRA     201
+– Rathmann e Mathur (2002) verificaram que a concordância verbal na
+língua de sinais está associada com diferentes tipos de verbos em re-
+lação às propriedades semânticas de seus argumentos (seleção de ar-
+gumentos animados e inanimados). A concordância verbal está pre-
+sente com objetos diretos/indiretos animados. Assim, caracteriza-se a
+concordância em termos estruturais.
+Apesar de a língua de sinais brasileira ser uma língua de núcleo inicial, já
+viu-se que há uma assimetria entre duas classes verbais que apresentam re-
+percussão na estrutura que justifica a existência de duas representações, con-
+forme apresentado anteriormente. Cabe ressaltar que essa análise, feita por
+Quadros (1999), não considerou os verbos classificadores, assim chamados
+por incluírem, além da informação verbal, o sujeito e/ou o objeto, além de
+poder estar associado com número e grau. Nesse sentido, faz-se necessária
+uma breve discussão sobre os diferentes tipos de verbos encontrados na lín-
+gua de sinais brasileira. Quadros (1999) simplificou a classificação dos verbos
+na língua de sinais brasileira em verbos sem e com concordância verbal. Essa
+opção justifica-se, pois acomoda em duas classes verbais todas as formas ver-
+bais encontradas na língua de sinais brasileira, devidamente explicadas atra-
+vés das propostas de Lasnik (1995) e Bobaljik (1995), que também desenvol-
+vem análises com duas possibilidades. No entanto, há outras manifestações
+que compreendem expressões verbais que poderiam complicar a análise. Por
+exemplo, os verbos chamados de handling verbs, que poderiam ser chamados
+de “verbos manuais”, e os classificadores.
+Os verbos sem concordância
+Viu-se no Capítulo 3 que os verbos sem concordância são aqueles que
+não se flexionam em pessoa e número e não tomam afixos locativos. No en-
+tanto alguns desses verbos se flexionam em aspecto. Exemplos dessa catego-
+ria na língua de sinais brasileira são CONHECER, AMAR, APRENDER, SABER,
+INVENTAR, GOSTAR.
+Os verbos com concordância
+Por outro lado, os verbos com concordância são os que se flexionam em
+pessoa, número e aspecto. Exemplos dessa categoria na língua de sinais brasi-
+leira são DAR, ENVIAR, RESPONDER, PERGUNTAR, DIZER, PROVOCAR. Qua-
+dros (1999) incluiu os verbos “espaciais” nesta classificação. Tais verbos pos-
+suem afixos locativos, como VIAJAR, IR e CHEGAR. Vale destacar que muitos
+autores (tais como Padden, 1988) fazem a distinção entre os verbos com con-
+cordância e os verbos locativos. Quadros optou por incluí-los nesta categoria,
+
+[p.198]
+202     QUADROS & KARNOPP
+uma vez que sintaticamente tais verbos apresentavam o mesmo comporta-
+mento, ou seja, tinham traços a ser checados gerando o desdobramento de IP
+em Agr e TP (concordância e sintagma temporal). Isso não significa que se-
+manticamente não haja diferença. Na verdade, há seleções semânticas pa-
+drões que diferenciam os verbos espaciais dos verbos que incorporam o sujei-
+to e o objeto. Rathman e Mathur (2002) apresentam uma análise diferencian-
+do os verbos quanto à seleção de seres animados e inanimados, por exemplo.
+Vale mencionar que alguns verbos podem ser classificados como sem con-
+cordância ou com concordância. São verbos que são classificados como sem
+concordância, mas que podem ser sinalizados em um determinado ponto in-
+corporando o referente. Quadros e Lillo-Martin (em elaboração) verificaram
+que tais verbos apresentam o mesmo comportamento sintático de verbos com
+concordância quando são sinalizados em concordância com o referente esta-
+belecido espacialmente. O teste para tal constatação relaciona-se com a distri-
+buição da negação, conforme já mencionado anteriormente. Os verbos sem
+concordância não admitem a negação antes do verbo, ao contrário dos verbos
+com concordância (exemplos).
+<ELE>do <PAGAR>do
+Ele pagou (alguma determinada coisa)
+<ELE>do <NÃO <PAGAR>do>n
+Ele não pagou (alguma determinada coisa)
+*ELE NÃO PAGAR
+
+[p.199]
+LÍNGUA DE SINAIS BRASILEIRA     203
+Aqui PAGAR pode ser classificado como um verbo com concordância atra-
+vés da direção do olhar e do movimento, como também ser classificado como
+sem concordância. Assim como ilustrado no exemplo anterior, quando o verbo
+PAGAR é um verbo sem concordância, a sentença será rejeitada quando a
+negação preceder o verbo
+Aspecto pode ser marcado tanto em verbos sem ou com concordância.
+Isso indica aspecto como uma categoria funcional independente de IP. Os ver-
+bos associados com aspecto na língua de sinais brasileira necessariamente
+aparecem em posição final:
+JOÃO LIVRO <COMPRAR+>aspecto
+*JOÃO <COMPRAR+>aspecto LIVRO
+João compra muitos livros
+Ainda dentro da classificação de verbos com concordância, há os chama-
+dos de backward verbs. Tais verbos iniciam a trajetória do sinal na posição do
+objeto e concluem-na na posição de sujeito, ao contrário dos demais verbos
+com concordância, que começam sua trajetória na posição do sujeito e vão em
+direção à posição do objeto. Na língua de sinais brasileira há vários verbos
+que ilustram este tipo de verbo, como BUSCAR e CHAMAR.
+BUSCAR CHAMAR
+
+[p.200]
+204     QUADROS & KARNOPP
+Os verbos “manuais”
+Os verbos manuais envolvem uma configuração de mão em que se repre-
+senta estar segurando um objeto na mão. Tais verbos são usados nas seguintes
+sentenças:
+<JOÃO>t <CASA>t <PINTAR-ROLO>cl
+João pinta a casa com o rolo
+<JOÃO>t <TELA>t/cl <PINTAR-PINCEL>cl
+João pinta a tela com o pincel
+<JOÃO>t <CADERNO>t <PINTAR-LÁPIS>cl
+João pinta o caderno com o lápis
+
+[p.201]
+LÍNGUA DE SINAIS BRASILEIRA     205
+Assim como observado com os verbos associados com aspecto, os verbos
+manuais finalizam a sentença. Primeiro situa-se sobre o que está se falando e,
+em seguida, define-se que tipo de verbo manual será usado, como nas cons-
+truções tópico-comentário.
+A classe dos verbos manuais poderia incluir os classificadores que incor-
+poram a informação verbal da sentença, pois também incorporam o objeto
+quando este é o caso. Além dessas informações, os classificadores podem in-
+corporar número e grau. Liddell (1980) refere-se a este tipo de exemplo na
+língua de sinais americana como ‘predicados complexos’. Seguem alguns exem-
+plos na língua de sinais brasileira:
+<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE+>cl
+O João estava de carro e bateu no poste detonando completamente o veículo
+<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE>cl
+O João estava de carro e deu uma batidinha no poste
+
+[p.202]
+206     QUADROS & KARNOPP
+Assim como mencionado por Lillo-Martin (no prelo), esse tipo de cons-
+trução parece romper com todas as regras na língua de sinais em todos os
+níveis de análise (sintático, morfológico e fonológico), uma vez que apresenta
+um comportamento completamente incomum, considerando as análises clás-
+sicas de um item lexical.
+Liddell (1980) apresenta exemplos da língua de sinais americana assu-
+mindo que há algum tipo de iconicidade associado que justificaria algumas
+JOÃO MARIA <CL(pessoa)-CRUZAR-UM-PELO-OUTRO>cl
+O João cruzou pela Maria
+<CENTRO>t MULHERES <CL(pessoas)-CRUZANDO-ENTRE-SI>cl
+No centro, várias mulheres cruzam entre si

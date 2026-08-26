@@ -1,0 +1,84 @@
+# Fusão de candidatas duplicadas dentro de UMA categoria, em rodadas
+# (consolidado até agora + lote novo -> consolidado atualizado).
+# Thinking DESLIGADO (ver config.yaml).
+
+objective: |
+  Você está organizando candidatas a regra gramatical da Língua Brasileira
+  de Sinais (Libras), extraídas de livros acadêmicos de linguística, todas
+  da MESMA categoria linguística ("{{categoria}}"), pra chegar numa lista
+  final SEM DUPLICATAS. Duas candidatas devem virar UMA regra final quando
+  descrevem o MESMO fenômeno gramatical — mesmo vindas de páginas/livros
+  diferentes, com exemplos diferentes, ou escritas com palavras diferentes.
+
+estado: |
+  Lista CONSOLIDADA até agora (resultado das rodadas anteriores; pode estar
+  vazia se esta é a primeira rodada — nesse caso, cada nova candidata abaixo
+  vira uma entrada nova, a menos que duas delas sejam claramente o mesmo
+  fenômeno entre si):
+  {{consolidado}}
+
+novas: |
+  NOVAS candidatas a considerar nesta rodada (ainda não avaliadas):
+  {{novas}}
+
+instrucoes: |
+  Para CADA candidata nova listada acima, decida UMA coisa:
+
+    (a) ela é o MESMO fenômeno de uma regra já consolidada -> funde com ela,
+        informando o índice entre colchetes daquela regra (ex.: "3");
+    (b) ela é o MESMO fenômeno de OUTRA candidata deste mesmo lote -> funde
+        com ela, informando o ID da outra candidata (ex.: "LIBRAS.SINTAXE.007");
+    (c) é um fenômeno DISTINTO de tudo -> vira regra nova (funde_com vazio).
+
+  Ao FUNDIR (casos a e b):
+    - reescreva `descricao` cobrindo os dois casos, `titulo` e `gatilho`
+      atualizados, e `exemplos` combinados sem repetir;
+    - `justificativa_fusao` é OBRIGATÓRIA: frase curta dizendo por que são o
+      mesmo fenômeno.
+
+  Ao criar regra NOVA (caso c):
+    - deixe `funde_com` vazio e `justificativa_fusao` vazia;
+    - só preencha titulo/descricao/gatilho/exemplos se quiser melhorar o texto
+      da candidata; deixando vazio, o texto original dela é mantido.
+
+  NÃO devolva as regras já consolidadas — elas são mantidas automaticamente.
+  Devolva SÓ uma decisão por candidata nova, uma para cada, sem pular nenhuma.
+
+  NÃO funda duas candidatas só porque são da mesma categoria: categoria ampla
+  (ex. "sintaxe") cobre vários fenômenos distintos. Só funda se for
+  literalmente a mesma regra.
+
+  NÃO use aspas duplas (") dentro dos valores de texto — use aspas simples.
+
+schema: |
+  Retorne APENAS um objeto JSON com UMA decisão por candidata nova:
+
+    {"decisoes": [
+       {"id_origem": "<ID da candidata>",
+        "funde_com": "<índice da consolidada, ou ID de outra candidata, ou vazio>",
+        "titulo": "...", "descricao": "...", "gatilho": "...",
+        "exemplos": ["..."], "justificativa_fusao": "..."}
+    ]}
+
+  O número de decisões deve ser EXATAMENTE o número de candidatas novas.
+
+output_rules: |
+  Produza APENAS o objeto JSON descrito. Sem cercas de markdown, sem
+  comentário antes ou depois, nada após a chave final.
+
+template: |
+  @{objective}
+
+  Categoria: {{categoria}}
+
+  @{estado}
+
+  @{novas}
+
+  @{instrucoes}
+
+  @{schema}
+
+  @{output_rules}
+
+  JSON:

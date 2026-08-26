@@ -1,0 +1,115 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A ORDEM BÁSICA DA FRASE ===
+=== TRECHO: páginas 134-137 (parte 3 de 5 do mesmo tópico) ===
+
+[p.134]
+138     QUADROS & KARNOPP
+Na ASL, a topicalização é considerada a responsável pela maioria dos
+casos de mudança na ordem básica SVO (Fischer, 1973; Liddell, 1980; Aarons,
+1994). Aarons identificou três diferentes marcações não-manuais para tópico
+na ASL, justificando a produtividade deste tipo de processo nesta língua. Uma
+delas é considerada típica e identificada por outros pesquisadores (a exem-
+plo, Fischer, 1973; Liddell, 1980; Lillo-Martin, 1986). As outras duas apresen-
+tam características diferenciadas e nem sempre foram ou são analisadas como
+tópico. Mais adiante, voltar-se-á a esta análise devido a sua relevância para a
+análise das estruturas com tópico na língua de sinais brasileira.
+Liddell analisou construções OSV como contendo um predicado comple-
+xo. Tais sentenças não apresentam nenhum tipo de marcação não-manual
+comumente associada com tópico. O autor analisa tais construções como sen-
+do associadas com uma referência locativa. Assim, tais predicados estariam
+sendo considerados complexos, porque com apenas um sinal se estaria ex-
+pressando uma relação entre o locativo e o nome: BOLA JOÃO BATEU-NA-
+BOLA; CERCA GATO-DORME-CERCA (Liddell, 1980, p. 91-100). Chen (1998)
+estabelece uma relação entre este tipo de construção e aquelas, incluindo a
+flexão com aspecto. A autora inclui estes exemplos da ASL como os que con-
+têm verbos manuais.
+Fischer (1973) referiu os casos incluindo aspecto como sendo parte de
+um mecanismo gramatical espacial. Liddell analisou estas ocorrências como
+sendo um tipo de estrutura derivada a partir de sentenças SVO, em que o
+objeto move-se para a posição inicial e é separado da oração principal. A ra-
+zão para isso estaria associada ao fenômeno que o autor refere como “peso do
+verbo” (heaviness of the verb). Liddell compara este comportamento sintático
+à elevação de NP (sintagma nominal) em inglês, analisada por Ross (1967).
+Liddell aplica essa análise também para as sentenças associadas com aspecto.
+Como mencionado anteriormente, Matsuoka (1997) analisa tais deriva-
+ções como resultado de uma elevação do verbo para posição de flexão associ-
+ada à projeção de aspecto e à elevação do objeto.
+Braze (1997) levantou alguns problemas com a análise de Matsuoka ao
+constatar as mesmas construções interagindo com modais e advérbios. Sua
+proposta é de que a elevação do objeto ocorre nestas derivações como resulta-
+do de movimento para posições não-argumentais acima da posição da proje-
+ção de aspecto.
+Considerando os vários estudos apresentados, a ordem básica na ASL
+parece ser SVO. No entanto, a interação entre diferentes mecanismos grama-
+ticais deriva outras ordenações possíveis nesta língua, são elas:
+• Ordem SOV – elevação do objeto devido à presença de verbos manu-
+ais (Chen, 1998), verbos com aspecto (Matsuoka, 1997; Braze, 1997)
+e concordância (Fischer, 1975); há também uma proposta especial
+analisando como uma derivação falsa de SOV , uma vez que haveria
+três em vez de uma única derivação (Padden, 1990);
+
+[p.135]
+LÍNGUA DE SINAIS BRASILEIRA     139
+• Ordem OSV – topicalização (Fischer, 1975; Liddell, 1980; Aarons,
+1994); elevação do objeto devido à presença de verbos manuais (Chen,
+1998) e de verbos com aspecto (Matsuoka, 1997; Braze, 1997);
+• (S) V (O) – argumentos nulos possíveis, porque a ASL é uma língua
+que marca o parâmetro de argumentos nulos (Lillo-Martin, 1986). 7
+A partir dessas análises em relação à ASL, apresentar-se-ão descrições e
+análises da ordem da frase na língua de sinais brasileira.
+A ordem da frase na língua de sinais brasileira
+Há dois trabalhos que mencionam a flexibilidade da ordem das frases na
+língua de sinais brasileira: Felipe (1989) e Ferreira-Brito (1995). As autoras
+observaram que há várias possibilidades de ordenação das palavras nas sen-
+tenças, mas que, apesar dessa flexibilidade, parece haver uma ordenação mais
+básica que as demais, ou seja, a ordem Sujeito-Verbo-Objeto. Quadros (1999)
+apresenta evidências que justificam tal intuição propondo uma representação
+para a estrutura da frase nesta língua. As evidências surgem de orações sim-
+ples, de orações complexas contendo orações subordinadas, da interação com
+advérbios, com modais e com auxiliares. As demais ordenações encontradas
+na língua de sinais brasileira resultam da interação de outros mecanismos
+gramaticais.
+(i) Todas as frases com a ordem SVO são gramaticais:
+7Lillo-Martin (1986, 1991) mostra que a ASL é uma língua que marca o parâmetro pro-
+drop referindo-o como parâmetro de argumentos nulos, ao invés da referência costumeira
+de parâmetro de sujeito-nulo, porque nesta língua há apagamento tanto de sujeitos como
+de objetos nas sentenças contendo verbos com concordância. Na língua de sinais brasileira
+observa-se a mesma distribuição (Quadros, 1995).
+<IXa aASSISTEb bTV>do (SVO)
+El@ assiste TV
+
+[p.136]
+140     QUADROS & KARNOPP
+Os tipos de construções apresentados são muito comuns na língua de
+sinais brasileira e exemplos utilizando esta ordem são sempre considerados
+gramaticais. O primeiro exemplo apresenta um verbo com concordância e
+com essa construção há uma marca não-manual, da direção dos olhos que
+acompanham a concordância de pessoa associada ao verbo.
+O estudo dos marcadores não-manuais de concordância foi realizado por
+Bahan (1996) na ASL. Ele constatou que essa marca co-ocorre com a sentença
+quando a concordância é sinalizada manualmente e que se torna opcional nas
+construções em que não há marcação manual de concordância. Quadros (1999)
+observou que a concordância associada à marcação não-manual é importante
+para determinar mudanças na ordem básica das frases na língua de sinais bra-
+sileira. Parece que essa marca não-manual torna a frase mais carregada, forçan-
+do mudanças na ordem da frase e gerando, portanto, estruturas diferentes.
+As construções com concordância na ASL têm sido analisadas como exem-
+plos de flexibilidade da ordem (Fischer, 1973). Esse padrão é assinalado na
+língua de sinais brasileira conforme os exemplos a seguir.
+(ii) As ordens OSV e SOV ocorrem somente quando há alguma coisa a
+mais na sentença, como a concordância e as marcas não-manuais:
+<TVb>do <IXa>do <aASSISTEb>do (OSV)
+IX GOSTA FUTEBOL (SVO)
+El@ gosta de futebol
+
+[p.137]
+LÍNGUA DE SINAIS BRASILEIRA     141
+<IXa>do <TVb>do <aASSISTEb>do (SOV)
+* TVb IXa aASSISTEb (OSV)
+* IXa TVb aASSISTEb (SOV)
+El@assiste TV
+FUTEBOL <IX>do <GOSTA>do (OSV)
+<IX>do FUTEBOL <GOSTA>mc (SOV)
+*FUTEBOL IX GOSTA (OSV)
+*IX FUTEBOL GOSTA (SOV)
+El@ gosta de futebol

@@ -1,0 +1,129 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A FORMAÇÃO DE INTERROGATIVAS ===
+=== TRECHO: páginas 181-186 (parte 1 de 2 do mesmo tópico) ===
+
+[p.181]
+LÍNGUA DE SINAIS BRASILEIRA     185
+Há um traço sendo checado com IP1 movido para Spec de FP. O IP adver-
+bial adjunto a IP1 não precisa ser movido junto com o IP1, porque o IP1 satis-
+faz a checagem dos traços por si mesmo resultando no exemplo anteriormente
+ilustrado. Esse exemplo evidencia que, de fato, “todo” IP parece mover-se para
+Spec de FP.
+Portanto, a projeção de FP explica uma série de operações sintáticas na
+língua de sinais brasileira, bem como aparentes mudanças na ordem básica
+da estrutura da frase nessa língua.
+A FORMAÇÃO DE INTERROGATIVAS
+As interrogativas na língua de sinais brasileira apresentam as seguintes
+propriedades:
+(i) Os elementos interrogativos (o que, quem, como, onde, por que, etc.)
+podem mover-se para Spec de CP ou manter-se na posição original
+(in situ) na língua de sinais brasileira.
+[FP [MARIA PAGAR CASA]] i <[F PAGAR] [ IP1 ti]]]>mc [IP2 AMANHÃ]
+Maria pagará a casa amanhã
+
+[p.182]
+186     QUADROS & KARNOPP
+As sentenças a seguir ilustram os sintagmas interrogativos in situ e os que
+apresentam o movimento:
+<QUEM GOSTAR MARIA>qu  ( in situ)
+Quem gosta de Maria?
+Aqui, há uma palavra interrogativa na posição de sujeito no começo da
+sentença.
+<JOÃO GOSTAR QUEM>qu ( in situ)
+De quem o João gosta?
+Neste exemplo, há uma palavra interrogativa na posição de objeto no
+final da sentença.
+<[CP QUEM [ IP t GOSTAR MARIA]]>qu (movido)
+Quem gosta da Maria?
+
+[p.183]
+LÍNGUA DE SINAIS BRASILEIRA     187
+Estes dois últimos exemplos são consistentes com a análise do movimento
+para a esquerda, especialmente o último, em que há um vestígio na posição do
+objeto por causa de uma palavra interrogativa movida para o começo da senten-
+ça, na esquerda. Portanto, assume-se que o movimento das interrogativas na
+língua de sinais brasileira é para a posição de especificador de CP [Spec CP].
+(ii) Na língua de sinais brasileira, há marcas não-manuais associadas
+com as construções interrogativas que se espalham obrigatoriamen-
+te sobre o seu domínio de c-comando:
+<[CP DE QUEM [ IP JOÃO GOSTAR t]]>qu (movido)
+De quem o João gosta?
+<JOÃO COMPRAR CARRO>sn
+O João comprou um carro?
+<JOÃO PEGAR O QUE>qu
+O que João pegou?
+
+[p.184]
+188     QUADROS & KARNOPP
+Os exemplos a seguir são considerados agramaticais se o objetivo é signi-
+ficar as mesmas sentenças com a respectiva marca não-manual espalhada por
+toda sentença como apresentado até aqui.
+*JOÃO PEGAR <BOLA>sn
+*JOÃO PEGAR <O QUE>qu
+Esses exemplos são possíveis na língua de sinais brasileira, mas com ou-
+tro significado, algo como uma pergunta de confirmação ( tag questions) para
+as interrogativas sim ou não, ou uma interrogativa tipo eco para as demais
+interrogativas. Em português, estas interrogativas seriam equivalentes aos se-
+guintes exemplos:
+Tu queres água, não é? ( tag question)
+João quer… o que mesmo? (interrogativas eco)
+Assumindo que as marcas não-manuais estão associadas com o domínio
+de c-comando, CP deve estar à esquerda de IP , uma vez que tais marcas se
+espalham obrigatoriamente sobre IP.
+As sentenças com sujeito interrogativo ocupando a posição final poderi-
+am ser consideradas contra-exemplos para essa proposta.
+18 No entanto, ob-
+servou-se que mesmo estando a palavra interrogativa na posição final, a mar-
+ca não-manual se espalha obrigatoriamente sobre todo o IP, conforme ilustra-
+do através do contraste entre os próximos exemplos.
+18Neidle, Kegl, Bahan, Aarons e Maclaughin (1997) apresentaram exemplos análogos a
+estes para reforçar a proposta de que o movimento das interrogativas na ASL é para a
+direita. Petrônio e Lillo-Martin (1997) contra-argumentaram estes autores, analisando
+tais exemplos como instâncias de elementos duplos com o apagamento da cópia licenciado
+pelo foco (análise esta que inspirou a proposta de Quadros, 1999).
+<GOSTAR MARIA QUEM>qu
+Quem gosta da Maria?
+*GOSTAR MARIA <QUEM>
+
+[p.185]
+LÍNGUA DE SINAIS BRASILEIRA     189
+Este último exemplo pode ser considerado gramatical somente se for
+uma instância de interrogativa eco ( echo-question ), mas não se for uma
+interrogativa verdadeira. É necessário ainda explicar por que ocorre um
+sujeito interrogativo em posição final. Note-se que, apesar de haver um
+sujeito interrogativo pronunciado nessa posição, pode-se afirmar que CP
+ainda ocupa a posição à esquerda de IP em uma posição mais alta, uma vez
+que ocorre a marca não-manual interrogativa se espalhando sobre toda a
+sentença. A posição final pode ser explicada como uma instância de cons-
+trução dupla, assim como proposto por Petrônio e Lillo-Martin (1997) para
+a ASL.
+(iii) Elementos interrogativos em posição final são elementos focaliza-
+dos ocupando o núcleo da projeção FP. A presença de foco licencia o
+apagamento da cópia.
+<QUEM GOSTAR MARIA QUEM>qu
+Quem gosta da Maria?
+<O QUE JOÃO PEGAR O QUE>qu
+O que João pegou?
+
+[p.186]
+190     QUADROS & KARNOPP
+Adicionou-se o último exemplo, uma vez que Neidle, Kegl, Bahan,
+Aarons e Machlaugh (1997) utilizaram um exemplo análogo na ASL para
+mostrar o movimento para a direita. Essas autoras acreditam que, ao invés
+dos constituintes interrogativos ‘o que’, ‘como’, por que’, etc., movimenta-
+rem-se para a posição inicial através de um movimento para a esquerda,
+esses elementos ocupam a posição inicial e movimentam-se para a direita
+quando for o caso.
+19
+Elas analisaram esse tipo de construção na ASL como tendo um tópico
+gerado na base da posição inicial e o outro elemento interrogativo como mo-
+vido para a direita e, portanto, ocupando a posição final da sentença. O pro-
+blema com sua análise para a ASL, como seria para a língua de sinais brasilei-
+ra, é que, segundo Bresnan e Mchombo (1987), ter um elemento indefinido
+<O QUE JOÃO PEGAR ONTEM O QUE>qu
+O que João pegou ontem?
+19O movimento para a esquerda ou para a direita se refere às regras que determinam
+mudança na estrutura da frase através de movimentos de partes de elementos da estrutu-
+ra. Desde o início deste capítulo, está sendo apresentada uma estrutura da língua de sinais
+brasileira constituída da direita para a esquerda, conforme representação das estruturas
+da frase dada anteriormente.

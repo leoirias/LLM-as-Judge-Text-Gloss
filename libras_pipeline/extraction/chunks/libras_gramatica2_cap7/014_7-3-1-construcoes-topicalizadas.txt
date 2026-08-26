@@ -1,0 +1,69 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.3.1 Construções topicalizadas ===
+=== TRECHO: páginas 75-76 (parte 2 de 2 do mesmo tópico) ===
+
+[p.75]
+76
+o exemplo a seguir:
+(105) [FACULDADE]top IX (eu) ESTUDAR LETRAS-LIBRAS 
+No que diz respeito à faculdade, eu estudei Letras-Libras.
+Passemos agora para as sentenças com deslocamento à esquerda. Nessas 
+construções, o elemento que ocupa a posição inicial da sentença mantém uma 
+relação de correferência com algum constituinte da oração principal, mas ele não 
+se move de uma posição original interna à oração principal. Assim, sentenças com 
+deslocamento à esquerda apresentam um tópico que também pode ser considera-
+do como sendo gerado naquela posição, mas que é retomado na oração principal, 
+muitas vezes, por um pronome resumptivo, conforme exemplo a seguir:
+(106) [JOÃOb] top IX (eu) GOSTAR IXb 
+ O João, eu gosto dele.
+Fonte: Lourenço (2018, p. 227).
+Observe que no exemplo acima, o tópico JOÃO estabelece uma relação de 
+correferência com o objeto da frase, o pronome indexical. Porém, apesar dessa 
+relação de correferência, o elemento JOÃO é gerado já na posição inicial e não está 
+integrado sintaticamente à oração principal. 
+7.3.2 Construções focalizadas
+Foco, conforme discutido anteriormente, é uma categoria de estrutura in -
+formacional que corresponde ao constituinte que apresenta uma informação nova, 
+que ainda não é conhecida pelo interlocutor da mensagem (HALLIDAY, 1967; JAC-
+KENDOFF, 1972). Além disso, é importante destacar que foco é uma propriedade 
+também relacional, ou seja, pode indicar a proeminência de um item em relação 
+ao discurso ou a outros elementos da sentença (LAMBRECHT, 1994).
+Assim como tópico, foco pode ser marcado não somente na sintaxe, mas tam-
+bém por aspectos entoacionais. Contudo, neste capítulo discutiremos as construções 
+em que o elemento que recebe foco possui uma distribuição sintática específica. 
+Em especial, trataremos da posição final da sentença em Libras.
+Em sua análise da estrutura da frase em Libras, Quadros (1999) observou que 
+a posição final da sentença pode ser utilizada para marcar elementos proeminentes 
+no discurso.10 Assim, foco de ênfase (ou foco enfático) em Libras é marcado quando 
+o constituinte passa a ocupar a posição final da sentença. Além disso, o elemento 
+focalizado pode aparecer duas vezes na sentença, uma em sua posição original 
+e outra na posição final da sentença ou ainda apenas uma vez, na posição final. 
+Nesse caso, a sentença continua tendo duas cópias do elemento focalizado, porém 
+10 Ver também Lillo-Martin e Quadros (2008) e Nunes e Quadros (2008).
+
+[p.76]
+77
+apenas uma delas é pronunciada e a outra é apagada no componente fonético. É 
+por esse motivo que essas construções de foco enfático também são chamadas de 
+construções de redobro ou duplicação (doubling). 
+Observe que nos exemplos a seguir, o elemento focalizado pode ser pronun-
+ciado duas vezes ou então ter uma das cópias apagadas. Nesse caso, a cópia pronun-
+ciada será sempre aquela que ocupa a posição final da sentença. Adicionalmente, 
+Quadros (1999) observa que o elemento focalizado e que ocupa a posição final da 
+sentença é acompanhado por um aceno de cabeça.
+  
+(107) IX (eu) PODER IR FESTA [PODER]aceno-cabeça
+Eu posso ir na festa, posso sim.
+ 
+(108) IX (eu) PODER IR FESTA [PODER]aceno-cabeça
+Outra característica importante do foco enfático é que pode haver o redobro 
+de diferentes núcleos dos sintagmas, sejam eles verbos, nomes, advérbios e até 
+mesmo adjetivos. A Libras permite, inclusive, o redobro da negação. 
+ (109) IX (eu) NÃO IR FESTA NÃO
+Eu não vou à festa não.
+(110) IX (eu) NÃO IR FESTA NÃO
+Nos dados dos surdos da Grande Florianópolis analisados por Royer (2019) 
+foram encontrados exemplos com foco, assim como nos dados dos Surdos de Re-
+ferência analisados para esta gramática.
+ (111)
+PORQUE                                EU                            JÁ                        PEDIR

@@ -1,0 +1,88 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra específica na base cobre a estrutura sintática de interrogativas com advérbio interrogativo (QUANDO) ou a ordem temporal em perguntas.",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra específica na base cobre a estrutura sintática de interrogativas temporais com o marcador QUANDO ou a ordem dos sinais nesta construção específica.",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.SINTAXE.043"
+],
+"problema": "A preposição locativa 'PARA' deve ser omitida na glosa quando o verbo de movimento (IR) já expressa a direção ou o destino é apontado.",
+"sugestao": "EU PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre especificamente a estrutura de interrogativas sim/não (sem QU) ou a ordem de advérbios de quantidade como 'suficiente' em relação ao objeto.",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a ordem específica de adjetivos e objetos indefinidos em interrogativas simples sem concordância.",
+"sugestao": ""
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa sim (polar), mas as regras fornecidas não especificam a estrutura gramatical para perguntas sim/não (ausência de regras sobre intonação não manual ou marcadores específicos para interrogativas sim/não).",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIVRO.SINTAXE.003",
+"LIVRO.SINTAXE.043",
+"LIVRO.PRONOMES.005"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIVRO.SINTAXE.014"
+],
+"problema": "",
+"sugestao": ""
+}
+

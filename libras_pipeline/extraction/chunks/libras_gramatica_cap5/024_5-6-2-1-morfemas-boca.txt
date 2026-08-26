@@ -1,0 +1,125 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.6.2.1 Morfemas-boca ===
+=== TRECHO: páginas 244-248 (parte 1 de 2 do mesmo tópico) ===
+
+[p.244]
+245
+5.6.2.1 Morfemas-boca
+Os estudiosos Bickford e Fraychineaud (2008) categorizam os morfemas -
+-boca de acordo com o seu status na gramática sincrônica: a boca é utilizada como 
+parte inerente de sinais manuais específicos; ou utilizada como um morfema inde-
+pendente passível de combinações com sinais manuais (morfema-boca). Na página 
+a seguir, observe-se o quadro, com tradução de Pêgo (2013).
+EMPRESTADAS DO INGLÊS  
+(MOUTHINGS)
+NÃO SÃO EMPRÉSTIMOS 
+DO INGLÊS  
+(“GESTOS BUCAIS”)
+Formas de bocas 
+inerentemente associadas com 
+sinais manuais específicos
+[ff] com o sinal ACABAR [pa] (“pah”) com SUCESSO
+Formas de bocas 
+independentes dos sinais 
+manuais (morfemas-boca)
+oo grau surpreendente (da 
+interjeição “ooh”)
+cs ‘perto’
+th ‘desleixadamente’
+Tradução do quadro de Bickford e Fraychineaud (2008), feita por Pêgo (2013).
+ No campo de estudos das expressões não manuais da ASL, Bickford e 
+Fraychineaud (2008) discutem o papel que os morfemas-boca exercem na gramá-
+tica dessa língua, explorando três hipóteses. A hipótese morfoderivacional (lexical), 
+a qual afirma que morfemas-boca não são listados por si só no léxico, mas são 
+especificados como afixos derivacionais, com itens lexicais complexos construídos 
+sobre sinais manuais. Na hipótese morfossintática flexional, esses morfemas não 
+estão listados no léxico, mas combinam com sinais manuais assumindo função de 
+afixos flexionais, de acordo com as regras gerais morfossintáticas. Por fim, a hipó-
+tese da “sintaxe simultânea” aborda a ideia de que os morfemas-boca constituem 
+“palavras” que possuem a propriedade especial de serem articuladas simultanea-
+mente com outras palavras (ou seja, com sinais manuais) e tais combinações são 
+reguladas por regras essencialmente sintáticas (PÊGO, 2013).
+ A terceira hipótese é discutida e analisada por Bickford e Fraychineaud 
+(2008), os quais acreditam que as atuais evidências, embora não conclusivas, de-
+monstram que a maioria dos morfemas-boca combinam com sinais manuais as -
+sumindo função morfoderivacional. Eles argumentam que os morfemas-boca são 
+formas presas, pois devem coocorrer com os sinais manuais. Também relatam que 
+tais morfemas normalmente ocorrem apenas em sinais simples, pois eles não se 
+espalham ao longo do campo sintático. Embora possam ocorrer em vários sinais 
+em sequência, eles não mostram o comportamento característico variável propa-
+gação de prosódicos não manuais (NEIDLE et al., 2000, p.43-48).  Além disso, 
+como Liddell (1980, p.48), observam que, o sinal não manual  “cs” , significando
+
+[p.245]
+246
+“próximo” ocorre com expressões como “ontem à noite”; a sinalização mostra que 
+eles funcionam como compostos, portanto, consistentes com a ideia de que “cs” é 
+um afixo derivacional adicionado à única palavra, em vez de sobreposto em uma 
+sentença.
+ Alguns estudiosos conferem um caráter sintático às expressões não ma -
+nuais, no entanto, segundo Anderson (1982, p.587), a maioria dos morfemas-boca 
+não são relevantes para a sintaxe, pois sua distribuição não é condicionada pelo 
+contexto sintático, possuindo assim propriedades derivacionais em vez de flexionais.
+ Exemplificaremos os morfemas-boca na Libras na descrição de suas fun-
+ções dentro da gramática. 
+A) Os morfemas-boca possuem caráter dinâmico e exigem 
+tempo coordenado com os sinais manuais.
+ 
+Os momentos de transição de um movimento de boca para outro são cuida-
+dosa e especificamente coordenados com os sinais manuais. Na análise dos vídeos 
+de surdos, por meio do ELAN, no estudo de Pêgo (2013) verificou-se que todos os 
+sinais não manuais com características de morfemas (possuem significado e não 
+podem ser separados em unidades menores sem perda de significado; combinam-se 
+entre si e com outros morfemas não manuais e manuais, entre outras propriedades 
+que serão descritas a seguir) possuíam esse tempo especificamente coordenado. 
+Os morfemas manuais e não manuais ocorrem simultaneamente, como também 
+coordenadamente.
+Figura 7 - Exemplo retirado do estudo de Pêgo (2013) em que se mostra o caráter dinâmico  
+do morfema-boca (pow) e o fato dele exigir tempo coordenado com o sinal manual ESTOURAR,  
+com o “SINAL ESTOURAR+BOCA EM POW”
+Fonte: Pêgo (2013).
+
+[p.246]
+247
+B) Envolvem mais do que somente a boca. 
+ 
+ Alguns morfemas-boca envolvem outros articuladores não manuais, como 
+cabeça e ombros. Alguns morfemas ocorrem somente com movimentos de boca; 
+outros ocorrem associados a movimentos de cabeça e de ombro (levantar), alte -
+rando o significado.
+ Por exemplo, o morfema-boca U é bastante presente, associado ao movi-
+mento de sobrancelhas franzidas, sendo este um elemento sintático.
+Figura 8 - A expressão “O quê?” é produzida na seguinte forma:
+SINAL <O QUE> + BOCA EM U+ SOBRANCELHAS FRANZIDAS
+Fonte: Pêgo (2013).
+  Nesse caso, muitas vezes ocorre sem o sinal manual, 
+bastando somente o morfema-boca em U para compreender o signifi-
+cado e, com as sobrancelhas franzidas, constrói-se a mesma sentença 
+sintática, como será detalhado mais à frente.
+ Diferentemente, no caso abaixo, quando se elevam as sobran-
+celhas e se adiciona um balanço de cabeça, há a ligação de posse no 
+sinal a seguir.
+
+[p.247]
+248
+Figura 9 - A expressão “de” (preposição indicando posse) é produzida na seguinte forma: 
+BALANÇO DE CABEÇA+ELEVAÇÃO DE SOBRANCELHAS+BOCA EM U+ <O QUE>
+Fonte: Pêgo (2013).
+Construindo a seguinte sentença, observamos o morfema-boca assumir a 
+função de posse, conforme a sequência abaixo:
+Figura 10 - Sinal <SORVETE> com seu morfema-boca, obrigatório durante a produção do sinal
+Fonte: Pêgo (2013).
+
+[p.248]
+249
+Figura 11- BALANÇO DE CABEÇA+ELEVAÇÃO DE SOBRANCELHAS+
+BOCA EM U+ <O QUE>
+ Fonte: Pêgo (2013).
+Fonte: Pêgo (2013).
+A sentença formada pelas figuras 09, 10 e 11 corresponderia, segundo Pêgo 
+(2013) à seguinte: sorvete de uva. O morfema-boca produzido com a boca em U, 
+associado ao balanço de cabeça representa um morfema que denota posse. 
+Durante a produção desse morfema-boca, o sinal manual O-QUE pode vir 
+associado a ele ou não, conforme mostra a figura a seguir, onde há a realização 
+desse morfema simultaneamente ao outro morfema manual, mantendo os seus 
+próprios significados.

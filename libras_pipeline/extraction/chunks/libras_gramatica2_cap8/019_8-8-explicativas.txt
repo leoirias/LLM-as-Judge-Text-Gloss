@@ -1,0 +1,118 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.8 EXPLICATIVAS ===
+=== TRECHO: páginas 165-168 (parte 2 de 3 do mesmo tópico) ===
+
+[p.165]
+166
+pois retoma a proposição presente na primeira parte de maneira mais elucidativa, 
+como a explicar de que forma A escola foi o primeiro lugar onde adquiri [a Língua 
+de Sinais], mas (eu) estava em pé de igualdade com os surdos mais velhos [...]. 
+Unidade oracional complexa 2
+1VER2         2PROVOCAR1       IX (eu) BOBO      2PROVOCAR      ODIAR         2PROVOCAR1
+ODIAR  
+[...] eu olhava [os surdos mais velhos] e me provocavam, eu era bobinho, 
+me provocam e ficava irado, [...]
+A segunda parte da unidade oracional complexa está articulada à primeira 
+parte a nível de hipotaxe. Conforme mencionado anteriormente, a segunda parte é 
+formada por orações justapostas a nível de parataxe aditiva e que, como um todo, 
+corresponde a uma grande unidade hipotática do tipo adjetiva explicativa. O trecho 
+em que o sinalizante menciona que eu olhava [os surdos mais velhos] e me pro -
+vocavam, eu era bobinho, me provocavam e ficava irado, [...] é uma informação 
+suplementar da proposição presente na primeira. Dessa forma, a segunda parte 
+apresenta uma exemplificação daquilo que está posto nessa primeira parte (oração 
+matriz), funcionando como um aposto. Nesse trecho da sentença, o detalhamento 
+informacional acontece a partir da criação de um Espaço Sub-rogado (LIDDELL, 
+2003).
+Nas Línguas de Sinais, o uso do Espaço Sub-rogado permite que o sina -
+lizante codifique a ação, a perspectiva de um dos participantes do evento e, ain -
+da, o estado desse participante, numa espécie de encenação, além da criação de 
+participantes invisíveis, embora conceitualmente presentes (CARNEIRO, 2015; 
+CARNEIRO; OLIVEIRA, 2017). No trecho em questão, o sinalizante incorpora o 
+referente /menino/, criando, assim, um participante visível e participantes invisí-
+veis, nesse caso, /surdos mais velhos/. Durante todo esse trecho (segunda parte),
+
+[p.166]
+167
+o sinalizante está com o olhar voltado para cima, de forma a simular a disposição 
+do corpo do /menino/ durante a ação. Nesse sentido, há uma quebra do padrão 
+prosódico corporal em relação à oração matriz, pois na primeira parte, podemos 
+verificar que o sinalizante direciona o seu olhar para a interlocutora e que não há 
+incorporação de qualquer referente. Na segunda parte, há incorporação do refe -
+rente e, por isso, quebra do padrão prosódico vigente, o que caracteriza o complexo 
+oracional que funciona como uma hipotaxe do tipo adjetiva explicativa. Ao final da 
+unidade oracional complexa, na terceira parte, que corresponde ao trecho SUCESSO 
+LÍNGUA-DE-SINAIS (... e me tornei fluente em Língua de Sinais), o sinalizante 
+direciona novamente o olhar para a interlocutora, retomando o padrão prosódico 
+inicial da primeira parte, conforme verificado a seguir.  
+Unidade oracional complexa 3
+SUCESSO      LÍNGUA-DE-SINAIS
+[...] e me tornei fluente em Língua de Sinais.
+Na terceira parte da unidade oracional complexa, o sinalizante retorna a 
+direção do olhar para a interlocutora, de maneira que a manutenção do olhar nessa 
+parte é semelhante ao comportamento do olhar na primeira parte. Se suprimirmos 
+a segunda parte, considerando que é categorizada como uma hipotática adjetiva 
+explicativa, ou seja, uma informação suplementar, a primeira parte e a terceira 
+parte estariam articuladas a nível de parataxe. A segunda parte corresponde a uma 
+sequência de orações que, no conjunto, funcionam como um aposto a explicar, 
+de maneira mais detalhada, a proposição da primeira parte. Por isso, o padrão 
+prosódico é distinto.    
+A sentença (34) a seguir, é uma unidade oracional complexa em que po -
+demos identificar orações articuladas a nível de parataxe do tipo adversativa e 
+orações articuladas a nível de hipotaxe, do tipo adjetiva explicativa e do tipo ad -
+verbial temporal.
+
+[p.167]
+168
+(34) Hipotaxe adjetiva explicativa marcada por mudança no padrão prosódico  
+(marcação não manual).
+    
+    ÚNICO             DV (pessoa-1-entre-várias) ÚNICO         DV (pessoa-1-entre-várias) 
+                
+        MAS     LÍNGUA-DE-SINAIS      TER-NÃO       INTÉRPRETE     NINGUÉM      2FALAR-ORAL1
+ DV (pessoa-1-entre-várias). 
+ÚNICO DV (pessoa-1-entre-várias)  
+ÚNICO DV (pessoa-1-entre-várias)  MAS 
+LÍNGUA-DE-SINAIS TER-NÃO INTÉRPRETE 
+NINGUÉM 2FALAR-ORAL1 DV (pessoa-1-
+entre-várias). 
+(Era) o único, (estava) isolado entre os 
+ouvintes, (era) o único, (estava) isolado 
+entre os ouvintes, mas não havia Língua de 
+Sinais e não havia nenhum intérprete; quando 
+oralizavam, eu ficava boiando no meio dos 
+demais.
+https://youtu.be/xYOIPBmmeBA
+
+[p.168]
+169
+Segmentamos a unidade oracional complexa em três partes, de maneira 
+a reconhecer esses diferentes níveis de articulação. Assim, a fim de atendermos o 
+propósito desta seção, descrevemos com mais propriedade a primeira parte, em 
+que há orações articuladas a nível de hipotaxe do tipo adjetiva explicativa, que é o 
+nosso interesse de análise. 
+A primeira parte da unidade oracional complexa é composta por orações 
+articuladas a nível de hipotaxe do tipo adjetiva explicativa. O trecho ÚNICO DV 
+(pessoa-1-entre-várias) ((Era o) único, (estava) isolado entre os ouvintes), sinaliza-
+do de maneira repetida, apresenta uma oração matriz, ÚNICO ((Era) o único), que 
+é seguida por uma oração dependente, DV (pessoa-1-entre-várias) ((estava) isolado 
+entre os ouvintes). A oração dependente traz um uma explicação da proposição que 
+é codificada na primeira oração, funcionando, assim como um adendo da oração 
+matriz. Por isso, trata-se de uma oração hipotática do tipo adjetiva explicativa. 
+Unidade oracional complexa 1
+                
+          ÚNICO  DV (pessoa-1-entre-várias) ÚNICO         DV (pessoa-1-entre-várias) 
+(Era) o único, (estava) isolado entre os ouvintes), (era) o único, (estava)
+ isolado entre os ouvintes.
+Observa-se que a oração hipotática adjetiva explicativa é formada por uma 
+construção classificadora, cujo escopo envolve uma marcação não manual específica 
+que a distingue da oração principal. A proposição da oração dependente retoma a 
+proposição da oração anterior, de maneira que a evidenciá-la.  A configuração de 
+mão com o dedo indicador estendido e demais dedos fletidos se refere à posição 
+do participante, que era o único surdo no ambiente escolar, entre os demais alunos 
+ouvintes. A mão não dominante, configurada com os dedos abertos, abduzidos e 
+palma da mão voltada para baixo, codifica a noção de ambiente ouvinte e homo -
+gêneo, de que emerge o único aluno surdo. Em relação à marcação não manual, 
+constata-se que, durante a articulação da oração dependente, o olhar do sinalizante 
+está direcionado para as próprias mãos, há um esboço de sorriso em um dos cantos 
+da boca e uma discreta elevação de sobrancelhas. A configuração da boca, de alguma 
+forma, codifica o estado do participante, que remete a uma noção de constrangi -

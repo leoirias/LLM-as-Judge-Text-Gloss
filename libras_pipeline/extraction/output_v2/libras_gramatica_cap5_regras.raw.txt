@@ -1,0 +1,1922 @@
+### p.174-174
+{
+  "rules": []
+}
+
+### p.175-176
+{
+  "rules": []
+}
+
+### p.177-181
+{
+  "rules": []
+}
+
+### p.182-186
+{
+  "rules": []
+}
+
+### p.187-191
+{
+  "rules": []
+}
+
+### p.192-192
+{
+  "rules": []
+}
+
+### p.193-195
+{
+  "rules": [
+    {
+      "titulo": "Pluralização por repetição sequencial",
+      "descricao": "A pluralização de um sinal é representada na glosa pela repetição sequencial do sinal, indicada por três sinais idênticos seguidos (ex: CASA+++).",
+      "gatilho": "A frase em português expressa o plural de um substantivo ou sinal que em Libras é pluralizado por repetição.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "casas -> CASA+++"
+      ],
+      "fonte_pagina": "194",
+      "fonte_citacao": "Processos flexionais manifestos fazem uso de morfologia sequencial, como é o caso da pluralização exemplificada em (55) CASA+++. A produção repetida sequencial de morfemas livres CASA manifesta uma flexão consecutiva.",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Composição por justaposição simultânea (duas mãos)",
+      "descricao": "O sinal de 'composição' é representado na glosa pela justaposição do sinal PALAVRA duas vezes, separado por um acento circunflexo (PALAVRA^PALAVRA), indicando que os dois sinais são articulados simultaneamente, um por cada mão.",
+      "gatilho": "A frase em português contém o substantivo 'composição' (no sentido de arte/ato de compor, não o processo linguístico).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "composição -> PALAVRA^PALAVRA"
+      ],
+      "fonte_pagina": "194",
+      "fonte_citacao": "quebram a concepção tradicional o sinal de “composição”, em Libras, constituído pela derivação simultânea, por um processo de justaposição de duas vezes o sinal (51) PALAVRA, que equivale a (56) PALAVRA^PALAVRA (composição), sendo os dois sinais articulados, um  por cada uma das mãos.",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.196-197
+{
+  "rules": [
+    {
+      "titulo": "Representação de compostos por justaposição com dois núcleos",
+      "descricao": "A glosa deve representar o composto por justaposição com dois núcleos (coordenação) usando o símbolo '^' entre as etiquetas dos sinais (ex: BOA^NOITE, CARRO^BATER).",
+      "gatilho": "A frase em português corresponde a um composto formado por justaposição de dois sinais (coordenação), onde a mão não dominante antecipa o segundo sinal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "boa noite -> BOA^NOITE",
+        "acidente -> CARRO^BATER"
+      ],
+      "fonte_pagina": "197",
+      "fonte_citacao": "Essa regra representa compostos por justaposição com dois núcleos – compostos por coordenação. Nestes sinais, a mão não dominante aparece no espaço neutro... como em (60) BOA^NOITE (BOA NOITE) e (61) CARRO^BATER (ACIDENTE)",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos com eliminação de movimento interno",
+      "descricao": "A glosa deve representar o composto usando o símbolo '^' entre as etiquetas dos sinais (ex: SÁBADO^DOMINGO), indicando que o movimento interno ou repetição foi eliminado na composição.",
+      "gatilho": "A frase em português corresponde a um composto onde o movimento interno ou a repetição do movimento de um dos sinais é eliminada (regra da sequência única).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "fim de semana -> SÁBADO^DOMINGO"
+      ],
+      "fonte_pagina": "196",
+      "fonte_citacao": "2 - Regra da sequência única: Em compostos, o movimento interno ou a repetição do movimento é eliminada, como em (58) SÁBADO^DOMINGO (fim de semana)",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.198-200
+{
+  "rules": [
+    {
+      "titulo": "Representação de compostos por justaposição sequencial",
+      "descricao": "A glosa deve representar o composto por justaposição sequencial utilizando o símbolo '^' entre as etiquetas dos sinais, na ordem em que são produzidos (ex: SINAL1^SINAL2).",
+      "gatilho": "A frase em português corresponde a um conceito formado pela justaposição sequencial de dois sinais distintos, onde ambos são realizados em sua totalidade e consecutivamente.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "zebra -> CAVALO^LISTRA-PELO-CORPO",
+        "rio -> ÁGUA^CAMINHO",
+        "lago -> ÁGUA^CÍRCULO",
+        "piscina -> ÁGUA^RETÂNGULO",
+        "divórcio -> ASSINAR^SEPARAR"
+      ],
+      "fonte_pagina": "200",
+      "fonte_citacao": "(68) CAVALO^LISTRA-PELO-CORPO (zebra) < = > justaposição sequencial (69) ÁGUA^CAMINHO (rio) < = > justaposição sequencial",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos por justaposição simultânea",
+      "descricao": "A glosa deve representar o composto por justaposição simultânea utilizando o símbolo '^' entre as etiquetas dos sinais.",
+      "gatilho": "A frase em português corresponde a um conceito formado pela justaposição simultânea de dois sinais, realizados ao mesmo tempo pelas duas mãos.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "composição -> PALAVRA^PALAVRA"
+      ],
+      "fonte_pagina": "200",
+      "fonte_citacao": "(67) PALAVRA^PALAVRA (composição) < = > justaposição simultânea",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos com classificador",
+      "descricao": "A glosa deve representar a composição de um classificador com um item lexical utilizando o símbolo '^' entre a etiqueta do classificador (CL-...) e a etiqueta do sinal lexical.",
+      "gatilho": "A frase em português corresponde a um sinal composto por um classificador e um item lexical (ex: alfinete, agulha).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "alfinete -> CL-coisa-pequena^PERFURAR",
+        "agulha -> CL-coisa-pequena^APLICAR-NO-BRAÇO"
+      ],
+      "fonte_pagina": "200",
+      "fonte_citacao": "(73) CL-coisa-pequena^PERFURAR (alfinete); (74) CL-coisa-pequena^APLICAR-NO-BRAÇO (agulha);",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos por subordinação",
+      "descricao": "A glosa deve representar o composto por subordinação utilizando o símbolo '^' entre o núcleo e o modificador (ex: NUCLEO^MODIFICADOR).",
+      "gatilho": "A frase em português corresponde a um conceito formado por um núcleo modificado por um especificador (ex: escola).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "escola -> CASA^ESTUDAR"
+      ],
+      "fonte_pagina": "199",
+      "fonte_citacao": "(64) CASA^ESTUDAR (escola)",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos por coordenação",
+      "descricao": "A glosa deve representar o composto por coordenação utilizando o símbolo '^' entre os núcleos simétricos (ex: NUCLEO1^NUCLEO2).",
+      "gatilho": "A frase em português corresponde a um conceito formado por dois ou mais núcleos em relação simétrica (ex: oftalmologista).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "oftalmologista -> MÉDICO^OLHO"
+      ],
+      "fonte_pagina": "199",
+      "fonte_citacao": "(65) MÉDICO^OLHO (oftalmologista)",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.201-205
+{
+  "rules": [
+    {
+      "titulo": "Ordem fixa em compostos verdadeiros",
+      "descricao": "A ordem dos sinais na glosa deve ser invariável. A inversão da ordem dos elementos do composto é agramatical e deve ser marcada como incorreta (ex: *CRUZ^CASA).",
+      "gatilho": "A frase em português corresponde a um composto 'verdadeiro' (genuíno) em Libras, como 'igreja' (CASA^CRUZ).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "igreja -> CASA^CRUZ (correto)",
+        "igreja -> *CRUZ^CASA (agramatical)"
+      ],
+      "fonte_pagina": "205",
+      "fonte_citacao": "Com supressão da repetição e ordem fixa, invariável; são aqueles que se dão por justaposição ou por aglutinação, como é o caso de (91) CASA^CRUZ (igreja) e que não pode ter sua ordem trocada como em (92) *CRUZ^CASA, porque essa alteração de ordem é agramatical",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Composto PAI^MÃE para 'pais'",
+      "descricao": "A glosa deve usar o composto PAI^MÃE para representar o conceito de 'pais' (plural, ambos os genitores).",
+      "gatilho": "A frase em português contém a palavra 'pais' referindo-se aos genitores (pai e mãe).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "pais -> PAI^MÃE"
+      ],
+      "fonte_pagina": "205",
+      "fonte_citacao": "O principal exemplo que podemos dar é (90) PAI^MÃE para se referir a pais",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto CASA^ESTUDAR para 'escola'",
+      "descricao": "A glosa deve usar o composto CASA^ESTUDAR para representar o conceito de 'escola'.",
+      "gatilho": "A frase em português contém a palavra 'escola'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "escola -> CASA^ESTUDAR"
+      ],
+      "fonte_pagina": "201",
+      "fonte_citacao": "Retomando o caso de (78) CASA^ESTU -DAR(escola), em que ocorre a perda da repetição do sinal (61) CASA e da repetição do sinal (77) ESTUDAR",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto MULHER^BEIJO-NA-MÃO para 'mãe'",
+      "descricao": "A glosa deve usar o composto MULHER^BEIJO-NA-MÃO para representar o conceito de 'mãe'.",
+      "gatilho": "A frase em português contém a palavra 'mãe'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "mãe -> MULHER^BEIJO-NA-MÃO"
+      ],
+      "fonte_pagina": "202",
+      "fonte_citacao": "(82) MULHER^BEIJO-NA-MÃO (mãe)",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto COMER^MEIO-DIA para 'almoço'",
+      "descricao": "A glosa deve usar o composto COMER^MEIO-DIA para representar o conceito de 'almoço'.",
+      "gatilho": "A frase em português contém a palavra 'almoço'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "almoço -> COMER^MEIO-DIA"
+      ],
+      "fonte_pagina": "203",
+      "fonte_citacao": "(83) COMER^MEIO-DIA (almoço)",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto CASA^ANTIGA para 'museu'",
+      "descricao": "A glosa deve usar o composto CASA^ANTIGA para representar o conceito de 'museu'.",
+      "gatilho": "A frase em português contém a palavra 'museu'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "museu -> CASA^ANTIGA"
+      ],
+      "fonte_pagina": "203",
+      "fonte_citacao": "(84) CASA^ANTIGA (museu)",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto LEÃO^ETC para 'animais'",
+      "descricao": "A glosa deve usar o composto LEÃO^ETC para representar o conceito de 'animais'.",
+      "gatilho": "A frase em português contém a palavra 'animais'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "animais -> LEÃO^ETC"
+      ],
+      "fonte_pagina": "204",
+      "fonte_citacao": "(86) LEÃO^ETC (animais)",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto MAÇÃ^ETC para 'frutas'",
+      "descricao": "A glosa deve usar o composto MAÇÃ^ETC para representar o conceito de 'frutas'.",
+      "gatilho": "A frase em português contém a palavra 'frutas'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "frutas -> MAÇÃ^ETC"
+      ],
+      "fonte_pagina": "204",
+      "fonte_citacao": "(87) MAÇÃ^ETC (frutas)",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto ROUPA^ETC para 'vestuário'",
+      "descricao": "A glosa deve usar o composto ROUPA^ETC para representar o conceito de 'vestuário'.",
+      "gatilho": "A frase em português contém a palavra 'vestuário'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "vestuário -> ROUPA^ETC"
+      ],
+      "fonte_pagina": "204",
+      "fonte_citacao": "(88) ROUPA^ETC (vestuário)",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto PÉ^PÉ para 'chinelo'",
+      "descricao": "A glosa deve usar o composto PÉ^PÉ para representar o conceito de 'chinelo'.",
+      "gatilho": "A frase em português contém a palavra 'chinelo'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "chinelo -> PÉ^PÉ"
+      ],
+      "fonte_pagina": "205",
+      "fonte_citacao": "(89) PÉ^PÉ (chinelo)",
+      "categoria": "lexico"
+    },
+    {
+      "titulo": "Composto CASA^CRUZ para 'igreja'",
+      "descricao": "A glosa deve usar o composto CASA^CRUZ para representar o conceito de 'igreja'.",
+      "gatilho": "A frase em português contém a palavra 'igreja'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "igreja -> CASA^CRUZ"
+      ],
+      "fonte_pagina": "205",
+      "fonte_citacao": "como é o caso de (91) CASA^CRUZ (igreja)",
+      "categoria": "lexico"
+    }
+  ]
+}
+
+### p.206-208
+{
+  "rules": [
+    {
+      "titulo": "Ordem fixa em compostos de lugar",
+      "descricao": "A glosa deve apresentar o elemento que denota o lugar à esquerda do elemento que denota o objeto ou função (ex: CASA^CRUZ). A ordem inversa é agramatical.",
+      "gatilho": "A frase em português descreve um composto que indica um lugar (ex: igreja, padaria) formado por dois sinais.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "igreja -> CASA^CRUZ",
+        "*CRUZ^CASA (agramatical)"
+      ],
+      "fonte_pagina": "206",
+      "fonte_citacao": "Quando os compostos criados indicam lugares, o núcleo se encontra à esquerda.",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Ordem variável em compostos aparentes",
+      "descricao": "A glosa pode apresentar os elementos do composto em qualquer ordem, pois ambas as estruturas são gramaticais (ex: PÃO^CASA ou CASA^PÃO).",
+      "gatilho": "A frase em português descreve um composto 'aparente' onde cada sinal pode ocorrer isoladamente (ex: padaria).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "padaria -> PÃO^CASA",
+        "padaria -> CASA^PÃO"
+      ],
+      "fonte_pagina": "206",
+      "fonte_citacao": "b) Compostos aparentes: A ordem dos elementos componentes é variável. Cada sinal pode ocorrer isoladamente",
+      "categoria": "sintaxe"
+    },
+    {
+      "titulo": "Derivação nominal por reduplicação",
+      "descricao": "A glosa deve indicar a reduplicação do sinal (ou movimento) para representar o nome derivado de um verbo. O texto afirma que nomes derivados de verbos apresentam movimento repetido.",
+      "gatilho": "A frase em português contém um substantivo derivado de um verbo, e o contexto indica que a derivação ocorre por mudança no tipo de movimento (reduplicação).",
+      "verificavel_por_texto": false,
+      "exemplos": [],
+      "fonte_pagina": "206",
+      "fonte_citacao": "Os nomes apresentam um movimento repetido e curto, enquanto os verbos apresentam um movimento único e longo.",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Incorporação de negação por alteração de movimento",
+      "descricao": "A glosa deve refletir a alteração no parâmetro de movimento do sinal base para indicar a negação incorporada. O texto afirma que o item negado sofre alteração no movimento, resultando em uma estrutura fonético-fonológica diferente.",
+      "gatilho": "A frase em português contém uma negação incorporada ao verbo (ex: não saber, não ter) que é realizada por mudança no movimento do sinal, e não por um sinal separado de negação.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "não saber -> NÃO SABER (com movimento alterado)",
+        "não ter -> NÃO TER (com movimento alterado)"
+      ],
+      "fonte_pagina": "208",
+      "fonte_citacao": "o item a ser negado sofre alteração em um dos parâmetros, especialmente o parâmetro Movimento, acarretando, assim, o aparecimento de um item de estrutura “fonético-fonológica” diferente",
+      "categoria": "negacao"
+    }
+  ]
+}
+
+### p.209-211
+{
+  "rules": []
+}
+
+### p.212-212
+{
+  "rules": []
+}
+
+### p.213-217
+{
+  "rules": [
+    {
+      "titulo": "Concordância verbal regular (sujeito-início, objeto-fim)",
+      "descricao": "Para verbos de concordância dupla regular (como VER, ENSINAR, AJUDAR), a glosa deve indicar que o ponto inicial do movimento corresponde à localização do sujeito e o ponto final corresponde à localização do objeto. A ordem dos referentes na glosa reflete essa direção (Sujeito -> Verbo -> Objeto).",
+      "gatilho": "A frase contém um verbo de concordância dupla regular (ex: VER, ENSINAR, AJUDAR) com sujeito e objeto distintos.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Eu vejo você. -> 1ªpessoaVER2ªpessoa",
+        "Ensino ele. -> 1ªpessoaENSINAR3ªpessoa"
+      ],
+      "fonte_pagina": "215",
+      "fonte_citacao": "A grande maioria desses verbos possui o ponto inicial do movimento concordando com a localização do sujeito, enquanto que o ponto final do movimento concorda com a localização do objeto.",
+      "categoria": "concordancia"
+    },
+    {
+      "titulo": "Concordância verbal reversa (objeto-início, sujeito-fim)",
+      "descricao": "Para verbos de concordância dupla reversa (como CONVIDAR, PERCEBER, CHAMAR), a glosa deve indicar que o ponto inicial do movimento corresponde à localização do objeto e o ponto final corresponde à localização do sujeito. A ordem dos referentes na glosa reflete essa direção (Objeto -> Verbo -> Sujeito).",
+      "gatilho": "A frase contém um verbo de concordância dupla reversa (ex: CONVIDAR, PERCEBER, CHAMAR) com sujeito e objeto distintos.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Eu convido você. -> 1ªpessoaCONVIDAR2ªpessoa",
+        "PERCEBER ELE -> Sinal PERCEBER da1ª pessoa para 3ª pessoa"
+      ],
+      "fonte_pagina": "217",
+      "fonte_citacao": "o ponto inicial do movimento concorda com o objeto da sentença; já o ponto final do movimento concorda com a localização do sujeito da sentença. A esses verbos chamamos de verbos de concordância dupla reversa.",
+      "categoria": "concordancia"
+    }
+  ]
+}
+
+### p.218-222
+{
+  "rules": [
+    {
+      "titulo": "Verbos ancorados ao corpo não flexionam",
+      "descricao": "Verbos ancorados ao corpo do sinalizante não apresentam concordância verbal em sua morfologia, pois não podem ter sua localização alterada.",
+      "gatilho": "O verbo é ancorado ao corpo do sinalizante (ex: APRENDER, TER).",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "APRENDER",
+        "TER"
+      ],
+      "fonte_pagina": "219",
+      "fonte_citacao": "Já os verbos ancorados ao corpo do sinalizante não podem ter sua localização alterada e, portanto, não apresentam concordância verbal em sua morfologia.",
+      "categoria": "concordancia"
+    },
+    {
+      "titulo": "Reciprocidade em verbos unimanuais por cópia de mão",
+      "descricao": "Para marcar reciprocidade em verbos unimanuais que não são inerentemente recíprocos, a segunda mão (M2) copia as especificações fonológicas da primeira mão (M1), resultando em um sinal bimanual.",
+      "gatilho": "O verbo é unimanual, não é inerentemente recíproco e a frase expressa reciprocidade.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "FALAR-ORAL (unimanual) -> DUAS-PESSOAS-FALAM (bimanual com cópia)"
+      ],
+      "fonte_pagina": "222",
+      "fonte_citacao": "a marcação de reciprocidade se dá através do processo de cópia da segunda mão. Assim, o sinal passa a ser produzido com as duas mãos, sendo que a M2 copia as especificações fonológicas da M1.",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Reciprocidade com conversão de movimento",
+      "descricao": "Em verbos unimanuais com movimento de trajetória direcional, a marcação de reciprocidade envolve a cópia da M2 e a conversão do movimento, onde M1 vai de A para B e M2 vai de B para A.",
+      "gatilho": "O verbo é unimanual, possui movimento de trajetória direcional e a frase expressa reciprocidade.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "AVISAR",
+        "DAR"
+      ],
+      "fonte_pagina": "222",
+      "fonte_citacao": "além da cópia da M2, há também a conversão do movimento do verbo. ... a M1 move-se de um ponto A para um ponto B, enquanto que a M2 apresenta um movimento convertido que vai do ponto B para o ponto A.",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.223-224
+{
+  "rules": [
+    {
+      "titulo": "Restrição de reciprocidade para verbos ancorados ao corpo",
+      "descricao": "A flexão de reciprocidade não ocorre na glosa para verbos ancorados ao corpo; nesses casos, a reciprocidade é expressa por estratégias bi-oracionais (que não são representadas na glosa linear padrão).",
+      "gatilho": "O verbo da frase é um verbo ancorado ao corpo e a frase expressa reciprocidade.",
+      "verificavel_por_texto": false,
+      "exemplos": [],
+      "fonte_pagina": "224",
+      "fonte_citacao": "a flexão de reciprocidade somente ocorre com os verbos que não são ancorados ao corpo. Para verbos ancorados ao corpo, a Libras utiliza-se principalmente de estratégias bi-oracionais.",
+      "categoria": "concordancia"
+    }
+  ]
+}
+
+### p.225-227
+{
+  "rules": []
+}
+
+### p.228-231
+{
+  "rules": [
+    {
+      "titulo": "Representação de verbos com concordância número-pessoal",
+      "descricao": "A glosa deve representar o verbo com concordância número-pessoal (como VER, RESPONDER, MOSTRAR, CHAMAR, BUSCAR) utilizando a notação de incorporação de pronomes, onde o pronome oblíquo ou direto é prefixado ao verbo com hífen (ex: ME-VER, ME-CHAMAR). A direção do movimento (normal ou reverso) não é explicitada por sufixos ou marcadores adicionais na glosa linear, mas a estrutura 'PRONOME-VERBO' é obrigatória para indicar a flexão.",
+      "gatilho": "A frase em português contém um verbo que, em Libras, é flexionado por concordância número-pessoal (sujeito-objeto).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ME-VER",
+        "ME-CHAMAR"
+      ],
+      "fonte_pagina": "231",
+      "fonte_citacao": "(147) ME-VER (148) ME-CHAMAR",
+      "categoria": "concordancia"
+    }
+  ]
+}
+
+### p.337-338
+{
+  "rules": []
+}
+
+### p.339-340
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'cabelos em pé' (susto)",
+      "descricao": "A glosa deve usar a etiqueta CABELOS-EM-PÉ para representar o sinal que significa 'ficar de cabelos em pé' no sentido figurado de estar espantada, chocada ou com susto.",
+      "gatilho": "A frase em português expressa o estado de estar 'de cabelos em pé' devido a susto, espanto ou choque (sentido idiomático), e não devido a desordem física ou vento.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ficar de cabelos em pé. -> CABELOS-EM-PÉ"
+      ],
+      "fonte_pagina": "340",
+      "fonte_citacao": "se dizemos que “uma pessoa está de cabelos em pé”, porque ficou espantada ou chocada com algo, é um idiomatismo, como ilustrado em (3): ... (3) CABELOS-EM-PÉ Ficar de cabelos em pé.",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.341-345
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'Quebrar a cara' (1 sinal)",
+      "descricao": "A glosa deve usar o sinal composto CARA-QUEBRAR para representar o sentido idiomático de 'quebrar a cara', 'ficar sem palavras' ou 'ficar sem graça'.",
+      "gatilho": "A frase em português contém a expressão 'quebrar a cara' ou sinônimos como 'ficar sem palavras' ou 'ficar sem graça'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quebrar a cara. -> CARA-QUEBRAR"
+      ],
+      "fonte_pagina": "342",
+      "fonte_citacao": "(5) CARA-QUEBRAR Quebrar a cara. Ficar sem palavras. Ficar sem graça.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Quebrar a cara' (2 sinais)",
+      "descricao": "A glosa pode usar a sequência de dois sinais CARA QUEBRAR para representar o sentido idiomático de 'quebrar a cara', 'sem noção' ou 'foi pego em flagrante'.",
+      "gatilho": "A frase em português contém a expressão 'quebrar a cara' ou sinônimos como 'sem noção' ou 'foi pego em flagrante'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quebrar a cara. -> CARA QUEBRAR"
+      ],
+      "fonte_pagina": "343",
+      "fonte_citacao": "(9) CARA QUEBRAR Quebrar a cara. Sem noção. Foi pego em flagrante.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Esticar conversa'",
+      "descricao": "A glosa deve usar o sinal composto LINHA-PUXAR para representar o sentido idiomático de 'esticar conversa' ou 'falar mais que o necessário'.",
+      "gatilho": "A frase em português contém a expressão 'esticar conversa' ou 'falar mais que o necessário'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Esticar conversa. -> LINHA-PUXAR"
+      ],
+      "fonte_pagina": "342",
+      "fonte_citacao": "(6) LINHA-PUXAR Esticar conversa. Falar mais que o necessário.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Pessoa turrona'",
+      "descricao": "A glosa deve usar a sequência de sinais CABEÇA DURA para representar o sentido idiomático de 'um sem noção' ou 'pessoa turrona'.",
+      "gatilho": "A frase em português contém a expressão 'pessoa turrona' ou 'um sem noção'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Pessoa turrona. -> CABEÇA DURA"
+      ],
+      "fonte_pagina": "343",
+      "fonte_citacao": "(7) CABEÇA DURA Um sem noção. Pessoa turrona.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Cara de pau'",
+      "descricao": "A glosa deve usar a sequência de sinais VERGONHA NÃO TER para representar o sentido idiomático de 'não ter vergonha na cara' ou 'um cara de pau'.",
+      "gatilho": "A frase em português contém a expressão 'cara de pau' ou 'não ter vergonha na cara'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Um cara de pau. -> VERGONHA NÃO TER"
+      ],
+      "fonte_pagina": "343",
+      "fonte_citacao": "(8) VERGONHA NÃO TER Não ter vergonha na cara. Um cara de pau.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Olho vivo'",
+      "descricao": "A glosa deve usar a sequência de sinais ORELHA CARA para representar o sentido idiomático de 'olho vivo', 'ter audição boa' ou 'pessoa muito esperta'.",
+      "gatilho": "A frase em português contém a expressão 'olho vivo', 'ter audição boa' ou 'pessoa muito esperta'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Olho vivo. -> ORELHA CARA"
+      ],
+      "fonte_pagina": "343",
+      "fonte_citacao": "(10) ORELHA CARA Olho vivo. Ter audição boa/aguçada.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Não prestar atenção'",
+      "descricao": "A glosa deve usar a sequência de sinais ORELHA BARATA para representar o sentido idiomático de 'não prestar atenção' ou 'não dar bola para as coisas'.",
+      "gatilho": "A frase em português contém a expressão 'não prestar atenção' ou 'não dar bola para as coisas'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Não prestar atenção. -> ORELHA BARATA"
+      ],
+      "fonte_pagina": "344",
+      "fonte_citacao": "(11) ORELHA BARATA Ter audição ruim/desatenta. Não prestar atenção.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Bom observador'",
+      "descricao": "A glosa deve usar a sequência de sinais OLHO CARO para representar o sentido idiomático de 'ter olhos de águia', 'ter olhar atento' ou 'bom observador'.",
+      "gatilho": "A frase em português contém a expressão 'bom observador', 'ter olhos de águia' ou 'ter olhar atento'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Bom observador. -> OLHO CARO"
+      ],
+      "fonte_pagina": "344",
+      "fonte_citacao": "(12) OLHO CARO Ter olhos de águia. Ter olhar atento. Bom observador.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Como é voado'",
+      "descricao": "A glosa deve usar a sequência de sinais OLHO BARATO para representar o sentido idiomático de 'ter olhar desatento', 'não prestar atenção' ou 'como é voado'.",
+      "gatilho": "A frase em português contém a expressão 'como é voado', 'ter olhar desatento' ou 'não prestar atenção'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Como é voado! -> OLHO BARATO"
+      ],
+      "fonte_pagina": "344",
+      "fonte_citacao": "(13) OLHO BARATO Ter olhar desatento. Não prestar atenção. Como é voado!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Não se amole'",
+      "descricao": "A glosa deve usar o sinal composto PEITO-BATER-MÃO-FECHADA para representar o sentido idiomático de 'não se amole com isso', 'deixar pra lá' ou 'ignore isso'.",
+      "gatilho": "A frase em português contém a expressão 'não se amole', 'deixar pra lá' ou 'ignore isso'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Não se amole com isso -> PEITO-BATER-MÃO-FECHADA"
+      ],
+      "fonte_pagina": "345",
+      "fonte_citacao": "(14) PEITO-BATER-MÃO-FECHADA Não se amole com isso Deixar pra lá Ignore isso!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Radiante da vida'",
+      "descricao": "A glosa deve usar o sinal SORRISO-DUPLO para representar o sentido idiomático de 'dar o maior sorriso do mundo' ou 'radiante da vida'.",
+      "gatilho": "A frase em português contém a expressão 'radiante da vida' ou 'dar o maior sorriso do mundo'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Radiante da vida! -> SORRISO-DUPLO"
+      ],
+      "fonte_pagina": "345",
+      "fonte_citacao": "(15) SORRISO-DUPLO Dar o maior sorriso do mundo Radiante da vida!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Isso mesmo'",
+      "descricao": "A glosa deve usar o sinal LÍNGUA-FORA para representar o sentido idiomático de 'isso mesmo', 'é, é, é' ou 'exatamente isso'.",
+      "gatilho": "A frase em português contém a expressão 'isso mesmo', 'é, é, é' ou 'exatamente isso'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Isso mesmo! -> LÍNGUA-FORA"
+      ],
+      "fonte_pagina": "345",
+      "fonte_citacao": "(16) LÍNGUA-FORA Isso mesmo! É, é, é! Exatamente isso!",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.346-348
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'LÁBIOS-FECHADOS'",
+      "descricao": "A glosa deve usar a etiqueta LÁBIOS-FECHADOS para representar a expressão idiomática, e não a tradução literal das palavras 'lábios' e 'fechados' separadamente ou outras variações.",
+      "gatilho": "A frase em português expressa os significados 'Como consegue?', 'Impressionante!', 'Que coisa!', 'Viu aí o que eu consigo?' ou 'Viu que eu sei?'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Como consegue? -> LÁBIOS-FECHADOS",
+        "Impressionante! -> LÁBIOS-FECHADOS"
+      ],
+      "fonte_pagina": "346",
+      "fonte_citacao": "(17) LÁBIOS-FECHADOS Como consegue? Impressionante! Que coisa! Viu aí o que eu consigo? Viu que eu sei?",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'LÁBIOS-TREME'",
+      "descricao": "A glosa deve usar a etiqueta LÁBIOS-TREME para representar a expressão idiomática, e não a tradução literal das palavras 'lábios' e 'treme' separadamente.",
+      "gatilho": "A frase em português expressa o significado 'Que desânimo!'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Que desânimo! -> LÁBIOS-TREME"
+      ],
+      "fonte_pagina": "346",
+      "fonte_citacao": "(18) LÁBIOS-TREME Que desânimo!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'MÃOS LEVES'",
+      "descricao": "A glosa deve usar a sequência MÃOS LEVES para representar a expressão idiomática, e não a tradução literal de 'mãos leves' como adjetivo físico ou outras variações.",
+      "gatilho": "A frase em português expressa os significados 'Tem mãos leves.', 'Tem fluência em Libras.', 'Ter mãos fáceis de entender.', 'Tem boa lábia.' ou 'Bom de papo.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Tem fluência em Libras. -> MÃOS LEVES",
+        "Tem boa lábia. -> MÃOS LEVES"
+      ],
+      "fonte_pagina": "348",
+      "fonte_citacao": "(19) MÃOS LEVES Tem mãos leves. Tem fluência em Libras. Ter mãos fáceis de entender. Tem boa lábia. Bom de papo.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'MÃOS DURAS'",
+      "descricao": "A glosa deve usar a sequência MÃOS DURAS para representar a expressão idiomática, e não a tradução literal de 'mãos duras' como adjetivo físico ou outras variações.",
+      "gatilho": "A frase em português expressa os significados 'Tem mãos pesadas.', 'Tem pouca fluência em Libras.', 'Mãos difíceis de entender.' ou 'Papo estranho.'",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Tem pouca fluência em Libras. -> MÃOS DURAS",
+        "Papo estranho. -> MÃOS DURAS"
+      ],
+      "fonte_pagina": "348",
+      "fonte_citacao": "(20) MÃOS DURAS Tem mãos pesadas. Tem pouca fluência em Libras. Mãos difíceis de entender. Papo estranho.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'MÃO-BALANÇAR-BAIXO'",
+      "descricao": "A glosa deve usar a etiqueta MÃO-BALANÇAR-BAIXO para representar a expressão idiomática, e não a tradução literal de 'mão balançar baixo' ou 'mão caiu'.",
+      "gatilho": "A frase em português expressa os significados 'Minha mão quase caiu de tanto chamar!', 'Quase perdi a mão de tanto chamar!', 'Vou parar de chamar a atenção!' ou 'Desanimei!'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Minha mão quase caiu de tanto chamar! -> MÃO-BALANÇAR-BAIXO",
+        "Desanimei! -> MÃO-BALANÇAR-BAIXO"
+      ],
+      "fonte_pagina": "348",
+      "fonte_citacao": "(21) MÃO-BALANÇAR-BAIXO Minha mão quase caiu de tanto chamar! Quase perdi a mão de tanto chamar! Vou parar de chamar a atenção! Desanimei!",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.349-353
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'Desconsidere isso' (OLHOS-SAIR)",
+      "descricao": "A glosa deve usar a sequência OLHOS-SAIR para expressar os significados 'Desconsidere isso', 'Melhor ignorar' ou 'Isso é bobagem'.",
+      "gatilho": "A frase em português expressa o sentido de desconsiderar algo, ignorar algo ou considerar algo bobagem.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Desconsidere isso! -> OLHOS-SAIR",
+        "Melhor ignorar! -> OLHOS-SAIR",
+        "Isso é bobagem! -> OLHOS-SAIR"
+      ],
+      "fonte_pagina": "349",
+      "fonte_citacao": "(22) OLHOS-SAIR Entrar por “olho” e sair por outro. Desconsidere isso! Melhor ignorar! Isso é bobagem!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Desconsidere isso' (OUVIDOS-SAIR)",
+      "descricao": "A glosa deve usar a sequência OUVIDOS-SAIR para expressar os significados 'Desconsidere isso', 'Melhor ignorar', 'Isso é bobagem' ou 'Isso não me atinge'.",
+      "gatilho": "A frase em português expressa o sentido de desconsiderar algo, ignorar algo, considerar algo bobagem ou que algo não afeta o interlocutor.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Desconsidere isso! -> OUVIDOS-SAIR",
+        "Melhor ignorar! -> OUVIDOS-SAIR",
+        "Isso é bobagem! -> OUVIDOS-SAIR",
+        "Isso não me atinge! -> OUVIDOS-SAIR"
+      ],
+      "fonte_pagina": "349",
+      "fonte_citacao": "(23) OUVIDOS-SAIR Entrar num ouvido e sair no outro Desconsidere isso! Melhor ignorar! Isso é bobagem! Isso não me atinge!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Preste atenção' (VEJA)",
+      "descricao": "A glosa deve usar o sinal VEJA para expressar os significados 'Vejam o que está sendo dito' ou 'Preste atenção'.",
+      "gatilho": "A frase em português é um imperativo para prestar atenção ou ver o que está sendo dito.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Vejam o que está sendo dito! -> VEJA",
+        "Preste atenção! -> VEJA"
+      ],
+      "fonte_pagina": "349",
+      "fonte_citacao": "(24) VEJA Vejam o que está sendo dito! Preste atenção!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Preste atenção' (OUÇA)",
+      "descricao": "A glosa deve usar o sinal OUÇA para expressar os significados 'Ouçam o que está sendo dito' ou 'Preste atenção'.",
+      "gatilho": "A frase em português é um imperativo para prestar atenção ou ouvir o que está sendo dito.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ouçam o que está sendo dito! -> OUÇA",
+        "Preste atenção! -> OUÇA"
+      ],
+      "fonte_pagina": "349",
+      "fonte_citacao": "(25) OUÇA Ouçam o que está sendo dito! Preste atenção!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Papo furado' (MÃOS/DEDOS-BALANÇAR)",
+      "descricao": "A glosa deve usar a sequência MÃOS/DEDOS-BALANÇAR para expressar os significados 'Papo furado', 'Contar lorota', 'Ótima lábia', 'Malicioso', 'Manipulador' ou 'El@ é persuasivo'.",
+      "gatilho": "A frase em português descreve alguém que fala demais, mente, é persuasivo, manipulador ou tem 'papo furado'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Papo furado. -> MÃOS/DEDOS-BALANÇAR",
+        "Contar lorota. -> MÃOS/DEDOS-BALANÇAR",
+        "Ótima lábia. -> MÃOS/DEDOS-BALANÇAR",
+        "Malicioso. -> MÃOS/DEDOS-BALANÇAR",
+        "Manipulador. -> MÃOS/DEDOS-BALANÇAR",
+        "El@ é persuasivo. -> MÃOS/DEDOS-BALANÇAR"
+      ],
+      "fonte_pagina": "350",
+      "fonte_citacao": "(26) MÃOS/DEDOS-BALANÇAR Papo furado. Contar lorota. Ótima lábia. Malicioso. Manipulador. El@ é persuasivo.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Falar muita mentira' (MÃOS/DEDOS-LONGOS)",
+      "descricao": "A glosa deve usar a sequência MÃOS/DEDOS-LONGOS para expressar os significados 'Falar muita mentira' ou 'Os dedos crescem de tanto mentir'.",
+      "gatilho": "A frase em português expressa o ato de mentir muito ou a metáfora de dedos crescendo por mentir.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Falar muita mentira. -> MÃOS/DEDOS-LONGOS",
+        "Os dedos crescem de tanto mentir. -> MÃOS/DEDOS-LONGOS"
+      ],
+      "fonte_pagina": "350",
+      "fonte_citacao": "(27) MÃOS/DEDOS-LONGOS Falar muita mentira. Os dedos crescem de tanto mentir15.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Lavar as mãos' (MÃOS-TIRAR)",
+      "descricao": "A glosa deve usar a sequência MÃOS-TIRAR para expressar os significados 'Estou fora', 'Não se envolver', 'Manter-se neutro' ou 'Lavar as mãos'.",
+      "gatilho": "A frase em português expressa a ideia de se desvincular, ficar neutro, não se envolver ou 'lavar as mãos' de algo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Estou fora. -> MÃOS-TIRAR",
+        "Não se envolver. -> MÃOS-TIRAR",
+        "Manter-se neutro. -> MÃOS-TIRAR",
+        "Lavar as mãos. -> MÃOS-TIRAR"
+      ],
+      "fonte_pagina": "350",
+      "fonte_citacao": "(28) MÃOS-TIRAR Estou fora. Não se envolver. Manter-se neutro. Lavar as mãos.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Lavar as mãos' (MÃOS-LIMPAR)",
+      "descricao": "A glosa deve usar a sequência MÃOS-LIMPAR para expressar os significados 'Lavar as mãos', 'Não dar mais palpite', 'Estou fora' ou 'Já fiz a minha parte'.",
+      "gatilho": "A frase em português expressa a ideia de 'lavar as mãos', não dar mais opinião, estar fora ou ter concluído sua parte.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Lavar as mãos. -> MÃOS-LIMPAR",
+        "Não dar mais palpite! -> MÃOS-LIMPAR",
+        "Estou fora! -> MÃOS-LIMPAR",
+        "Já fiz a minha parte! -> MÃOS-LIMPAR"
+      ],
+      "fonte_pagina": "351",
+      "fonte_citacao": "(29) MÃOS-LIMPAR Lavar as mãos. Não dar mais palpite! Estou fora! Já fiz a minha parte!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Não sei de nada' (MÃOS-SOPRAR-CADA)",
+      "descricao": "A glosa deve usar a sequência MÃOS-SOPRAR-CADA para expressar os significados 'Não sei de nada' ou 'Não estou sabendo de nada'.",
+      "gatilho": "A frase em português expressa ignorância sobre um fato ou negação de conhecimento.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Não sei de nada! -> MÃOS-SOPRAR-CADA",
+        "Não estou sabendo de nada! -> MÃOS-SOPRAR-CADA"
+      ],
+      "fonte_pagina": "351",
+      "fonte_citacao": "(30) MÃOS-SOPRAR-CADA Não sei de nada! Não estou sabendo de nada!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Calar as mãos' (MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd)",
+      "descricao": "A glosa deve usar a sequência MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd para expressar os significados 'Calar as mãos', 'Pare de falar', 'Cala-te, mão', 'Fique de fora', 'Fique quieto' ou 'Fique na sua'.",
+      "gatilho": "A frase em português é um imperativo para calar, ficar quieto, ficar na sua ou ficar de fora.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Calar as mãos -> MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd",
+        "Pare de falar! -> MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd",
+        "Cala-te, mão! -> MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd",
+        "Fique de fora! -> MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd",
+        "Fique quieto! -> MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd",
+        "Fique na sua! -> MÃOd^BATE-MÃOe E MÃOe-BATE-MÃOd"
+      ],
+      "fonte_pagina": "351",
+      "fonte_citacao": "(31) MÃOd^BATE-MÃOe E MÃOe-BATE- -MÃOd Calar as mãos16 Pare de falar! “Cala-te, mão!” Fique de fora! Fique quieto! Fique na sua!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Fluente em Libras' (MÃOS-HABILIDOSAS)",
+      "descricao": "A glosa deve usar a sequência MÃOS-HABILIDOSAS para expressar o significado 'Extremamente fluente em Libras'.",
+      "gatilho": "A frase em português descreve alguém como extremamente fluente ou habilidoso em Libras.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Extremamente fluente em Libras. -> MÃOS-HABILIDOSAS"
+      ],
+      "fonte_pagina": "351",
+      "fonte_citacao": "(32) MÃOS-HABILIDOSAS Extremamente fluente em Libras.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Preconceito' (ESMAGAR)",
+      "descricao": "A glosa deve usar o sinal ESMAGAR para expressar os significados 'preconceito', 'opressão', 'discriminação', 'vingança', 'destruir' ou 'estigmatizar'.",
+      "gatilho": "A frase em português expressa conceitos de preconceito, opressão, discriminação, vingança, destruição ou estigmatização.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Refere-se ao preconceito, à opressão, à discriminação ou à vingança. -> ESMAGAR",
+        "Destruir. -> ESMAGAR",
+        "Estigmatizar. -> ESMAGAR"
+      ],
+      "fonte_pagina": "352",
+      "fonte_citacao": "(33) ESMAGAR Refere-se ao preconceito, à opressão, à discriminação ou à vingança. Destruir. Estigmatizar.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Tomar conta de alguém' (3-DEVORAR-1)",
+      "descricao": "A glosa deve usar a sequência 3-DEVORAR-1 para expressar os significados 'Engolir, absorver, impregnar', 'Tomar conta de alguém', 'Tome cuidado' ou 'Agrupar a essência'.",
+      "gatilho": "A frase em português expressa a ideia de algo tomar conta de alguém, engolir, absorver ou impregnar.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Engolir, absorver, impregnar… -> 3-DEVORAR-1",
+        "Tomar conta de alguém. -> 3-DEVORAR-1",
+        "Tome cuidado! -> 3-DEVORAR-1",
+        "Agrupar a essência. -> 3-DEVORAR-1"
+      ],
+      "fonte_pagina": "352",
+      "fonte_citacao": "(34) 3-DEVORAR-1 Engolir, absorver, impregnar… Tomar conta de alguém. Tome cuidado! Agrupar a essência.",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.354-359
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'Cara de pau' / 'Safadeza'",
+      "descricao": "A glosa deve usar a etiqueta CARA-BATER para expressar os significados 'Cara de pau', 'Que safadeza' ou 'Ter vergonha na cara'.",
+      "gatilho": "A frase em português contém as expressões 'Cara de pau', 'Que safadeza' ou 'Ter vergonha na cara'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Cara de pau -> CARA-BATER",
+        "Que safadeza -> CARA-BATER",
+        "Ter vergonha na cara -> CARA-BATER"
+      ],
+      "fonte_pagina": "354",
+      "fonte_citacao": "(35’) e (35’’) CARA-BATER Cara de pau. Que safadeza. Ter vergonha na cara.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Num piscar de olhos' / 'Rapidez'",
+      "descricao": "A glosa deve usar a etiqueta OLHO-PISCAR para expressar os significados 'Num piscar de olhos', 'Nossa!' ou 'Que rapidez'.",
+      "gatilho": "A frase em português contém as expressões 'Num piscar de olhos', 'Nossa!' (em contexto de surpresa/rapidez) ou 'Que rapidez'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Num piscar de olhos -> OLHO-PISCAR",
+        "Nossa! -> OLHO-PISCAR",
+        "Que rapidez -> OLHO-PISCAR"
+      ],
+      "fonte_pagina": "354",
+      "fonte_citacao": "(36) OLHO-PISCAR Num piscar de olhos. Nossa! Que rapidez.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Preste atenção' / 'Estupefato'",
+      "descricao": "A glosa deve usar a etiqueta OLHOS-ABRIR para expressar os significados 'Preste atenção!', 'Abra o olho!', 'Cuidado, hein?' ou 'Estupefato com algo'.",
+      "gatilho": "A frase em português contém as expressões 'Preste atenção!', 'Abra o olho!', 'Cuidado, hein?' ou 'Estupefato com algo'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Preste atenção! -> OLHOS-ABRIR",
+        "Abra o olho! -> OLHOS-ABRIR",
+        "Cuidado, hein? -> OLHOS-ABRIR",
+        "Estupefato com algo -> OLHOS-ABRIR"
+      ],
+      "fonte_pagina": "354",
+      "fonte_citacao": "(37) OLHOS-ABRIR Preste atenção! Abra o olho! Cuidado, hein? Estupefato com algo.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Babando' / 'Inveja'",
+      "descricao": "A glosa deve usar a etiqueta BABAR para expressar os significados 'Babando!', 'Que delícia!' ou 'Morrendo de inveja'.",
+      "gatilho": "A frase em português contém as expressões 'Babando!', 'Que delícia!' ou 'Morrendo de inveja'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Babando! -> BABAR",
+        "Que delícia! -> BABAR",
+        "Morrendo de inveja -> BABAR"
+      ],
+      "fonte_pagina": "354",
+      "fonte_citacao": "(38) BABAR Babando! Que delícia! Morrendo de inveja.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Dar com a cara na porta' / 'Fiasco'",
+      "descricao": "A glosa deve usar a etiqueta PORTA-NA-CARA para expressar os significados 'Dar com a cara na porta', 'Que absurdo!', 'Que fiasco' ou 'Quebrar a cara'.",
+      "gatilho": "A frase em português contém as expressões 'Dar com a cara na porta', 'Que absurdo!', 'Que fiasco' ou 'Quebrar a cara'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Dar com a cara na porta -> PORTA-NA-CARA",
+        "Que absurdo! -> PORTA-NA-CARA",
+        "Que fiasco -> PORTA-NA-CARA",
+        "Quebrar a cara -> PORTA-NA-CARA"
+      ],
+      "fonte_pagina": "355",
+      "fonte_citacao": "(39) PORTA–NA-CARA Dar com a cara na porta. Que absurdo! Que fiasco. Quebrar a cara.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Ficar cara a cara' / 'Encarar'",
+      "descricao": "A glosa deve usar a etiqueta CARA-CARA para expressar os significados 'Ficar cara a cara', 'Encarar alguém', 'Falar a verdade na cara', 'Enfrentar olho no olho' ou 'Tirar satisfação'.",
+      "gatilho": "A frase em português contém as expressões 'Ficar cara a cara', 'Encarar alguém', 'Falar a verdade na cara', 'Enfrentar olho no olho' ou 'Tirar satisfação'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ficar cara a cara -> CARA-CARA",
+        "Encarar alguém -> CARA-CARA",
+        "Falar a verdade na cara -> CARA-CARA",
+        "Enfrentar olho no olho -> CARA-CARA",
+        "Tirar satisfação -> CARA-CARA"
+      ],
+      "fonte_pagina": "355",
+      "fonte_citacao": "(40) CARA-CARA Ficar cara a cara. Encarar alguém. Falar a verdade na cara. Enfrentar olho no olho. Tirar satisfação.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Cabeção' / 'Alto nível'",
+      "descricao": "A glosa deve usar a etiqueta CABEÇA-E-MÃO para expressar os significados 'Fulano é cabeção', 'Alto nível', 'Fulano é CDF' ou 'Fulano é fodão'.",
+      "gatilho": "A frase em português contém as expressões 'Fulano é cabeção', 'Alto nível', 'Fulano é CDF' ou 'Fulano é fodão'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Fulano é cabeção -> CABEÇA-E-MÃO",
+        "Alto nível -> CABEÇA-E-MÃO",
+        "Fulano é CDF -> CABEÇA-E-MÃO",
+        "Fulano é fodão -> CABEÇA-E-MÃO"
+      ],
+      "fonte_pagina": "355",
+      "fonte_citacao": "(41) CABEÇA-E-MÃO Fulano é cabeção. Alto nível. Fulano é “CDF”. Fulano é“fodão”.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Falar pelas costas'",
+      "descricao": "A glosa deve usar a etiqueta FALAR PELAS-COSTAS para expressar o significado 'Falar mal pelas costas'.",
+      "gatilho": "A frase em português contém a expressão 'Falar mal pelas costas'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Falar mal pelas costas -> FALAR PELAS-COSTAS"
+      ],
+      "fonte_pagina": "355",
+      "fonte_citacao": "(42) FALAR PELAS-COSTAS Falar mal pelas costas.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Por baixo dos panos' / 'Escondidas'",
+      "descricao": "A glosa deve usar a etiqueta POR-BAIXO para expressar os significados 'Por baixo dos panos' ou 'Fazer algo às escondidas'.",
+      "gatilho": "A frase em português contém as expressões 'Por baixo dos panos' ou 'Fazer algo às escondidas'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Por baixo dos panos -> POR-BAIXO",
+        "Fazer algo às escondidas -> POR-BAIXO"
+      ],
+      "fonte_pagina": "355",
+      "fonte_citacao": "(43) POR-BAIXO Por baixo dos panos. Fazer algo às escondidas.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Arregaçar as mangas' / 'Trabalhar muito'",
+      "descricao": "A glosa deve usar a etiqueta MANGA-ENROLAR para expressar os significados 'Arregaçar as mangas' ou 'Dispor-se a trabalhar muito'.",
+      "gatilho": "A frase em português contém as expressões 'Arregaçar as mangas' ou 'Dispor-se a trabalhar muito'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Arregaçar as mangas -> MANGA-ENROLAR",
+        "Dispor-se a trabalhar muito -> MANGA-ENROLAR"
+      ],
+      "fonte_pagina": "356",
+      "fonte_citacao": "(44) MANGA-ENROLAR Arregaçar as man gas. Dispor-se a trabalhar muito.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Quinto nível' / 'Ignorante'",
+      "descricao": "A glosa deve usar a etiqueta QUINTO-NÍVEL para expressar os significados 'Que pessoa insipiente/ignorante, desinformada, de baixo nível' ou 'De quinta categoria'.",
+      "gatilho": "A frase em português contém as expressões 'Que pessoa insipiente/ignorante, desinformada, de baixo nível' ou 'De quinta categoria'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Que pessoa insipiente/ignorante, desinformada, de baixo nível -> QUINTO-NÍVEL",
+        "De quinta categoria -> QUINTO-NÍVEL"
+      ],
+      "fonte_pagina": "356",
+      "fonte_citacao": "(45) QUINTO-NÍVEL17 Que pessoa insipiente/ igno- rante, desinformada, de baixo nível. De quinta categoria.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Cair o queixo' / 'Chocada'",
+      "descricao": "A glosa deve usar a etiqueta QUEIXO-CAIR para expressar os significados 'Cair o queixo', 'Estou passada!', 'Ficar chocada', 'Estou boba' ou 'Estou bege'.",
+      "gatilho": "A frase em português contém as expressões 'Cair o queixo', 'Estou passada!', 'Ficar chocada', 'Estou boba' ou 'Estou bege'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Cair o queixo -> QUEIXO-CAIR",
+        "Estou passada! -> QUEIXO-CAIR",
+        "Ficar chocada -> QUEIXO-CAIR",
+        "Estou boba -> QUEIXO-CAIR",
+        "Estou bege -> QUEIXO-CAIR"
+      ],
+      "fonte_pagina": "356",
+      "fonte_citacao": "(46) QUEIXO-CAIR Cair o queixo. Estou passada! Ficar chocada. Estou boba. Estou bege.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Linguarudo' / 'Fofoqueiro'",
+      "descricao": "A glosa deve usar a etiqueta LÍNGUA-GRANDE para expressar os significados 'Que linguarudo!', 'El@ é fofoqueiro!', 'Falar demais' ou 'Fazer fofoca'.",
+      "gatilho": "A frase em português contém as expressões 'Que linguarudo!', 'El@ é fofoqueiro!', 'Falar demais' ou 'Fazer fofoca'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Que linguarudo! -> LÍNGUA-GRANDE",
+        "El@ é fofoqueiro! -> LÍNGUA-GRANDE",
+        "Falar demais -> LÍNGUA-GRANDE",
+        "Fazer fofoca -> LÍNGUA-GRANDE"
+      ],
+      "fonte_pagina": "356",
+      "fonte_citacao": "(47) LÍNGUA-GRANDE Que linguarudo! El@ é fofoqueiro! Falar demais. Fazer fofoca.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Engolir sapo' / 'Não conseguir se expressar'",
+      "descricao": "A glosa deve usar a etiqueta ESTAR-ENTALADO para expressar os significados 'Se segura, se cala; não pode explodir', 'Com um nó na garganta', 'Engolir sapo' ou 'Não conseguir se expressar'.",
+      "gatilho": "A frase em português contém as expressões 'Se segura, se cala; não pode explodir', 'Com um nó na garganta', 'Engolir sapo' ou 'Não conseguir se expressar'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Se segura, se cala; não pode explodir -> ESTAR-ENTALADO",
+        "Com um nó na garganta -> ESTAR-ENTALADO",
+        "Engolir sapo -> ESTAR-ENTALADO",
+        "Não conseguir se expressar -> ESTAR-ENTALADO"
+      ],
+      "fonte_pagina": "356",
+      "fonte_citacao": "(48) ESTAR-ENTALADO Se segura, se cala; não pode explodir. Com um nó na garganta. Engolir sapo. Não conseguir se expressar.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Ficar congelado' / 'Choque'",
+      "descricao": "A glosa deve usar a etiqueta GELO-FICAR para expressar os significados 'Pessoa insensível', 'Ficar congelado', 'Ficar sem palavras', 'Ser pego em flagrante' ou 'Ficar em estado de choque'.",
+      "gatilho": "A frase em português contém as expressões 'Pessoa insensível', 'Ficar congelado', 'Ficar sem palavras', 'Ser pego em flagrante' ou 'Ficar em estado de choque'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Pessoa insensível -> GELO-FICAR",
+        "Ficar congelado -> GELO-FICAR",
+        "Ficar sem palavras -> GELO-FICAR",
+        "Ser pego em flagrante -> GELO-FICAR",
+        "Ficar em estado de choque -> GELO-FICAR"
+      ],
+      "fonte_pagina": "357",
+      "fonte_citacao": "(49) GELO-FICAR Pessoa insensível. Ficar congelado. Ficar sem palavras. Ser pego em flagrante. Ficar em estado de choque.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'A máscara caiu' / 'Desmascarado'",
+      "descricao": "A glosa deve usar a etiqueta ROSTO-CAIR para expressar os significados 'A máscara caiu', 'Ser desmascarado' ou 'Estar envergonhado'.",
+      "gatilho": "A frase em português contém as expressões 'A máscara caiu', 'Ser desmascarado' ou 'Estar envergonhado'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "A máscara caiu -> ROSTO-CAIR",
+        "Ser desmascarado -> ROSTO-CAIR",
+        "Estar envergonhado -> ROSTO-CAIR"
+      ],
+      "fonte_pagina": "357",
+      "fonte_citacao": "(50) ROSTO-CAIR A máscara caiu. Ser desmascarado. Estar envergonhado.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Sem se envolver' / 'Não é comigo'",
+      "descricao": "A glosa deve usar a etiqueta UNHAS-LIXAR para expressar os significados 'Sem se envolver', 'Não é comigo!', 'O problema é seu!', 'Se vira!', 'Estou só olhando!', 'Nem ligo!' ou 'Isso não é problema meu!'.",
+      "gatilho": "A frase em português contém as expressões 'Sem se envolver', 'Não é comigo!', 'O problema é seu!', 'Se vira!', 'Estou só olhando!', 'Nem ligo!' ou 'Isso não é problema meu!'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Sem se envolver -> UNHAS-LIXAR",
+        "Não é comigo! -> UNHAS-LIXAR",
+        "O problema é seu! -> UNHAS-LIXAR",
+        "Se vira! -> UNHAS-LIXAR",
+        "Estou só olhando! -> UNHAS-LIXAR",
+        "Nem ligo! -> UNHAS-LIXAR",
+        "Isso não é problema meu! -> UNHAS-LIXAR"
+      ],
+      "fonte_pagina": "357",
+      "fonte_citacao": "(51) UNHAS-LIXAR Sem se envolver. Não é comigo! O problema é seu! Se vira! Estou só olhando! Nem ligo! Isso não é problema meu!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Serviço meia boca' / 'Disfarçar'",
+      "descricao": "A glosa deve usar a etiqueta MAQUIAR para expressar os significados 'Serviço meia boca', 'Tapear uma arrumação', 'Disfarçar' ou 'Manipular'.",
+      "gatilho": "A frase em português contém as expressões 'Serviço meia boca', 'Tapear uma arrumação', 'Disfarçar' ou 'Manipular'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Serviço meia boca -> MAQUIAR",
+        "Tapear uma arrumação -> MAQUIAR",
+        "Disfarçar -> MAQUIAR",
+        "Manipular -> MAQUIAR"
+      ],
+      "fonte_pagina": "357",
+      "fonte_citacao": "(52) MAQUIAR Serviço meia boca. Tapear uma arrumação. Disfarçar. Manipular.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Passar na frente' / 'Interromper'",
+      "descricao": "A glosa deve usar a etiqueta ATRAVESSAR-NA-FRENTE para expressar os significados 'Passar na frente', 'Atropelar as coisas', 'Interromper alguém' ou 'Mudar de assunto intempestivamente'.",
+      "gatilho": "A frase em português contém as expressões 'Passar na frente', 'Atropelar as coisas', 'Interromper alguém' ou 'Mudar de assunto intempestivamente'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Passar na frente -> ATRAVESSAR-NA-FRENTE",
+        "Atropelar as coisas -> ATRAVESSAR-NA-FRENTE",
+        "Interromper alguém -> ATRAVESSAR-NA-FRENTE",
+        "Mudar de assunto intempestivamente -> ATRAVESSAR-NA-FRENTE"
+      ],
+      "fonte_pagina": "357",
+      "fonte_citacao": "(53’) E (53’’) ATRAVESSAR--NA-FRENTE Passar na frente. Atropelar as coisas. Interromper alguém. Mudar de assunto intempesti- vamente.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Pessoa antiquada' / 'Visão estreita'",
+      "descricao": "A glosa deve usar a etiqueta CARA-QUADRADA para expressar os significados 'Pessoa antiquada, conservadora', 'Parou no tempo' ou 'Tem visão muito estreita'.",
+      "gatilho": "A frase em português contém as expressões 'Pessoa antiquada, conservadora', 'Parou no tempo' ou 'Tem visão muito estreita'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Pessoa antiquada, conservadora -> CARA-QUADRADA",
+        "Parou no tempo -> CARA-QUADRADA",
+        "Tem visão muito estreita -> CARA-QUADRADA"
+      ],
+      "fonte_pagina": "358",
+      "fonte_citacao": "(54) CARA-QUADRADA Pessoa antiquada, conserva- dora. Parou no tempo. Tem visão muito estreita.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Que nojo' / 'Horrorizado'",
+      "descricao": "A glosa deve usar a etiqueta HORROR para expressar os significados 'Que nojo!', 'Fiquei horrorizado!' ou 'Estou chocada com tanta asneira!'.",
+      "gatilho": "A frase em português contém as expressões 'Que nojo!', 'Fiquei horrorizado!' ou 'Estou chocada com tanta asneira!'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Que nojo! -> HORROR",
+        "Fiquei horrorizado! -> HORROR",
+        "Estou chocada com tanta asneira! -> HORROR"
+      ],
+      "fonte_pagina": "358",
+      "fonte_citacao": "(55) HORROR Que nojo! Fiquei horrorizado! Estou chocada com tanta asneira!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Pegar no laço' / 'Capturar informação'",
+      "descricao": "A glosa deve usar a etiqueta PESCAR-EL@ para expressar os significados 'Pegar alguém no laço' ou 'Capturar alguma informação'.",
+      "gatilho": "A frase em português contém as expressões 'Pegar alguém no laço' ou 'Capturar alguma informação'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Pegar alguém no laço -> PESCAR-EL@",
+        "Capturar alguma informação -> PESCAR-EL@"
+      ],
+      "fonte_pagina": "358",
+      "fonte_citacao": "(56) PESCAR-EL@ Pegar alguém no laço. Capturar alguma informação.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Ficar com ciúme' / 'Dor de cotovelo'",
+      "descricao": "A glosa deve usar a etiqueta COTOVELO-CAIR para expressar os significados 'Ficar com ciúme', 'Ter dor de cotovelo' ou 'Ter inveja'.",
+      "gatilho": "A frase em português contém as expressões 'Ficar com ciúme', 'Ter dor de cotovelo' ou 'Ter inveja'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ficar com ciúme -> COTOVELO-CAIR",
+        "Ter dor de cotovelo -> COTOVELO-CAIR",
+        "Ter inveja -> COTOVELO-CAIR"
+
+### p.360-361
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'Faltou eu'",
+      "descricao": "A glosa deve usar a sequência BOCA-BATER-PASSAR para representar o significado 'Faltou eu', 'Me deixaram de fora' ou 'Não se lembraram de mim'.",
+      "gatilho": "A frase em português expressa o sentido de ter sido esquecido, deixado de fora ou não ter sido lembrado (ex: 'Faltou eu', 'Me deixaram de fora').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Faltou eu! -> BOCA-BATER-PASSAR",
+        "Me deixaram de fora! -> BOCA-BATER-PASSAR",
+        "Não se lembraram de mim! -> BOCA-BATER-PASSAR"
+      ],
+      "fonte_pagina": "360",
+      "fonte_citacao": "(61) BOCA-BATER-PASSAR Faltou eu! Me deixaram de fora! Não se lembraram de mim!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Estou pasma/chocada'",
+      "descricao": "A glosa deve usar a sequência QUEIXO-MÃO-BATER-PASSAR (ou PASA) para representar o significado 'Nossa!', 'Estou pasma', 'Estou passado/a' ou 'Estou chocada'.",
+      "gatilho": "A frase em português expressa espanto, choque ou estar pasmo (ex: 'Nossa!', 'Estou pasma', 'Estou chocada').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Nossa! -> QUEIXO-MÃO-BATER-PASSAR",
+        "Estou pasma! -> QUEIXO-MÃO-BATER-PASSAR",
+        "Estou chocada! -> QUEIXO-MÃO-BATER-PASSAR"
+      ],
+      "fonte_pagina": "360",
+      "fonte_citacao": "(62) QUEIXO-MÃO-BATER--PASSAR (PASA) Nossa! Estou pasma! Estou passado/a! Estou chocada!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Não tem mais jeito'",
+      "descricao": "A glosa deve usar a sequência MÃOS-PEITO-APERTAR para representar o significado 'Não tem mais jeito', 'Infelizmente' ou 'Não há mais o que fazer'.",
+      "gatilho": "A frase em português expressa resignação, falta de alternativa ou infelicidade (ex: 'Não tem mais jeito', 'Infelizmente').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Não tem mais jeito! -> MÃOS-PEITO-APERTAR",
+        "Infelizmente! -> MÃOS-PEITO-APERTAR",
+        "Não há mais o que fazer. -> MÃOS-PEITO-APERTAR"
+      ],
+      "fonte_pagina": "360",
+      "fonte_citacao": "(63’) MÃOS-PEITO-APERTAR Não tem mais jeito! Infelizmente! Não há mais o que fazer.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Assim não dá'",
+      "descricao": "A glosa deve usar a sequência U-GIRA para representar o significado 'Assim não dá' ou 'Impossível acreditar que aconteceu assim'.",
+      "gatilho": "A frase em português expressa impossibilidade ou incredulidade diante de uma situação (ex: 'Assim não dá', 'Impossível acreditar').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Assim não dá! -> U-GIRA",
+        "Impossível acreditar que aconteceu assim. -> U-GIRA"
+      ],
+      "fonte_pagina": "360",
+      "fonte_citacao": "(64) U-GIRA Assim não dá! Impossível acreditar que aconteceu assim.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Visão restrita da deficiência'",
+      "descricao": "A glosa deve usar a sequência ORELHA-QUADRADA para representar o significado 'Só enxerga a orelha (do surdo)' ou 'Tem visão restrita (da) deficiência'.",
+      "gatilho": "A frase em português critica alguém por ter uma visão limitada ou restrita apenas à perspectiva da deficiência (ex: 'Só enxerga a orelha').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Só enxerga a orelha (do surdo). -> ORELHA-QUADRADA",
+        "Tem visão restrita (da) deficiência. -> ORELHA-QUADRADA"
+      ],
+      "fonte_pagina": "361",
+      "fonte_citacao": "(65) ORELHA-QUADRADA Só enxerga a orelha (do surdo). Tem visão restrita (da) deficiência.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Não quero falar sobre isso'",
+      "descricao": "A glosa deve usar a sequência BRAÇO-COÇAR para representar o significado 'Falar disso me dá alergia', 'Não quero falar sobre isso' ou 'Não dá para falar sobre isso'.",
+      "gatilho": "A frase em português expressa repulsa, alergia ou recusa em discutir um determinado assunto (ex: 'Falar disso me dá alergia', 'Não quero falar sobre isso').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Falar disso me dá alergia. -> BRAÇO-COÇAR",
+        "Não quero falar sobre isso! -> BRAÇO-COÇAR",
+        "Não dá para falar sobre isso. -> BRAÇO-COÇAR"
+      ],
+      "fonte_pagina": "361",
+      "fonte_citacao": "(66) BRAÇO-COÇAR Falar disso me dá alergia. Não quero falar sobre isso! Não dá para falar sobre isso.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Pegou mal'",
+      "descricao": "A glosa deve usar a sequência IRRITAR para representar o significado 'Isso vai irritar alguém', 'El@ vai ficar irritado', 'Pegou mal' ou 'Sujou'.",
+      "gatilho": "A frase em português indica que algo causou irritação, foi mal recebido ou 'pegou mal' (ex: 'Pegou mal', 'Sujou').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Isso vai irritar alguém. -> IRRITAR",
+        "Pegou mal! -> IRRITAR",
+        "Sujou! -> IRRITAR"
+      ],
+      "fonte_pagina": "361",
+      "fonte_citacao": "(67) IRRITAR Isso vai irritar alguém. El@ vai ficar irritado, hein? Pegou mal! Sujou!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Convencer alguém'",
+      "descricao": "A glosa deve usar a sequência VIOLINO-TOCAR para representar o significado 'Convencer alguém sobre algo', 'Precisa ter uma ótima lábia' ou 'Precisa ter calma para dialogar'.",
+      "gatilho": "A frase em português expressa a necessidade de persuasão, convencimento ou habilidade de diálogo (ex: 'Convencer alguém', 'Precisa ter uma ótima lábia').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Convencer alguém sobre algo. -> VIOLINO-TOCAR",
+        "Precisa ter uma ótima lábia. -> VIOLINO-TOCAR",
+        "Precisa ter calma para dialogar. -> VIOLINO-TOCAR"
+      ],
+      "fonte_pagina": "361",
+      "fonte_citacao": "(68) VIOLINO-TOCAR Convencer alguém sobre algo. Precisa ter uma ótima lábia. Precisa ter calma para dialogar.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'Brega'",
+      "descricao": "A glosa deve usar a sequência MÃO-BOCA-LIMPAR para representar o significado 'Paia' ou 'Brega'.",
+      "gatilho": "A frase em português expressa algo brega, sem graça ou 'paia' (ex: 'Paia', 'Brega').",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "“Paia”! -> MÃO-BOCA-LIMPAR",
+        "Brega. -> MÃO-BOCA-LIMPAR"
+      ],
+      "fonte_pagina": "361",
+      "fonte_citacao": "(69) MÃO-BOCA-LIMPAR “Paia”! Brega.",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.362-362
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'NARIZ-PINÇAR'",
+      "descricao": "A glosa deve usar a sequência NARIZ-PINÇAR para representar o significado 'Disfarça!' ou 'Vou ignorar'.",
+      "gatilho": "A frase em português expressa o sentido de 'Disfarça!' ou 'Vou ignorar'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Disfarça! -> NARIZ-PINÇAR",
+        "Vou ignorar. -> NARIZ-PINÇAR"
+      ],
+      "fonte_pagina": "362",
+      "fonte_citacao": "(70) NARIZ-PINÇAR+++ Disfarça! Vou ignorar.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'ABANDONAR' com expressão facial",
+      "descricao": "A glosa deve usar o sinal ABANDONAR para representar o significado 'Deixa pra lá!'.",
+      "gatilho": "A frase em português expressa o sentido de 'Deixa pra lá!'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Deixa pra lá! -> ABANDONAR"
+      ],
+      "fonte_pagina": "362",
+      "fonte_citacao": "(71) ABANDONAR-EF18 Deixa pra lá!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'BOCA-ABANDONAR'",
+      "descricao": "A glosa deve usar a sequência BOCA-ABANDONAR para representar significados como 'Que exagero!', 'Credo!' ou 'Isso é piada!'.",
+      "gatilho": "A frase em português expressa o sentido de 'Que exagero!', 'Credo!' ou 'Isso é piada!'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Que exagero! -> BOCA-ABANDONAR",
+        "Credo! -> BOCA-ABANDONAR",
+        "Isso é piada! -> BOCA-ABANDONAR"
+      ],
+      "fonte_pagina": "362",
+      "fonte_citacao": "(72) BOCA-ABANDONAR Que exagero! Credo! Isso é piada!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Falso cognato 'mãos leves'",
+      "descricao": "A glosa deve usar a sequência MÃO-LEVE para referir-se a intérpretes que sinalizam com leveza e suavidade, e NÃO para referir-se a ladrões (sentido da expressão em português).",
+      "gatilho": "A frase em português contém a expressão 'mãos leves' com o sentido de 'ladrão' ou 'pessoa que furta sem ser percebida'.",
+      "verificavel_por_texto": true,
+      "exemplos": [],
+      "fonte_pagina": "362",
+      "fonte_citacao": "Em Língua de Sinais brasileira, entretanto, (73) refere-se a intérprete(s) de mãos leves, que sinalizam com grande leveza e suavidade",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.363-365
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'MÃOS LEVES'",
+      "descricao": "A glosa deve usar a sequência MÃOS LEVES para expressar o significado 'Bem fluente em Libras'.",
+      "gatilho": "A frase em português expressa o conceito de ser bem fluente em Libras.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Bem fluente em Libras. -> MÃOS LEVES"
+      ],
+      "fonte_pagina": "363",
+      "fonte_citacao": "(73) MÃOS LEVES Bem fluente em Libras.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'SAL-FALTA'",
+      "descricao": "A glosa deve usar a sequência SAL-FALTA para expressar os significados 'Sem sal!', 'Não tem carisma' ou 'Sem graça'.",
+      "gatilho": "A frase em português expressa falta de carisma, graça ou sabor (metaforicamente).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Sem sal! -> SAL-FALTA",
+        "Não tem carisma. -> SAL-FALTA"
+      ],
+      "fonte_pagina": "364",
+      "fonte_citacao": "(74) SAL-FALTA 1Sem sal! Não tem carisma.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'DOCE-MUITO'",
+      "descricao": "A glosa deve usar a sequência DOCE-MUITO para expressar os significados 'Que doce!' ou 'Que fofo!'.",
+      "gatilho": "A frase em português expressa afeto, fofura ou doçura (metaforicamente).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Que doce! -> DOCE-MUITO",
+        "Que fofo! -> DOCE-MUITO"
+      ],
+      "fonte_pagina": "364",
+      "fonte_citacao": "(75) DOCE-MUITO Que doce! Que fofo!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'MÃO-LUBRIFICAR'",
+      "descricao": "A glosa deve usar a sequência MÃO-LUBRIFICAR para expressar a necessidade de 'desenferrujar as mãos', 'amolecer as mãos' ou 'lubrificar o braço'.",
+      "gatilho": "A frase em português expressa a necessidade de praticar ou melhorar a fluência/gestos (metafora de máquina).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Precisa desenferrujar as mãos. -> MÃO-LUBRIFICAR",
+        "Amolecer as mãos. -> MÃO-LUBRIFICAR"
+      ],
+      "fonte_pagina": "365",
+      "fonte_citacao": "(76) MÃO-LUBRIFICAR Precisa desenferrujar as mãos. Amolecer as mãos.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'BRAÇO-JUNTA-ENCOLHER'",
+      "descricao": "A glosa deve usar a sequência BRAÇO-JUNTA-ENCOLHER para expressar os significados 'Braço enferrujado' ou 'Ligamento rompido'.",
+      "gatilho": "A frase em português expressa rigidez ou dano físico no braço (metafora de máquina).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Braço enferrujado. -> BRAÇO-JUNTA-ENCOLHER",
+        "Ligamento rompido. -> BRAÇO-JUNTA-ENCOLHER"
+      ],
+      "fonte_pagina": "365",
+      "fonte_citacao": "(77) BRAÇO-JUNTA-ENCO- LHER Braço enferrujado. Ligamento rompido.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'LESMA'",
+      "descricao": "A glosa deve usar a etiqueta LESMA para expressar os significados 'É uma lesma' ou 'Está muito lento!'.",
+      "gatilho": "A frase em português expressa lentidão extrema (metafora de animal).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "É uma lesma. -> LESMA",
+        "Está muito lento! -> LESMA"
+      ],
+      "fonte_pagina": "365",
+      "fonte_citacao": "(78) LESMA É uma lesma. Está muito lento!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'TARTARUGA'",
+      "descricao": "A glosa deve usar a etiqueta TARTARUGA para expressar os significados 'É uma tartaruga' ou 'Está muito devagar!'.",
+      "gatilho": "A frase em português expressa lentidão extrema (metafora de animal).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "É uma tartaruga -> TARTARUGA",
+        "Está muito devagar! -> TARTARUGA"
+      ],
+      "fonte_pagina": "365",
+      "fonte_citacao": "(79) TARTARUGA É uma tartaruga Está muito devagar!",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.366-367
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática 'rabo entre as pernas'",
+      "descricao": "A glosa deve usar o sinal composto RABO-ESCONDER para representar os significados 'ficar com o rabo entre as pernas', 'envergonhado', 'com medo' ou 'ter o rabo preso'.",
+      "gatilho": "A frase em português expressa o conceito de vergonha, medo ou submissão associada à expressão 'rabo entre as pernas' ou 'rabo preso'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Ficar com o rabo entre as pernas. -> RABO-ESCONDER",
+        "Envergonhado. -> RABO-ESCONDER",
+        "Com medo. -> RABO-ESCONDER",
+        "Ter o 'rabo preso'. -> RABO-ESCONDER"
+      ],
+      "fonte_pagina": "366",
+      "fonte_citacao": "(80) RABO-ESCONDER Ficar com o rabo entre as pernas. Envergonhado. Com medo. Ter o “rabo preso”.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'baixar as orelhas'",
+      "descricao": "A glosa deve usar o sinal composto ORELHAS-BAIXAR para representar os significados 'baixar as orelhas' ou 'estar submissa'.",
+      "gatilho": "A frase em português expressa o conceito de submissão ou a expressão literal 'baixar as orelhas'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Baixar as orelhas. -> ORELHAS-BAIXAR",
+        "Estar submissa. -> ORELHAS-BAIXAR"
+      ],
+      "fonte_pagina": "366",
+      "fonte_citacao": "(81) ORELHAS-BAIXAR Baixar as orelhas. Estar submissa.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'deixa para lá'",
+      "descricao": "A glosa deve usar o sinal composto AFASTAR-EU para representar os significados 'não perca tempo com isso', 'deixa para lá' ou 'deixa no vácuo'.",
+      "gatilho": "A frase em português expressa o conceito de rejeição, desinteresse ou afastamento de um assunto, como em 'deixa para lá'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Não perca tempo com isso! -> AFASTAR-EU",
+        "Deixa para lá! -> AFASTAR-EU",
+        "Deixa no vácuo! -> AFASTAR-EU"
+      ],
+      "fonte_pagina": "367",
+      "fonte_citacao": "(82) AFASTAR-EU Não perca tempo com isso! Deixa para lá! Deixa no vácuo!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'rejeitar/nojo'",
+      "descricao": "A glosa deve usar o sinal VOMITAR para representar os significados 'rejeitar alguém/alguma coisa' ou 'que nojo'.",
+      "gatilho": "A frase em português expressa rejeição forte, repulsa ou nojo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Rejeitar alguém /alguma coisa. -> VOMITAR",
+        "Que nojo! -> VOMITAR"
+      ],
+      "fonte_pagina": "367",
+      "fonte_citacao": "(83) VOMITAR Rejeitar alguém /alguma coisa. Que nojo!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'afaste-se'",
+      "descricao": "A glosa deve usar o sinal composto EMPURRAR-X para representar os significados 'deixe longe', 'afaste-se de mim' ou 'mantenha-se afastado'.",
+      "gatilho": "A frase em português expressa a ordem de afastamento físico ou social de alguém.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Deixe longe! -> EMPURRAR-X",
+        "Afaste-se de mim! -> EMPURRAR-X",
+        "Mantenha-se afastado. -> EMPURRAR-X"
+      ],
+      "fonte_pagina": "367",
+      "fonte_citacao": "(84) EMPURRAR-X Deixe longe! Afaste-se de mim! Mantenha-se afastado.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'não combina'",
+      "descricao": "A glosa deve usar o sinal CHOQUE para representar os significados 'não combina' ou 'nada a ver'.",
+      "gatilho": "A frase em português expressa incompatibilidade ou falta de relação entre elementos.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Não combina. -> CHOQUE",
+        "Nada a ver! -> CHOQUE"
+      ],
+      "fonte_pagina": "367",
+      "fonte_citacao": "(85) CHOQUE Não combina. Nada a ver!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática 'encurralar'",
+      "descricao": "A glosa deve usar o sinal composto APERTAR-PESCOÇO-TRÁS para representar os significados 'encurralar alguém', 'estar encurralado', 'num beco sem saída' ou 'acuado ou enforcado (sem dinheiro)'.",
+      "gatilho": "A frase em português expressa a ideia de estar sem saída, pressionado ou encurralado.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Encurralar alguém. -> APERTAR-PESCOÇO-TRÁS",
+        "Estar encurralado. -> APERTAR-PESCOÇO-TRÁS",
+        "Num beco sem saída. -> APERTAR-PESCOÇO-TRÁS",
+        "Acuado ou enforcado (sem dinheiro). -> APERTAR-PESCOÇO-TRÁS"
+      ],
+      "fonte_pagina": "367",
+      "fonte_citacao": "(86) APERTAR-PESCOÇO--TRÁS Encurralar alguém. Estar encurralado. Num beco sem saída. Acuado ou enforcado (sem dinheiro).",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.368-371
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática: CABEÇA-EXPLODIR",
+      "descricao": "A glosa deve usar a sequência CABEÇA-EXPLODIR para representar expressões como 'Estar com a cabeça cheia', 'Estar de cabeça quente', 'Tenho muitas coisas a fazer', 'Estou estressado/a' ou 'Cansei disso!'.",
+      "gatilho": "A frase em português expressa o sentido de estar com a cabeça cheia, estressado, de cabeça quente ou cansado de algo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Estar com a cabeça cheia. -> CABEÇA-EXPLODIR",
+        "Estou estressado/a. -> CABEÇA-EXPLODIR"
+      ],
+      "fonte_pagina": "368",
+      "fonte_citacao": "(89) CABEÇA-EXPLODIR Estar com a cabeça cheia. Estar de cabeça quente. Tenho muitas coisas a fazer. Estou estressado/a. Cansei disso!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: CABEÇA-ABRIR",
+      "descricao": "A glosa deve usar a sequência CABEÇA-ABRIR para representar expressões como 'Abrir a mente!', 'Pessoa com cabeça à frente do seu tempo', 'Mente aberta', 'Abrir a mente' ou 'Estar aberto/a ao diálogo!'.",
+      "gatilho": "A frase em português expressa o sentido de abrir a mente, ter mente aberta ou estar aberto ao diálogo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Abrir a mente! -> CABEÇA-ABRIR",
+        "Mente aberta. -> CABEÇA-ABRIR"
+      ],
+      "fonte_pagina": "369",
+      "fonte_citacao": "(90) CABEÇA-ABRIR Abrir a mente! Pessoa com cabeça à frente do seu tempo. (91) CABEÇA-ABRIR Mente aberta. Abrir a mente. Estar aberto/a ao diálogo!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: CABEÇA-FECHAR",
+      "descricao": "A glosa deve usar a sequência CABEÇA-FECHAR para representar a expressão 'Estar de cabeça fechada'.",
+      "gatilho": "A frase em português expressa o sentido de estar de cabeça fechada.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Estar de cabeça fechada. -> CABEÇA-FECHAR"
+      ],
+      "fonte_pagina": "369",
+      "fonte_citacao": "(92) CABEÇA-FECHAR Estar de cabeça fechada.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: BOCHECHA-MURCHAR",
+      "descricao": "A glosa deve usar a sequência BOCHECHA-MURCHAR para representar expressões como 'Levar um susto!' ou 'Perder a cor!'.",
+      "gatilho": "A frase em português expressa o sentido de levar um susto ou perder a cor.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Levar um susto! -> BOCHECHA-MURCHAR",
+        "Perder a cor! -> BOCHECHA-MURCHAR"
+      ],
+      "fonte_pagina": "369",
+      "fonte_citacao": "(93) BOCHECHA- MURCHAR Levar um susto! Perder a cor!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: ESTAR-NO-ESCURO",
+      "descricao": "A glosa deve usar a sequência ESTAR-NO-ESCURO para representar expressões como 'Mente sem acesso ao conhecimento', 'Explicação obscura', 'Estar alienado', 'Incompreensível' ou 'Vivendo na escuridão'.",
+      "gatilho": "A frase em português expressa o sentido de estar no escuro, ser incompreensível, estar alienado ou ter explicação obscura.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Mente sem acesso ao conhecimento. -> ESTAR-NO-ESCURO",
+        "Incompreensível. -> ESTAR-NO-ESCURO"
+      ],
+      "fonte_pagina": "370",
+      "fonte_citacao": "(94) ESTAR-NO-ESCURO Mente sem acesso ao conhecimento. Explicação obscura. Estar alienado. Incompreensível. Vivendo na escuridão.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: GARGANTA-DESCER-DIFÍCIL",
+      "descricao": "A glosa deve usar a sequência GARGANTA-DESCER-DIFÍCIL para representar expressões como 'Engolir seco!' ou 'Não consigo aceitar essa situação!'.",
+      "gatilho": "A frase em português expressa o sentido de engolir seco ou não conseguir aceitar uma situação.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Engolir seco! -> GARGANTA-DESCER-DIFÍCIL",
+        "Não consigo aceitar essa situação! -> GARGANTA-DESCER-DIFÍCIL"
+      ],
+      "fonte_pagina": "370",
+      "fonte_citacao": "(95’) e (95”) GARGANTA- DESCER-DIFÍCIL Engolir seco! Não consigo aceitar essa situação!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: GRANADA-PINO-BOCA SOLTAR",
+      "descricao": "A glosa deve usar a sequência GRANADA-PINO-BOCA SOLTAR para representar expressões como 'Quero ver o circo pegar fogo!', 'Vou colocar lenha na fogueira' ou 'Espalhar situação polêmica!'.",
+      "gatilho": "A frase em português expressa o sentido de querer ver o circo pegar fogo, colocar lenha na fogueira ou espalhar situação polêmica.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quero ver o circo pegar fogo! -> GRANADA-PINO-BOCA SOLTAR",
+        "Vou colocar lenha na fogueira. -> GRANADA-PINO-BOCA SOLTAR"
+      ],
+      "fonte_pagina": "371",
+      "fonte_citacao": "(96) GRANADA-PINO-BOCA SOLTAR Quero ver o circo pegar fogo! Vou colocar lenha na fogueira.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: FÓSFORO-RISCAR JOGAR",
+      "descricao": "A glosa deve usar a sequência FÓSFORO-RISCAR JOGAR para representar expressões como 'Quero ver o circo pegar fogo!', 'Vou colocar lenha na fogueira!' ou 'Espalhar situação polêmica!'.",
+      "gatilho": "A frase em português expressa o sentido de querer ver o circo pegar fogo, colocar lenha na fogueira ou espalhar situação polêmica.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Quero ver o circo pegar fogo! -> FÓSFORO-RISCAR JOGAR",
+        "Espalhar situação polêmica! -> FÓSFORO-RISCAR JOGAR"
+      ],
+      "fonte_pagina": "371",
+      "fonte_citacao": "(97) FÓSFORO-RISCAR JOGAR Quero ver o circo pegar fogo! Vou colocar lenha na fogueira! Espalhar situação polêmica!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: MÃOS-RECUAR",
+      "descricao": "A glosa deve usar a sequência MÃOS-RECUAR para representar expressões como 'Tirar o corpo fora!', 'Retirar-se!', 'Pôr-se fora!', 'Não querer se envolver!'.",
+      "gatilho": "A frase em português expressa o sentido de tirar o corpo fora, retirar-se, pôr-se fora ou não querer se envolver.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Tirar o corpo fora! -> MÃOS-RECUAR",
+        "Não querer se envolver! -> MÃOS-RECUAR"
+      ],
+      "fonte_pagina": "371",
+      "fonte_citacao": "(98) MÃOS-RECUAR Tirar o corpo fora! Retirar-se! Pôr-se fora! Não querer se envolver!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Expressão idiomática: MÃOS-TIRAR",
+      "descricao": "A glosa deve usar a sequência MÃOS-TIRAR para representar expressões como 'Me deixe fora disso!', 'Estar fora!', 'Não vou me envolver!', 'Não pôr nem as mãos!' ou 'Deixe-me fora disso!'.",
+      "gatilho": "A frase em português expressa o sentido de pedir para ficar fora, estar fora, não se envolver ou não pôr as mãos em algo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Me deixe fora disso! -> MÃOS-TIRAR",
+        "Não vou me envolver! -> MÃOS-TIRAR"
+      ],
+      "fonte_pagina": "371",
+      "fonte_citacao": "(99) MÃOS-TIRAR Me deixe fora disso! Estar fora! Não vou me envolver! Não pôr nem as mãos! Deixe-me fora disso!",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.372-375
+{
+  "rules": [
+    {
+      "titulo": "Mapeamento idiomático: MÃOS-LIMPAR",
+      "descricao": "A glosa deve usar a etiqueta MÃOS-LIMPAR para representar a expressão idiomática, e não a tradução literal 'LAVAR MÃOS'.",
+      "gatilho": "A frase em português expressa o sentido idiomático de 'fazer a sua parte' ou 'cumprir o dever', associado à expressão 'lavar as mãos'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Lavar as mãos. -> MÃOS-LIMPAR",
+        "Fiz minha parte. -> MÃOS-LIMPAR"
+      ],
+      "fonte_pagina": "372",
+      "fonte_citacao": "(100) MÃOS-LIMPAR Lavar as mãos. Fiz minha parte.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Mapeamento idiomático: BOCA-FECHAR",
+      "descricao": "A glosa deve usar a etiqueta BOCA-FECHAR para representar a expressão idiomática de mandar calar ou silenciar alguém por superioridade, e não a tradução literal 'FECHAR BOCA'.",
+      "gatilho": "A frase em português expressa comandos como 'fique quieto', 'cale a boca' ou o sentido de 'lacrar alguém'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Fique quieto! -> BOCA-FECHAR",
+        "Cale a boca! -> BOCA-FECHAR"
+      ],
+      "fonte_pagina": "372",
+      "fonte_citacao": "(101) BOCA-FECHAR Fique quieto! Fique na sua! Cale a boca! “Lacrar alguém”!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Mapeamento idiomático: CALAR-ALGUÉM",
+      "descricao": "A glosa deve usar a etiqueta CALAR-ALGUÉM para representar a expressão idiomática de deixar alguém sem argumentos ou moral, e não a tradução literal 'CALAR'.",
+      "gatilho": "A frase em português expressa o sentido de 'deixar alguém sem palavras', 'sem argumentos' ou 'ficar sem moral'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Deixar alguém sem palavras. -> CALAR-ALGUÉM",
+        "Ficar sem moral. -> CALAR-ALGUÉM"
+      ],
+      "fonte_pagina": "372",
+      "fonte_citacao": "(102) CALAR-ALGUÉM Deixar alguém sem palavras. Deixar alguém sem argumen- tos. Ficar sem moral.",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Concordância verbal em expressões idiomáticas (PEGAR-NO-PÉ)",
+      "descricao": "A glosa deve incluir marcadores de concordância (números de pessoa) antes do verbo na expressão idiomática, indicando a direção da ação (ex: 1-3PEGAR-NO-PÉ para 'eu pego no pé dele').",
+      "gatilho": "A frase em português contém a expressão idiomática 'pegar no pé' e há necessidade de especificar o agente e o paciente da ação.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu pego no pé del@. -> 1-3PEGAR-NO-PÉ",
+        "Pegou no meu pé! -> 2-1PEGAR-NO-PÉ"
+      ],
+      "fonte_pagina": "373",
+      "fonte_citacao": "(103) 1-3PEGAR-NO-PÉ Eu pego no pé del@. ... (104) 2-1PEGAR-NO-PÉ Pegou no meu pé!",
+      "categoria": "concordancia"
+    },
+    {
+      "titulo": "Concordância verbal em expressões idiomáticas (DIZER-ALGO-PARA)",
+      "descricao": "A glosa deve incluir marcadores de concordância (números de pessoa) antes do verbo na expressão idiomática, indicando a direção da ação (ex: 2-DIZER-ALGO-PARA-1 para 'me ofendeu').",
+      "gatilho": "A frase em português contém a expressão idiomática 'dizer algo para' (sentido de ofender, avisar, ser franco) e há necessidade de especificar o agente e o paciente.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "…Me ofendeu! -> 2-DIZER-ALGO-PARA-1",
+        "Vou dizer uma palavra só! -> 1-DIZER-ALGO-PARA-2"
+      ],
+      "fonte_pagina": "373",
+      "fonte_citacao": "(105) 2-DIZER-ALGO-PARA-1 …Me ofendeu! ... (106) 1-DIZER-ALGO-PARA-2 Vou dizer uma palavra só!",
+      "categoria": "concordancia"
+    },
+    {
+      "titulo": "Concordância verbal em expressões idiomáticas (EXPULSAR)",
+      "descricao": "A glosa deve incluir marcadores de concordância (números de pessoa) antes do verbo na expressão idiomática, indicando a direção da ação (ex: 1-EXPULSAR-2 para 'expulsei ele').",
+      "gatilho": "A frase em português contém a expressão idiomática 'expulsar' e há necessidade de especificar o agente e o paciente da ação.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Expulsei el@. -> 1-EXPULSAR-2",
+        "Fui expulso. -> 2-EXPULSAR-1"
+      ],
+      "fonte_pagina": "374",
+      "fonte_citacao": "(107) 1-EXPULSAR-2 Expulsei el@. (108) 2-EXPULSAR-1 Fui expulso.",
+      "categoria": "concordancia"
+    },
+    {
+      "titulo": "Mapeamento idiomático: OLHOS-SALTAR",
+      "descricao": "A glosa deve usar a etiqueta OLHOS-SALTAR para representar a expressão idiomática de arregalar os olhos ou ficar interessado, e não a tradução literal 'OLHOS PULAR'.",
+      "gatilho": "A frase em português expressa 'arregalar os olhos', 'ficar com os olhos esbugalhados' ou 'interesseiro'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Arregalar os olhos. -> OLHOS-SALTAR",
+        "Interesseiro! -> OLHOS-SALTAR"
+      ],
+      "fonte_pagina": "375",
+      "fonte_citacao": "(109) OLHOS-SALTAR Arregalar os olhos. Ficar com os olhos esbugalhados. Interesseiro!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Mapeamento idiomático: OLHOS-INCHAR",
+      "descricao": "A glosa deve usar a etiqueta OLHOS-INCHAR para representar a expressão idiomática de encher os olhos ou admirar, e não a tradução literal 'OLHOS INCHAR' (que pode ser ambígua sem contexto, mas aqui é a forma fixa).",
+      "gatilho": "A frase em português expressa 'encher os olhos' ou 'é de admirar'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Encher os olhos. -> OLHOS-INCHAR",
+        "É de admirar! -> OLHOS-INCHAR"
+      ],
+      "fonte_pagina": "375",
+      "fonte_citacao": "(110) OLHOS-INCHAR Encher os olhos. É de admirar!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Mapeamento idiomático: OLHOS-QUICAR",
+      "descricao": "A glosa deve usar a etiqueta OLHOS-QUICAR para representar a expressão idiomática de ficar abismado, impressionado ou surpreso, e não a tradução literal 'OLHOS QUICAR'.",
+      "gatilho": "A frase em português expressa 'abismado', 'impressionante', 'chocante' ou 'estou surpreso'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Abismado! -> OLHOS-QUICAR",
+        "Estou surpreso! -> OLHOS-QUICAR"
+      ],
+      "fonte_pagina": "375",
+      "fonte_citacao": "(111) OLHOS-QUICAR Abismado! Impressionante! Chocante! Impressionante! Estou surpreso!",
+      "categoria": "expressoes-idiomaticas"
+    },
+    {
+      "titulo": "Mapeamento idiomático: OLHOS-CAIR",
+      "descricao": "A glosa deve usar a etiqueta OLHOS-CAIR para representar a expressão idiomática de olhos arregalados (de espanto), e não a tradução literal 'OLHOS CAIR'.",
+      "gatilho": "A frase em português expressa 'olhos arregalados' (no sentido de espanto/assombro).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Olhos arregalados! -> OLHOS-CAIR"
+      ],
+      "fonte_pagina": "375",
+      "fonte_citacao": "(112) OLHOS-CAIR Olhos arregalados!",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}
+
+### p.376-377
+{
+  "rules": [
+    {
+      "titulo": "Expressão idiomática OLHOS-CAIR ROUPA-LIMPAR",
+      "descricao": "A glosa deve usar a sequência OLHOS-CAIR ROUPA-LIMPAR para representar o sentido de surpresa extrema ou incredulidade, e não a tradução literal das palavras.",
+      "gatilho": "A frase em português expressa o sentido de 'inacreditável', 'por essa eu não esperava', 'me belisca' ou 'espera aí, é verdade isso'.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Inacreditável! -> OLHOS-CAIR ROUPA-LIMPAR",
+        "Por essa eu não esperava! -> OLHOS-CAIR ROUPA-LIMPAR",
+        "Me belisca! -> OLHOS-CAIR ROUPA-LIMPAR",
+        "Espera aí, é verdade isso? -> OLHOS-CAIR ROUPA-LIMPAR"
+      ],
+      "fonte_pagina": "376",
+      "fonte_citacao": "(113) OLHOS-CAIR ROUPA--LIMPAR Inacreditável! Por essa eu não esperava! Me belisca! Espera aí, é verdade isso?",
+      "categoria": "expressoes-idiomaticas"
+    }
+  ]
+}

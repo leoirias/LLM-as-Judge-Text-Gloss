@@ -1,0 +1,141 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.4.1 Conjuntivas sem marcação manual, com marcações não manuais ===
+=== TRECHO: páginas 128-133 ===
+
+[p.128]
+129
+de forma natural. Há uma espécie de elipse na segunda oração referente a ‘SINA-
+LIZAR’: é natural sinalizar. O ‘SINALIZAR’ se refere a ‘SINALIZAR’ produzido na 
+oração anterior.
+ Esses foram os casos de conjuntivas manuais identificadas nos dados do 
+nosso corpus. Nas análises realizadas, o uso da apontação estabelece marcação 
+oracional. No entanto, a apontação, nesses casos, apresenta uma função referen -
+cial, sempre associada com movimento do torso, da cabeça e/ou direção dos olhos. 
+Assim, passamos esses casos para a categoria conjuntiva não manual.
+8.4.1 Conjuntivas sem marcação manual,  
+com marcações não manuais
+O direcionamento do olhar alternando entre o evento e o interlocutor é um 
+mecanismo recorrente que evidencia as orações coordenadas. O próximo exemplo 
+ilustra isso:
+(8) Parataxe marcada por meio da alternância da direção do olhar.
+    
+     
+MÃE              SEGURAR-BEBÊ                           MÃE                      BATER-PALMAS
+MÃE SEGURAR-BEBÊ MÃE BATER-PALMAS
+Minha mãe me acomodava e batia-palmas 
+para ver.
+A primeira parte da oração é ‘MÃE SEGURAR-BEBÊ’ associada à localização 
+estabelecida para o evento do lado esquerdo do espaço de sinalização e o direcio-
+namento do olhar para a esquerda.
+https://youtu.be/QZJbR3PfG4E
+
+[p.129]
+130
+Figura 11: Direcionamento do olhar associado ao movimento da cabeça para a esquerda.
+Junto ao direcionamento do olhar para a esquerda, há também um leve 
+movimento da cabeça e do torso para a esquerda integrando a direção ao espaço 
+de sinalização do evento. Na segunda parte da oração, ‘MÃE BATER-PALMAS’, o 
+sinalizante passa a direcionar o olhar para o interlocutor, parece haver também 
+associado ao sinal ‘BATER-PALMAS’, como se a mãe estivesse batendo palmas. De 
+qualquer forma, a marca mais saliente, neste exemplo, é a alternância da direção do 
+olhar para o evento e para o interlocutor indicando as duas orações coordenadas.
+Figura 12: Direcionamento do olhar para o interlocutor.
+A próxima unidade oracional complexa também apresenta alternância en-
+tre os eventos com a utilização do direcionamento do olhar e o uso de role-shift. 
+Nesse exemplo, no entanto os papéis assumidos pelo sinalizante como aluno e 
+como professor estão muito mais evidenciados como marcadores não manuais 
+paratáticos.  O role-shift é um marcador manual que utiliza o corpo do sinalizante 
+como se estivesse representando o referente no escopo oracional relativo ao evento 
+no qual este referente passa a ser o argumento principal da oração.
+
+[p.130]
+131
+(9) Parataxe marcada pelo aceno pontual da cabeça.
+  
+   
+     MEU              NOME                                                      FS (marisa) 
+                        
+ FS (lima)                                          MEU SINAL          SINAL (marisa)
+MEU NOME FS (marisa) FS (lima) MEU SINAL 
+SINAL (marisa)
+Me chamo Marisa Lima e este é meu sinal.
+Esse tipo de marcação não manual indica o final de uma oração por meio de 
+um leve aceno pontual da cabeça. É uma marca prosódica indicando o fechamento 
+da oração, MEU NOME (marisa-lima). Na sequência, a sinalização volta para o 
+padrão inicial, MEU SINAL (marisa). É como se houvesse uma conjunção de coor-
+denação tipo ‘e’ que aparece na tradução para a Língua Portuguesa.  Do ponto de 
+vista semântico, essas duas orações apresentam correlação.
+https://youtu.be/xrHAnct06Ys
+
+[p.131]
+132
+Figura 13: Aceno pontual da cabeça.
+(10) Parataxe marcada pela alternância do movimento da cabeça.
+  
+PROCESSO         COMEÇAR               IX (eu)    DV(cabelo-trançado)  DV(cabelo-longo)
+     IX (eu)             QUERER     DV (tamanho-longo)               ATÉ-HOJE
+PROCESSO COMEÇAR IX (eu) DV  
+(cabelo-trançado) 
+DV (cabelo-longo) IX (eu) QUERER DV) 
+(tamanho-longo) ATÉ-HOJE
+O tempo foi passando, daí eu comecei, eu tinha 
+os cabelos trançados, longos, eu queria muito 
+ter os cabelos longos e assim foi até hoje.
+ Na primeira oração, ‘PROCESSO’, a cabeça está levemente para o lado di -
+reito (14.a) e se move para a esquerda para indicar o início e a continuidade do 
+andamento das coisas (14.b). A segunda oração, ‘COMEÇAR IX’ (eu) DV (cabelo-
+-trançado), inicia com o reposicionamento da cabeça para indicar quando começou  
+https://youtu.be/MK8DC0w4mHQ
+
+[p.132]
+133
+(14.c) e, então, passa a estar associada a uma inclinação leve da cabeça para a es-
+querda (14.d). A terceira oração configura uma encaixada, DV (cabelo-longo) IX 
+(eu) QUERER DV) (tamanho-longo), com a alteração da posição da cabeça para 
+o lado direito (14.d); então, a sinalizante insere um aceno da cabeça para concluir 
+esta unidade oracional complexa com a elevação dos ombros (14.e), ‘ATÉ-HOJE’.
+ 
+                          Figura 14: Alternância do movimento da cabeça.
+14a.
+ 14b.
+ 14c.
+14d.
+ 14e.
+ 14f.
+(11) Parataxe marcada pela alternância das orações por meio do uso de role-shift  
+associado ao movimento do torso (Rimar).
+         [3VIR1] [DV-fazer-careta] IX [eu] [DV-olhar-rosto-aproximando].
+ [3VIR1] [DV-fazer-careta] IX [eu] [DV-olhar- 
+rosto-aproximando
+(o professor) veio (na minha direção) e fez uma 
+articulação exagerada na minha frente e eu o 
+vi bem próximo (posição de cima para baixo) a 
+mim (posição de baixo para cima). 
+https://youtu.be/5kiDjeFPrGo
+
+[p.133]
+134
+A primeira parte dessa oração, [3VIR1], é produzida pelo verbo VIR in -
+corporado no classificador de pessoa por meio do dedo indicador que refere ao 
+professor. Nessa parte da oração, o sinalizante está narrando o fato: o professor 
+veio na minha direção, com a direção do olhar para direita de onde o professor 
+estava vindo. As duas próximas orações estão alternadas por meio do role-shift, o 
+primeiro role-shift incorpora o professor (15.a), [DV-fazer-careta-aproximação], 
+e o segundo o aluno que é ele mesmo (15.b), [EU DV-olhar-rosto-aproximando]. 
+Ao incorporar o professor vindo para cima dele, o sinalizante move o torso para 
+frente indicando a ação e posição do professor e, na sequência, move o corpo para 
+trás indicando a ação e posição do aluno com a perspectiva de estar olhando para 
+o rosto do professor indicado pela mão. Essa alternância de papéis marcada pelas 
+posições do corpo indica orações que estão coordenadas uma com a outra.
+ 
+Figura 15: Role-shift.
+15.a
+ 15.b
+O uso de alternância entre os marcadores não manuais demarca as orações. 
+Observamos ainda outros tipos de alternância que foram aplicados para demarcar 
+orações conjuntivas, tais como, a alternância do ritmo associado a cada oração, a 
+alternância das expressões faciais (com e sem elevação das sobrancelhas) do uso 
+dos espaços à frente do sinalizante. Além do uso da alternância, também observa-
+mos a pausa por meio do piscar dos olhos mais longo para delimitar as orações. 
+Essas foram as ocorrências de orações conjuntivas com marcação não manual não 
+associada a marcadores manuais.

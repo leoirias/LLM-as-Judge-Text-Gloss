@@ -1,12 +1,16 @@
-"""Client do modelo de extração — autocontido, config própria (config.yaml).
+"""Client do modelo — autocontido, config própria (config.yaml).
 
-Qwen3-30B-A3B-Instruct-2507: MoE (30,5B totais / 3,3B ativos), variante
-non-thinking (não é "thinking desligado numa gramática híbrida", é um
-checkpoint treinado direto pra resposta sem raciocínio) — extração é uma
-tarefa de leitura+preenchimento de campos, não de dedução em várias etapas,
-e thinking já mostrou risco de travar sem fechar o JSON no juiz de Libras
-deste mesmo projeto (ver survey_pipeline/config_libras.yaml). Cabe com folga
-numa A100 80GB (pesos ~61GB), sobrando VRAM pra KV-cache das janelas longas.
+Qwen3.8-27B: denso 27,8B, Apache 2.0, thinking DESLIGADO. Substituiu o
+Qwen3-30B-A3B-Instruct-2507 (MoE, 3,3B ativos por token): um denso de 27B
+ativa ~8x mais parâmetros por token, e é aí que aparece a diferença em
+aderência a schema JSON e raciocínio sobre regra — que é exatamente o nosso
+uso. Cabe em 1 A100 80GB em bf16 (~56GB), sobrando VRAM pro KV-cache das
+janelas longas.
+
+Thinking desligado de propósito: extração/fusão/julgamento são tarefas de
+leitura + preenchimento de campos, não de dedução em várias etapas, e
+thinking já mostrou risco de travar sem fechar o JSON no juiz de Libras deste
+mesmo projeto (ver survey_pipeline/config_libras.yaml).
 
 Requer PYTHONPATH=src.
 """
@@ -29,7 +33,7 @@ def get_llm() -> ModelClient:
     m = _CFG["model"]
     g = _CFG.get("generation", {})
     config = ModelConfig(
-        name=m.get("name", "qwen3-30b-a3b-instruct-2507"),
+        name=m.get("name", "qwen3.8-27b"),
         provider="transformers",
         model_id=m["model_id"],
         dtype=m.get("dtype", "bfloat16"),

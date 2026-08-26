@@ -1,0 +1,120 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva ===
+=== TRECHO: páginas 235-239 (parte 2 de 3 do mesmo tópico) ===
+
+[p.235]
+236
+            (90) Substantiva Subjetiva com ordem inversa.
+DIFÍCIL      IX (eu) RESPONDER    CERTO
+DIFÍCIL [IX (eu) RESPONDER CERTO]
+É difícil eu responder certo.
+A sentença (90), a exemplo das anteriores, também apresenta a ordem inversa 
+entre sujeito e predicado. Inicia com o predicado oracional DIFÍCIL (ser difícil), 
+que exerce a função sintática de predicativo do sujeito. A segunda parte da sentença 
+IX (eu) RESPONDER CERTO desempenha a função de sujeito oracional da oração 
+encaixada substantiva subjetiva. A ordem direta poderia ser enunciada da seguinte 
+forma: IX (eu) RESPONDER CERTO DIFÍCIL (Eu responder certo é difícil). No 
+entanto, por razões discursivas, o sinalizante optou pela ordem inversa da sentença. 
+Não há um item lexical que une as duas orações. Mesmo assim, essa sentença é 
+articulada pela justaposição e sua proposição emerge do contexto discursivo. 
+8.14.1.2 Encaixada substantiva subjetiva manual
+(91) Substantiva subjetiva manual marcada com o sinal O-QUE.
+MAIS    IMPORTANTE     O-QUE     SINALIZAR  E  (vai)
+MAIS IMPORTANTE [O-QUE SINALIZAR E (vai)]
+O mais importante é o que, sinalizar, vai [...]
+https://youtu.be/CPvtuuPJqSA
+https://youtu.be/56-zVWzr3WI
+
+[p.236]
+237
+A sentença (91), ao contrário das anteriores, apresenta um item lexical que 
+contribui para evidenciar a relação entre as duas sentenças: O-QUE. Por isso, pode 
+ser classificada como uma oração encaixada substantiva subjetiva manual. Esse 
+exemplo também apresenta a ordem inversa, começando pelo predicado MAIS 
+IMPORTANTE (ser o mais importante), que tem a função de predicativo do sujei-
+to. Em seguida, tem-se o sujeito oracional SINALIZAR. O sinal O-QUE funciona 
+como um conectivo entre as sentenças, o que nas línguas orais seria classificado 
+como conjunção integrante. 
+Sobre a primeira parte da sentença – MAIS IMPORTANTE – há a elevação 
+da cabeça, enquanto que na segunda parte da oração – SINALIZAR– o sinalizante 
+utiliza a marcação não manual aceno da cabeça. Essa diferença no padrão prosódico 
+marca as sentenças, reforçando a articulação entre elas. 
+8.14.1.3 Encaixada substantiva objetiva
+As orações encaixadas substantivas são sentenças que exercem a mesma 
+função um substantivo, dentro da oração principal. Nesse caso, têm a função de 
+objeto oracional. Ao invés de a sentença possuir um substantivo como objeto dire-
+to, ela apresenta uma sentença exercendo a função de objeto direto. As sentenças 
+encaixadas substantivas objetivas podem apresentar marcações manuais (um item 
+lexical) ou não manuais (expressões faciais, giro do tronco e da cabeça, dentre 
+outras). Veremos a seguir as sentenças encaixadas objetivas manuais e depois as 
+não manuais.
+8.14.1.4 Encaixada substantiva objetiva manual 
+No exemplo a seguir, a oração encaixada exerce a função de objeto direto 
+da oração principal. 
+(92) Substantiva objetiva manual marcada com o sinal O-QUE.
+ PORQUE   INCLUSÃO       IX (inclusão) SIGNIFICA    O-QUE           TER             PROPOSTA
+
+[p.237]
+238
+COLOCAR-PESSOA      OLHAR      ADAPTAR
+PORQUE INCLUSÃO IX (inclusão) SIGNIFICA 
+[O-QUE TER PROPOSTA COLOCAR-PESSOA 
+OLHAR ADAPTAR]
+Porque a inclusão significa que tem proposta de 
+colocar-alunos e fazer adaptações. 
+A relação entre a oração principal e a oração encaixada acontece a partir do 
+conectivo O-QUE. Há também uma marcação não manual marcada pela boca e vira-
+da da cabeça. A oração principal é PORQUE INCLUSÃO IX (inclusão) SIGNIFICA, 
+cujo verbo SIGNIFICA exige um argumento para funcionar como objeto direto. A 
+oração TER PROPOSTA COLOCAR-PESSOA OLHAR ADAPTAR cumpre a função 
+de objeto direto e, por isso, faz parte da estrutura sintática da oração principal. 
+(93) Substantiva objetiva manual marcada com o sinal O-QUE.
+ACREDITAR     O-QUE          PROBLEMA  É  SOCIAL    VER    E (negativo)
+https://youtu.be/2wapNkjW8GU
+
+[p.238]
+239
+ IX (eu)       LÍNGUA-SINAIS X(Língua-Sinais) INDISCUTÍVEL   SUPERIOR    E (acabar)
+ACREDITAR [O-QUE PROBLEMA  
+É SOCIAL VER E(negativo)] IX (eu) 
+LINGUA-SINAIS IX (Língua-Sinais) 
+INDISCUTÍVEL SUPERIOR E (acabar).
+Eu acredito que o problema é a sociedade, que 
+vê a Língua de Sinais de forma negativa, mas 
+a Língua de Sinais é superior a isso. 
+A sentença (93) é um caso de uma sentença encaixada substantiva objetiva 
+direta com marcação manual. O conectivo O-QUE tem a função de realçar a relação 
+entre as duas sentenças. Quadros (1999) identificou casos de sentenças encaixadas 
+introduzidas pelo conectivo O-QUE. 
+A primeira parte da sentença ‘ACREDITAR’ requer objeto direto, que será 
+introduzido pelo conectivo O-QUE. No entanto, em vez de apresentar um núcleo 
+nominal como objetivo direto, a sentença apresenta outra oração, que é classificada 
+como oração encaixada substantiva objetiva direta. A oração encaixada compreende 
+grande parte do segundo segmento da sentença: O-QUE PROBLEMA É SOCIAL 
+VER E(negativo) IX (Língua-Sinais) LÍNGUA-SINAIS IX(Língua-Sinais).  Essa 
+oração integra a estrutura sintática da oração nuclear ACREDITAR.
+https://youtu.be/O2JlKRy7s3Q
+
+[p.239]
+240
+(94) Substantiva objetiva manual marcada com o sinal O-QUE.
+MOSTRAR        O-QUE   PROCESSO           AQUISIÇÃO             IX (eu)  INFLUENCIARx
+ 
+INFLUENCIARy   ENTÃO     PROCESSO
+MOSTRAR [O-QUE PROCESSO 
+AQUISIÇÃO IX (eu) INFLUENCIARx 
+INFLUENCIARy  ENTÃO PROCESSO]
+Isso mostra que o meu processo de aquisição 
+tem influência [dos ouvintes e dos surdos] ao 
+longo do desenvolvimento.
+Na sentença (94) aparece novamente o sinal O-QUE, que introduz a oração 
+encaixada substantiva objetiva direta. O primeiro sinal da sentença (MOSTRAR) 
+possui sujeito oculto (isto), recuperado no contexto, sendo o verbo MOSTRAR o 
+predicado da oração. O verbo mostrar requer dois argumentos (Sujeito e Objeto). 
+O objeto desta oração é toda a sequência seguinte da sentença: O-QUE PROCES-
+SO AQUISIÇÃO IX (eu) INFLUENCIARx INFLUENCIARy ENTÃO PROCESSO. 
+Nesse caso, o objeto direto da sentença não é um núcleo nominal, mas uma oração 
+encaixada substantiva objetiva direta. Essa sentença faz parte da estrutura sintática 
+da oração matriz. Há uma pequena pausa discursiva após o sinal O-QUE, introdu-
+zindo a sentença encaixada. 
+https://youtu.be/E6jNtKRKpIk

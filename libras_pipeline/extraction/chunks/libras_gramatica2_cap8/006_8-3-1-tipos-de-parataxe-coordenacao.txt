@@ -1,0 +1,129 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.3.1 Tipos de Parataxe/Coordenação ===
+=== TRECHO: páginas 111-114 (parte 2 de 3 do mesmo tópico) ===
+
+[p.111]
+112
+Figura 1: Variações de MAS identificados por Rodrigues (2019).
+Fonte: Rodrigues (2019, p. 95).
+ 
+As orações paratáticas podem apresentar três tipos semânticos. As parataxes 
+podem ser conjuntivas, disjuntivas e adversativas:
+a) Parataxe conjuntiva: As conjuntivas manuais envol-
+vem marcações manuais com conectores que marcam a 
+parataxe: TAMBÉM, DEPOIS, É (com função de por isso). 
+As conjuntivas não manuais envolvem marcações não ma-
+nuais, tais como: sobrancelhas neutras e aceno de cabeça, 
+piscar de olhos, pausas, expressões faciais, movimento do 
+torso, alternância de papéis (role-shift) marcadas por meio 
+de expressões faciais contrastivas.
+b) Parataxe disjuntiva : As disjuntivas sempre estão 
+associadas a uma ruptura prosódica entre as orações, que 
+são marcadas por piscar de olhos, que marca fronteira 
+de constituintes e limites das cláusulas (WILBUR, 1974; 
+HERRMANN, 2010; PFAU e QUER 2010; ZORZI 2018; 
+DAVIDSON, 2013). As marcações manuais indicando 
+pausas, oposições estabelecidas por sinais são expressas 
+por ‘OU’, dedos indicadores para cima em alternância e 
+apontação. As marcações não manuais indicam pausas, 
+oposições e contrastes estabelecidos pelo torso e da cabeça, 
+expressões faciais contrastivas, direcionamento do olhar. 
+Davidson (2013) observou também estrabismo e bit-lábio 
+(leve mordida de lábios) na disjunção.
+c) Parataxe adversativa: As coordenadas adversativas 
+predominantemente aparecem marcadas por um conecti-
+vo – BUT em ASL, BSL, FinSL, Auslan (Zorzi, 2018). Em 
+Libras, Rodrigues (2019) identificou o uso de variações de 
+MAS, que também identificamos, embora não tenhamos 
+identificado nenhuma ocorrência do que ela refere como 
+MAS3. Nós usaremos a referência a quatro conectivos 
+MAS1, MAS2, PALM-UP, MAS-NÃO-É, como será mostra-
+do adiante. Importante lembrar que pode haver adversativa
+
+[p.112]
+113
+expressa apenas por marcações não manuais, indicando 
+pausas, oposições estabelecidas pelo torso e cabeça, nor -
+malmente com contraste para frente e para trás, para um 
+lado e para o outro, expressões faciais contrastivas com 
+elevação das sobrancelhas, com sobrancelhas franzidas, 
+aceno de cabeça afirmativo ou negativo, alternância entre a 
+elevação das sobrancelhas associadas às partes das orações 
+coordenadas.
+Em Línguas de Sinais, predominantemente, as orações paratáticas/coordena-
+das se articulam sem a presença de um conectivo. Para Zorzi (2018, p. 81), “coorde-
+nação em SL é expressa assindeticamente usando apenas MNMs e sempre causam 
+ambiguidade na interpretação de conjunção ou de disjunção». Pistas prosódicas e 
+lexicais podem auxiliar na desambiguização entre conjunção e disjunção.
+Em Línguas de Sinais, estudos recentes de Tang e Lau (2012) e Zorzi (2018) 
+mostram que as orações paratáticas/coordenadas basicamente são estruturadas a 
+partir do uso de marcadores não manuais (MNMs) ou do uso de um conectivo. Dada 
+a modalidade dessas línguas, a maior parte das estruturas paratáticas/coordenadas 
+se dão pelo uso de MNMs e um número reduzido, por conectivos.
+Os tipos de paratáticas/coordenadas analisadas em Libras nesta gramática 
+são as seguintes:
+- Conjuntivas
+- Disjuntivas
+- Adversativas
+A análise dos dados foi realizada considerando marcações não manuais de 
+pausa (tais como piscadas de olhar, ativação e desativação de expressões faciais 
+prosódicas, movimentação da cabeça, movimentação do torso) e marcações ma -
+nuais (transição, ativação e retração dos sinais e marcações conectivas). (SILVA 
+e QUADROS, 2021).
+A exemplo, ilustramos a análise do exemplo em 1ª sentença repetida aqui e 
+ilustrada por meio de fotos:
+ 
+  
+         
+ IX (eu) NÃO                 3PERCEBER1                     IX (este)  SURDO        IX (aquele)
+
+[p.113]
+114
+ 
+   
+          OUVINTE      NÃO
+IX (eu) NÃO 3PERCEBER1 IX (este) SURDO IX (aquele) OUVINTE NÃO
+Eu não percebia, que eles eram surdos ou eram ouvintes, não.
+ 
+Unidade oracional 1
+ 
+IX (eu) NÃO 3PERCEBER1
+A sinalizante informa que não percebia (algo que está expresso por meio das 
+orações 2 e 3), ao jogar o torso para trás para referir a si própria combinada com 
+o sinal PERCEBER iniciada a trajetória do lado direito em direção a si própria: eu 
+não percebia
+Nesse caso, temos uma oração encaixada complexa relativa compondo a 
+oração paratática apresentada a seguir nas unidades oracionais 2 e 3.
+ 
+Unidade oracional 2
+     IX (este) SURDO
+ 
+O olhar, o torso e a cabeça se direcionam para o lado direito, onde ela esta-
+belece o referente surdo: ele surdo.
+
+[p.114]
+115
+ 
+Unidade oracional 3
+IX (aquele) OUVINTE
+ 
+O olhar, o torso e a cabeça se direcionam para o lado esquerdo, onde ela 
+estabelece o referente ouvinte: ele ouvinte.
+ 
+Unidade oracional 4
+NÃO
+A sinalizante movimenta o torso e a cabeça para trás para voltar a referir a 
+si própria e enfatizar a negação: (eu) não (percebia)
+A coordenação se dá por meio da combinação dos sintagmas que apresentam 
+uma interdependência semântica:
+este surdo, aquele ouvinte
+A encaixada é selecionada a partir do verbo PERCEBER que está sintatica-
+mente vinculada as duas orações paratáticas:
+Eu não percebi que eles eram surdos ou eram ouvintes, não.
+ 
+Essa unidade oracional é complexa contando com uma sentença encaixada 
+composta por parataxe. 
+Seguindo as análises de Silva e Quadros (2021) e Quadros, Silva e Barbosa 
+(no prelo), as unidades oracionais complexas de parataxe justapostas na Libras, 
+marcadas por conectivos e/ou marcadores não manuais foram anotadas por meio 
+de um vocabulário controlado na trilha de parataxe conforme segue:

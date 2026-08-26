@@ -1,0 +1,116 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.3 TIPOS DE ARTICULAÇÃO DE ORAÇÕES ===
+=== TRECHO: páginas 101-103 (parte 1 de 2 do mesmo tópico) ===
+
+[p.101]
+102
+Porque
+Se
+Igual
+ 
+Fonte: Rocha (2021).
+Rocha (2021) refere que a recursividade é existente na Libras, já que os 
+marcadores supracitados parecem indicar subordinação e dependência sintática 
+entre as orações. Os marcadores recursivos mais produzidos são não manuais, 
+mas os marcadores manuais também podem exercer esse papel. Para a autora, a 
+modalidade visual espacial permite separações e marcações no espaço que possi-
+bilitam subordinação e sobreposições gramaticais (simultaneidade), indicativos 
+de recursividade. 
+Na próxima seção, iremos aprofundar a articulação das orações na Libras 
+que expressam diferentes níveis de recursividade. Os marcadores identificados 
+por Rocha (2021) inauguram a discussão sobre recursividade e são, também, con-
+siderados na descrição a seguir em diferentes tipos de articulação das sentenças 
+na Libras. Com a descrição dos diferentes tipos de articulação, identificamos um 
+detalhamento mais acurado dessas marcações de recursividade, avançando, por-
+tanto, nos estudos linguísticos da Libras.
+8.3 TIPOS DE ARTICULAÇÃO DE ORAÇÕES 
+Há diferentes possibilidades de conexão entre um elemento oracional pri -
+mário e um secundário. Mais importante é estar atento para a proposição que se 
+estabelece entre as orações, durante o enunciado.
+ A tradição escolar aborda a articulação entre orações polarizando esse pro-
+cesso em dois grandes blocos: a coordenação e a subordinação, ou seja, ou as 
+orações estão umas justapostas às outras (coordenação), ou são constituintes ora-
+cionais de outras orações (subordinação). No entanto, a ciência Linguística tem 
+mostrado que mais do que a polarização coordenação/subordinação, há casos em 
+https://youtu.be/lxXq748lwXc
+https://youtu.be/Ur7q5rkYB7o
+https://youtu.be/akwIFBKl9uk
+
+[p.102]
+103
+que a dependência entre as orações numa dada língua é de ordem semântica. Nes-
+se caso, parece ser mais adequado tratar a descrição da articulação entre orações 
+nos termos de Hopper e Traugott (1993, 2003), que vão além dessa classificação 
+tradicional, analisando o modo como as línguas organizam suas estruturas com -
+plexas em termos gradientes e não binários, como tem feito a tradição gramatical. 
+Nesse sentido, parece que a gradiência pode explicar as nuances que, às vezes, se 
+instauram entre o que é de ordem da coordenação ou da subordinação, fato que 
+não pode ser explicado/compreendido considerando-se tão somente a distribuição 
+das sentenças num enunciado. Para além disso, fatores de natureza semântica 
+devem ser observados, o que leva Hopper e Traugott (1993) ao uso dos seguintes 
+parâmetros:
+a) parataxe1 – há uma independência relativa, em que o 
+elo depende somente de que a relação faça sentido e tenha 
+relevância, mas não há encaixamento. Há uma relação de 
+igual estatuto entre as orações;
+ b) hipotaxe – há uma interdependência entre núcleo e 
+margem, mas também não há encaixamento. A oração de-
+pendente funciona como um adjunto da oração principal;
+c) encaixada – há uma dependência completa entre núcleo 
+e margem, há, portanto, o encaixamento. A oração depen-
+dente faz parte da estrutura argumental da oração principal.
+Quadro 1: Relações de dependência entre orações.
+Fonte: Hopper e Traugott (1993, p. 170).
+Identificar as relações que são estabelecidas nas orações complexas, em uma 
+determinada língua, não é tarefa fácil. Esse desafio se torna ainda maior no caso 
+das Línguas de Sinais, por serem línguas relativamente “mais jovens” do que as 
+línguas orais.
+1 Na realidade educacional brasileira, o termo coordenação é amplamente propagado na 
+escola, nos manuais de gramática e entre professores de línguas. Nós estamos usando o 
+termo parataxe que compreende o termo coordenação, sempre considerando que entre 
+essas orações há independência sintática, mas não semântica.
+
+[p.103]
+104
+ Segundo Tang e Lau (2012), linguistas que descrevem Línguas de Sinais ain-
+da são desafiados a identificar critérios objetivos e uma metodologia padronizada 
+para estabelecer os limites da sentença. De acordo com as autoras, há poucos relatos 
+de uso de conjunções em Línguas de Sinais. A justaposição de orações parece ser 
+uma estratégia recorrente, ao invés da presença de uma conjunção explícita. Há 
+também estratégias específicas da modalidade em Língua de Sinais, como o uso 
+alternado dos articuladores manuais (cada evento é articulado em uma das mãos), 
+uso produtivo do espaço de sinalização, deslocamento do corpo e aceno de cabeça.
+ As dificuldades apontadas por Tang e Lau (2012) sobre os desafios de descri-
+ção de Línguas de Sinais também são reportadas por Davidson (2013) em relação 
+às investigações sobre processos de coordenação nessas línguas. Para a autora, o 
+mais extenso estudo tipológico sobre coordenação, o qual foi desenvolvido em 2004 
+por Haspelmath, inclui diversas línguas do mundo, mas não há quaisquer dados 
+acerca de Línguas de Sinais. Ainda para Davidson (2013), são duas as principais 
+estratégias de coordenar elementos na ASL, língua objeto de sua pesquisa, mas 
+que podem ser extensivas a outras Línguas de Sinais, a saber: COORD-SHIFT  e 
+COORD-L. Na estratégia do tipo COORD-SHIFT são realizadas mudanças (às vezes,  
+bastante sutis) no espaço da sinalização, que demarcam a presença de orações con-
+trastando elementos de um lado e de outro, incluindo um conjunto de informações 
+associadas ao movimento do torso, da cabeça e da direção do olhar; já as do tipo 
+COORD-L (ou COORD-LIST) envolvem pontos indexicais para sucessivos dedos 
+da mão não dominante em que são apresentadas orações em sequência. Esse tipo 
+de estrutura também é denominado por “lista-boias”, nos termos de Zorzi (2018).
+ O importante trabalho de Haspelmath (2004) sobre coordenação citado por 
+Tang e Lau (2012) apresenta uma classificação semântica da coordenação, a saber: 
+a) coordenação conjuntiva, frequentemente representada por ‘and’; b) coordenação 
+disjuntiva, frequentemente marcada por ‘or’’; e c) coordenação adversativa, frequen-
+temente marcada por ‘but’. Essa realidade descritiva, embora bastante pertinente 
+para a descrição dos processos de conectar orações em línguas orais, nem sempre 
+se adéqua aos processos que acontecem em línguas de sinais, sobretudo porque a 
+articulação de orações nesses línguas quase sempre se dá sem a presença de mar-
+cas manuais indicadoras de conjunções do tipo ’and’, ’or’ e ’but’, mas por meio de 
+marcas não manuais, às vezes bastante sutis, especialmente quando se analisam 
+estruturas de coordenação a partir de dados de uso reais dessas línguas, retirados 
+de corpora linguísticos.
+Segundo Zorzi (2018), as estruturas de coordenação, por vezes, se apresentam 
+com um elemento coordenador explícito, porém nem sempre é assim. Nas Línguas 
+de Sinais, sobretudo a ausência de um item lexical coordenador parece frequente, 
+sendo as orações justapostas umas às outras, e o contexto e a relação semântica 
+entre as orações responsáveis pelo estabelecimento do processo de coordenação. A 
+autora afirma que a estratégia mais comumente adotada nas línguas de sinais é a 
+justaposição de orações assindeticamente e isso torna as pistas prosódicas essenciais

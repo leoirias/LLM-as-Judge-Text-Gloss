@@ -1,0 +1,141 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A ORDEM BÁSICA DA FRASE ===
+=== TRECHO: páginas 138-147 (parte 4 de 5 do mesmo tópico) ===
+
+[p.138]
+142     QUADROS & KARNOPP
+Comparando as construções com as marcas não-manuais e as constru-
+ções sem estas marcas, conclui-se que alguma coisa associada a estas marcas
+é o que permite a movimentação dos constituintes na língua de sinais brasilei-
+ra. Se não houver tais traços particulares, as construções são consideradas
+agramaticais. No entanto, na ordem SVO tais marcas não são imprescindíveis.
+Assim, parece que de fato esta ordem é a mais básica.
+(iii) Apesar de ocorrerem construções SOV e OSV associadas a marcas
+não-manuais, se houver uma estrutura complexa na posição de obje-
+to, não será possível mudar o objeto de ordem:
+EU ACHAR [ IP MARIAa <aIR-EMBORAloc>do].
+Eu acho que a Maria foi embora
+*I [IP MARIAa aIR-EMBORA] ACHAR
+As construções ilustradas evidenciam que a ordem SOV não pode ser deri-
+vada quando o objeto é uma oração subordinada, diferente de uma oração
+simples do tipo JOÃO [FUTEBOL] <GOSTAR>f e MARIA [LIVRO] <aDARb>do
+associadas às respectivas marcas não-manuais. Os exemplos evidenciam que a
+
+[p.139]
+LÍNGUA DE SINAIS BRASILEIRA     143
+ordem SOV apresenta mais uma restrição. Isso pode indicar mais uma vez que a
+ordem SVO é a ordem mais básica na língua de sinais brasileira.
+(iv) Os advérbios temporais e de freqüência não podem interromper uma
+relação entre o verbo e o objeto: [VP[V NP]]. Isso é considerado
+mais um argumento para conceber a ordem SVO como básica na
+língua de sinais brasileira.
+*JOÃO COMPRAR ONTEM CARRO
+Ontem João comprou um carro
+*EU BEBER ALGUMAS-VEZES LEITE
+Algumas vezes eu bebo leite
+Quadros (1999) assume que a posição desses advérbios varia. Os advér-
+bios temporais podem estar antes ou depois da oração (IP (AgrP)). E os advér-
+bios de freqüência podem estar antes ou depois do complemento verbal (VP)
+(como ilustrado através dos exemplos a seguir, respectivamente).
+EU QUERER MARIA TRABALHAR MELHOR
+Eu quero que a Maria trabalhe melhor
+*EU MARIA TRABALHAR MELHOR QUERER
+
+[p.140]
+144     QUADROS & KARNOPP
+JOÃO COMPRAR CARRO AMANHÃ
+AMANHÃ JOÃO COMPRAR CARRO
+*JOÃO COMPRAR AMANHÃ CARRO
+João vai comprar o carro amanhã
+
+[p.141]
+LÍNGUA DE SINAIS BRASILEIRA     145
+EU ALGUMAS-VEZES BEBO LEITE
+EU BEBO LEITE ALGUMAS-VEZES
+
+[p.142]
+146     QUADROS & KARNOPP
+(v)Através da topicalização muda-se a ordem das frases.
+Uma explicação plausível para a “aparente flexibilidade da ordem da fra-
+se” na língua de sinais brasileira está relacionada ao mecanismo gramatical da
+topicalização. Esse mecanismo está associado à marcação não-manual com a
+elevação das sobrancelhas, conforme ilustrado no início deste capítulo. A marca
+de tópico associada ao sinal topicalizado é seguida por outras marcas não-
+manuais, de acordo com o tipo de construção. Ou seja, pode ser seguido por
+uma marca não-manual de foco (se a sentença for focalizada), de negação (se
+for negativa), interrogativa (se for interrogativa).
+Os exemplos a seguir ilustram tais casos:
+8Foram utilizados pontos de interrogação na frente desta sentença, pois ela parece ser
+muito estranha aos surdos, mas pode aparecer em alguns contextos lingüísticos. Assume-
+se que sintaticamente ela não é gerada, mas que por questões fonológicas no contexto
+lingüístico bastante específico ela pode acabar sendo gerada.
+?? ALGUMAS-VEZES EU BEBO LEITE 8
+Algumas vezes eu bebo leite
+
+[p.143]
+LÍNGUA DE SINAIS BRASILEIRA     147
+<FUTEBOL>t <JOÃO GOSTAR NÃO>n
+De futebol, o João não gosta
+<FUTEBOL>t <JOÃO GOSTAR>mc
+De futebol, João gosta
+<FUTEBOL>t <JOÃO GOSTAR>sn
+De futebol, o João gosta?
+
+[p.144]
+148     QUADROS & KARNOPP
+A ordem dessas construções foi alterada pela presença do tópico. O tópi-
+co é o tema do discurso que apresenta uma ênfase especial posicionado no
+início da frase e seguido de comentários a respeito desse tema. Esse recurso
+gramatical é muito comum na língua de sinais brasileira.
+A marca de tópico delimita as fronteiras da topicalização na língua de
+sinais brasileira: somente tópicos são associados com a marca não-manual, ou
+seja, essa marca não pode se espalhar sobre a sentença. O que está associado
+ao status da topicalização é uma adjunção quando inserida na construção.
+9
+Tal restrição é observada a seguir:
+<*FUTEBOL, JOÃO GOSTA>t
+<BOLA-FUTEBOL>t, <ONDE O JOÃO PEGAR>qu
+Esta bola de futebol, onde o João pegou?
+9Isto pode levar a uma generalização na língua de sinais brasileira quanto à distribuição de
+marcadores não-manuais: posições adjuntas associadas a marcas não-manuais não se es-
+palham sobre a sentença. Por outro lado, esta não é uma propriedade observada nas pro-
+jeções nucleares. Há alguns exemplos que ilustram o espalhamento da marcação não-
+manual sobre todo o seu escopo, ou seja, sobre o seu escopo de c-comando (ver exemplos
+de interrogativas e negativas).
+
+[p.145]
+LÍNGUA DE SINAIS BRASILEIRA     149
+A posição de tópico é a mais alta da sentença, ou seja, acima de CP
+(Complement Phrase). As derivações interrogativas associadas com a estrutu-
+ra de tópico evidenciam a hierarquia entre o tópico e a interrogativa através
+das marcas não-manuais. Nessas construções, o tópico sempre será produzido
+associado à marca não-manual correspondente, seguido pela marca não-ma-
+nual associada à interrogativa. Jamais será possível incluir o tópico dentro do
+escopo da interrogativa:
+<CARRO>t <QUAL DELE?>qu
+Qual é o carro dele?
+*<<CARRO QUAL TEU?>qu>t
+Na língua de sinais brasileira, os tópicos normalmente estão associados
+com posições argumentais; por exemplo, é possível topicalizar o objeto e/ou o
+sujeito de uma oração. Mas é possível também gerar um tópico sem este estar
+ligado a qualquer posição argumental (exemplos a seguir).
+<[FRANÇA]i>t <EU VOU ti>mc
+(apenas o objeto topicalizado)
+
+[p.146]
+150     QUADROS & KARNOPP
+Neste último caso, há uma relação semântica entre o tópico e o argumen-
+to dentro da oração (IP). Há uma análise sintática para esse caso que sugere
+haver uma “cópia” completa do elemento topicalizado, uma construção muito
+comum na língua de sinais brasileira.
+Assim, tais construções sempre podem ter, além do tópico, uma cópia desse
+tópico ou um pronome co-referencial a esse tópico, como nas ilustrações a seguir.
+<[EU] j>t <[FRANÇA]i>t tj <VOU ti>mc
+(sujeito e objeto topicalizados)
+<ANIMAIS>, EU GOSTO GATO
+(tópico gerado na base)
+
+[p.147]
+LÍNGUA DE SINAIS BRASILEIRA     151
+<MARIA>t  JOÃO GOSTA ELA
+<FUTEBOL>t JOÃO GOSTAR FUTEBOL

@@ -1,0 +1,88 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: ORDEM SIM COM RESTRIÇÕES ===
+=== TRECHO: páginas 161-165 (parte 2 de 2 do mesmo tópico) ===
+
+[p.161]
+LÍNGUA DE SINAIS BRASILEIRA     165
+Na língua de sinais brasileira, a omissão sem o auxiliar não é permitida:
+<JOÃOa>do <MARIAb>do <aAUXb>do <[GOSTAR] i <bAUXa>do TAMBÉM [e] i>
+João gosta da Maria e ela também
+*<aMARIA>do <bJOÃO>do <aAUXb>do <[GOSTAR] i,>mc
+<bJOÃO>do <TAMBÉM [e] I >mc
+aJOÃO GOSTAR bMARIA, <bAUXa>do <TAMBÉM>mc
+João gosta da Maria e (ela) também
+*JOÃO GOSTAR MARIA, MARIA <TAMBÉM>mc
+João gosta da Maria e Maria também
+
+[p.162]
+166     QUADROS & KARNOPP
+Os fatos evidenciam que o comportamento dos verbos sem concordância
+é similar ao dos verbos principais em inglês. Observou-se também que os ver-
+bos com concordância apresentam um comportamento diferenciado análogo
+ao dos verbos auxiliares em inglês e verbos principais no francês e no sueco,
+conforme as análises a seguir indicam.
+(i) Esses verbos precedem a negação quando eles apresentam traços
+“fortes” e seguem a negação quando têm traços “fracos” (o primei-
+ro caso é observado no inglês e no francês: John has no idea about
+the game  e Jean (n’)aime pas Marie; o segundo caso é observado
+no sueco: …, om hon inte ofta har sett honnom ).
+14 Na língua de
+sinais brasileira observa-se esse comportamento com os verbos
+contendo concordância:
+14As glosas para os exemplos do francês e do sueco respectivamente são: João gosta não
+Maria…, uma vez que ela não freqüentemente tem visto ele .
+JOÃOa <NÃO <aDARb>do LIVRO MARIAb >n
+João não deu o livro para a Maria
+
+[p.163]
+LÍNGUA DE SINAIS BRASILEIRA     167
+(ii) V erbos como have e be no inglês não necessitam de do-support (John
+has no idea about the game results) . Considerando o AUX na língua
+de sinais brasileira como algo semelhante ao do-support, observa-se
+a mesma distribuição:
+*JOÃOa <MARIAb aAUXb aENCONTRARb>do
+* <MARIAb>do <JOÃOa aAUXb aTELEFONARb>
+(iii) Os verbos do francês precedem advérbios adjungidos à esquerda de
+VP (Jean embrasse souvent Marie).15
+Na língua de sinais, os traços são “fracos”. Assim, essa característica não
+é observada.
+(iv) V erbos como have e be no inglês não podem ser omitidos de senten-
+ças complexas porque não há identidade entre o verbo da oração
+principal e o verbo omitido da oração subordinada (*John is here,
+and Mary will too). No entanto, tais verbos podem ser omitidos caso
+haja alguma coisa que garanta a identidade entre o verbo e seu
+antecedente (John will be here, and Mary will be
+ too). Esses fatos
+também são observados na língua de sinais brasileira, como ilus-
+tram os seguintes exemplos:
+JOÃOa <NÃO <bCARREGAR-CAIXAc>do>n
+João não carregou a caixa (daqui para lá)
+15As glosas para o exemplo em francês são: João beijou freqüentemente Maria .
+
+[p.164]
+168     QUADROS & KARNOPP
+MARIA PODER [<(a)ENTREGAR(b)>do LIVRO] i, EU <TAMBÉM>mc <PODER [e] i>mc+
+Maria pode entregar o livro (a ele), eu também posso
+MARIA QUERER [<(a)ENTREGAR(b)>do LIVRO] i, EU <TAMBÉM>mc <QUERER [e] i>
+Maria quer entregar (a ele) o livro, eu também quero
+*MARIA <aENTREGARb>do LIVRO, EU <TAMBÉM>mc <QUERER>mc+
+
+[p.165]
+LÍNGUA DE SINAIS BRASILEIRA     169
+Há evidências suficientes para assumir que os verbos sem concordân-
+cia apresentam uma operação fonológica de afixação de sua desinência
+verbal durante o processo da derivação (assim como proposto por Lasnik
+(1995) para os verbos principais em inglês), enquanto os verbos com con-
+cordância seriam inseridos totalmente flexionados no processo de deriva-
+ção (como nos verbos auxiliares no inglês). Baseados nessas análises, pro-
+põe-se a seguinte representação da estrutura da frase para a língua de
+sinais brasileira:
+16
+Estrutura da frase com verbos sem concordância
+16Esta análise compreende a primeira parte do estudo realizado por Quadros (1999). A
+autora também considerou o parâmetro de concordância proposto por Bobaljik (1995):
+línguas com concordância livre apresentam a divisão de IP em AgrSP , InflP e AgrOP e
+línguas com concordância não-livre apresentam apenas IP na estrutura projetada. As aná-
+lises de Quadros (1999) indicam que as sentenças com verbos com concordância fixam o
+parâmetro de concordância livre e as sentenças com verbos sem concordância fixam o
+parâmetro de concordância não-livre.

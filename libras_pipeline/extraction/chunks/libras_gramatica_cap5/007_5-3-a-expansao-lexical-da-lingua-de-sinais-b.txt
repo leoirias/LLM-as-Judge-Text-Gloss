@@ -1,0 +1,107 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.3. A expansão lexical da Língua de Sinais brasileira ===
+=== TRECHO: páginas 193-195 (2 tópicos consecutivos) ===
+
+[p.193]
+194
+5.3. A expansão lexical da Língua de Sinais brasileira
+ Aline Lemos Pizzio, Débora Wanderley, Guilherme Lourenço, Sandra  
+Patrícia Faria-Nascimento
+Diariamente, novos sinais são criados. “As Línguas de Sinais surgem e res-
+surgem nas comunidades a partir do contato com outras Línguas de Sinais e com 
+sistemas caseiros de sinais emergentes” (QUADROS, 2019. p. 63). Os sinais pos-
+suem estruturas complexas a serem descritas; são constituídos de várias partes, 
+de vários elementos, de vários componentes e pertencem a categorias lexicais ou a 
+classes de palavras, tais como nome, adjetivo, advérbio etc. Há sinais compostos, 
+derivados e flexionados. Além disso, há sinais lexicais, prosódicos e gramaticais.
+A morfologia investiga a composição, a derivação e a flexão. A composição 
+e a derivação dedicam-se ao estudo da formação de diferentes palavras com uma 
+mesma base lexical e a flexão investiga os processos que acrescentam informação 
+gramatical a palavras que já existem.
+A composição, a derivação e a flexão são atestadas em muitas Línguas de 
+Sinais. Isso significa que os processos produtivos internos dos sinais para formar 
+novos lexemas e para marcar relações sintáticas entre os sinais são robustos nas 
+Línguas de Sinais. (SANDLER; LILLO-MARTIN, 2009, p.21)
+  
+5.4. Formação de sinais nas Línguas de Sinais
+Aline Lemos Pizzio, Débora Wanderley, Guilherme Lourenço, Sandra Pa-
+trícia Faria-Nascimento
+5.4.1. Morfologia concatenativa
+A morfologia concatenativa lida com a formação de novos itens lexicais co-
+locando pelo menos dois morfemas distintos juntos. A concatenação de morfemas 
+– entre os quais, afixos –  acarreta processo de gramaticalização de uma Língua de 
+Sinais (Cf. QUADROS, 2019, p.62, 65).
+Processos concatenativos combinam vários elementos que compõem um 
+sinal, tanto por processo de aglutinação, quanto por processos de incorporação de 
+diferentes elementos dentro dos sinais (QUADROS; KARNOPP, 2004, p. 86, 95).
+5.4.2. Morfologia simultânea e sequencial
+Segundo Quadros (2019, p.62, 65), as construções morfológicas se-
+quenciais têm produtividade frequentemente limitada; são variáveis entre os 
+sinalizantes, com variação individual considerável e menos semanticamente coe-
+rente; enquanto as construções morfológicas simultâneas sinalizam a flexão 
+morfológica em Libras, que traz como resultado: a flexão de concordância; a flexão 
+aspectual; a flexão de número, tamanho, forma e manipulação; são produtivas,
+
+[p.194]
+195
+estáveis entre os sinalizantes e semanticamente coerentes. Uma das formas de 
+representação dessa simultaneidade é a sobreposição de um movimento a outro 
+movimento predeterminado.
+Tradicionalmente, a morfologia sequencial é considerada derivacional, 
+simples, linear e afixal, enquanto a morfologia simultânea é considerada fle-
+xional e consiste na sobreposição da estrutura morfológica da unidade canônica 
+locação-movimento-locação, simultaneamente, ou seja, os morfemas seriam pro-
+duzidos ao mesmo tempo, sobrepostos uns aos outros.
+Aronoff, Meir e Sandler (2005) apresentam a morfologia flexional si-
+multânea como constituidora da modalidade e de sua transmissão, visual-espa-
+cial, muitas vezes com motivação icônica; uma morfologia altamente complexa, 
+diretamente estruturada a partir de sua modalidade.
+A Língua de Sinais brasileira parece comportar-se diferentemente dessa 
+concepção tradicional, uma vez que, nela, a sequencialidade e a simultaneidade 
+não parecem se prender ao rótulo proposto nos estudos seminais sobre o tema. 
+Processos flexionais manifestos fazem uso de morfologia sequencial, como é o caso 
+da pluralização exemplificada em (55) CASA+++. A produção repetida sequencial 
+de morfemas livres CASA manifesta uma flexão consecutiva.
+(55) CASA+++ (casas)
+Também há processos derivacionais que fazem uso de morfologia simul -
+tânea (ex. nomes derivados). Nesse escopo, quebram a concepção tradicional o 
+sinal de “composição”, em Libras, constituído pela derivação simultânea, por um 
+processo de justaposição de duas vezes o sinal (51) PALAVRA, que equivale a (56) 
+PALAVRA^PALAVRA (composição), sendo os dois sinais articulados, um  por 
+cada uma das mãos. 
+https://youtu.be/sA6bZwkxvvw
+
+[p.195]
+196
+(56) PALAVRA^PALAVRA (composição)
+Assim, em Língua de Sinais brasileira, tanto a flexão quanto a derivação 
+encontram-se manifestas em processos morfológicos sequenciais e simultâneos.
+Nesta seção vamos nos deter ao estudo dos processos de formação de sinais 
+em Língua de Sinais brasileira, os quais compreendem a derivação e a composição. 
+A morfologia composicional é, para alguns pesquisadores, considerada como um 
+processo derivacional, enquanto, para outros, é um processo que ocorre indepen-
+dente da derivação, portanto, não sendo um processo derivacional. Para este estudo, 
+entretanto, a composição apresenta-se em um tópico independente do da derivação, 
+mas sem tomar uma posição, considerando que os processos composicionais, assim 
+como os processos derivacionais, têm em comum o fato de constituírem novas 
+unidades lexicais, o que agrava a polêmica entre a composição ser um processo 
+autônomo ou ser um processo subjacente à derivação.
+5.4.3 Composição em Língua de Sinais brasileira
+A composição é um processo morfológico que combina sinais/radicais (mor-
+femas livres) para formar novo item morfologicamente complexo, que envolve 
+núcleos, aglutinações e supressões; misturas e recortes, segundo Bal-El (2006).
+Sob o olhar de Klima e Bellugi (1979), Bellugi e Newkirk (1981) e Wallin 
+(1983), a composição é um dos processos de formação de palavras mais amplamente 
+difundidos; é dos processos mais produtivos de construção de palavras em novos 
+idiomas e dos mais comuns em ASL e outras Línguas de Sinais, como a brasileira. A 
+composição se realiza como um processo sequencial, no qual núcleos são acionados.
+Quadros e Karnopp (2004, p.102) definem a composição como
+um processo autônomo no qual se juntam duas bases 
+preexistentes na língua para criar um novo vocábulo, dito 
+composto [...] é um processo de formação de palavras que 
+utiliza estruturas sintáticas para fins de criação lexical. 
+[...] Os processos de composição permitem a nomeação 
+ou caracterização de seres pela junção de dois elementos 
+semânticos, de existências independentes no léxico, em 
+apenas um elemento lexical. 
+https://youtu.be/VYqmBjWHvOc

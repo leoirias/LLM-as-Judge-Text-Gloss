@@ -1,0 +1,110 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.1.1 Distinção nome vs. verbo na Libras ===
+=== TRECHO: páginas 19-22 (parte 1 de 2 do mesmo tópico) ===
+
+[p.19]
+20
+7.1.1 Distinção nome vs. verbo na Libras
+Há um longo debate na Literatura de Linguística de Línguas de Sinais (LS) 
+sobre se haveria, de fato, uma distinção entre Nomes-Verbos (N-V) nas LS; ou 
+ainda sobre quais seriam as diferenças perceptíveis entre as classes de palavras 
+em LS (SUPALLA e NEWPORT, 1977; PIZZUTO e CORAZZA, 1996; JOHNSTON, 
+2001; ABNER, 2017). 
+Em Língua Portuguesa, sabemos que uma palavra é um nome, em alguns 
+casos, por conta de uma morfologia nominalizadora, por exemplo, o afixo - ção 
+em ‘tradução’. Nas LS, esses componentes gramaticais do tipo afixo nem sempre 
+são encontrados; por isso, alguns autores discutem sobre quais critérios deveriam 
+ser adotados para se estabelecer diferenças entre as classes de palavras dos sinais 
+(SCHWAGER e ZESHAN, 2008)1. 
+Schwager e Zeshan (2008) e Abner (2017) reiteram que a despeito das es -
+pecificidades que possuem as Línguas de Sinais, por exemplo, o fato de serem 
+externalizadas na modalidade gesto-visual, os efeitos específicos da modalidade 
+não se sobrepõem às restrições impostas para todas as línguas humanas, como o 
+fato de que todas as línguas distinguem minimamente entre categorias lexicais e 
+funcionais.
+No trabalho seminal de Newport e Supalla (1978) "How many seats in a 
+chair? (Quantos ‘sentadas’ em uma cadeira? grifo meu)”, os autores investigam 
+se haveria alguma distinção morfológica entre nomes e verbos em ASL. Eles afir-
+maram, à época, que havia uma ‘tendência’ de que o sinal com movimento único 
+e longo fosse o verbo e que, a partir deste, com a realização de um movimento 
+repetitivo e mais curto poderia se derivar a sua contraparte nominal, como no 
+exemplo abaixo na figura 1.
+Figura 1:  O par verbo-nome em ASL.
+Fonte: (NEWPORT e SUPALLA, 1978, p. 102), tradução minha. 
+1 Discutem ainda, se as Línguas de Sinais emergentes, aquelas LS jovens que se encontram 
+em contextos de isolamento e que se desenvolvem sem a influência de outra LS, diferem das 
+Línguas de Sinais dos centros urbanos no que se refere a essa distinção. As primeiras não 
+teriam uma morfologia nominalizadora, por exemplo, a reduplicação do sinal, mas essas 
+últimas, sim. (TKACHMAN e SANDLER, 2013).
+
+[p.20]
+21
+Portanto, a redução do movimento e a reduplicação do sinal seriam como o 
+afixo -ção em Língua Portuguesa e estariam relacionados com a estratégia de no-
+minalização nas LS, embora essas estratégias não funcionem de maneira uniforme 
+para todas as LS (ABNER, 2020). 
+A Libras (PIZZIO, 2011), a Língua de Sinais turca – TID (KUBUS, 2008), 
+a Língua de Sinais holandesa – NGT (SCHREURS, 2006) e a Língua de Sinais 
+australiana – AUSLAN (JOHNSTON, 2001), por exemplo, parecem ignorar essa 
+distinção, pois somente em alguns pares de nomesisso pode ser observado.
+Nos dados de Almeida-Silva (2019), o autor atesta que mesmo sem uma 
+distinção morfológica de movimento entre o nome e o verbo na Libras, a língua 
+distinguiria sintaticamente os verbos de suas contrapartes nominais, quando esses 
+estão na posição de argumentos, como podemos ver nos exemplos (1) a seguir:
+Exemplo (1)
+Fonte: Almeida-Silva (2019, p.101).
+Enquanto que em (1a) e (1c) os sinais ‘OUVIR’ e ‘SURDO’ se encontram em 
+função nominal, pois preenchem os requerimentos argumentais do verbo “temer” 
+e de “prejudicar”, já nas sentenças (1b) e (1d), esses  mesmos sinais, sem nenhuma 
+modificação morfológica adicional, são encontrados em função verbal, pois agora, 
+no primeiro caso em (1b),  está sendo usado como um verbo pleno ‘OUVIR’ que tem 
+por argumento externo (sujeito) o pronome ‘ele’; e em (1d), seguindo o pronome, 
+o mesmo item ‘SURDO’, agora, tem função adjetival em uma sentença estativa, ou 
+seja, como um predicado nominal (predicativo do sujeito).
+
+[p.21]
+22
+No Corpus da Libras da UFSC encontramos ocorrências em dados espon -
+tâneos que confirmam a descrição feita acima, como nos exemplos abaixo em (2), 
+em que o item SURDO ocorre preenchendo as exigências argumentais do verbo 
+‘VER’; por isso, em função nominal. Já em (3), o mesmo item agora aparece com 
+função verbal.
+Exemplo (2)
+                          (2) 
+                                  POR-QUE              VOVÔ      FALAR              ANTERIORMENTE
+                             1 SURDO                                                 VER                 
+                     OUTRO                  TER-NÃO          PRIMEIRO            PAI                                ELE  
+POR-QUE VOVÔ FALAR ANTERIORMENTE 
+1 SURDO VER OUTRO TER-NÃO PRIMEIRO 
+PAI ELE  
+‘Minha avó me contou que antigamente – não 
+havia surdos na região, o primeiro foi meu pai.’
+https://youtu.be/WRw9k9Y-CjE
+
+[p.22]
+23
+Exemplo (3)
+ELE                     VOVO                                SURDO                                          OUVINTE
+ELE VOVO SURDO OUVINTE
+‘Seu avó é surda ou ouvinte?’
+Observe também que nos exemplos em (3) acima, marcas não manuais 
+(MNM) se espraiam sobre os constituintes nominais e verbais para ajudar a distin-
+gui-los. A MNM que se espraia sobre o sintagma nominal sujeito nos exemplos em (1 
+b e d) é a elevação das sobrancelhas junto com a projeção do queixo para frente, se-
+melhante à MNM de tópico em (1a); já a MNM que se espraia sobre sintagma verbal 
+é a inclinação da cabeça para baixo como numa sentença declarativa afirmativa2. 
+Essas MNM são semelhantes às que são atestadas na Língua Italiana de 
+Sinais –LIS, no exemplo abaixo, em (4). Observe que em (4a), a MNM do verbo 
+se espraia sobre o sinal ANTIQUE (antigo), atribuindo-o uma função verbal de 
+predicativo do sujeito, semelhante àquela em (1d), mas em (4b), esse mesmo sinal 
+se encontra dentro do escopo de espraiamento da MNM do nome (DP, do Inglês, 
+sintagma nominal acompanhado de determinante), e por isso, no exemplo em (4b), 
+o mesmo sinal ANTIQUE atua sintaticamente como um adjetivo modificador, pois 
+se encontra dentro de um sintagma nominal. Ainda nesse exemplo, a MNM do 
+verbo (VP) se espraia somente sobre o verbo da sentença, que é BROKE (quebrar), 
+demarcando os limites entre o sintagma nominal e o sintagma verbal.
+2 Aqui, não nos comprometeremos com uma descrição das características faciais das MNMs, 
+mas nos detemos em demonstrar como os limites entre os constituintes sintáticos são de -
+marcados prosodicamente com o auxílio das MNMs, que incluem além de movimentos 
+faciais, também os movimentos corporais.  
+https://youtu.be/LXtcTDKYDsE

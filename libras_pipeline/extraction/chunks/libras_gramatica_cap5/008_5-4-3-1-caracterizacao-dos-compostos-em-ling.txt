@@ -1,0 +1,46 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.4.3.1 Caracterização dos compostos em Língua de Sinais ===
+=== TRECHO: páginas 196-197 ===
+
+[p.196]
+197
+Assim, os sinais compostos são unidades complexas, constituídas de mais 
+de um morfema. (QUADROS; KARNOPP, 2004, p.86).
+Segundo Quer et al. (2019), os componentes de um composto em Línguas de 
+Sinais são expressos por articuladores manuais. As partes de um composto podem 
+ter, cada uma, um status categorial diferente e podem interagir de várias maneiras 
+para produzir o significado do composto.
+5.4.3.1 Caracterização dos compostos em Língua de Sinais
+ 
+Lidell (1984) apresenta três regras morfológicas para a criação de compostos 
+na ASL: regra de contato, regra de sequência única e regra da antecipação da mão 
+dominante, conforme explicitado a seguir.
+ 
+1 - Regra do contato:  Em compostos, o primeiro, o segundo ou o único 
+contato é mantido. Se um sinal composto apresenta contato no primeiro ou no 
+segundo sinal, o contato pode permanecer nos dois sinais que formam o composto 
+ou em apenas um deles, como em (57):
+(57) SABER + ESTUDAR (acreditar)
+2 - Regra da sequência única: Em compostos, o movimento interno ou 
+a repetição do movimento é eliminada, como em (58) SÁBADO^DOMINGO (fim 
+de semana), em que a repetição de movimento interno do sinal (59) SÁBADO foi 
+eliminado:
+   
+https://youtu.be/BARh76LBxi8
+
+[p.197]
+198
+               (58)  SÁBADO^DOMINGO (fim de semana)        (59) SÁBADO        
+3 - Regra da antecipação da mão não dominante: Quando dois sinais 
+são combinados para formar um composto, a mão passiva do sinalizante antecipa 
+o segundo sinal no processo de composição. Essa regra representa compostos por 
+justaposição com dois núcleos – compostos por coordenação. Nestes sinais, a mão 
+não dominante aparece no espaço neutro, em frente ao corpo do sinalizante, an -
+tecipando sua configuração de mão que envolve o sinal composto, como em  (60)  
+BOA^NOITE (BOA NOITE) e (61) CARRO^BATER (ACIDENTE):
+(60) BOA^NOITE (boa noite)
+ (61) CARRO^BATER (acidente)
+https://youtu.be/aEXNBywE428 
+https://youtu.be/W7XasmK35eQ 
+https://youtu.be/ajESSfAFu9Q 
+ https://youtu.be/PvOCw_yb_lA

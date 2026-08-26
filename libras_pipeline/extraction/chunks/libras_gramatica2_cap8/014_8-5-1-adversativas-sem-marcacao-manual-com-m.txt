@@ -1,0 +1,100 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.5.1 Adversativas sem marcação manual, com marcações não manuais ===
+=== TRECHO: páginas 148-150 ===
+
+[p.148]
+149
+(26) Parataxe conjuntiva MAS1.
+    
+VERDADE             LADO               SALÁRIO              E (pouco) MAS1           ESFORÇAR
+VERDADE LADO, SALÁRIO E (pouco), MAS1 
+ESFORÇAR
+Na verdade, na instituição o salário pago  
+era baixo, mas (o intérprete) se esforçava  
+(mesmo assim).
+Os autores que analisaram construções coordenadas em outras Línguas de 
+Sinais apontam para casos ambíguos que são, às vezes, difíceis de serem classifi-
+cados em uma ou outra categoria (por exemplo, TANG e LAU 2012), especialmen-
+te quando estamos analisando dados em uso, que é o nosso caso. As marcações 
+não manuais que compreendem pistas prosódicas ou marcadores não manuais 
+gramaticalizados são decisivos nas análises. Esses marcadores sempre ocorrem 
+simultaneamente com as marcações manuais.
+8.5.1 Adversativas sem marcação manual, com marcações  
+não manuais
+As unidades oracionais complexas paratáticas adversativas indicam uma 
+oposição ou contraste da oração precedente com a oração introduzida pelo mar-
+cador não manual.  Os marcadores manuais ‘MAS1’, ‘MAS2’, ‘PALM-UP’ e ‘MAS-
+-NÃO-É’ estão associados com as respectivas marcações não manuais que podem 
+aparecer sem estes marcadores manuais. Portanto, os marcadores manuais não 
+são obrigatórios e os marcadores não manuais parecem estar gramaticalizados, 
+pois efetivamente compreendem a marcação paratática adversativa.
+Nos dados analisados do Corpus de Libras, Rodrigues (2020) observa que 
+77% (113 ocorrências) de orações adversativas coocorrem com mouthing ‘mas’ ou 
+‘m’, correlacionado muitas vezes a outros MNM, como franzimento ou arquea -
+mento das sobrancelhas. O arqueamento de sobrancelhas, todavia, é o MNM mais 
+frequentemente associado à produção de orações adversativas, correspondendo a 
+68,5% (100 ocorrências).
+https://youtu.be/EccuGYhfLaU
+
+[p.149]
+150
+Segundo Sandler (2010), a prosódia em LS é marcada pela articulação das 
+mãos, face (sobrancelha, olho e boca) e corpo. Desse modo, há uma forte relação 
+entre o uso de MNM, como elementos prosódicos, e sintaxe nas línguas de sinais. 
+Coulter (1978), por seu turno, associa o uso de expressões faciais à estrutura in -
+formacional. O autor relaciona especialmente o arqueamento de sobrancelhas a 
+alterações prosódicas, como aumento da entonação em perguntas, nas línguas orais. 
+O arqueamento de sobrancelhas também é associado à introdução de informações 
+novas, como em construções de tópico.
+Considerando o alto índice de arqueamento de sobrancelhas nos dados de 
+Rodrigues (2020), compreendemos que sua associação às orações adversativas 
+está relacionada ao fato de que o segundo conjunto na oração adversativa veicu -
+la, como previsto em Bally (1965) e discutido em Longhin-Thomazi e Rodrigues 
+(2011), informações remáticas salientes, que se contrastam, em algum nível, com 
+a informação apresentada no primeiro conjunto.
+ Nas nossas análises, a primeira marca não manual apresentada envolve a 
+elevação das sobrancelhas marcando uma quebra prosódica entre a oração ante -
+cedente e a oração seguinte, normalmente associada com movimento da cabeça, 
+conforme ilustrado no exemplo (26).
+ 
+(27) Parataxe adversativa com marcações não manuais de elevação das sobrancelhas  
+indicando a quebra prosódica entre as orações coordenadas.
+           
+DV (escrever-quadro   EU                  COPIAR         SIGNIFICAR          LER                       EU 
+ENTENTER-NÃO
+DV (escrever-quadro) EU COPIAR+ [SIGNIFICAR 
+LER] adversativa EU ENTENTER NÃO
+Eu copiava o que estava escrito no quadro, mas o 
+significado do que estava lendo, eu não entendia.
+https://youtu.be/ymi1dsiOXLY
+
+[p.150]
+151
+Essa unidade oracional apresenta três orações. A primeira, DV (escrever -
+-quadro) EU COPIAR+, na qual ele apresenta sobre o que está discutindo, o evento 
+de copiar do quadro o que era escrito. Daí ele marca a adversativa por meio da 
+sobrancelha elevada, [SIGNIFICAR LER], que indica ao que ele vai contrastar, 
+ou seja, o significado da leitura, então informa o contraste na terceira oração, EU 
+ENTENDER NÃO, não entendia. Claramente a marcação por meio da elevação 
+da sobrancelha indica a oração adversativa por si mesma, sem necessidade de 
+haver um marcador manual. Na composição não manual, o direcionamento do 
+olhar para o sinal produzido pelas mãos é destacado e auxilia na identificação do 
+contraste marcado.
+(28) Parataxe adversativa com marcações não manuais de rebaixamento das sobrancelhas indican-
+do a quebra prosódica entre as orações coordenadas.
+     E (positivo) DV (modalidade) FLUENTE         MARAVILHA [DV (cabeça-negação)
+E(positivo) DV (modalidade) [FLUENTE 
+MARAVILHA] adversativa 
+[DV (cabeça-negação)] adversativa
+Eu ia e vinha (na escola), mas quanto à 
+fluência da Língua de Sinais dos professores, 
+não tinham fluência não. 
+Nesse exemplo, há três orações na unidade oracional: a primeira, IX (eu) 
+DV (modalidade), em que o sinalizante refere às suas idas e vindas na escola; a 
+segunda oração que marca a oração adversativa, [FLUENTE MARAVILHA], mas 
+os professores serem fluentes, em que marca a oração adversativa, [DV (cabeça -
+-negação)], em que está sinalizada a negação da oração anterior. Do ponto de vista 
+semântico, está posto o contraste entre uma e outra oração devidamente marcada 
+pelas sobrancelhas rebaixadas e marcada pelo contraste implicado por meio da 
+marcação da negação por meio do movimento da cabeça.
+https://youtu.be/7BoPpbEyRc0

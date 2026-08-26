@@ -1,0 +1,46 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.13 TEMPORAIS ===
+=== TRECHO: páginas 229-229 (parte 3 de 3 do mesmo tópico) ===
+
+[p.229]
+230
+Há uma dependência completa entre a oração encaixada e a oração núcleo. 
+Há, portanto, o encaixamento. A oração dependente faz parte da estrutura argumen-
+tal da oração principal. Nesse sentido, a oração encaixada é obrigatória, diferente 
+da oração hipotática, que faz parte do discurso, mas não faz parte da estrutura 
+sintática da oração principal.  
+As orações encaixadas podem funcionar como um argumento (orações en-
+caixadas substantivas), ou como um modificador (orações encaixadas adjetivas 
+restritivas). Discute-se, nessa seção, as sentenças encaixadas, em particular, as 
+sentenças encaixadas subjetivas, com função de sujeito oracional; as encaixadas ob-
+jetivas, com função de oracional; e, por fim, as relativas restritivas, que especificam 
+um determinado sintagma da oração. Lehman (1988, p. 2) conceitua encaixamento 
+como “a dependência de um sintagma subordinado”.  
+As orações encaixadas substantivas são sentenças que desempenham a mes-
+ma função de um substantivo dentro da oração principal, ocupando a posição sin-
+tática equivalente a um sintagma nominal. Em termos funcionais, correspondem 
+ao argumento de um predicado. No caso de sujeito oracional, haveria um verbo de 
+estado que predica uma oração, ou seja, uma oração matriz predica uma oração 
+com função de sujeito. No caso de objeto oracional, a oração principal predica uma 
+outra oração com função de objeto.
+Em relação às adjetivas restritivas, um determinado sintagma de uma sen-
+tença é modificado por outra sentença encaixada, a qual se torna indispensável, 
+pois o significado de um determinado termo da sentença nuclear é constituído ou 
+definido pela sentença encaixada. Assim, Halliday (2004) define encaixamento 
+de seguinte forma:
+Encaixamento é um mecanismo semogênico pelo qual uma 
+sentença ou um sintagma passa a funcionar como um cons-
+tituinte dentro da estrutura de um grupo, o qual é um cons-
+tituinte de uma sentença, por exemplo, que veio jantar em 
+o homem que veio jantar. Consequentemente, não há uma 
+relação direta entre uma sentença encaixada e a sentença 
+na qual ela está encaixada; a relação de uma sentença en-
+caixada para com a sentença “externa” é indireta, com um 
+grupo como intermediário. A oração encaixada funciona 
+na estrutura de um grupo e o grupo funciona na estrutura 
+da sentença. (HALLIDAY, 2004, p. 491).
+Dessa forma, as sentenças encaixadas do tipo adjetivas restritivas modificam 
+um sintagma nominal de uma sentença, especificando ou explicando o sentido 
+desse núcleo nominal ou, em alguns casos, uma sentença. 
+Foram analisadas orações encaixadas dentre as 855 unidades oracionais com-
+plexas entre 12 participantes do grupo de Surdos de Referência, conforme tabela 3:

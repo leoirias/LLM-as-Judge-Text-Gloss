@@ -1,0 +1,108 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"TANIA.PERGUNTA.1"
+],
+"problema": "O item-QU (QUANDO) deve estar no início da frase (Spec CP) ou no final (foco), não no meio entre o verbo e o sujeito.",
+"sugestao": "QUANDO DOR COMEÇAR"
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.SINTAXE.1"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.SINTAXE.2",
+"LIBRAS.PERGUNTA.1",
+"TANIA.PERGUNTA.1"
+],
+"problema": "A preposição 'PARA' deve ser elidida (regra TANIA.SINTAXE.2) e a estrutura interrogativa não está marcada (regras LIBRAS.PERGUNTA.1/TANIA.PERGUNTA.1).",
+"sugestao": "EU PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIBRAS.SINTAXE.1",
+"TANIA.SINTAXE.5"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.PERGUNTA.2",
+"TANIA.PERGUNTA.1"
+],
+"problema": "Em perguntas com item-QU (implícito em 'algo'), o elemento interrogativo deve estar no início (Spec CP) ou final (foco), não no meio da frase entre o adjetivo e o verbo.",
+"sugestao": "ALGO ESTRANHO COMER?"
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.PERGUNTA.2"
+],
+"problema": "Frase interrogativa sem marcação de pergunta (foco/interrogativo) e estrutura linear que não reflete a sintaxe de pergunta em Libras.",
+"sugestao": "TRATAMENTO EXPLICAR PODER?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.1",
+"LIBRAS.PERGUNTA.2",
+"TANIA.SINTAXE.2",
+"TANIA.SINTAXE.3"
+],
+"problema": "Falta a marcação interrogativa (movimento do item-QU ou não-manual) e a ordem do advérbio de tempo pode ser ajustada para maior naturalidade em estruturas locativas.",
+"sugestao": "EU PODER IR CASA HOJE [PERGUNTA]"
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIBRAS.SINTAXE.3",
+"LIBRAS.TEMPO-ASPECTO.1"
+],
+"problema": "",
+"sugestao": ""
+}
+

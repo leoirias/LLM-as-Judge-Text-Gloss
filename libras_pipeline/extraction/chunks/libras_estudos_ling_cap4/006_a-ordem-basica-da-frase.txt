@@ -1,0 +1,70 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A ORDEM BÁSICA DA FRASE ===
+=== TRECHO: páginas 148-151 (parte 5 de 5 do mesmo tópico) ===
+
+[p.148]
+152     QUADROS & KARNOPP
+Todas as possibilidades de ordenação apresentadas com o mecanismo
+gramatical da topicalização ilustram as possibilidades de derivações da estru-
+tura da frase na língua de sinais. Esse recurso sintático é derivado da estrutu-
+ra básica SVO gerando as seguintes ordenações: SOV , OSV , OSVO, SSVO.
+(vi) As construções com foco incluindo verbos sem concordância podem
+derivar estruturas SOV .
+As construções com foco são aquelas que apresentam constituintes dupli-
+cados dentro da mesma oração. Essas “cópias” ocorrem quando o constituinte
+é enfatizado, mas de forma diferente da ênfase dada aos tópicos.
+Petronio e Lillo-Martin (1997) trataram das construções com foco como
+“construções duplas”, restringindo-as às sentenças em que não há uma pausa
+significante antes do elemento final duplicado. As autoras distinguem, por-
+EU PERDER LIVRO <PERDER>mc
+Eu perdi o livro
+
+[p.149]
+LÍNGUA DE SINAIS BRASILEIRA     153
+tanto, construções duplas de outros mecanismos gramaticais (por exemplo, o
+uso de estratégias de discurso para confirmar algo). Assim como na ASL, a
+língua de sinais brasileira apresenta construções duplas com várias classes de
+palavras (verbos, advérbios, modais e quantificadores). No momento, serão
+analisadas as construções com verbos sem concordância duplos, pois nesse
+caso apresenta-se a derivação da ordem SOV . Posteriormente, serão discutidas
+as construções com foco em geral.
+Identificou-se esse tipo de construção na língua de sinais brasileira como
+construções com foco (Quadros, 1999). O foco é gerado quando há uma in-
+formação interpretada com entonação mais marcada, ou seja, focalizada. Gra-
+maticalmente, essa informação está associada a um traço de foco que licencia
+o apagamento de sua cópia.
+EU PERDER LIVRO <PERDER>mc
+Eu perdi o livro
+Neste último exemplo, foi derivada uma construção com a ordem SOV .
+Na verdade, a ordem desta construção não é esta, mas sim S(V)OV . O elemen-
+to final é apenas a duplicação do verbo original que foi apagado devido à
+existência de uma cópia com a mesma identidade. Este verbo final é necessa-
+riamente associado à marca não-manual afirmativa, como observado em qua-
+se todos os casos de construções com foco.
+(vii) Elevação do objeto nas construções contendo verbos com concor-
+dância.
+A presença de concordância verbal permite a elevação do objeto para
+uma posição mais alta derivando a ordem SOV:
+
+[p.150]
+154     QUADROS & KARNOPP
+(viii) A ordem (S)V(O) é derivada pela possibilidade de omitir-se tanto o
+sujeito como o objeto nas construções com verbos com concordân-
+cia (Quadros, 1995).
+JOÃOa MARIAb aDARb
+ LIVRO NÃO
+João não deu o livro a Maria
+aDARb
+(el@) deram (algo) (el@)
+
+[p.151]
+LÍNGUA DE SINAIS BRASILEIRA     155
+(ix) A ordem VOS também pode ocorrer em contextos de foco contrastivo
+(Arratéia, 2003).
+Os dados apresentados indicam que a ordem básica na língua de sinais
+brasileira é SVO e que OSV , SOV e VOS são ordenações derivadas de SVO.
+Assim, as mudanças de ordens resultam de operações sintáticas específicas
+associadas a algum tipo de marca, por exemplo, a concordância e as marcas
+não-manuais.
+COMPRAR CARRO <JOÃO> foco
+QUEM COMPRAR CARRO JOÃO OU MARIA?

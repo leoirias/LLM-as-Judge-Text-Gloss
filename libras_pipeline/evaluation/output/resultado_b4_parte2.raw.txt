@@ -1,0 +1,92 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.SINTAXE.027"
+],
+"problema": "A oração temporal (prótase) deve anteceder a oração matriz (apódose) na glosa, e não o contrário.",
+"sugestao": "QUANDO DOR COMEÇAR"
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa temporal (QUANDO) e não contém pronome interrogativo (QUEM/QU) nem estrutura condicional/temporal subordinada complexa que exija regras específicas de ordem ou marcadores listados. A glosa segue a ordem natural SVO com o advérbio temporal inicial, mas nenhuma regra da base cobre especificamente a estrutura de perguntas com 'QUANDO' ou a ordem dos advérbios temporais em interrogativas simples.",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.SINTAXE.043",
+"LIVRO.PRONOMES.005"
+],
+"problema": "Omissão indevida do pronome pessoal 'eu' (IX) e inclusão indevida da preposição 'PARA' em verbo de movimento.",
+"sugestao": "IX (eu) PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa sim (sim/não) sem pronome interrogativo (QU) e sem sujeito realizado. As regras fornecidas cobrem interrogativas QU (LIVRO.PRONOMES.003, LIVRO.PERGUNTA.001) e a ordem SVO para sujeitos realizados (LIVRO.SINTAXE.003), mas não especificam a estrutura gramatical para interrogativas sim/não com sujeito nulo/implícito.",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.PRONOMES.002",
+"LIVRO.SINTAXE.003"
+],
+"problema": "Falta o numeral 1 para marcar 'algo' como indefinido e a ordem SVO não é respeitada (deveria ser VERBO-ALGO-ESTRANHO ou similar, mas a regra principal de indefinido é violada).",
+"sugestao": "COMER 1 ALGO ESTRANHO?"
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa de sim/não (polar) com sujeito nulo e verbo modal. As regras fornecidas cobrem interrogativas QU (LIVRO.PRONOMES.003, LIVRO.PERGUNTA.001) e a ordem SVO para sujeitos realizados (LIVRO.SINTAXE.003), mas não especificam a estrutura gramatical para interrogativas polares com sujeito nulo ou a posição do verbo modal 'PODER' nesse contexto específico.",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.PRONOMES.005"
+],
+"problema": "O pronome pessoal 'Eu' deve ser representado pela etiqueta IX (eu), não pelo sinal EU.",
+"sugestao": "IX (eu) PODER IR CASA HOJE"
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.SINTAXE.014"
+],
+"problema": "O advérbio 'agora' deve ocupar a posição inicial da glosa, conforme a regra de topicalização de advérbios.",
+"sugestao": "AGORA ENFERMEIRA CHAMAR"
+}
+

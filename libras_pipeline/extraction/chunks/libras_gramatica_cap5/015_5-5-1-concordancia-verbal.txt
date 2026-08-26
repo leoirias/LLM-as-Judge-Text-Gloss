@@ -1,0 +1,124 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.5.1 Concordância verbal ===
+=== TRECHO: páginas 218-222 (parte 2 de 3 do mesmo tópico) ===
+
+[p.218]
+219
+(119) Sinal CHAMAR da 3ª pessoa para 1ª pessoa - ME CHAMAR
+  
+Além dos verbos que se movem de um ponto a outro no espaço, há verbos 
+em Libras que não apresentam esse tipo de movimento de trajetória direcional. 
+Esses verbos podem possuir diferentes tipos de movimento, mas são articulados em 
+relação a um único ponto do espaço de sinalização. Em algumas análises anteriores 
+(PADDEN, 1988, entre outros), esses verbos eram considerados como verbos sem 
+concordância. Porém, isso não é verdade. Apesar de não possuírem um movimento 
+direcional, esses verbos também podem ter sua localização alterada, de modo a 
+concordar com um argumento da sentença. Contudo, pelo fato de serem produzidos 
+em um único ponto no espaço, esses verbos podem apresentar concordância com 
+apenas um único argumento da sentença e que em alguns casos pode ser o sujeito 
+da oração, em outros, o objeto, a depender da estrutura sintática da frase. Esses 
+verbos são chamados de verbos de concordância única.
+(120) Sinais, da esquerda à direita: ESTUDAR, TRABALHAR e BRINCAR 
+https://youtu.be/H5GxZt-y8-g 
+https://youtu.be/JLmdFEydA80
+ https://youtu.be/jA7sM0Uyvvw 
+ https://youtu.be/phcmoRCo318
+
+[p.219]
+220
+De maneira geral, todos os verbos da Libras que não são articulados presos 
+ao corpo do sinalizante podem ter sua localização alterada de modo a coincidir com 
+a localização de algum argumento da sentença (sujeito ou objeto) (LOURENÇO, 
+2020; no prelo).
+Além dos verbos descritos acima que possuem concordância com o sujeito 
+e/ou o objeto da frase, há também verbos cuja localização é alterada de modo a 
+coincidir com a localização de um argumento locativo. Esses verbos geralmente 
+expressam predicados locativos, como LEVAR, MUDAR e COLOCAR (de escola, 
+por exemplo). Os verbos cuja concordância se dá com o(s) argumento(s) locati -
+vo(s) e não com o sujeito ou com o objeto da sentença são chamados de verbos de 
+concordância locativa.
+            (121)  MUDAR para outra escola                                         (122)   transporte LEVAR
+     (123) grupo MUDAR para outra escola                                 (124) ME COLOCAR na clínica
+Já os verbos ancorados ao corpo do sinalizante não podem ter sua localização 
+alterada e, portanto, não apresentam concordância verbal em sua morfologia. Vale 
+apontar que essa é uma restrição fonológica, ou seja, a especificação fonológica do 
+ponto de articulação desses verbos faz com que eles não possam ser flexionados para 
+concordância verbal. Justamente por serem presos ao corpo do sinalizante, esses 
+verbos não podem ser realizados em outra localização do espaço de sinalização. 
+                           
+https://youtu.be/7vbcAq13tq0 
+https://youtu.be/WCXRjMclSyU 
+https://youtu.be/Ykjx8onpgaA
+https://youtu.be/Las0QwfnIzk
+
+[p.220]
+221
+                             (125) APRENDER                                                                   (126)  TER
+                                                                                  
+Para mais discussões sobre o processo de concordância verbal em Libras, 
+indicamos os trabalhos de Quadros (1999; 2004), Quadros e Karnopp (2004), Qua-
+dros e Quer (2008; 2010), Lourenço (2014; 2017; 2018; 2020) e Wanderley (2017).
+Além dos casos de concordância verbal com o sujeito e/ou o objeto da frase 
+apresentados anteriormente, ainda podemos destacar um outro tipo de flexão 
+bastante interessante em Libras e que também tem sido identificado em outras 
+Línguas de Sinais: a marcação de reciprocidade.
+Construções recíprocas são consideradas eventos bastante complexos, porque 
+representam ao mesmo tempo, pelo menos, duas proposições. Há diferentes ma-
+neiras de se expressar reciprocidade nas línguas naturais, mas o que nos interessa 
+aqui são as estratégias de marcação de reciprocidade que acontecem de maneira 
+mono-oracional, ou seja, que são construídas em uma única oração. Alguns traba-
+lhos sobre reciprocidade em línguas naturais, como Haspelmath (2007) e Evans 
+(2008), apontam que a reciprocidade mono-oracional pode ser marcada de forma 
+lexical ou de forma gramatical. 
+Há, por exemplo, itens lexicais que são inerentemente recíprocos, ou seja, já 
+trazem em sua representação semântica a ideia de reciprocidade. Por exemplo, o 
+verbo INTERAGIR em Libras já traz consigo uma ideia de reciprocidade. Outros 
+sinais como CONVERSAR, COMUNICAR e TER-CONTATO também podem ser 
+considerados como verbos inerentemente recíprocos.
+       
+https://youtu.be/JkJAcYZimKA 
+ https://youtu.be/hgKgrlzfo50
+
+[p.221]
+222
+                           (127) INTERAGIR                                                            (128) CONVERSAR
+                       (129) COMUNICAR                                                   (130)  TER-CONTATO
+Porém, a Libras também possui estratégias gramaticais para marcar reci -
+procidade em verbos que não são inerentemente recíprocos. Assumindo os termos 
+de Pfau e Steinbach (2003), há dois tipos de modificação morfológica que podem 
+ser feitas nos verbos para expressar reciprocidade: a conversão do movimento e a 
+cópia da segunda mão (M2). Esses processos vão depender se o verbo é um sinal 
+bi-manual ou não.
+Comecemos analisando os verbos que são realizados com uma única mão. 
+Um exemplo é o verbo FALAR-ORAL em Libras. FALAR-ORAL é um verbo que 
+pode ter sua localização alterada e que, portanto, apresenta concordância verbal. 
+(131) Sinal FALAR da primeira pessoa
+https://youtu.be/00_KVU_rIHo
+https://youtu.be/vC7LndG0Byw 
+https://youtu.be/tWoNpFW6mqE 
+https://youtu.be/TjAJvhw3Vj8 
+https://youtu.be/GBWt2mK8lmU
+
+[p.222]
+223
+(132) Sinal ME-FALAR da segunda pessoa para primeira pessoa
+Por se tratar de um verbo unimanual e que pode ser flexionado por concor-
+dância verbal, a marcação de reciprocidade se dá através do processo de cópia da 
+segunda mão. Assim, o sinal passa a ser produzido com as duas mãos, sendo que 
+a M2 copia as especificações fonológicas da M1. Observe ainda que o processo de 
+concordância verbal incide conforme o esperado para cada uma das mãos: a loca-
+lização da mão coincide com a localização do sujeito da sentença e a orientação da 
+palma da mão se volta para a localização do objeto.
+(133) Sinal DUAS-PESSOAS-FALAM com a concordância recíproca
+Além da cópia da M2, há ainda situações em que o sinal unimanual sofre 
+também o processo chamado de conversão do movimento. Dois exemplos são os 
+verbos AVISAR e DAR em Libras. Note que esse verbo é unimanual e também 
+possui um movimento de trajetória direcional. Nesse caso, além da cópia da M2, 
+há também a conversão do movimento do verbo. Ao falarmos de conversão do 
+movimento, fazemos referência à alteração da direção do movimento do verbo. 
+Assim, além da duplicação do número de mãos, a M1 move-se de um ponto A para 
+um ponto B, enquanto que a M2 apresenta um movimento convertido que vai do 
+ponto B para o ponto A. Observe novamente que o processo de concordância verbal 
+incide conforme o esperado para cada uma das mãos. 
+https://youtu.be/ZCM9TSeVOOU 
+https://youtu.be/CnQIr1s5oXY

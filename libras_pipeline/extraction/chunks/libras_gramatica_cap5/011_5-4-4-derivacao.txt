@@ -1,0 +1,75 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.4.4 Derivação ===
+=== TRECHO: páginas 206-208 ===
+
+[p.206]
+207
+  (91) CASA^CRUZ (igreja)       (92) *CRUZ^CASA (igreja)
+estrutura gramatical x estrutura agramatical
+As autoras usam o critério semântico para determinar o núcleo. Quando os 
+compostos criados indicam lugares, o núcleo se encontra à esquerda.
+b) Compostos aparentes: A ordem dos elementos com-
+ponentes é variável. Cada sinal pode ocorrer isoladamente, 
+como nos exemplos a seguir (93) e (94):
+(93) PÃO^CASA (padaria)                                              (94) CASA^PÃO (padaria)
+                         estrutura gramatical  <=>  estrutura gramatical
+5.4.4 Derivação
+A derivação consiste na formação de novas palavras a partir de uma palavra 
+já existente, de uma base. É possível observar que, no processo de derivação, uma 
+das funções é a mudança de classe gramatical. Entretanto, é possível verificar a 
+derivação dentro de uma mesma classe gramatical.
+Os estudos sobre derivação em Línguas de Sinais iniciaram com Supalla 
+e Newport (1978) sobre a Língua de Sinais americana (ASL). Nestes estudos, os 
+autores indicavam que é possível derivar nomes de verbos pela mudança no tipo 
+de movimento do sinal. Assim, foi possível observar que a reduplicação do parâ -
+metro movimento de verbos é característica de nomes que derivam de verbos na 
+ASL. Deste modo, o sinal que corresponde a uma diferente categoria de palavra é 
+https://youtu.be/whngxIcq0hs 
+ https://youtu.be/2PLd0GB4_9E 
+https://youtu.be/cey5KjgKA5Q
+
+[p.207]
+208
+formado. Ao todo, os autores listaram em torno de cem pares de nomes e verbos, 
+indicando que este processo é produtivo na ASL.
+Este comportamento pode ser generalizado na ASL, pois é encontrado nos 
+demais pares de sinais elencados em estudos de mesma natureza a partir deste. Ou 
+seja, os nomes apresentam um movimento repetido e curto, enquanto os verbos 
+apresentam um movimento único e longo.
+Na Libras, os estudos são mais recentes e datam da década de 2000. A seguir 
+serão abordados de forma específica, os tipos de derivação.
+Faria-Nascimento (2013) apresenta exemplos de palavras derivadas a partir 
+de unidades terminológicas, como o sinal MORFOLOGIA. Por meio de mudan -
+ças nos parâmetros do sinal, seja pela configuração de mão ou de movimento e 
+orientação da mão, é possível derivar outras unidades terminológicas, como (95) 
+MORFEMA, (96) COMPOSIÇÃO. A autora se refere a esses morfemas como “so-
+brefixos”, pois há uma sobreposição de morfemas na produção dos sinais.
+                   (95) MORFEMA                                                                       (96) COMPOSIÇÃO
+                                                                             
+Os numerais também podem ocorrer como morfemas base para derivar ou-
+tros sinais. É o caso do numeral DOIS, um morfema livre, que pode derivar sinais 
+como (97) DUAS SEMANAS e (98) BILÍNGUE:
+                
+                  (97) DUAS SEMANAS                                         (98) BILÍNGUE
+https://youtu.be/z2hihaVHN4M
+ https://youtu.be/dM0vkdDIuPI 
+https://youtu.be/xUlFM1savXM 
+ https://youtu.be/VYqmBjWHvOc
+
+[p.208]
+209
+Morfemas presos também podem servir de morfema base para a criação de 
+vários sinais, como o morfema preso L, que tem o significado de tela, pode derivar 
+sinais como (99) VIDEOCONFERÊNCIA e HIPERTEXTO.
+(99) VIDEOCONFERÊNCIA
+Na incorporação da negação, conforme mencionado por Ferreira-Brito (1995, 
+p.77), por meio de vários processos, o item a ser negado sofre alteração em um dos 
+parâmetros, especialmente o parâmetro Movimento, acarretando, assim, o apare-
+cimento de um item de estrutura “fonético-fonológica” diferente daquele que é a 
+sua base, ou seja, o aparecimento de sua contraparte negativa.
+Os sinais (100) NÃO SABER e (101) NÃO TER têm a incorporação da nega-
+ção em que há o movimento da cabeça de um lado para  o outro, também sofre a 
+alteração de movimento no sinal.
+(100) NÃO SABER
+https://youtu.be/FClNcnCwe4M
+https://youtu.be/rk_6RLg_i2k

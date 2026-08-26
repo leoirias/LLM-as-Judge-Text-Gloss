@@ -1,0 +1,591 @@
+### expressoes-idiomaticas lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Swallowed the Fish",
+      "descricao": "Indica que alguém foi enganado ou mostrou-se ingênuo ao confiar em alguém que não deveria. Pode ser usado sobre si mesmo ou sobre outra pessoa, com expressão facial de embaraço, como olhos arregalados.",
+      "gatilho": "Após alguém demonstrar confiança em uma pessoa ou situação que deveria ser óbvia para todos, especialmente em contexto de humor leve.",
+      "exemplos": [
+        "Alguém acredita em uma mentira óbvia -> SWALLOWED-THE-FISH",
+        "Você acredita em um golpe fácil -> SWALLOWED-THE-FISH"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.001"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Train Gone",
+      "descricao": "Expressa que alguém perdeu uma oportunidade ou não entendeu uma informação que os outros já entenderam. Não é usado sobre si mesmo, mas sim para apontar alguém que está fora do contexto.",
+      "gatilho": "Quando alguém não entende uma piada, uma informação ou uma referência que todos os outros entenderam, especialmente em grupo.",
+      "exemplos": [
+        "Alguém não ri de uma piada -> TRAIN-GONE",
+        "Alguém pede para repetir algo que já foi dito -> TRAIN-GONE"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Pea Brain",
+      "descricao": "Expressão ofensiva que critica a inteligência de alguém, geralmente usada entre amigos próximos com intenção de humor. O grau de ofensa depende da expressão facial: língua esticada ou olhos cruzados aumentam o tom ofensivo.",
+      "gatilho": "Quando alguém faz algo estúpido ou diz algo óbvio, especialmente em contexto de brincadeira entre pessoas próximas.",
+      "exemplos": [
+        "Alguém esquece algo óbvio -> PEA-BRAIN",
+        "Você diz algo óbvio -> PEA-BRAIN (autoironia)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Rats!/Darn!",
+      "descricao": "Expressão de frustração ou decepção diante de algo que não saiu como esperado. É feita com a mão dominante pegando um 'inseto' no ar, como se capturasse uma mosca.",
+      "gatilho": "Quando algo não dá certo, como um erro, um imprevisto ou uma frustração leve.",
+      "exemplos": [
+        "Você perdeu um objeto -> RATS!/DARN!"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "I Hope",
+      "descricao": "Expressão de desejo ou esperança, feita cruzando os dedos das duas mãos com formato de R. Pode ser reforçada com expressão facial de expectativa, como olhos fechados ou boca entreaberta.",
+      "gatilho": "Quando se deseja algo com força, especialmente em situações de incerteza ou ansiedade.",
+      "exemplos": [
+        "Você espera que chova -> I-HOPE",
+        "Você espera que o resultado seja bom -> I-HOPE"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.005"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Your Guess Is as Good as Mine",
+      "descricao": "Expressa que o signador também não sabe a resposta, podendo ser usada como resposta direta a uma pergunta ou como parte da pergunta. A expressão facial de sorriso sardônico e sobrancelhas levantadas reforça o tom de incerteza.",
+      "gatilho": "Após alguém fazer uma pergunta que o signador não sabe responder, especialmente em contexto de humor ou desespero leve.",
+      "exemplos": [
+        "Alguém pergunta o que aconteceu -> YOUR-GUESS-IS-AS-GOOD-AS-MINE",
+        "Você não sabe a resposta -> YOUR-GUESS-IS-AS-GOOD-AS-MINE"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Cool!",
+      "descricao": "Expressão de aprovação ou admiração, com dois modos: um com dedo e polegar no rosto girando, outro com polegar no peito e dedos se mexendo. O tom depende da expressão facial: sorriso, lábios cerrados ou boca aberta.",
+      "gatilho": "Quando algo é considerado bom, interessante ou impressionante, especialmente em contextos sociais.",
+      "exemplos": [
+        "Alguém faz algo legal -> COOL!",
+        "Você vê algo impressionante -> COOL!"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Oh No!",
+      "descricao": "Expressão de constrangimento ou arrependimento, usada ao testemunhar ou descrever uma ação embaraçosa. Feita com mão 5 aberta e fechando para S, com olhos arregalados e sorriso nervoso.",
+      "gatilho": "Quando algo embaraçoso acontece ou é lembrado, especialmente em contexto social.",
+      "exemplos": [
+        "Você tropeça em público -> OH-NO!",
+        "Você diz algo errado -> OH-NO!"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "That’s Superb!",
+      "descricao": "Expressão de entusiasmo ou surpresa positiva, feita com mão –F tocando o queixo. O tom depende da expressão facial: boca em forma de –OO para aprovação ou expressão de nojo para negatividade.",
+      "gatilho": "Quando algo é muito bom ou impressionante, ou quando se quer expressar ironia negativa.",
+      "exemplos": [
+        "Algo muito bom acontece -> THAT’S-SUPERB!",
+        "Algo muito ruim acontece -> THAT’S-SUPERB! (com expressão de nojo)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "That’s Pretty Straight-Laced",
+      "descricao": "Expressa que alguém é muito conservador, rígido ou antiquado. Feito com expressão facial de lábios apertados e ar de superioridade.",
+      "gatilho": "Quando alguém age de forma excessivamente convencional, rígida ou desatualizada.",
+      "exemplos": [
+        "Alguém rejeita uma ideia nova por tradição -> THAT’S-PRETTY-STRAIGHT-LACED"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Wow!",
+      "descricao": "Expressão de surpresa ou admiração com conotação positiva ou negativa. O tom é determinado pela expressão facial: olhos arregalados e sorriso parcial para positivo, sobrancelhas franzidas para negativo.",
+      "gatilho": "Quando algo surpreende, impressiona ou desagrada, especialmente em contexto social.",
+      "exemplos": [
+        "Você vê algo incrível -> WOW!",
+        "Você vê algo ruim -> WOW! (com sobrancelhas franzidas)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.011"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "FINISH como 'enough already' ou 'stop that'",
+      "descricao": "O sinal 'FINISH' pode ser usado como exclamação para indicar 'basta já' ou 'pare com isso', especialmente com expressão facial de impaciência ou repreensão. É feito com uma mão e acompanhado pela pronúncia de 'fish'.",
+      "gatilho": "Situação de frustração, impaciência ou repreensão",
+      "exemplos": [
+        "FINISH"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.012"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Flick the light off and on para chamar atenção",
+      "descricao": "Para chamar a atenção de uma pessoa surda em um cômodo, apague e acenda a luz rapidamente. É uma expressão idiomática comum para sinalizar presença.",
+      "gatilho": "Situação em que se deseja chamar a atenção de uma pessoa surda em um cômodo",
+      "exemplos": [
+        "To get the attention of a Deaf person in a room you’re entering, flick the light off and on — that will do the trick"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.013"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Propor um brinde com batida na mesa",
+      "descricao": "Para pedir atenção e propor um brinde em um grupo de surdos, bate-se na mesa com os dedos para criar uma vibração. Isso sinaliza que se tem a palavra e está se convidando para o brinde.",
+      "gatilho": "Reunião em torno de uma mesa com surdos, desejo de fazer um brinde",
+      "exemplos": [
+        "Knock on the table to create a vibration. You will then have the floor."
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.014"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Dois pés em um pod",
+      "descricao": "A expressão idiomática 'like two peas in a pod' é sinalizada cruzando os dedos indicadores e apertando os lábios, com o mesmo movimento usado para 'good luck'. Indica amizade muito próxima.",
+      "gatilho": "Quando se quer indicar que dois amigos são muito próximos ou semelhantes",
+      "exemplos": [
+        "Close friends are like two peas in a pod -> crossed fingers and pursing lips"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.015"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### expressoes-idiomaticas lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Swallowed the Fish",
+      "descricao": "Indica que alguém foi enganado ou mostrou-se ingênuo ao confiar em alguém que não deveria. Pode ser usado sobre si mesmo ou sobre outra pessoa, com expressão facial de embaraço, como olhos arregalados.",
+      "gatilho": "Após alguém demonstrar confiança em uma pessoa ou situação que deveria ser óbvia para todos, especialmente em contexto de humor leve.",
+      "exemplos": [
+        "Alguém acredita em uma mentira óbvia -> SWALLOWED-THE-FISH",
+        "Você acredita em um golpe fácil -> SWALLOWED-THE-FISH"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.001"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Train Gone",
+      "descricao": "Expressa que alguém perdeu uma oportunidade ou não entendeu uma informação que os outros já entenderam. Não é usado sobre si mesmo, mas sim para apontar alguém que está fora do contexto.",
+      "gatilho": "Quando alguém não entende uma piada, uma informação ou uma referência que todos os outros entenderam, especialmente em grupo.",
+      "exemplos": [
+        "Alguém não ri de uma piada -> TRAIN-GONE",
+        "Alguém pede para repetir algo que já foi dito -> TRAIN-GONE"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Pea Brain",
+      "descricao": "Expressão ofensiva que critica a inteligência de alguém, geralmente usada entre amigos próximos com intenção de humor. O grau de ofensa depende da expressão facial: língua esticada ou olhos cruzados aumentam o tom ofensivo.",
+      "gatilho": "Quando alguém faz algo estúpido ou diz algo óbvio, especialmente em contexto de brincadeira entre pessoas próximas.",
+      "exemplos": [
+        "Alguém esquece algo óbvio -> PEA-BRAIN",
+        "Você diz algo óbvio -> PEA-BRAIN (autoironia)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Rats!/Darn!",
+      "descricao": "Expressão de frustração ou decepção diante de algo que não saiu como esperado. É feita com a mão dominante pegando um 'inseto' no ar, como se capturasse uma mosca.",
+      "gatilho": "Quando algo não dá certo, como um erro, um imprevisto ou uma frustração leve.",
+      "exemplos": [
+        "Você perdeu um objeto -> RATS!/DARN!"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "I Hope",
+      "descricao": "Expressão de desejo ou esperança, feita cruzando os dedos das duas mãos com formato de R. Pode ser reforçada com expressão facial de expectativa, como olhos fechados ou boca entreaberta.",
+      "gatilho": "Quando se deseja algo com força, especialmente em situações de incerteza ou ansiedade.",
+      "exemplos": [
+        "Você espera que chova -> I-HOPE",
+        "Você espera que o resultado seja bom -> I-HOPE"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.005"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Your Guess Is as Good as Mine",
+      "descricao": "Expressa que o signador também não sabe a resposta, podendo ser usada como resposta direta a uma pergunta ou como parte da pergunta. A expressão facial de sorriso sardônico e sobrancelhas levantadas reforça o tom de incerteza.",
+      "gatilho": "Após alguém fazer uma pergunta que o signador não sabe responder, especialmente em contexto de humor ou desespero leve.",
+      "exemplos": [
+        "Alguém pergunta o que aconteceu -> YOUR-GUESS-IS-AS-GOOD-AS-MINE",
+        "Você não sabe a resposta -> YOUR-GUESS-IS-AS-GOOD-AS-MINE"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Cool!",
+      "descricao": "Expressão de aprovação ou admiração, com dois modos: um com dedo e polegar no rosto girando, outro com polegar no peito e dedos se mexendo. O tom depende da expressão facial: sorriso, lábios cerrados ou boca aberta.",
+      "gatilho": "Quando algo é considerado bom, interessante ou impressionante, especialmente em contextos sociais.",
+      "exemplos": [
+        "Alguém faz algo legal -> COOL!",
+        "Você vê algo impressionante -> COOL!"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Oh No!",
+      "descricao": "Expressão de constrangimento ou arrependimento, usada ao testemunhar ou descrever uma ação embaraçosa. Feita com mão 5 aberta e fechando para S, com olhos arregalados e sorriso nervoso.",
+      "gatilho": "Quando algo embaraçoso acontece ou é lembrado, especialmente em contexto social.",
+      "exemplos": [
+        "Você tropeça em público -> OH-NO!",
+        "Você diz algo errado -> OH-NO!"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "That’s Superb!",
+      "descricao": "Expressão de entusiasmo ou surpresa positiva, feita com mão –F tocando o queixo. O tom depende da expressão facial: boca em forma de –OO para aprovação ou expressão de nojo para negatividade.",
+      "gatilho": "Quando algo é muito bom ou impressionante, ou quando se quer expressar ironia negativa.",
+      "exemplos": [
+        "Algo muito bom acontece -> THAT’S-SUPERB!",
+        "Algo muito ruim acontece -> THAT’S-SUPERB! (com expressão de nojo)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "That’s Pretty Straight-Laced",
+      "descricao": "Expressa que alguém é muito conservador, rígido ou antiquado. Feito com expressão facial de lábios apertados e ar de superioridade.",
+      "gatilho": "Quando alguém age de forma excessivamente convencional, rígida ou desatualizada.",
+      "exemplos": [
+        "Alguém rejeita uma ideia nova por tradição -> THAT’S-PRETTY-STRAIGHT-LACED"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Wow!",
+      "descricao": "Expressão de surpresa ou admiração com conotação positiva ou negativa. O tom é determinado pela expressão facial: olhos arregalados e sorriso parcial para positivo, sobrancelhas franzidas para negativo.",
+      "gatilho": "Quando algo surpreende, impressiona ou desagrada, especialmente em contexto social.",
+      "exemplos": [
+        "Você vê algo incrível -> WOW!",
+        "Você vê algo ruim -> WOW! (com sobrancelhas franzidas)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.011"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "FINISH como 'enough already' ou 'stop that'",
+      "descricao": "O sinal 'FINISH' pode ser usado como exclamação para indicar 'basta já' ou 'pare com isso', especialmente com expressão facial de impaciência ou repreensão. É feito com uma mão e acompanhado pela pronúncia de 'fish'.",
+      "gatilho": "Situação de frustração, impaciência ou repreensão",
+      "exemplos": [
+        "FINISH"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.012"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Flick the light off and on para chamar atenção",
+      "descricao": "Para chamar a atenção de uma pessoa surda em um cômodo, apague e acenda a luz rapidamente. É uma expressão idiomática comum para sinalizar presença.",
+      "gatilho": "Situação em que se deseja chamar a atenção de uma pessoa surda em um cômodo",
+      "exemplos": [
+        "To get the attention of a Deaf person in a room you’re entering, flick the light off and on — that will do the trick"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.013"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Propor um brinde com batida na mesa",
+      "descricao": "Para pedir atenção e propor um brinde em um grupo de surdos, bate-se na mesa com os dedos para criar uma vibração. Isso sinaliza que se tem a palavra e está se convidando para o brinde.",
+      "gatilho": "Reunião em torno de uma mesa com surdos, desejo de fazer um brinde",
+      "exemplos": [
+        "Knock on the table to create a vibration. You will then have the floor."
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.014"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Dois pés em um pod",
+      "descricao": "A expressão idiomática 'like two peas in a pod' é sinalizada cruzando os dedos indicadores e apertando os lábios, com o mesmo movimento usado para 'good luck'. Indica amizade muito próxima.",
+      "gatilho": "Quando se quer indicar que dois amigos são muito próximos ou semelhantes",
+      "exemplos": [
+        "Close friends are like two peas in a pod -> crossed fingers and pursing lips"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.015"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Gorging com movimento e expressão facial",
+      "descricao": "Para sinalizar 'gorging', use ambos os punhos alternadamente para imitar colocar comida na boca, com as bochechas inchadas ou a boca aberta larga. A velocidade do sinal aumenta o efeito de comer muito.",
+      "gatilho": "Quando se quer expressar que alguém está comendo muito ou se alimentando excessivamente.",
+      "exemplos": [
+        "Gorging -> [sinal com ambas as mãos alternando, bochechas inchadas, boca aberta, movimento rápido]"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.016"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Fome extrema com expressão facial e velocidade",
+      "descricao": "Para sinalizar 'starving', use o sinal 'HUNGRY' mais rápido, abra a boca um pouco mais e use expressão facial de fome.",
+      "gatilho": "Quando se quer expressar fome extrema, especialmente em contexto de refeição.",
+      "exemplos": [
+        "Starving -> HUNGRY (rápido, boca aberta, expressão facial)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.017"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Sinalizar 'full' com bochechas inchadas",
+      "descricao": "Para sinalizar 'full', use o sinal 'FULL' com as bochechas inchadas, indicando que a pessoa está satisfeita após comer.",
+      "gatilho": "Quando se quer expressar que alguém está cheio após uma refeição.",
+      "exemplos": [
+        "Full -> FULL (com bochechas inchadas)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.018"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Sinal 'get all the sympathy your hands can hold'",
+      "descricao": "Expressão idiomática usada para descrever uma situação em que alguém está se sentindo mal e deseja ou recebe empatia e apoio emocional, especialmente em contextos de doença ou dor física.",
+      "gatilho": "Quando alguém está descrevendo um mal-estar físico e o contexto sugere que está buscando compaixão ou apoio.",
+      "exemplos": [
+        "When you’re not feeling that well, these sentences can help you get all the sympathy your hands can hold."
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.019"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Gesto de 'evil eye' como expressão de desaprovação",
+      "descricao": "O gesto de 'evil eye' (olhar malicioso ou desaprovador) é usado para expressar desaprovação, desconfiança ou crítica, geralmente com olhos arregalados e olhar fixo. É uma expressão idiomática com uso social e emocional claro.",
+      "gatilho": "em situações de desaprovação, crítica ou desconfiança",
+      "exemplos": [
+        "GIVE	SOMEONE	THE	'EVIL	EYE'"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.020"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Gesto de 'off to a good start' como expressão de início promissor",
+      "descricao": "A expressão 'off to a good start' é usada para indicar que algo começou bem, com potencial para sucesso. É uma expressão idiomática com valor positivo e é comum em contextos de motivação ou avaliação inicial.",
+      "gatilho": "quando algo começa com sucesso ou promessa",
+      "exemplos": [
+        "off	to	a	good	start"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.021"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Glide hands down after sport sign to indicate player",
+      "descricao": "Após sinalizar um esporte, deslize as mãos para baixo ao longo dos lados do corpo para indicar o praticante do esporte (ex: golf → golfer, run → runner).",
+      "gatilho": "Frase com pessoa que pratica um esporte individual",
+      "exemplos": [
+        "Mark is a good golfer. -> M-A-R-K GOOD GOLF (AGENT)",
+        "She is a runner. -> RUN (AGENT)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.022"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Sinal 'K-O' para 'knocked out'",
+      "descricao": "O sinal 'K-O' é usado para indicar que alguém está inconsciente ou desmaiado. É feito com a mão dominante em forma de K, começando no nível dos olhos, movendo-se para o lado da boca, com os olhos fechados e a cabeça inclinada.",
+      "gatilho": "Situação em que alguém está desmaiado ou inconsciente",
+      "exemplos": [
+        "He is knocked out. -> K-O"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.023"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Sinal 'FEEL' com dedo indicador subindo",
+      "descricao": "O sinal 'FEEL' é feito movendo o dedo médio do estômago para o peito e para fora, indicando a sensação física. Se o polegar for levantado após o sinal, significa 'feel good'.",
+      "gatilho": "Expressão de sensação física ou bem-estar",
+      "exemplos": [
+        "I feel good. -> FEEL (com polegar para cima)"
+      ],
+      "ids_origem": [
+        "ASLFD.EXPRESSOES-IDIOMATICAS.024"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### tempo-aspecto lote 0
+{"regras_finais": [{"titulo": "Indicação de ação não iniciada ou incompleta", "descricao": "Em ASL, a indicação de que uma ação ainda não começou ou não foi concluída é feita com o sinal 'NOT YET' no final da frase, acompanhado de um movimento de cabeça ligeiro de lado a lado, que funciona como um 'não'. Esse sinal expressa claramente o estado de não realização da ação, sem necessidade de palavras adicionais.", "gatilho": "frase que expressa que uma ação ainda não ocorreu ou não foi concluída", "exemplos": ["ME EAT — NOT YET"], "ids_origem": ["ASLFD.TEMPO-ASPECTO.003"], "justificativa_fusao": ""}, {"titulo": "Indicação de tempo e aspecto por expressão facial e movimento", "descricao": "Em ASL, o tempo (passado, presente, futuro) e o aspecto da ação são indicados principalmente por expressão facial, velocidade do sinal, duração e movimento, em vez de marcas gramaticais fixas. O contexto e a execução do sinal determinam o tempo e o aspecto da ação.", "gatilho": "quando se expressa ação no passado, presente ou futuro", "exemplos": ["YES — SOON — CHRISTMAS GIFTS — START BUYING — WANT ME"], "ids_origem": ["ASLFD.TEMPO-ASPECTO.007"], "justificativa_fusao": ""}]}
+
+### morfologia lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Expressão facial para adjetivos e advérbios",
+      "descricao": "Adjetivos e advérbios em ASL são frequentemente expressos por meio de expressões faciais e gestos corporais, como mudanças na forma da boca, franzir as sobrancelhas ou puxar os lábios, em vez de sinais específicos para palavras como 'small', 'big', 'very' ou 'loudly'. Essa estratégia transmite intensidade, tamanho, velocidade ou emoção de forma contextualizada.",
+      "gatilho": "descrição de tamanho, intensidade, velocidade ou emoção",
+      "exemplos": [
+        "PRETTY GIRL: Raise eyebrows, form mouth into an 'o' shape",
+        "BAD MOVIE: Turn mouth down in a frown and scrunch eyebrows",
+        "GOOD DOG: Slightly smile and raise eyebrows",
+        "RUN VERY FAST: Scrunch eyebrows and clench jaw"
+      ],
+      "ids_origem": [
+        "ASLFD.MORFOLOGIA.002"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Formação de agentes por personificação",
+      "descricao": "Para indicar uma pessoa que realiza uma ação (agente), o sinal do verbo é modificado com um movimento descendente dos dorsos das mãos ao longo dos lados do corpo, com os dedos estendidos, transformando o verbo em um substantivo que denota o agente.",
+      "gatilho": "quando se deseja indicar uma pessoa que realiza uma ação (ex: quem escreve, quem cozinha)",
+      "exemplos": [
+        "WRITE + AGENT = WRITER",
+        "COOK + AGENT = CHEF"
+      ],
+      "ids_origem": [
+        "ASLFD.MORFOLOGIA.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Formação de móveis por modificação do sinal de 'chair'",
+      "descricao": "Os sinais para 'love seat' e 'couch' são derivados do sinal de 'chair' por meio de variações no movimento e na posição das mãos: 'love seat' usa movimento duplo seguido de posição lateral para indicar dois assentos; 'couch' usa movimento simples seguido de movimento para fora para indicar múltiplos assentos.",
+      "gatilho": "frase que menciona 'love seat' ou 'couch' após 'chair'",
+      "exemplos": [
+        "To sign love seat, sign chair (double motion), and then, with the same handshape, put your dominant hand next to your passive hand to show a couch for two",
+        "To sign couch, make the sign for chair (single motion), and then move your dominant hand outward to show several seats"
+      ],
+      "ids_origem": [
+        "ASLFD.MORFOLOGIA.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Formação de substantivos compostos com movimento de coleta",
+      "descricao": "Substantivos que indicam atividades de coleta ou organização repetitiva (como 'stamp collecting') são formados com um movimento de reunir objetos na palma da mão, simbolizando a ação de juntar itens.",
+      "gatilho": "frase que descreve uma atividade de coleta ou organização de itens, como 'I collect stamps.'",
+      "exemplos": [
+        "STAMPS — COLLECT ME"
+      ],
+      "ids_origem": [
+        "ASLFD.MORFOLOGIA.016"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Uso de movimento labial no dedilhado",
+      "descricao": "Durante o dedilhado de palavras, os lábios são movidos silenciosamente para acompanhar os sons das letras, ajudando a manter o ritmo e a clareza, sem pronunciar cada letra individualmente.",
+      "gatilho": "durante o dedilhado de palavras",
+      "exemplos": [
+        "P-H-I-L-L-I-P"
+      ],
+      "ids_origem": [
+        "ASLFD.MORFOLOGIA.022"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### classificadores lote 0
+{"regras_finais": [{"titulo": "Classificadores para objetos, pessoas ou lugares com base em forma, tamanho ou posição", "descricao": "Classificadores são usados para representar objetos, pessoas ou lugares com base em forma, tamanho ou posição. Devem ser usados apenas após o assunto já ter sido introduzido, para esclarecer detalhes específicos. As formas manuais naturais (A, B, C, S, O, 1, 5) são usadas como classificadores em ASL para representar esses elementos, sendo fixas e geralmente usadas com a mão passiva quando não ativas.", "gatilho": "Após introduzir um assunto, quando se deseja descrever forma, posição ou movimento de um objeto; quando se descreve objetos, pessoas ou ações com classificadores", "exemplos": ["A handshape with thumb up represents a vase, stop sign, or computer tower", "C handshape represents a muscle, glass, or wad of dollars", "F handshape represents coins, small rocks, or polka dots", "START: Place your active index finger between your index and middle fingers of your passive hand, and then turn the active index finger outward", "COOK: Hold your passive hand out, palm up. Lay your active hand across the top of it, palm down. Now flip your active hand over, then flip it back over, palm down."], "ids_origem": ["ASLFD.CLASSIFICADORES.001", "ASLFD.CLASSIFICADORES.003"], "justificativa_fusao": "Ambas as candidatas descrevem o uso de formas manuais naturais como classificadores para representar objetos, pessoas ou ações, com foco em forma, tamanho e posição, e compartilham o princípio de uso após introdução do assunto e com mão passiva."}, {"titulo": "Classificadores para 'cast' em membros", "descricao": "O sinal 'cast' é feito com a mão dominante em forma de C, deslizando duas vezes sobre o membro afetado. Se o cast estiver no braço, o sinal é feito no braço passivo; se no pé, aponta-se para a área. Para corpo inteiro, é fingerspellado como B-O-D-Y-C-A-S-T.", "gatilho": "Frase com 'cast' em inglês, especialmente em contexto médico", "exemplos": ["She has a cast. -> CAST (com movimento no braço ou perna)"], "ids_origem": ["ASLFD.CLASSIFICADORES.004"], "justificativa_fusao": ""}, {"titulo": "Classificadores para 'prescription'", "descricao": "O sinal 'prescription' é feito com os dedos R-X fingerspellados, seguidos por um movimento de quadrado com os dois indicadores, começando no topo e se encontrando na base, simbolizando 'slip'.", "gatilho": "Frase com 'prescription' em inglês", "exemplos": ["She has a prescription. -> R-X (fingerspell) + quadrado com dois indicadores"], "ids_origem": ["ASLFD.CLASSIFICADORES.005"], "justificativa_fusao": ""}]}
+
+### pergunta lote 0
+{"regras_finais": [{"titulo": "Expressão facial de pergunta", "descricao": "Em ASL, perguntas são indicadas principalmente por expressão facial, com sobrancelhas levantadas e olhos arregalados, às vezes combinadas com movimento de cabeça para frente. Essa expressão facial é essencial para marcar uma frase como interrogativa, mesmo sem mudanças na estrutura ou no sinal manual.", "gatilho": "em frases interrogativas", "exemplos": ["SIGN YOU Q", "DEAF YOU Q", "WHAT’S_UP", "M-A-L-L	—	RIDE	—	WANT	YOU	Q"], "ids_origem": ["ASLFD.PERGUNTA.001", "ASLFD.PERGUNTA.008"], "justificativa_fusao": "Ambas as candidatas descrevem a mesma base gramatical: o uso da expressão facial (sobrancelhas levantadas, olhos arregalados) como marcador essencial de pergunta em ASL, independentemente da estrutura da frase."}, {"titulo": "Sinal manual de interrogação no final da frase", "descricao": "O sinal manual de interrogação, feito com o punho fechado movendo-se para cima e para baixo com a mão dominante, pode ser adicionado no final de uma frase para indicar claramente que se trata de uma pergunta. Esse sinal é opcional, mas reforça a intenção interrogativa.", "gatilho": "frase que é uma pergunta", "exemplos": ["GOING — WHO Q", "WANT SEE — KITCHEN Q", "M-A-L-L ARRIVE — HOW Q"], "ids_origem": ["ASLFD.PERGUNTA.003", "ASLFD.PERGUNTA.005"], "justificativa_fusao": "Ambas as candidatas descrevem o mesmo fenômeno: o uso do sinal manual de interrogação no final da frase para marcar uma pergunta, com variações apenas no exemplo e na menção a estruturas com palavras interrogativas."}, {"titulo": "Sinal manual de interrogação no início da frase", "descricao": "O sinal manual de interrogação pode ser colocado no início de uma frase, especialmente em perguntas mais formais ou quando se deseja destacar a intenção interrogativa. Esse uso é opcional e serve para enfatizar a pergunta desde o início.", "gatilho": "frase interrogativa com foco no início da pergunta", "exemplos": ["Q GOING — WHO", "Q WANT SEE — KITCHEN"], "ids_origem": ["ASLFD.PERGUNTA.004"], "justificativa_fusao": ""}, {"titulo": "Perguntas retóricas com resposta implícita", "descricao": "Perguntas retóricas em ASL são sinalizadas com expressão facial de pergunta (sobrancelhas levantadas), mas o signador responde imediatamente sem esperar resposta, pois o objetivo é enfatizar um ponto, não obter informação. A estrutura da frase permanece como em uma pergunta, mas a resposta é dada de forma implícita.", "gatilho": "Frase que apresenta uma pergunta com resposta óbvia ou já conhecida, como 'Brent is on my team.'", "exemplos": ["MY TEAM-- WHO — B-R-E-N-T"], "ids_origem": ["ASLFD.PERGUNTA.007"], "justificativa_fusao": ""}]}
+
+### foco lote 0
+{"regras_finais": [{"titulo": "Construção de Diálogo", "descricao": "Em ASL, para recontar uma conversa, o signador muda ligeiramente o corpo ou a cintura para assumir o papel de cada pessoa envolvida, sem precisar repetir o nome após a primeira vez. Isso permite uma representação clara e dinâmica das falas de diferentes interlocutores.", "gatilho": "Recontar uma conversa entre duas ou mais pessoas", "exemplos": ["Sheri shifts to the left — Aunt Dee — Orange and cream are too Halloween-like...", "Sheri shifts to the right — Aunt Denni — Don’t be silly, orange is Sheri’s favorite color...", "Wanda looks into the mirror and signs short on her legs, with open mouth and wide eyes"], "ids_origem": ["ASLFD.FOCO.001", "ASLFD.FOCO.002"], "justificativa_fusao": "Ambas as candidatas descrevem a representação física de ações ou falas de diferentes pessoas durante um relato, com mudança corporal para indicar mudança de agente, sendo fenômenos distintos mas relacionados ao foco narrativo."}, {"titulo": "Expressão Facial para Enfatizar Significado", "descricao": "A expressão facial é crucial em ASL para indicar foco, emoção, intensidade ou tom específico. Ela pode alterar o significado de um sinal, tornando-o mais claro, enfático ou emocionalmente carregado.", "gatilho": "Quando se deseja transmitir emoção, intensidade ou tom específico", "exemplos": ["SICK: Both hands move in a small circular motion. One hand touches the head while the other touches the stomach. Looking nauseous as you do the sign.", "NO: When you sign the word, close your eyes if you want to make it more emphatic.", "Wanda looks into the mirror and signs short on her legs, with open mouth and wide eyes"], "ids_origem": ["ASLFD.FOCO.003", "ASLFD.FOCO.002"], "justificativa_fusao": "Ambas as candidatas envolvem o uso de expressão facial para intensificar ou aclarar o significado de um sinal, sendo parte integrante da representação de foco emocional e narrativo."}, {"titulo": "Contato Visual para Manter Atenção", "descricao": "O contato visual é essencial em ASL. O signador deve manter o olhar no rosto do interlocutor, usando a visão periférica para acompanhar os movimentos das mãos, garantindo comunicação clara e foco na interação.", "gatilho": "Durante interações de comunicação em ASL", "exemplos": ["Keep your eyes on the whole picture, from the signer’s abdomen on up to her head.", "Wanda looks into the mirror and signs short on her legs, with open mouth and wide eyes"], "ids_origem": ["ASLFD.FOCO.004", "ASLFD.FOCO.002"], "justificativa_fusao": "Ambas as candidatas envolvem o uso do olhar e expressão facial para manter foco na comunicação, seja em interação direta ou em representação de reações, sendo fenômenos complementares no controle do foco visual."}]}
+
+### pronomes lote 0
+{"regras_finais": [{"titulo": "Uso de espaço para referentes ausentes ou estabelecidos", "descricao": "Em ASL, pontos fixos no espaço são usados para representar pessoas ou coisas, presentes ou ausentes, com o mesmo ponto sendo reutilizado para o mesmo referente independentemente do gênero. Esse uso do espaço permite rastrear referentes e substituir pronomes, especialmente em contextos onde o referente já foi estabelecido ou está ausente fisicamente.", "gatilho": "Quando se refere a uma pessoa ou coisa não presente ou já estabelecida no espaço", "exemplos": ["Fingerspell 'Buddy' and point to passive hand area", "Point to a specific place in space to stand in for an absent person or thing", "THIS CHAIR (point) — PLEASE — SIT", "MANAGER — HIM (point) Q", "NO — ASSISTANT MANAGER — HIM", "B-U-D-D-Y (point) ME — TRAVEL — WILL", "CHICKEN — HAVE THEM (pontuação)"], "ids_origem": ["ASLFD.PRONOMES.002", "ASLFD.PRONOMES.011", "ASLFD.PRONOMES.012", "ASLFD.PRONOMES.014", "ASLFD.PRONOMES.007"], "justificativa_fusao": "Todas as candidatas descrevem o uso de pontos no espaço para representar referentes, seja ausentes, estabelecidos ou em referência a terceiros, com o mesmo ponto sendo reutilizado para o mesmo referente, e envolvem gestos de pontuação ou localização espacial para indicar pronomes."}]}
+
+### verbos lote 0
+{"regras_finais": [{"titulo": "Movimento direcional para sujeito e objeto", "descricao": "Verbos em ASL usam movimento direcional da mão dominante para indicar a relação entre sujeito e objeto, mesmo quando o sujeito está ausente. O movimento vai do local do sujeito para o local do objeto, criando uma representação espacial da ação.", "gatilho": "Frase com sujeito e objeto distintos, onde o sujeito está ausente", "exemplos": ["KITCHEN — WANT SEE ME", "COUCH LAMP PICTURES — NEED US"], "ids_origem": ["ASLFD.VERBOS.003"], "justificativa_fusao": ""}, {"titulo": "Sinal 'stiff' com movimento de 'freeze'", "descricao": "O sinal para 'stiff' é produzido com o mesmo movimento do sinal 'freeze', onde os dedos são dobrados lentamente, como se o corpo estivesse congelando, indicando rigidez corporal, especialmente no pescoço ou membros.", "gatilho": "Quando se descreve rigidez corporal, especialmente no pescoço ou em membros", "exemplos": ["My neck is stiff -> MY NECK — STIFF"], "ids_origem": ["ASLFD.VERBOS.012"], "justificativa_fusao": ""}, {"titulo": "Intensidade do movimento no sinal 'bleed'", "descricao": "O sinal 'bleed' é feito movendo a mão dominante para cima e para baixo rapidamente; a velocidade do movimento indica a gravidade do sangramento, sendo mais rápido em casos de hemorragia severa.", "gatilho": "Quando se descreve hemorragia ou sangramento, especialmente em contexto de emergência", "exemplos": ["Her mouth is bleeding -> MOUTH BLEEDING — HER"], "ids_origem": ["ASLFD.VERBOS.013"], "justificativa_fusao": ""}, {"titulo": "Sinal de apito para 'referee' ou 'umpire'", "descricao": "O sinal para 'referee' ou 'umpire' é feito colocando os dedos indicador e médio na boca, como se estivesse assoprando um apito, com movimento duplo, indicando a função de árbitro em competições.", "gatilho": "Frase com árbitro ou juiz em competição", "exemplos": ["The referee is watching. -> REFEREE WATCHING", "The umpire called the play. -> UMPIRE CALL PLAY"], "ids_origem": ["ASLFD.VERBOS.021"], "justificativa_fusao": ""}]}
+
+### sintaxe lote 0
+{"regras_finais": []}
+

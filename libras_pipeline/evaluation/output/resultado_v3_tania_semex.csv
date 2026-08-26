@@ -1,0 +1,9 @@
+Texto,Glosa,Estado,Fidelidade,Naturalidade,Regras,Problema,Sugestao,Esperado,Acertou,Origem
+Quando a dor começou?,DOR COMEÇAR QUANDO?,valido,Sim,Sim,TANIA.SINTAXE.1; TANIA.PERGUNTA.1,,,valido,sim,llm
+Quando a dor começou?,QUANDO DOR COMEÇAR?,invalido,Sim,Não,TANIA.PERGUNTA.1,"O item-QU (QUANDO) deve ser posicionado no final da frase como advérbio de foco, não no início.",DOR COMEÇAR QUANDO?,invalido,sim,llm
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,invalido,Sim,Não,TANIA.SINTAXE.2; TANIA.SINTAXE.3,A preposição 'PARA' é redundante/elíptica em Libras (regra TANIA.SINTAXE.2) e a estrutura de pergunta com 'PODER' não é natural; a ordem natural seria SUJ VERBO DESTINO TEMPO.,EU IR CASA HOJE,invalido,sim,llm
+Bebeu água suficiente?,BEBER ÁGUA SUFICIENTE?,valido,Sim,Sim,TANIA.SINTAXE.5,,,valido,sim,llm
+Comeu algo estranho?,COMER ESTRANHO ALGO?,invalido,Sim,Não,TANIA.SINTAXE.5,"A ordem do complemento direto está invertida; a regra exige Nome seguido de Adjetivo (ALGO ESTRANHO), não Adjetivo seguido de Nome.",COMER ALGO ESTRANHO?,invalido,sim,llm
+Pode explicar o tratamento?,PODER EXPLICAR TRATAMENTO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de perguntas de sim/não (polar) ou o uso do verbo PODER como modal.,,valido,,llm
+Posso ir para casa hoje?,EU PODER IR CASA HOJE,invalido,Sim,Não,TANIA.SINTAXE.1; TANIA.SINTAXE.2; TANIA.SINTAXE.3; TANIA.PERGUNTA.1,"Falta o item-QU (interrogativo) no final da frase, exigido para perguntas em Libras.",EU PODER IR CASA HOJE QU,valido,não,llm
+"Chamar a enfermeira, agora.",ENFERMEIRA CHAMAR AGORA,nao_coberto,Sim,Sim,,"A estrutura Objeto-Verbo (OV) para imperativos e a posição do advérbio 'AGORA' não são explicitamente cobertas pelas regras fornecidas (que focam em SVO, perguntas e locativos).",,valido,,llm

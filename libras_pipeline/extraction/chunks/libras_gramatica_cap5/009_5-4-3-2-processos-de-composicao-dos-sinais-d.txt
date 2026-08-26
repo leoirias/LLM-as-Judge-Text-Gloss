@@ -1,0 +1,109 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.4.3.2. Processos de composição dos sinais da Língua de Sinais ===
+=== TRECHO: páginas 198-200 (parte 1 de 2 do mesmo tópico) ===
+
+[p.198]
+199
+5.4.3.2. Processos de composição dos sinais da Língua de Sinais 
+brasileira
+ Em termos práticos, a composição realiza-se por duas ou mais unidades 
+justapostas, sintática e semanticamente identificadas como unidades simples, 
+sinais ou itens lexicais sinalizados. Os morfemas que participam da formação de 
+compostos são raízes, o que distingue a composição da afixação. Essas raízes são 
+frequentemente, mas nem sempre, elementos de ocorrência livre e podem estar 
+completos ou reduzidos (QUER et al., 2019, p. 170).
+Os compostos possuem várias classificações. Inicialmente, vamos distingui-
+-los entre compostos nativos e compostos não nativos.
+a) Compostos Nativos: Os compostos nativos são for-
+mados sem nenhuma interferência das línguas orais cir -
+cundantes e, do ponto de vista sintático, se dividem em 
+compostos sequenciais, coordenados ou subordinados; 
+simultâneos4. (QUER et al., 2019, p.172, 174, 175, 178, 180).
+b) Compostos Não Nativos: Os compostos não nativos 
+são aqueles constituídos por empréstimos. A composição 
+por empréstimos ocorre como resultado do contato das 
+Línguas de Sinais com as línguas orais circundantes, que 
+emprestam estruturas para aquelas, ou por empréstimos 
+de outras Línguas de Sinais (QUER et al., 2019, p.181).
+Os compostos emprestados, que também são compostos não nativos, consti-
+tuem-se de estrutura, significado e iconicidade (SANDLER; LILLO-MARTIN, 2009, 
+p.105). Toda a descrição acerca dos empréstimos segue detalhada no capítulo 3.
+Um aspecto estrutural dos compostos é o núcleo. Em compostos com núcleo, 
+uma das partes funciona como um modificador ou como complemento. Um sinal 
+composto pode ter um núcleo (quando o composto está estruturalmente assimétri-
+co, em uma relação de subordinação), não ter núcleo ou ter dois núcleos (quando 
+o composto está estruturalmente simétrico, coordenado).
+Em alguns compostos sequenciais, a forma original do sinal é mantida, 
+enquanto em outros, por características fonológicas, de redução ou assimilação, a 
+forma é reduzida. Processos de assimilação aplicam-se em um ou ambos os radicais 
+que formam o composto (QUER et al., 2019, p.172).
+Composição por subordinação: Ocorre quando o com-
+posto tem um núcleo (radical) que é modificado por um 
+morfema especificador / modificador. A categoria da uni-
+dade lexical resultante da composição é a mesma categoria 
+do núcleo. A relação entre os elementos do composto por 
+4 Quer et al. (2019) trata de compostos  semissimultâneos também. Conforme mencionado 
+na primeira nota de rodapé deste capítulo, este estudo não categoriza esse tipo de composto.
+
+[p.199]
+200
+subordinação é assimétrica, o que acarreta uma relação de 
+subordinação, semanticamente determinada. 
+Vejamos o exemplo a seguir em que (62) CASA é um núcleo que determina 
+lugar e (63) ESTUDAR/ESTUDO pode ser um verbo ou um nome especificador 
+subordinado ao núcleo. Dessa forma, o composto resultante da composição do 
+núcleo (62) CASA com (63) ESTUDAR/ESTUDO, em posição de um morfema 
+modificador do lugar, especifica o tipo de CASA a que se refere a composição, no 
+caso, (64) CASA^ESTUDAR, que equivale a escola, também lugar.
+           (62)  CASA                         (63) ESTUDAR                      (64) CASA^ESTUDAR (escola)
+b.  Composição por coordenação: Ocorre quando o 
+composto tem dois ou mais núcleos em relação simétrica, 
+de coordenação (QUER et al., 2019, p.172; SANDLER; LIL-
+LO-MARTIN, 2009, p.72),  como em (65): 
+(65) MÉDICO^OLHO (oftalmologista)
+c)  Composição por simultaneidade: Compostos si-
+multâneos ocorrem quando não têm núcleos e a realização 
+dos elementos é simultânea. Os compostos simultâneos são 
+constituídos de dois componentes articulados simultanea-
+mente pelas duas mãos, como em (66).
+https://youtu.be/PfOWxxu9LbI 
+https://youtu.be/VS8DjXWTndI 
+ https://youtu.be/2hzMtX_25sE
+ https://youtu.be/7BTEDbci4Vg 
++ =
+
+[p.200]
+201
+                       (66) UNIFORME-INES
+A composição pode ser dividida em composição por justaposição e com-
+posição por aglutinação.
+ 
+a.  Composição por justaposição: A justaposição em 
+Libras ocorre quando dois itens lexicais, ou seja, dois sinais, 
+formam uma terceira forma livre. A justaposição ocorre 
+quando os constituintes de todos os sinais que formam o 
+composto são realizados em sua totalidade na formação 
+composta, simultaneamente (quando a composição 
+ocorre com a aproximação simultânea das mãos) ou con-
+secutivamente - sequencial (quando a composição 
+ocorre com uma mão realizando um sinal após o outro), 
+sem modificação, ou seja, os dois sinais são completamente 
+sinalizados. Seguem alguns exemplos: 
+(67)  PALAVRA^PALAVRA (composição) < = > justaposição 
+simultânea
+(68)  CAVALO^LISTRA-PELO-CORPO (zebra) < = > justa-
+posição sequencial
+(69)  ÁGUA^CAMINHO (rio) < = > justaposição sequencial
+(70)  ÁGUA^CÍRCULO (lago) < = > justaposição sequencial
+(71)  ÁGUA^RETÂNGULO (piscina) < = > justaposição se-
+quencial
+(72)  ASSINAR^SEPARAR (divórcio) <=>  justaposição 
+sequencial
+ 
+Justaposição de um classificador com um item le-
+xical. Nesse processo o classificador funciona como um 
+clítico. São exemplos desse processo os sinais:
+(73)  CL-coisa-pequena^PERFURAR (alfinete);
+(74)  CL-coisa-pequena^APLICAR-NO-BRAÇO (agulha);
+(75)  DORMIR^CL-pessoa+ (alojamento).
+https://youtu.be/5pzaRum4OmU

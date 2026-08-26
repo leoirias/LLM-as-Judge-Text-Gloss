@@ -1,0 +1,123 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.2. Morfemas em Libras ===
+=== TRECHO: páginas 177-181 (2 tópicos consecutivos) ===
+
+[p.177]
+178
+Figura 1 - Léxico Nativo e Léxico Não Nativo
+ Fonte: QUADROS; KARNOPP, 2004, p.88
+ 
+O léxico mental da Língua de Sinais brasileira envolve o léxico nativo (que 
+comporta os classificadores e o léxico central da Libras) e o léxico não nativo (que 
+comporta os estrangeirismos e o alfabeto datilológico da Libras). Esse último si -
+tua-se na periferia do léxico da Libras. 
+A combinação do léxico nativo entre si, a apropriação do léxico não nativo, 
+bem como a combinação do léxico nativo com o não nativo da Língua de Sinais 
+brasileira, interagem na construção morfológica dos sinais.
+ 
+5.2. Morfemas em Libras
+Aline Lemos Pizzio, Débora Wanderley, Guilherme Lourenço, Sandra Pa-
+trícia Faria-Nascimento 
+Os morfemas, como objeto de estudo da Morfologia, possuem diversas ca -
+racterísticas; eles podem marcar gênero, número e quantificação, grau, pessoa, 
+tempo e aspecto, passando depois para aspectos sintáticos (FERREIRA-BRITO, 
+1995, p. 35) e pela derivação.
+Alguns morfemas por si só constituem sinais, outros se constituem apenas 
+como partes de sinais. A combinação e distribuição dos morfemas da Língua de 
+Sinais brasileira pode ocorrer de forma simultânea ou sequencial, como Aronoff, 
+Meier e Sandler (2005) anunciaram, ao dizerem que a estrutura morfológica das 
+Línguas de Sinais compreende sequencialidade e simultaneidade2.
+Felipe (2006) mostra que os morfemas podem ser: (i) raiz ou radical, consi-
+derando a presença do parâmetro movimento; (ii) afixos, considerando alterações 
+entre movimento e configurações de mão; ou (iii) desinências, expressas pela dire-
+cionalidade, no caso de concordância de número, de pessoa; ou pela configuração 
+de mão, no caso de gênero. A autora acrescenta que há processos morfológicos que 
+modificam a raiz: (i) modificações por adição à raiz, como é o caso da negação; e 
+2 Aronoff, Meier e Sandler (2005) afirmam que processos morfológicos simultâneos marcam 
+processos flexionais, enquanto a distribuição sequencial produz processos derivacionais. Em 
+Libras, entretanto, processos flexionais são marcados, também, pela morfologia sequencial; 
+a distribuição sequencial se aplica, também, e principalmente, à composição.
+
+[p.178]
+179
+(ii) modificações internas da raiz, como ocorre nas marcações de flexão de pessoa, 
+marcações de aspecto verbal, marcações de gênero, incorporação do numeral.
+5.2.1.  Sinais monomorfêmicos e polimorfêmicos
+Do ponto de vista da formação dos morfemas, em relação à quantidade de 
+articuladores (mãos) e à quantidade de morfemas em um sinal, os sinais podem 
+ser monomorfêmicos, constituídos de apenas um morfema, ou polimorfêmicos, 
+constituídos de vários morfemas (FARIA-NASCIMENTO, 2009, p.29-30). Há 
+várias formas de representar os sinais monomorfêmicos e polimorfêmicos. 
+Os sinais monomorfêmicos podem ser produzidos com uma mão ou com 
+duas; nesse segundo caso, com CMs duplicadas ou com CMs diferentes. O sinal (1) 
+VERDADE é realizado com as duas mãos com CMs diferentes, ou seja, é um sinal 
+monomorfêmico. Por outro lado, os sinais (2) CASA e (3) LÍNGUA-DE-SINAIS são 
+sinais monomorfêmicos realizados com as duas mãos, com a mesma CM espelhada, 
+ou seja, sinais monomorfêmicos constituídos de morfemas duplicados. 
+         (1) VERDADE                                            (2) CASA                           (3) LÍNGUA-DE-SINAIS
+Assim, um sinal realizado no mesmo espaço, simultaneamente, com as duas 
+mãos em uma mesma CM, ou seja, com a CM duplicada, de forma espelhada, é reco-
+nhecido como o mesmo morfema, ou seja, um morfema duplicado e não um outro 
+morfema. Em outras palavras, morfemas espelhados / duplicados, no espaço, não 
+são contados em duplicidade no somatório de quantidade de morfemas de um sinal. 
+Morfemas repetidos, aqueles que se repetem no tempo, sequencialmente, 
+um após outro, também não são contados duplamente. Assim, um sinal realizado 
+com as duas mãos com a mesma configuração de mão, que se repete, carrega uma 
+redundância.
+Dessa forma, quando sinais monomorfêmicos constituídos de duas mãos com 
+https://youtu.be/612eHZCr-zU 
+ https://youtu.be/EjUIH6XXCpQ
+ https://youtu.be/hNU1l9mUC5c
+
+[p.179]
+180
+a CM duplicada perdem o espelhamento, tornam-se base para formação de novos 
+sinais. O apagamento da duplicação ou da repetição, entretanto, não compromete 
+o conteúdo semântico na derivação de novos sinais, justapostos ou aglutinados, 
+resultantes da aproximação do morfema (antes duplicado) com outro morfema.
+Sinais polimorfêmicos, por sua vez, também podem ser realizados com uma 
+mão ou com mais de uma mão e são constituídos por mais de um morfema, ou 
+seja, por morfemas diferentes. 
+Morfemas lexicais podem assumir o papel de morfemas-base constituidores 
+de novos sinais. Exemplificam alguns desses tipos:
+1. Sinais monomorfêmicos articulados com uma mão, em que a CM inicial 
+e final são idênticas, como em (4) OBRIGADO e (5) SINAL.
+                            (4) OBRIGADO                (5)  SINAL
+                                                                        
+b. Sinais monomorfêmicos articulados com uma mão, em que a CM inicial 
+é diferente da CM final, como em (6) EX, (7) MÃE e (8) MUNICIPAL, ou o movi-
+mento interno da CM inicial altera a CM final, ou seja, há um movimento interno 
+da CM inicial para a CM final que a torna diferente, como em (9) ESQUECER e 
+  (6) EX
+https://youtu.be/YY7MkTYj3dY 
+https://youtu.be/kcf-hl8APwE 
+https://youtu.be/0Jp9UYoMvTQ
+
+[p.180]
+181
+(7) MÃE
+(8) MUNICIPAL
+(9) ESQUECER
+(10) MEMÓRIA
+https://youtu.be/3FXtPq6zJvs 
+https://youtu.be/4X81UWplPE4 
+https://youtu.be/NbU4ECAdg1k 
+https://youtu.be/v16tkuvo9qs
+
+[p.181]
+182
+                                                            
+c. Sinais monomorfêmicos articulados com duas mãos duplicadas, em que 
+a CM inicial e final são idênticas nas duas mãos, como em (11) QUERER e (12) 
+COMUNICAR.
+(11)  QUERER                                  (12) COMUNICAR
+d. Sinais monomorfêmicos articulados com duas mãos duplicadas, em que 
+a CM das duas mãos é idêntica, embora pareça que a CM inicial é diferente da CM 
+final. Ocorre que a CM inicial e final são a mesma; apenas o movimento interno 
+da CM é alterado, como em (13) BRASÍLIA e (14) SUMIR.
+(13)  BRASÍLIA
+(14) SUMIR
+https://youtu.be/vvLVFXbpTSM 
+https://youtu.be/Zytp4G6yC2s
+https://youtu.be/dZ7fsdhcJ9U 
+https://youtu.be/mcP0Gz50VfM

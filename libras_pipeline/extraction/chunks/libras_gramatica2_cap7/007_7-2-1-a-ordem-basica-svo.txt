@@ -1,0 +1,80 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2.1 A ordem básica SVO ===
+=== TRECHO: páginas 39-41 (parte 2 de 2 do mesmo tópico) ===
+
+[p.39]
+40
+ (32) Sentença SVO (verbo com concordância verbal).
+IX (ele)S               eleFALAReuV
+IX (ele)S eleFALAReuV
+Ele fala para mim.
+(33) Sentença SVO (verbo recíproco).
+PROFESSORS COMUNICAR-TOTALV    FRACOO
+PROFESSORS COMUNICAR-TOTALV FRACOO
+Professor comunicar-total fraco.
+https://youtu.be/LSgYtEVXdGQ
+https://youtu.be/rUayPU9O2a0
+
+[p.40]
+41
+A seguir, temos um exemplo com tópico oracional na ordem SVO seguido 
+do comentário que envolve uma estrutura subordinada também SVO:
+ 
+(34) Sentença tópico oracional SVO e subordinada sem marcação manual associada a negação.
+[IX (eu)   1EM-PÉ(fui)            AULA                                SALA
+IX (eu)] S 
+tópico      1VER3V                 SURDOO
+ALGUNS          LINGUA-DE-SINAIS                               FS (bem) NÃO
+[IX (eu) 1EM-PÉ (fui) AULA SALA IX (eu)] S
+tópico 
+1VER3V SURDOO ALGUNS LINGUA-DE-SINAIS 
+FS (bem) NÃO
+[Eu fui estudar na sala] então eu vi que alguns 
+surdos não sinalizavam bem. (usou o verbo 
+IR-EM-PÉ que é uma expressão que significa 
+ir de corpo presente, o verbo IR incorpora o 
+classificador de pessoa de pé).
+De modo geral, esses exemplos com ordem SVO são considerados mais fáceis 
+de serem produzidos e interpretados.  Eles podem ser menos marcados ou estarem 
+https://youtu.be/S2eg5ARvNXU
+
+[p.41]
+42
+associados à marcação não manual relativa ao tipo de estrutura (negação, tópico, 
+direção do olhar marcada, interrogativa, etc.). No entanto, quando as estruturas 
+não são SVO, elas sempre são marcadas.
+Todos os exemplos com verbo de concordância tendem a ter argumentos 
+nulos. Nos dados dos surdos de referência, os exemplos encontrados são como 
+este em que somente o sujeito é pronunciado e o objeto está incorporado ao verbo. 
+Com estruturas que contam com verbo com concordância é muito comum termos 
+argumentos nulos (QUADROS, 1995). Os argumentos nulos são licenciados pela 
+marcação morfológica do verbo que facilmente permite recuperar os argumentos 
+nulos. Nesse exemplo IX (ele) ele FALAR eu (IX) (eu), o argumento externo está 
+nulo. Quadros (1999) também fez vários testes e verificou que todos os exemplos 
+com argumentos pronunciados também foram considerados bons exemplos.
+7.2.2 Diferentes ordenações na Libras (interação dos tipos de 
+verbos, tipos de estrutura e marcações não manuais)
+Apesar de constatarmos que há uma ordem básica na Libras, também iden-
+tificamos outras possíveis ordenações quando há outros aspectos gramaticais em 
+jogo. Constatamos, no entanto, que as demais ordenações possíveis são produzi -
+das em contextos mais marcados, ou seja, interações dos tipos de verbos, tipos de 
+estrutura e marcações não manuais. 
+7.2.3 Tipos de verbos na Libras: impacto na ordenação dos 
+constituintes
+A seguir apresentamos exemplos identificados por Quadros (1999) e, na 
+sequência, trazemos também exemplos dos surdos que integram o Inventário Na-
+cional da Libras. Inicialmente, os exemplos estão relacionados com os tipos de 
+verbos que podem ser verbos simples (sem marcação de concordância) e verbos 
+com concordância (pessoal ou espacial), assim como verbos considerados mais 
+pesados realizados como incorporação de instrumentos (verbos manuais) e os 
+classificadores verbais. 
+ 
+OSV Quadros (1999, p. 56) (exemplos traduzidos para a Língua Portuguesa)  
+ 
+(35)
+FUTEBOL IX JOÃO [GOSTAR]movimento-cabeça
+O futebol, o João gosta.
+ 
+(36)
+*IXb bMARIA IXa aJOÃO [GOSTAR]movimento-cabeça (considerada agramatical pelos informantes)
+A Maria, o João gosta.

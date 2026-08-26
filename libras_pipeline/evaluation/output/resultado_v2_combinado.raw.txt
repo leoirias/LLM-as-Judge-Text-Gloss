@@ -1,0 +1,64 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.SINTAXE.1",
+"TANIA.PERGUNTA.1"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIBRAS.PERGUNTA.3",
+"TANIA.PERGUNTA.1"
+],
+"problema": "Interrogativos em foco devem ser duplicados na posição final da frase.",
+"sugestao": "DOR COMEÇAR QUANDO?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{"veredito":"invalido","representa_sentido":"Sim","natural_estrutura":"Não","regras":["TANIA.SINTAXE.2"],"problema":"A preposição 'PARA' é elíptica em Libras; o sinal IR já indica a direção.","sugestao":"EU PODER IR CASA HOJE"}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{"veredito":"valido","representa_sentido":"Sim","natural_estrutura":"Sim","regras":["TANIA.SINTAXE.4","TANIA.SINTAXE.5","TANIA.PERGUNTA.1"],"problema":"","sugestao":""}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{"veredito":"invalido","representa_sentido":"Sim","natural_estrutura":"Não","regras":["TANIA.SINTAXE.5"],"problema":"A ordem do complemento nominal está invertida; em Libras, o adjetivo segue o nome (NOME ADJ), não precede.","sugestao":"COMER ALGO ESTRANHO?"}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.SINTAXE.1"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.SINTAXE.1",
+"TANIA.SINTAXE.2",
+"TANIA.SINTAXE.3"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{"veredito":"valido","representa_sentido":"Sim","natural_estrutura":"Sim","regras":["TANIA.SINTAXE.3"],"problema":"","sugestao":""}
+

@@ -1,0 +1,85 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa temporal ('Quando...') e não contém pronome interrogativo (QUEM, O QUE), portanto o gatilho da regra LIVRO.PRONOMES.003 não se aplica. Não há regra na lista que prescreva a ordem ou a forma do advérbio interrogativo 'QUANDO' em Libras.",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa temporal (QUANDO) e não contém pronome interrogativo (QUEM, O QUE), portanto o gatilho da regra LIVRO.PRONOMES.003 não se aplica. Não há regras na lista que prescrevam a ordem ou a presença de marcadores específicos para interrogativas temporais com 'quando'.",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.SINTAXE.043",
+"LIVRO.PRONOMES.005"
+],
+"problema": "A preposição 'PARA' não deve aparecer na glosa quando o verbo de movimento já expressa a direção (LIVRO.SINTAXE.043) e o pronome pessoal 'eu' deve ser representado pela etiqueta IX (LIVRO.PRONOMES.005).",
+"sugestao": "IX (eu) PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa sim (sim/não) e não contém pronome interrogativo (QU), sujeito explícito ou marcadores de negação/causalidade cobertos pelas regras listadas. A estrutura SVO (BEBER ÁGUA SUFICIENTE) é a ordem básica, mas não há regra específica que exija ou proíba a omissão do sujeito nesta construção interrogativa específica na base fornecida.",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa simples com objeto indefinido ('algo') e adjetivo ('estranho'). Não há regras na lista que prescrevam a ordem específica de adjetivos e objetos indefinidos em interrogativas, nem a exigência de numeral 1 para 'algo' (que é um pronome indefinido, não um nome comum no sentido estrito da regra LIVRO.PRONOMES.002, e a regra não é explícita para pronomes indefinidos como 'algo' vs substantivos). A estrutura proposta é plausível e não viola nenhuma regra obrigatória listada.",
+"sugestao": ""
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa de sim/não (polar) e a glosa apresenta a estrutura SVO básica. Nenhuma regra da lista especifica a marcação obrigatória de interrogativas polares (como a posição de IX ou marcadores não-manuais que não aparecem na glosa) nem exige a presença de um pronome interrogativo (que não existe nesta frase).",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.PRONOMES.005"
+],
+"problema": "O pronome pessoal 'eu' deve ser representado pela etiqueta IX (eu), não pela etiqueta EU.",
+"sugestao": "IX (eu) PODER IR CASA HOJE"
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A ordem OSV (Objeto-Sujeito-Verbo) com objeto inanimado é gramatical (LIVRO.SINTAXE.007), mas a frase não possui sujeito realizado (sujeito nulo/implícito 'eu'), o que não é coberto explicitamente pelas regras de ordem para esta configuração específica de sujeito nulo + objeto inanimado + verbo simples. A glosa é plausível, mas a base de regras não permite validar ou reprovar a estrutura sintática exata com segurança.",
+"sugestao": ""
+}
+

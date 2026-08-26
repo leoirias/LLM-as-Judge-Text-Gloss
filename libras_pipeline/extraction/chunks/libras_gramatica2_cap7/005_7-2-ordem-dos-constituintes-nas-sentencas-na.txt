@@ -1,0 +1,107 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2 Ordem dos constituintes nas sentenças na Libras ===
+=== TRECHO: páginas 30-32 ===
+
+[p.30]
+31
+3. O artigo indefinido não específico – marca não manual conhe-
+cida como boca-de-ferradura.
+(16)
+                    (16)
+  
+Nesse último exemplo, em (16), vemos que quando o artigo indefinido não 
+específico se espraia sobre o nome, ele obriga a leitura de não especificidade e não 
+permite mais a antiga leitura do advérbio de negação (epistêmica), de onde pro -
+vavelmente este artigo se gramaticalizou em Libras. Ou seja, de fato, quando esse 
+artigo se espraia sobre qualquer nome em posição argumental, a leitura da MNM 
+de boca-de-ferradura é a de um artigo indefinido marcado para não especificidade, 
+o que é tipologicamente raro nas línguas do mundo.
+7.2 Ordem dos constituintes nas sentenças na Libras 
+Miriam Royer e Ronice Müller de Quadros 
+Neste capítulo, vamos apresentar os diferentes tipos de estruturas que com-
+põem a formação de sentenças na Libras. Entre as estruturas analisadas, apresen-
+taremos como em Libras são realizadas declarativas simples, interrogativas simples 
+– sejam interrogativas polares (sim/não) – ou de conteúdo (interrogativas QU-), 
+topicalizações e construções com foco. Discutiremos também sentenças declara -
+tivas complexas, tais como orações explicativas, temporais, causais, adversativas, 
+negativas e condicionais.
+As unidades sintáticas analisadas neste capítulo envolvem pelo menos um 
+verbo que pode selecionar argumentos internos e externos, realizando estruturas 
+com sujeito, verbo e objeto, no caso de sentenças transitivas. Há também senten-
+ças bitransitivas, em que o verbo seleciona dois objetos. Já as unidades sintáticas 
+que compõem as sentenças complexas, ou seja, que possuem mais de uma oração,
+
+[p.31]
+32
+podem envolver sentenças coordenadas e/ou subordinadas. 
+O trabalho de segmentação das sentenças para esta gramática foi realizado 
+considerando-se vários elementos prosódicos e também marcadores não manuais, 
+tais como: piscar dos olhos, movimentos de cabeça, movimentos do corpo, alter-
+nância dos espaços marcados e pausas. Esses parâmetros têm sido adotados para 
+análises também de outras Línguas de Sinais – ver, por exemplo –, Tang e Lau 
+(2012). Além disso, utilizamos o software ELAN para a transcrição e anotação das 
+sentenças retiradas do Corpus de Libras e recorreremos a exemplos criados pelos 
+autores, quando necessário. 
+As unidades sintáticas representam unidades sintáticas mais restritas e 
+podem ser combinadas para produzir uma sentença complexa. Dependendo do 
+tópico abordado, usamos a unidade sintática específica ou a combinação de uni -
+dades sintáticas para apresentar exemplos de sentenças complexas. Por exemplo, 
+sentenças podem ser compostas por tópico e comentário que podem conter pelo 
+menos duas unidades sintáticas.
+ 
+(19) 
+        [TEMPO-ATRÁS             Área                        GRUPO                         ÁREA                        DELE
+ 
+                                      Período] top              USAR                SINAL                       VERDE
+[TEMPO-ATRÁS Área GRUPO Área DELE 
+Período] top USAR SINAL VERDE
+[Há tempo atrás, o grupo dele, naquele período]
+top, usava o sinal de VERDE (variante do INES 
+desta época).
+Este exemplo tem duas unidades sintáticas: a primeira que compreende 
+o tópico:
+ 
+https://youtu.be/-obBa2JX_1Q
+
+[p.32]
+33
+ [TEMPO-ATRÁS Área GRUPO Área DELE Período] top
+ 
+E a segunda unidade sintática que compreende o comentário:
+ 
+        USAR SINAL VERDE
+Assim, nesta seção usaremos como referência as unidades sintáticas para a 
+análise da estrutura da frase na Libras.
+ Ao tratarmos da estrutura da sentença em Libras, um conceito importante 
+é o de ordem básica da frase. A Libras, assim como atestado para outras Línguas 
+de Sinais, aparenta ter diferentes possibilidades de ordenação dos sinais na frase, 
+o que poderia indicar que a Libras é uma língua de ordem livre. Contudo, dife -
+rentes trabalhos têm argumentado (FERREIRA-BRITO, 1995; QUADROS, 1999; 
+QUADROS e KARNOPP, 2004; ROYER, 2019; LOURENÇO e QUADROS, 2020) 
+que, apesar dessa aparente flexibilidade, há uma ordem subjacente – e, portanto, 
+básica – que é responsável por derivar todas as outras possibilidades na língua. 
+Assim, a ordem básica da frase em Libras é Sujeito-Verbo-Objeto, doravante SVO. 
+Além da ordem básica SVO, outras ordens (SOV, OSV e VOS) também são possíveis 
+em Libras, mas são resultantes de operações e contextos sintáticos específicos. 
+7.2.1 A ordem básica SVO
+As primeiras descrições sobre a ordem dos sinais em Libras foram feitas 
+por Felipe (1989) e por Ferreira-Brito (1995). Essas autoras já afirmavam que, 
+aparentemente, havia uma ordem predominante dos sinais nas sentenças: a ordem 
+SVO. Quadros (1999), por sua vez, a partir do emprego de diversos testes sintáti-
+cos, apresenta uma descrição mais detalhada da estrutura frasal em Libras e traz 
+evidências de que a ordem SVO não se trata apenas de uma ordem predominante, 
+mas sim, da ordem subjacente da estrutura sintática em Libras. Além disso, os 
+demais ordenamentos possíveis nessa língua são derivados dessa ordem básica a 
+partir de distintas operações sintáticas.
+A análise de que a Libras é uma língua SVO vem sendo reafirmada em di -
+ferentes trabalhos, desde então, (QUADROS e KARNOPP, 2004; QUADROS e 
+LILLO-MARTIN; ROYER, 2019; LOURENÇO, 2014, 2018; LOURENÇO e QUA-
+DROS, 2020). Sendo que, mais recentemente, Royer (2019), a partir da análise dos 
+dados do Corpus de Libras dos surdos da Grande Florianópolis5, trouxe evidências 
+adicionais para essa análise ao constatar que realmente a ordem SVO é o ordena-
+mento predominante em sentenças transitivas que possuem tanto o sujeito quanto 
+o objeto realizado na sentença.
+5 As produções de surdos da Grande Florianópolis fazem parte do projeto Inventário Na -
+cional de Libras (Quadros, 2016a, 2016b; Quadros e Leite, 2013; Quadros et al. 2017a; 
+2017b; Quadros et al. 2019) e integra o acervo do Corpus de Libras, disponível em:  www.
+corpuslibras.ufsc.br.

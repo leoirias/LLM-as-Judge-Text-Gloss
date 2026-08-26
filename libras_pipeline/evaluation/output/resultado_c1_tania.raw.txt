@@ -1,0 +1,368 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.002",
+"TANIA.M.003"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.002"
+],
+"problema": "O item QU (QUANDO) deve aparecer no final da sentença, não no início.",
+"sugestao": "DOR COMEÇAR QUANDO?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.001"
+],
+"problema": "A preposição locativa 'PARA' não deve aparecer na glosa, pois é realizada pelo movimento do verbo.",
+"sugestao": "EU PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.003",
+"TANIA.M.004"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.004"
+],
+"problema": "O adjetivo 'estranho' deve vir depois do nome 'algo' (NOME ADJETIVO), não antes.",
+"sugestao": "COMER ALGO ESTRANHO?"
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.005"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.001",
+"TANIA.M.005",
+"TANIA.M.007"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.009",
+"TANIA.M.007"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### De menino -> MENINO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase 'De menino' é um fragmento nominal/locativo sem verbo principal ou estrutura sintática completa que permita aplicar as regras de sintaxe, verbos ou pronomes listadas. A glosa MENINO é a tradução direta do substantivo, mas a ausência de regras para preposições não-locativas ou fragmentos impede a validação formal.",
+"sugestao": ""
+}
+
+### De menino -> DE MENINO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de frases nominais curtas ou a preposição 'DE' neste contexto.",
+"sugestao": ""
+}
+
+### Por aqui -> AQUI
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre especificamente a estrutura de advérbios de lugar ou a omissão de preposições de modo (por).",
+"sugestao": ""
+}
+
+### A mulher -> MULHER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a omissão do artigo definido 'A' ou a estrutura nominal simples.",
+"sugestao": ""
+}
+
+### A mulher -> A MULHER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas aborda o uso de artigos definidos (A/O) ou a estrutura nominal simples 'A MULHER'.",
+"sugestao": ""
+}
+
+### Os meus filhos -> MEUS FILHOS
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de possessivos ou a omissão do artigo definido 'Os' nesta frase nominal.",
+"sugestao": ""
+}
+
+### Os dois porcos -> DOIS PORCOS
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de numerais ou substantivos simples sem modificadores adjetivos ou verbais.",
+"sugestao": ""
+}
+
+### A presidente -> PRESIDENTE MULHER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de substantivo composto ou a marcação de gênero via sinal 'MULHER' após o título.",
+"sugestao": ""
+}
+
+### A presidente -> MULHER PRESIDENTE
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura nominal 'MULHER PRESIDENTE' ou a especificação de gênero/título nesta frase.",
+"sugestao": ""
+}
+
+### O artista -> ARTISTA HOMEM
+{
+"veredito": "invalido",
+"representa_sentido": "Não",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.004"
+],
+"problema": "A glosa adiciona o sinal HOMEM, que não está presente na frase original 'O artista', alterando o sentido. Além disso, se houvesse um adjetivo, ele viria depois do nome, mas aqui é uma adição indevida de informação.",
+"sugestao": "ARTISTA"
+}
+
+### Bebo água -> BEBER ÁGUA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "",
+"sugestao": ""
+}
+
+### Bebo água -> BEBO ÁGUA
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de frase declarativa simples com sujeito nulo e objeto direto sem modificadores.",
+"sugestao": ""
+}
+
+### Ontem trabalhei -> ONTEM TRABALHAR
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.008"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Vi ontem -> VER ONTEM
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.003",
+"TANIA.M.007"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Estudarei Libras -> ESTUDAR LIBRAS FUTURO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a marcação de tempo futuro (FUTURO) ou a estrutura específica de afirmação simples com sujeito nulo e objeto próprio.",
+"sugestao": ""
+}
+
+### Estudarei Libras -> ESTUDAREI LIBRAS
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a marcação de tempo futuro (sufixo -ei) ou a estrutura simples Sujeito Nulo + Verbo + Objeto sem modificadores específicos.",
+"sugestao": ""
+}
+
+### Aprenderam português -> APRENDER PORTUGUÊS PASSADO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a marcação de aspecto verbal (passado) ou a estrutura específica de sujeito nulo com objeto direto nesta frase.",
+"sugestao": ""
+}
+
+### Não ter -> NÃO_TER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de negação ou a forma de verbos modais/auxiliares isolados como 'ter' neste contexto.",
+"sugestao": ""
+}
+
+### Não conhecer -> NÃO_CONHECER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de negação ou a ordem de verbos simples sem modificadores específicos.",
+"sugestao": ""
+}
+
+### Não bonito -> NÃO_BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de negação ou a ordem de adjetivo/nome nesta frase específica.",
+"sugestao": ""
+}
+
+### Lindo demais -> MUITO_LINDO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de adjetivo predicativo ou a ordem de advérbio de intensidade com adjetivo.",
+"sugestao": ""
+}
+
+### Muito bonito -> MUITO_BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de adjetivos predicativos ou a fusão de sinais (MUITO_BONITO).",
+"sugestao": ""
+}
+
+### Bem demais -> MUITO_BEM
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de advérbios de intensidade ou a ordem de advérbio + adjetivo nesta frase.",
+"sugestao": ""
+}
+
+### Trabalhar muito -> TRABALHAR_MUITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de advérbio de intensidade (muito) ou a ordem verbo-advérbio nesta frase.",
+"sugestao": ""
+}
+
+### Você é bonito -> VOCÊ BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de frases copulativas (verbo ser) ou a ordem sujeito-predicado adjetival simples sem modificadores específicos.",
+"sugestao": ""
+}
+
+### Você é bonito -> VOCÊ SER BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de frases copulativas (verbo SER) ou a ordem sujeito-verbo-adjetivo para este caso específico.",
+"sugestao": ""
+}
+

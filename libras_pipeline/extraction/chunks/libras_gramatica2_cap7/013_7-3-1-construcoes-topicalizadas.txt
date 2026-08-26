@@ -1,0 +1,120 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.3.1 Construções topicalizadas ===
+=== TRECHO: páginas 69-74 (parte 1 de 2 do mesmo tópico) ===
+
+[p.69]
+70
+(96)  [FUTEBOL]top [JOÃO GOSTAR] s/n
+                          De futebol, o João gosta?
+Outra característica de construções topicalizadas é a de que quando o item é 
+topicalizado, é necessário mover todo o constituinte para a posição inicial da sen-
+tença, conforme observamos no exemplo a seguir. Observe que todo o constituinte 
+[PRIMO IX (eles), ALGUNS CODA] é movido para a posição inicial da sentença.
+(97)
+           [PRIMO                                                  IX(eles)                           ALGUNS            CODA]tópico
+         IX (eu)                 LÍNGUA-DE-SINAIS                                  NORMAL                          SÓ
+[PRIMO IX (eles), ALGUNS CODA] tópico IX (eu)  
+LÍNGUA-DE-SINAIS NORMAL SÓ
+[Meus primos, alguns Codas], eu sinalizava  
+[com eles] normalmente.
+Além da topicalização do objeto, outros itens da sentença também podem 
+ser topicalizados, por exemplo, advérbios. Veja o exemplo abaixo:
+https://youtu.be/l_GTZo0TxRI
+
+[p.70]
+71
+(98) Sentença com o advérbio topicalizado. 
+[AGORA]tópico               IX (eu)          37
+[AGORA]tópico IX (eu) 37
+Agora, estou com 37 anos.
+Outros exemplos de topicalização encontrados no Corpus de Libras são apre-
+sentados a seguir:  
+    (99)
+[ALGUNS UM ALGUNS] tópico                               SABER         LÍNGUA-DE-SINAIS
+[ALGUNS UM ALGUNS] tópico SABER LÍNGUA-
+-DE-SINAIS
+Alguns sabem Língua de Sinais.
+                           Fonte: Royer (2019, p. 131).
+https://youtu.be/vTXDvxSgdUQ
+https://youtu.be/oa4jcBLxJC4
+
+[p.71]
+72
+(100)
+                                [[IX (ifsc)                      TER                    UM                     NOVO] tópico 
+IX (intérprete) INTÉRPRETE
+[IX (ifsc) TER UM NOVO] tópico IX (intérprete) 
+INTÉRPRETE
+O IFSC tem um novo intérprete.
+Fonte: Royer (2019, p. 131).
+ 
+(101) Sentença com tópico oracional.
+          [TEMPO-ATRÁS         Área             GRUPO             Área                  DELE
+https://youtu.be/ccxbgF_C9f4
+
+[p.72]
+73
+Período] top        USAR             SINAL                    VERDE
+[TEMPO-ATRÁS Área GRUPO Área DELE 
+Período] top USAR SINAL VERDE
+[Há tempo atrás, o grupo dele, naquele período] 
+top, usava o sinal de VERDE (variante do INES 
+desta época).
+(102) Sentença com tópico oracional.
+[PRIMEIRO                     IX (eu) LÍNGUA  É
+                   LÍNGUA-DE-SINAIS                          NATURAL] tópico               SINALIZAR+
+[PRIMEIRO IX (eu) LÍNGUA É  
+LÍNGUA-DE-SINAIS  
+NATURAL] tópico SINALIZAR+
+A minha primeira língua é a Língua de Sinais,  
+daí sinalizo sempre.
+https://youtu.be/ILE3M6AUWTo
+https://youtu.be/42lX6bPbKpQ
+
+[p.73]
+74
+(103) Sentença tópico oracional SVO e hipotaxe sem marcação manual associada à negação.
+            X(eu) 1EM-PÉ (fui) AULA                               SALA] tópico
+              IX (eu)                                 1VER3                                                        SURDO
+      ALGUNS                   LINGUA-DE-SINAIS                               FS(bem)                              NÃO    
+[IX (eu) 1EM-PÉ (fui) AULA SALA] tópico IX (eu) 
+1VER3 
+SURDO ALGUNS LINGUA-DE-SINAIS FS (bem) 
+NÃO
+[Eu fui estudar na sala] então eu vi que alguns 
+surdos não sinalizavam bem. (usou o verbo 
+IR-EM-PÉ que é uma expressão que significa 
+ir de corpo presente, o verbo IR incorpora o 
+classificador de pessoa de pé).
+https://youtu.be/pUMLpH4HAw0
+
+[p.74]
+75
+  (104) Sentença com tópico associada oração temporal
+        ENTÃO [MATEMÁTICA]tópico    IX (eu)         PROFESSOR                    1ENSINAR3 IX(eu) 
+                JÁ                      ANOS          ESCOLA-SANTA-TERESINHA              IX (esse)
+ENTÃO [MATEMÁTICA]tópico IX (eu) PROFESSOR 
+1ENSINAR3 IX (eu) JÁ ANOS ESCOLA-SANTA-
+TERESINHA IX (esse)
+Matemática, eu era professor e ensinava há muitos 
+anos Escola Santa Teresinha.
+Além das construções topicalizadas apresentadas acima, em que há o movi-
+mento de um elemento da frase para a posição inicial da sentença, há ainda duas 
+outras construções que também envolvem essa posição inicial e possuem algumas 
+características semelhantes com a topicalização.9 As sentenças com tópicos gerados 
+na base, também chamadas de sentenças com tópico suspenso (hanging topic), e 
+as orações com deslocamento à esquerda (left dislocation). Apesar de semelhan -
+tes, porém essas construções apresentam diferenças em sua estrutura sintática 
+(WILBUR, 2012).
+Sentenças com tópico suspenso são aquelas em que o elemento na posição 
+inicial, a posição de tópico, não está integrado sintaticamente à oração principal, 
+apenas semanticamente. Nessas construções, esse elemento é gerado já na posição 
+de tópico, não havendo, portanto, alçamento de nenhum constituinte da oração 
+para essa posição inicial. É interessante observar também que a relação semântica 
+do tópico suspenso se dá com algum elemento da oração principal e essa relação 
+pode ser, por exemplo, uma relação de subcategorização ou de hiperonímia. Veja 
+9 As construções com tópico suspenso e as construções com deslocamento à esquerda fre-
+quentemente marcam elementos que são, efetivamente, tópicos. Porém, é preciso destacar 
+que essa posição inicial também pode carregar elementos que possuem estrutura informa-
+cional de foco (WILBUR, 2012), conforme veremos a seguir nas construções focalizadas.
+https://youtu.be/wyUFfDXvgbI

@@ -1,17 +1,19 @@
-# Etapa 2 parte 2 — fusão de candidatas duplicadas (voice2sign) por categoria.
+# Etapa 2 parte 2 — fusão de candidatas duplicadas por categoria.
+# Roda pro grupo voice2sign (default) ou sign2voice (--group sign2voice) —
+# io é sempre output/<group>_candidatas.csv -> output/<group>_final.csv.
 #
-# Mesmo modelo da extração (Qwen3-30B-A3B-Instruct-2507, non-thinking,
+# Mesmo modelo da extração (Qwen3.8-27B, denso, thinking desligado,
 # determinístico). max_new_tokens mais alto que a extração porque a lista
 # consolidada cresce a cada rodada (carrega o estado inteiro pra frente).
 
 model:
-  name: qwen3-30b-a3b-instruct-2507
-  model_id: Qwen/Qwen3-30B-A3B-Instruct-2507
+  name: qwen3.8-27b
+  model_id: Qwen/Qwen3.8-27B
   dtype: bfloat16
   device_map: cuda
 
 generation:
-  enable_thinking: false
+  enable_thinking: false      # thinking desligado de propósito (ver llm.py)
   max_new_tokens: 8000
   do_sample: false
   temperature: 0.0
@@ -19,7 +21,3 @@ generation:
 
 id_prefix: LIBRAS
 lote_tamanho: 15   # candidatas novas por rodada de fusão
-
-io:
-  input: output/voice2sign_candidatas.csv
-  output: output/voice2sign_final.csv

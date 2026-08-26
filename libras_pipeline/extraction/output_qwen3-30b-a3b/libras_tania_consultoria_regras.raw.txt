@@ -1,0 +1,159 @@
+### p.0-5
+{"rules": [
+  {
+    "categoria": "sintaxe",
+    "titulo": "Ordem Sujeto-Predicado em Libras",
+    "descricao": "A estrutura básica da frase em Libras é Sujeto (SUJ) seguido de Predicado (PRED), com o sujeito geralmente expresso por um pronome (IX) ou nome próprio, e o predicado iniciado por um verbo direcional ou intransitivo.",
+    "gatilho": "frase com sujeito e predicado em contexto de comunicação direta",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "PODER EXPLICAR TRATAMENTO",
+      "EU PODER IR CASA HOJE",
+      "DOR COMEÇAR QUANDO?",
+      "COMER ALGO ESTRANHO?",
+      "BEBER ÁGUA SUFICIENTE?",
+      "ENFERMEIRA CHAMAR AGORA"
+    ],
+    "fonte_pagina": "p.0",
+    "fonte_citacao": "S   → SUJ PRED"
+  },
+  {
+    "categoria": "verbos",
+    "titulo": "Verbo direcional com concordância espacial",
+    "descricao": "Verbos direcionais em Libras exigem concordância com o sujeito e objeto no espaço, onde o movimento do sinal indica a direção entre os participantes da ação. O pronome IX é usado para indicar o destinatário do verbo.",
+    "gatilho": "verbo direcional com sujeito e objeto localizáveis no espaço",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "EXPLICAR-ME (IX1) (IX2)",
+      "EXPLICAR-ME (IX2 / você)"
+    ],
+    "fonte_pagina": "p.0",
+    "fonte_citacao": "Em Libras, os marcadores de polidez podem vir marcadas com as expressões não manuais (ENM) de solicitação (corpo levemente inclinado à frente, expressão facial de pedido/polidez) adjungidas aos sinais PODER, QUERER, POR FAVOR. Por isso, nestes casos os marcadores POR FAVOR, COM LICENÇA podem ficar fora da árvore nuclear, como um elemento discursivo de polidez. ➢ Outro ponto importante, é o verbo estar associado a um tipo de IX (pronome), como é o caso do verbo EXPLICAR em que IX 2explicarIX1 que representa a direcionalidade do verbo em direção ao sinalizante que solicita a explicação (“para mim”). Nesses casos, o pronome também pode estar incorporado morfologicamente ao verbo direcional."
+  },
+  {
+    "categoria": "morfologia",
+    "titulo": "Incorporação de pronome ao verbo direcional",
+    "descricao": "O pronome pode ser incorporado morfologicamente ao verbo direcional, tornando o sinal mais compacto e natural, especialmente em estruturas com direcionalidade clara (ex: EXPLICAR-ME).",
+    "gatilho": "verbo direcional com pronome de objeto direto (IX) no espaço",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "EXPLICAR-ME"
+    ],
+    "fonte_pagina": "p.0",
+    "fonte_citacao": "Nesses casos, o pronome também pode estar incorporado morfologicamente ao verbo direcional."
+  },
+  {
+    "categoria": "sintaxe",
+    "titulo": "Elipse da preposição locativa em 'IR CASA'",
+    "descricao": "A preposição locativa 'para' é elíptica em Libras e não aparece na glosa; o movimento do sinal 'IR' já indica a direção, tornando a preposição redundante.",
+    "gatilho": "verbo 'IR' seguido de substantivo de local (ex: CASA)",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "IR CASA"
+    ],
+    "fonte_pagina": "p.2",
+    "fonte_citacao": "IR CASA é tratado como um OBJIND com preposição locativa elíptica [PARA] , isto é, a preposição PARA sempre será nula em Libras , ela é “presente” na realização do movimento, por isso, nunca aparecerá na glosa."
+  },
+  {
+    "categoria": "sintaxe",
+    "titulo": "Posição do advérbio de tempo em relação ao verbo e ao objeto",
+    "descricao": "O advérbio de tempo (ex: HOJE) pode ser posicionado após o verbo ou no nível do objeto, dependendo de se ele modifica o evento verbal ou o destino locativo. Se modifica o destino, pode ser tratado como adjunto nominal (ADJN).",
+    "gatilho": "advérbio de tempo (ex: HOJE) em frase com verbo de movimento e objeto locativo",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "EU PODER IR CASA HOJE"
+    ],
+    "fonte_pagina": "p.2",
+    "fonte_citacao": "No entanto, nestes casos o HOJE não modifica o evento verbal (ir) e sim o destino locativo (casa) . Então, considerando que em Libras é possível sentenças do tipo EU CASA HOJE ( Eu estou em casa hoje ), embora, HOJE pertença à classe lexical dos advérbios, ele também poderá ser projetado na árvore como um nó ADJN."
+  },
+  {
+    "categoria": "pergunta",
+    "titulo": "Item-QU como advérbio de foco em perguntas",
+    "descricao": "Em perguntas com item-QU (QUANDO, ONDE, QUAL, etc.), o elemento QU é tratado como um advérbio de foco (ADJV) que se posiciona no final da frase, indicando o que está sendo perguntado.",
+    "gatilho": "frase interrogativa com item-QU no final",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "DOR COMEÇAR QUANDO?",
+      "COMER ALGO ESTRANHO?",
+      "BEBER ÁGUA SUFICIENTE?"
+    ],
+    "fonte_pagina": "p.3",
+    "fonte_citacao": "o item QU (QUANDO , QUAL, ONDE) e demais , que aparecem no final da sentença, sempre ocupará a função de um ADJV ( Advérbio) que é o foco da interrogação."
+  },
+  {
+    "categoria": "sintaxe",
+    "titulo": "Estrutura de perguntas com sujeito nulo ou pronome IX",
+    "descricao": "Em perguntas com item-QU, o sujeito pode ser nulo ou expresso por um pronome IX, especialmente quando o foco está no verbo ou no complemento.",
+    "gatilho": "frase interrogativa com item-QU e sujeito implícito ou expresso por IX",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "COMER ALGO ESTRANHO?",
+      "BEBER ÁGUA SUFICIENTE?"
+    ],
+    "fonte_pagina": "p.3",
+    "fonte_citacao": "SUJ → Nul ou IX"
+  },
+  {
+    "categoria": "sintaxe",
+    "titulo": "Complemento direto como nome com adjetivo",
+    "descricao": "O complemento direto em Libras é formado por um nome (NOME) que pode ser acompanhado por um adjetivo (ADJN), onde o adjetivo é projetado como um nó adjunto nominal (ADJN) ao nome.",
+    "gatilho": "complemento direto com nome e adjetivo (ex: ALGO ESTRANHO, ÁGUA SUFICIENTE)",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "ALGO ESTRANHO",
+      "ÁGUA SUFICIENTE"
+    ],
+    "fonte_pagina": "p.3",
+    "fonte_citacao": "NOME → ADJN"
+  },
+  {
+    "categoria": "sintaxe",
+    "titulo": "Verbo intransitivo com direcionalidade implícita",
+    "descricao": "Verbos intransitivos em Libras podem ter direcionalidade implícita, onde o movimento do sinal indica o alvo da ação, mesmo sem um complemento explícito.",
+    "gatilho": "verbo intransitivo com movimento direcional (ex: CHAMAR)",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "ENFERMEIRA CHAMAR"
+    ],
+    "fonte_pagina": "p.4",
+    "fonte_citacao": "O verbo CHAMAR está na forma intransitiva, isso porque ele assume a direção sobre algo ou alguém que está sendo “chamado”."
+  },
+  {
+    "categoria": "sintaxe",
+    "titulo": "Flexibilidade na ordem de advérbio de tempo",
+    "descricao": "O advérbio de tempo (ex: AGORA) pode ser posicionado após o verbo ou no início da frase, com mudanças na estrutura sintática, mantendo a naturalidade da comunicação.",
+    "gatilho": "advérbio de tempo em frase com verbo intransitivo",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "ENFERMEIRA CHAMAR AGORA",
+      "AGORA ENFERMEIRA CHAMAR"
+    ],
+    "fonte_pagina": "p.4",
+    "fonte_citacao": "➔ A ordem AGORA ENFERMEIRA CHAMAR também pode ser válida , nesse caso haverá mudança na estrutura."
+  },
+  {
+    "categoria": "pronomes",
+    "titulo": "Uso de IX para indicar sujeito ou objeto em estruturas direcionais",
+    "descricao": "O pronome IX (apontação) é usado para indicar sujeito ou objeto em estruturas direcionais, especialmente em verbos que exigem concordância espacial.",
+    "gatilho": "verbo direcional com sujeito ou objeto localizável no espaço",
+    "verificavel_por_texto": false,
+    "exemplos": [
+      "IX2 / você",
+      "IX1"
+    ],
+    "fonte_pagina": "p.0",
+    "fonte_citacao": "IX 2explicarIX1 que representa a direcionalidade do verbo em direção ao sinalizante que solicita a explicação (“para mim”) "
+  },
+  {
+    "categoria": "tempo-aspecto",
+    "titulo": "Advérbio de tempo como adjunto nominal em estruturas locativas",
+    "descricao": "Advérbios de tempo (ex: HOJE) podem ser projetados como adjuntos nominais (ADJN) quando se referem ao destino locativo, não ao evento verbal, permitindo maior flexibilidade na estrutura da frase.",
+    "gatilho": "advérbio de tempo em frase com objeto locativo (ex: CASA HOJE)",
+    "verificavel_por_texto": true,
+    "exemplos": [
+      "EU CASA HOJE"
+    ],
+    "fonte_pagina": "p.2",
+    "fonte_citacao": "embora, HOJE pertença à classe lexical dos advérbios, ele também poderá ser projetado na árvore como um nó ADJN."
+  }
+]}

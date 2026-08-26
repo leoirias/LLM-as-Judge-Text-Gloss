@@ -1,0 +1,382 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.002"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.002"
+],
+"problema": "O item interrogativo QU (QUANDO) deve aparecer na posição final da sentença, não no início.",
+"sugestao": "DOR COMEÇAR QUANDO?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.001",
+"LIVRO.SINTAXE.043"
+],
+"problema": "A preposição locativa 'PARA' não deve aparecer na glosa; a direção é expressa pelo movimento do verbo.",
+"sugestao": "EU PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.003",
+"TANIA.M.004"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.004"
+],
+"problema": "O adjetivo 'estranho' deve vir depois do nome que modifica ('algo'), não antes.",
+"sugestao": "COMER ALGO ESTRANHO?"
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.005",
+"TANIA.M.003"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.001",
+"TANIA.M.005",
+"TANIA.M.007"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.009",
+"LIVRO.SINTAXE.007"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### De menino -> MENINO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase 'De menino' é uma expressão nominal/locativa fragmentada. Nenhuma das regras listadas especifica a estrutura sintática para preposições de origem ('de') ou a glosa específica para este fragmento isolado, apenas a omissão de preposições locativas em verbos de movimento (TANIA.M.001/LIVRO.SINTAXE.043), o que não se aplica aqui.",
+"sugestao": ""
+}
+
+### De menino -> DE MENINO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a estrutura gramatical da expressão 'De menino' (preposição + substantivo) ou a omissão de preposições não-locativas.",
+"sugestao": ""
+}
+
+### Por aqui -> AQUI
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre especificamente a omissão da preposição 'por' em locuções adverbiais de lugar como 'por aqui'.",
+"sugestao": ""
+}
+
+### A mulher -> MULHER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é um sintagma nominal simples ('A mulher') e as regras fornecidas não especificam a realização do artigo definido 'A' (se por apontação IX ou nulo) para substantivos comuns isolados, apenas para contextos anafóricos específicos ou indefinidos.",
+"sugestao": ""
+}
+
+### A mulher -> A MULHER
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.PRONOMES.001"
+],
+"problema": "O artigo definido 'A' não é um sinal lexical em Libras; a definitude é marcada por apontação (IX) pré-nominal.",
+"sugestao": "IX MULHER"
+}
+
+### Os meus filhos -> MEUS FILHOS
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para possessivos (pronomes possessivos + substantivo) ou a omissão do artigo definido 'os' neste contexto.",
+"sugestao": ""
+}
+
+### Os dois porcos -> DOIS PORCOS
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.MORFOLOGIA.001"
+],
+"problema": "O plural de 'porcos' deve ser marcado por repetição sequencial do sinal (PORCO+++), não apenas pela presença do numeral DOIS.",
+"sugestao": "DOIS PORCO+++"
+}
+
+### A presidente -> PRESIDENTE MULHER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a estrutura morfológica ou sintática para o substantivo 'presidente' ou a marcação de gênero feminino em cargos.",
+"sugestao": ""
+}
+
+### A presidente -> MULHER PRESIDENTE
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a estrutura ou o sinal para o título 'presidente' ou a combinação com gênero.",
+"sugestao": ""
+}
+
+### O artista -> ARTISTA HOMEM
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para o substantivo 'artista' ou a adição de 'HOMEM' como especificador de gênero.",
+"sugestao": ""
+}
+
+### Bebo água -> BEBER ÁGUA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.003"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Bebo água -> BEBO ÁGUA
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre especificamente a estrutura de sentenças simples com sujeito nulo e verbo intransitivo/transitivo sem marcadores de tempo ou aspecto.",
+"sugestao": ""
+}
+
+### Ontem trabalhei -> ONTEM TRABALHAR
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.008"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Vi ontem -> VER ONTEM
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.003",
+"TANIA.M.007"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Estudarei Libras -> ESTUDAR LIBRAS FUTURO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a marcação morfológica ou sintática do futuro simples (sufixo -ei) na glosa linear.",
+"sugestao": ""
+}
+
+### Estudarei Libras -> ESTUDAREI LIBRAS
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "As regras fornecidas não especificam a marcação morfológica de tempo verbal futuro (sujeito 'eu' nulo e verbo 'estudar' no futuro).",
+"sugestao": ""
+}
+
+### Aprenderam português -> APRENDER PORTUGUÊS PASSADO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a ordem do marcador temporal PASSADO em relação ao verbo ou a estrutura exata para verbos de aprendizado.",
+"sugestao": ""
+}
+
+### Não ter -> NÃO_TER
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.MORFOLOGIA.010"
+],
+"problema": "A regra LIVRO.MORFOLOGIA.010 especifica que a negação do verbo 'ter' deve ser representada pela etiqueta 'TER-NÃO', e não por 'NÃO_TER'.",
+"sugestao": "TER-NÃO"
+}
+
+### Não conhecer -> NÃO_CONHECER
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.MORFOLOGIA.010"
+],
+"problema": "A negação do verbo CONHECER deve ser incorporada ao sinal (CONHECER-NÃO), não precedida por um sinal separado NÃO.",
+"sugestao": "CONHECER-NÃO"
+}
+
+### Não bonito -> NÃO_BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A estrutura 'NÃO + ADJETIVO' (negação de estado/qualidade) não é explicitamente coberta pelas regras de sintaxe ou negação fornecidas, que focam em verbos ou posições específicas de advérbios.",
+"sugestao": ""
+}
+
+### Lindo demais -> MUITO_LINDO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a ordem de advérbio de intensidade ('demais') com adjetivo ('lindo') ou a estrutura específica desta exclamação.",
+"sugestao": ""
+}
+
+### Muito bonito -> MUITO_BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para a expressão 'Muito bonito' ou a ordem advérbio-adjetivo isolado.",
+"sugestao": ""
+}
+
+### Bem demais -> MUITO_BEM
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para a expressão 'Bem demais' ou a ordem de advérbios de intensidade com adjetivos.",
+"sugestao": ""
+}
+
+### Trabalhar muito -> TRABALHAR_MUITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para advérbios de intensidade (MUITO) ou a formação de compostos verbais com advérbios.",
+"sugestao": ""
+}
+
+### Você é bonito -> VOCÊ BONITO
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIVRO.SINTAXE.015"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Você é bonito -> VOCÊ SER BONITO
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.VERBOS.001",
+"LIVRO.PRONOMES.005"
+],
+"problema": "O pronome 'você' deve ser representado por IX (você) e o verbo copulativo 'ser' deve ser representado pelo sinal É, não por SER.",
+"sugestao": "IX (você) É BONITO"
+}
+

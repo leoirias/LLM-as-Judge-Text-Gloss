@@ -1,0 +1,9 @@
+Texto,Glosa,Estado,Fidelidade,Naturalidade,Regras,Problema,Sugestao,Esperado,Acertou,Origem
+Quando a dor começou?,DOR COMEÇAR QUANDO?,valido,,Sim,LIBRAS.PERGUNTA.1; LIBRAS.TEMPO-ASPECTO.1; LIBRAS.SINTAXE.1,,,valido,sim,llm
+Quando a dor começou?,QUANDO DOR COMEÇAR?,valido,,Sim,LIBRAS.PERGUNTA.1; LIBRAS.TEMPO-ASPECTO.1; LIBRAS.SINTAXE.1,,,invalido,não,llm
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,valido,,Sim,LIBRAS.SINTAXE.1; LIBRAS.TEMPO-ASPECTO.1,,,invalido,não,llm
+Bebeu água suficiente?,BEBER ÁGUA SUFICIENTE?,valido,,Sim,LIBRAS.SINTAXE.1; LIBRAS.PERGUNTA.1; LIBRAS.PERGUNTA.2; LIBRAS.PERGUNTA.3,,,valido,sim,llm
+Comeu algo estranho?,COMER ESTRANHO ALGO?,invalido,,Não,LIBRAS.SINTAXE.1; LIBRAS.SINTAXE.3; LIBRAS.PERGUNTA.1; LIBRAS.PERGUNTA.2,,,invalido,sim,llm
+Pode explicar o tratamento?,PODER EXPLICAR TRATAMENTO,valido,,Sim,LIBRAS.SINTAXE.1; LIBRAS.VERBOS.2; LIBRAS.NEGACAO.1,,,valido,sim,llm
+Posso ir para casa hoje?,EU PODER IR CASA HOJE,valido,,Sim,LIBRAS.SINTAXE.1; LIBRAS.TEMPO-ASPECTO.1,,,valido,sim,llm
+"Chamar a enfermeira, agora.",ENFERMEIRA CHAMAR AGORA,invalido,,Não,LIBRAS.SINTAXE.1; LIBRAS.SINTAXE.3; LIBRAS.TEMPO-ASPECTO.1,,,valido,não,llm

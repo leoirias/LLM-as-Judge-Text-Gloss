@@ -1,0 +1,99 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.5.3 A representação da morfologia na escrita ===
+=== TRECHO: páginas 228-231 ===
+
+[p.228]
+229
+5.5.3 A representação da morfologia na escrita 
+5.5.3.1 Verbos Flexionados ou Concordância número-pessoal 
+em escrita de sinais
+Temos uma das categorias de morfema flexional ou concordância número-
+-pessoal em escrita de sinais (sistema SignWriting9) que chama mais a atenção e 
+será apresentada, o número-pessoal, pela representação como NORMAL ou RE -
+VERSO por causa de escrita, a direção de movimento. Cujo com um dos parâmetros 
+é a direção de movimento onde a trajetória do movimento se direciona a partir 
+do ponto inicial (sujeito) para o ponto final (objeto), a que chamamos NORMAL; 
+porém, existem outros sinais da concordância reversa em que as direções de mo-
+vimentos se movem ao contrário. 
+Basicamente que a apontação ou indicação, que é chamada por Dêixis, des-
+creve uma forma particular de estabelecer nominais no espaço que são utilizados 
+pelos verbos com concordância como parte de sua flexão (QUADROS; KARNOPP, 
+2004, p. 112). A autora menciona que 
+Os referentes são introduzidos no espaço à frente do si -
+nalizador, através da apontação em diferentes locais. As 
+formas verbais para pessoa são estabelecidas através do 
+início e fim do movimento e da direção do verbo, incorpo-
+rando estes pontos previamente indicados no espaço para 
+determinados referentes.
+Neste caso, quando o verbo flexionado é incorporado e segue a mesma regra 
+de pontos previamente indicados se representa como forma de padrão para NOR-
+MAL, enquanto que o REVERSO não segue a mesma regra de pontos. 
+Na escrita de sinais, é possível perceber quais sinais seguem ou não a mesma 
+regra, como dizem Quadros e Karnopp (2004). Podemos ver o sinal de apontação 
+(dêixis) para marcação ao objeto (ponto final); é registrado por direção de movi -
+mento, sendo que o ponto inicial em escrita de sinais se representa a uma linha e o 
+ponto final aparece uma seta. As figuras em escrita de sinais a seguir são elaboradas 
+para comparar os dêixis e sinais flexionais entre NORMAL e REVERSO:
+9 SignWriting, “Sign” em português, na tradução “Sinal” e “Writing”, pelo ato de “escrever”, 
+juntando as duas frases em português para “Escrever os Sinais”. SignWriting é considerado 
+mais usado no Brasil, após o surgimento do sistema desenvolvido por Valerie Sutton, na 
+década de 70, que inicialmente foi a ideia de anotar os passos de dança, na época em que era 
+dançarina. O interesse nesse sistema pelos pesquisadores da Língua de Sinais se motivou por 
+causa de todas as possibilidades para registrar os sinais, mesmo com todos os parâmetros 
+fonológicos completos das Línguas de Sinais. O sistema deu um avanço após a convenção 
+junto com Valerie Sutton e se transformou em comunicação escrita da Língua de Sinais.
+
+[p.229]
+230
+Figura 3 - Os sinais de apontamentos e os verbos com concordância número-pessoal
+Fonte: Elaborada pela autora Wanderley (2022)
+Os sinais de apontamentos mostram claramente que as direções de movimen-
+tos são as bases para esclarecer e comparar os sinais dos verbos com concordância 
+número-pessoal, que podem seguir ou não as mesmas direções de movimentos. 
+Nos primeiros sinais, do lado esquerdo, são os verbos flexionados, como VER, 
+RESPONDER e MOSTRAR, representados como verbo normal que seguem as 
+regras, inclusive com a alteração de movimento para marcar o objeto. E nos se -
+gundos sinais, do lado direito, também mostram os sinais de apontamentos para 
+comparar pelos verbos flexionais que não seguem as regras básicas, ESCOLHER, 
+CHAMAR e BUSCAR, representados pelo verbo reverso juntamente com a alteração 
+de movimento do objeto.
+ Apresentam-se apenas as direções de movimentos em escrita de sinais a 
+partir de primeira imagem:
+
+[p.230]
+231
+Imagem 3. Direções de Movimentos dos verbos flexionais
+Fonte: Elaborada pela autora Wanderley (2022)
+As direções de movimentos isoladas em que as configurações das mãos dos 
+verbos foram retiradas para podermos comparar entre as que possuem as direções 
+de movimentos iguais ou diferentes. As que se direcionam iguais são os verbos 
+normais e as que se direcionam diferentes são os verbos reversos, por serem ao 
+contrário dos sinais de apontamentos ou dêixis que indicam para objeto VOCÊ e 
+EU. A seguir, indicam-se os exemplos do verbo normal e reverso das surdas refe-
+rentes pelo corpus.
+
+[p.231]
+232
+Figura 4 - Verbo normal e reverso retirados do mesmo 
+pronome oblíquo - ME -  pelo corpus
+Verbo normal Verbo reverso
+https://youtu.be/pN_wGAaPoIU 
+ https://youtu.be/7dWid4vpMh8 
+(147) ME-VER  (148) ME-CHAMAR
+As setas do mesmo pronome oblíquo - ME - apresentam os sinais que pos-
+suem as suas direções de movimentos movendo-se para finais diferentes; quando o 
+sinal (147) ME-VER mostra o ponto final, indica mais perto para o sujeito; o outro 
+sinal, (148) ME-CHAMAR, apresenta o ponto final mais longe do sujeito (para fora). 
+Além de verbo normal ou reverso, os parâmetros relevantes dos verbos com 
+concordância número-pessoal são os diversos tipos de movimentos e orientação 
+da mão que marcam entre sujeito (Você) e objeto (Eu) ou vice-versa.
+5.5.3.2 Tipo de Movimento (reto ou curvo)
+Alguns verbos com concordância número-pessoal podem ter uma forma no 
+tipo de movimento, seja reto ou curvo, ou as duas formas equivalentes no particí-
+pio duplo com a concordância normal ou reversa, existindo a possibilidade de que 
+uma delas, aos poucos, pode deixar de ser empregada. Vemos a argumentação de 
+Haapanen e Wainio (2010), definindo que as duas categorias separadas, sendo 
+de uma mão e duas mãos, possuem a sua direção de movimento reto ou curvo. 
+(WANDERLEY, 2017, p.243)
+(149) ME DAR (movimento reto) 
+https://youtu.be/KiEnoJcMa0s

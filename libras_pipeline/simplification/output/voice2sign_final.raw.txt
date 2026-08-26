@@ -1,0 +1,970 @@
+### sintaxe lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Ordem básica SVO dominante",
+      "descricao": "A ordem básica da frase na Libras é Sujeito-Verbo-Objeto (SVO), que é a mais comum e gramatical em construções simples sem marcações adicionais. Essa ordem é a única que não depende de marcas não-manuais ou estruturas complexas para ser gramaticalmente válida.",
+      "gatilho": "frase simples com sujeito, verbo e objeto, sem marcações não-manuais ou estruturas complexas",
+      "exemplos": [
+        "El@ assiste TV",
+        "IX GOSTA FUTEBOL",
+        "EU ACHAR [ IP MARIAa <aIR-EMBORAloc>do]",
+        "JOÃO COMPRAR CARRO AMANHÃ"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.001",
+        "LIBRAS.SINTAXE.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Variações SVO, OSV e SOV com marcações não-manuais",
+      "descricao": "As ordenações OSV e SOV só são gramaticais quando acompanhadas de marcações não-manuais (como foco, tópico ou concordância), indicando que a variação é motivada por fatores pragmáticos ou semânticos. A ordem SOV é restrita a objetos simples e não pode ser usada com objetos complexos (orações subordinadas).",
+      "gatilho": "frase com ordem OSV ou SOV; verbo com concordância + objeto complexo",
+      "exemplos": [
+        "<TVb>do <IXa>do <aASSISTEb>do (OSV)",
+        "<IXa>do <TVb>do <aASSISTEb>do (SOV)",
+        "FUTEBOL <IX>do <GOSTA>do (OSV)",
+        "<IX>do FUTEBOL <GOSTA>mc (SOV)",
+        "EU ACHAR [ IP MARIAa <aIR-EMBORAloc>do]",
+        "*I [IP MARIAa aIR-EMBORA] ACHAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.002",
+        "LIBRAS.SINTAXE.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Advérbios e sua posição na frase",
+      "descricao": "Advérbios temporais não podem ser inseridos entre o verbo e o objeto em estruturas VP[V NP], reforçando a base SVO. Porém, advérbios temporais podem estar antes ou depois da oração (IP AgrP), e advérbios de freqüência podem estar antes ou depois do complemento verbal (VP), sem violar a gramática.",
+      "gatilho": "frase com advérbio temporal ou de freqüência entre verbo e objeto; advérbio temporal ou de freqüência em frase",
+      "exemplos": [
+        "*JOÃO COMPRAR ONTEM CARRO",
+        "*EU BEBER ALGUMAS-VEZES LEITE",
+        "AMANHÃ JOÃO COMPRAR CARRO",
+        "EU BEBO LEITE ALGUMAS-VEZES"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.005",
+        "LIBRAS.SINTAXE.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Construções com tópico e cópia do tópico",
+      "descricao": "Construções com tópico podem incluir uma cópia do tópico ou um pronome co-referencial, especialmente quando o tópico não está ligado a posição argumental. Isso ocorre para manter clareza e coesão na estrutura da frase.",
+      "gatilho": "frase com tópico sem ligação argumental",
+      "exemplos": [
+        "<[FRANÇA]i>t <EU VOU ti>mc",
+        "<[EU] j>t <[FRANÇA]i>t tj <VOU ti>mc",
+        "<ANIMAIS>, EU GOSTO GATO"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Omissão de sujeito e objeto com verbos de concordância",
+      "descricao": "Verbos com concordância permitem a omissão tanto do sujeito quanto do objeto, derivando a ordem (S)V(O). Essa omissão é gramaticalmente válida e comum em contextos de coesão e concisão.",
+      "gatilho": "verbo com concordância em contexto de omissão de sujeito e objeto",
+      "exemplos": [
+        "JOÃOa MARIAb aDARb",
+        "LIVRO NÃO"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Foco contrastivo e ordem VOS",
+      "descricao": "A ordem VOS pode ocorrer em contextos de foco contrastivo, especialmente quando há ênfase no verbo. O foco pode mover o núcleo para o início da frase, seguido do verbo e do restante da estrutura.",
+      "gatilho": "frase com foco contrastivo e verbo no início",
+      "exemplos": [
+        "COMPRAR CARRO <JOÃO> foco",
+        "QUEM COMPRAR CARRO JOÃO OU MARIA?",
+        "[FP [EU PERDER LIVRO] i <[F PERDER] [IP t i ]>mc",
+        "[FP [QUEM GOSTAR GATO] i >qu <[F QUEM] [IP t i ]>qu"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.009",
+        "LIBRAS.SINTAXE.012"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Liberdade sintática com verbos de concordância",
+      "descricao": "Sentenças com verbos com concordância permitem maior liberdade na ordenação dos constituintes em comparação com sentenças com verbos sem concordância. Isso inclui variações como JOÃO <GOSTAR MARIA>do ou JOÃO <aAJUDARb MARIA>do.",
+      "gatilho": "verbo com concordância em frase com ordenação não-SVO",
+      "exemplos": [
+        "JOÃO <GOSTAR MARIA>do",
+        "JOÃO <aAJUDARb MARIA>do"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Omissão de verbo em frases complexas",
+      "descricao": "Em sentenças complexas, a omissão de um verbo sem o auxiliar (AUX) é gramaticalmente inválida, exceto quando há identidade entre o verbo e seu antecedente. Isso garante clareza e evita ambiguidade.",
+      "gatilho": "frase complexa com omissão de verbo",
+      "exemplos": [
+        "*<aMARIA>do <bJOÃO>do <aAUXb>do <[GOSTAR] i,>mc <bJOÃO>do <TAMBÉM [e] I >mc",
+        "JOÃOa <NÃO <bCARREGAR-CAIXAc>do>n"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.011"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Classificadores em posição final",
+      "descricao": "Predicados complexos com classificadores, que incorporam objeto e ação em um único sinal, sempre ocupam a posição final da frase. Isso é comum em construções manuais com verbos complexos.",
+      "gatilho": "presença de classificador com verbo complexo (ex: CL(carro)-BATER-POSTE)",
+      "exemplos": [
+        "<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE+>cl",
+        "<JOÃO>t <MARIA>t <CL(pessoa)-CRUZAR-UMa-PELO-OUTRO>cl"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.013"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Ordem não padrão com verbos manuais e classificadores",
+      "descricao": "Construções com verbos manuais podem apresentar ordem não padrão (como OSV) quando envolvem classificadores complexos. Isso ocorre especialmente em frases com predicados manuais que incorporam objeto e ação.",
+      "gatilho": "presença de predicado complexo com classificador",
+      "exemplos": [
+        "BOLA JOÃO BATER-COM-TACO",
+        "WOMAN PIE PUT-IN-OVEN"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.014"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Ordem de sinais em frases complexas",
+      "descricao": "A ordem dos sinais em frases complexas em Libras segue uma estrutura que prioriza o foco e a clareza semântica, frequentemente invertendo a ordem do português. Isso permite destacar elementos importantes e manter a coesão da mensagem.",
+      "gatilho": "em frases com estrutura complexa ou com foco em um elemento específico",
+      "exemplos": [
+        "A LÍNGUA DE SINAIS BRASILEIRA ORGANIZA A FRASE DE FORMA QUE O FOCO SEJA DESTACADO",
+        "A ORDEM DOS SINAIS PODE SER INVERTIDA EM RELAÇÃO AO PORTUGUÊS PARA GARANTIR CLAREZA"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.015"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### sintaxe lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Ordem básica SVO dominante",
+      "descricao": "A ordem básica da frase na Libras é Sujeito-Verbo-Objeto (SVO), que é a mais comum e gramatical em construções simples sem marcações adicionais. Essa ordem é a única que não depende de marcas não-manuais ou estruturas complexas para ser gramaticalmente válida.",
+      "gatilho": "frase simples com sujeito, verbo e objeto, sem marcações não-manuais ou estruturas complexas",
+      "exemplos": [
+        "El@ assiste TV",
+        "IX GOSTA FUTEBOL",
+        "EU ACHAR [ IP MARIAa <aIR-EMBORAloc>do]",
+        "JOÃO COMPRAR CARRO AMANHÃ"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.001",
+        "LIBRAS.SINTAXE.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Variações SVO, OSV e SOV com marcações não-manuais",
+      "descricao": "As ordenações OSV e SOV só são gramaticais quando acompanhadas de marcações não-manuais (como foco, tópico ou concordância), indicando que a variação é motivada por fatores pragmáticos ou semânticos. A ordem SOV é restrita a objetos simples e não pode ser usada com objetos complexos (orações subordinadas).",
+      "gatilho": "frase com ordem OSV ou SOV; verbo com concordância + objeto complexo",
+      "exemplos": [
+        "<TVb>do <IXa>do <aASSISTEb>do (OSV)",
+        "<IXa>do <TVb>do <aASSISTEb>do (SOV)",
+        "FUTEBOL <IX>do <GOSTA>do (OSV)",
+        "<IX>do FUTEBOL <GOSTA>mc (SOV)",
+        "EU ACHAR [ IP MARIAa <aIR-EMBORAloc>do]",
+        "*I [IP MARIAa aIR-EMBORA] ACHAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.002",
+        "LIBRAS.SINTAXE.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Advérbios e sua posição na frase",
+      "descricao": "Advérbios temporais não podem ser inseridos entre o verbo e o objeto em estruturas VP[V NP], reforçando a base SVO. Porém, advérbios temporais podem estar antes ou depois da oração (IP AgrP), e advérbios de freqüência podem estar antes ou depois do complemento verbal (VP), sem violar a gramática.",
+      "gatilho": "frase com advérbio temporal ou de freqüência entre verbo e objeto; advérbio temporal ou de freqüência em frase",
+      "exemplos": [
+        "*JOÃO COMPRAR ONTEM CARRO",
+        "*EU BEBER ALGUMAS-VEZES LEITE",
+        "AMANHÃ JOÃO COMPRAR CARRO",
+        "EU BEBO LEITE ALGUMAS-VEZES"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.005",
+        "LIBRAS.SINTAXE.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Construções com tópico e cópia do tópico",
+      "descricao": "Construções com tópico podem incluir uma cópia do tópico ou um pronome co-referencial, especialmente quando o tópico não está ligado a posição argumental. Isso ocorre para manter clareza e coesão na estrutura da frase.",
+      "gatilho": "frase com tópico sem ligação argumental",
+      "exemplos": [
+        "<[FRANÇA]i>t <EU VOU ti>mc",
+        "<[EU] j>t <[FRANÇA]i>t tj <VOU ti>mc",
+        "<ANIMAIS>, EU GOSTO GATO"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Omissão de sujeito e objeto com verbos de concordância",
+      "descricao": "Verbos com concordância permitem a omissão tanto do sujeito quanto do objeto, derivando a ordem (S)V(O). Essa omissão é gramaticalmente válida e comum em contextos de coesão e concisão.",
+      "gatilho": "verbo com concordância em contexto de omissão de sujeito e objeto",
+      "exemplos": [
+        "JOÃOa MARIAb aDARb",
+        "LIVRO NÃO"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Foco contrastivo e ordem VOS",
+      "descricao": "A ordem VOS pode ocorrer em contextos de foco contrastivo, especialmente quando há ênfase no verbo. O foco pode mover o núcleo para o início da frase, seguido do verbo e do restante da estrutura.",
+      "gatilho": "frase com foco contrastivo e verbo no início",
+      "exemplos": [
+        "COMPRAR CARRO <JOÃO> foco",
+        "QUEM COMPRAR CARRO JOÃO OU MARIA?",
+        "[FP [EU PERDER LIVRO] i <[F PERDER] [IP t i ]>mc",
+        "[FP [QUEM GOSTAR GATO] i >qu <[F QUEM] [IP t i ]>qu"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.009",
+        "LIBRAS.SINTAXE.012"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Liberdade sintática com verbos de concordância",
+      "descricao": "Sentenças com verbos com concordância permitem maior liberdade na ordenação dos constituintes em comparação com sentenças com verbos sem concordância. Isso inclui variações como JOÃO <GOSTAR MARIA>do ou JOÃO <aAJUDARb MARIA>do.",
+      "gatilho": "verbo com concordância em frase com ordenação não-SVO",
+      "exemplos": [
+        "JOÃO <GOSTAR MARIA>do",
+        "JOÃO <aAJUDARb MARIA>do"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.010"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Omissão de verbo em frases complexas",
+      "descricao": "Em sentenças complexas, a omissão de um verbo sem o auxiliar (AUX) é gramaticalmente inválida, exceto quando há identidade entre o verbo e seu antecedente. Isso garante clareza e evita ambiguidade.",
+      "gatilho": "frase complexa com omissão de verbo",
+      "exemplos": [
+        "*<aMARIA>do <bJOÃO>do <aAUXb>do <[GOSTAR] i,>mc <bJOÃO>do <TAMBÉM [e] I >mc",
+        "JOÃOa <NÃO <bCARREGAR-CAIXAc>do>n"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.011"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Classificadores em posição final",
+      "descricao": "Predicados complexos com classificadores, que incorporam objeto e ação em um único sinal, sempre ocupam a posição final da frase. Isso é comum em construções manuais com verbos complexos.",
+      "gatilho": "presença de classificador com verbo complexo (ex: CL(carro)-BATER-POSTE)",
+      "exemplos": [
+        "<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE+>cl",
+        "<JOÃO>t <MARIA>t <CL(pessoa)-CRUZAR-UMa-PELO-OUTRO>cl"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.013"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Ordem não padrão com verbos manuais e classificadores",
+      "descricao": "Construções com verbos manuais podem apresentar ordem não padrão (como OSV) quando envolvem classificadores complexos. Isso ocorre especialmente em frases com predicados manuais que incorporam objeto e ação.",
+      "gatilho": "presença de predicado complexo com classificador",
+      "exemplos": [
+        "BOLA JOÃO BATER-COM-TACO",
+        "WOMAN PIE PUT-IN-OVEN"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.014"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Ordem de sinais em frases complexas",
+      "descricao": "A ordem dos sinais em frases complexas em Libras segue uma estrutura que prioriza o foco e a clareza semântica, frequentemente invertendo a ordem do português. Isso permite destacar elementos importantes e manter a coesão da mensagem.",
+      "gatilho": "em frases com estrutura complexa ou com foco em um elemento específico",
+      "exemplos": [
+        "A LÍNGUA DE SINAIS BRASILEIRA ORGANIZA A FRASE DE FORMA QUE O FOCO SEJA DESTACADO",
+        "A ORDEM DOS SINAIS PODE SER INVERTIDA EM RELAÇÃO AO PORTUGUÊS PARA GARANTIR CLAREZA"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.015"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Concordância verbal em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas em Libras podem apresentar concordância verbal, com variação na direção da ação conforme o sujeito e objeto da oração. Essa concordância é marcada por mudanças na direção do sinal, refletindo a relação entre sujeito e objeto. A direção do sinal é ajustada para indicar quem realiza a ação e quem a recebe, mesmo em estruturas fixas.",
+      "gatilho": "Expressão idiomática com ação direcional que varia conforme sujeito e objeto",
+      "exemplos": [
+        "1-3PEGAR-NO-PÉ -> Eu pego no pé del@",
+        "2-1PEGAR-NO-PÉ -> Pegou no meu pé!",
+        "2-DIZER-ALGO-PARA-1 -> …Me ofendeu!",
+        "1-DIZER-ALGO-PARA-2 -> Vou dizer uma palavra só!",
+        "1-EXPULSAR-2 -> Expulsei el@",
+        "2-EXPULSAR-1 -> Fui expulso"
+      ],
+      "ids_origem": [
+        "LIBRAS.SINTAXE.016"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### pronomes lote 0
+{"regras_finais": [{"titulo": "Apontação ostensiva para referência a entidades estáveis", "descricao": "O sinal IX é usado para indicar entidades que já foram localizadas no espaço e que permanecem estáveis durante a narrativa, funcionando como pronome para referir-se a um referente específico já estabelecido no espaço visual.", "gatilho": "Quando uma entidade (pessoa, objeto) é localizada no espaço e referida novamente, especialmente se já foi introduzida ou é específica no contexto", "exemplos": ["IX CASA", "CASA IX(casa)", "IX(menino)", "IX(policial)"], "ids_origem": ["LIBRAS.PRONOMES.001", "LIBRAS.PRONOMES.006"], "justificativa_fusao": "Ambas as candidatas descrevem o uso do sinal IX para referenciar entidades já localizadas e estáveis no espaço, com o mesmo gatilho e função gramatical."}]}
+
+### foco lote 0
+{"regras_finais": [{"titulo": "Duplicação final em foco com movimentação de IP para Spec de FP", "descricao": "Em construções de foco na Libras, o sintagma nominal (IP) inteiro move-se para o especificador de FP (sintagma de foco), o que gera a duplicação do elemento focal na posição final da frase. Essa movimentação só ocorre quando o elemento está em posição nuclear (como sujeito, objeto, predicado), não sendo permitida em posições não nucleares. A duplicação é marcada por sinais não-manuais e a estrutura interna do IP é mantida. A ordem SOV é permitida nesses casos, com o último verbo atuando como núcleo do foco, e o primeiro verbo pode ser apagado no VP. Restrições de ilha de Ross se aplicam, impedindo foco em elementos dentro de estruturas como orações relativas.", "gatilho": "presença de foco em elemento de IP (como sujeito, objeto, predicado); tentativa de foco em elemento dentro de oração relativa; frase com repetição de núcleos na posição final indicando foco", "exemplos": ["HOMEM COMPRAR CARRO COMPRAR", "EU PODER IR <PODER>mc", "EU TER DOIS CARROS <DOIS>mc", "[FP [EU PODER IR] i <[F PODER] [IP t i ]>mc", "[FP [EU PERDER LIVRO] i <[F PERDER] [IP t i ]>mc", "MULHER <BICICLETA CAIR>r ESTAR HOSPITAL -> *MULHER <BICICLETA CAIR>r ESTAR HOSPITAL BICICLETA", "aJOÃO <aDARb>do LIVRO <MARIAb>do -> *<aJOÃO>do <aDARb>do LIVRO <bMARIA>do <JOÃOa>mc/do", "<QUAL MULHER DESSAS TU GOSTAR>qu -> *<QUAL MULHER DESSAS TU GOSTAR>qu <QUAL MULHER DESSAS>qu"], "ids_origem": ["LIBRAS.FOCO.001", "LIBRAS.FOCO.003", "LIBRAS.FOCO.004", "LIBRAS.FOCO.005", "LIBRAS.FOCO.007"], "justificativa_fusao": "Todas as candidatas descrevem o mesmo fenômeno: a movimentação de IP para Spec de FP em foco, que resulta em duplicação final do elemento focal, com restrições de posição nuclear e de ilha."}]}
+
+### verbos lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Concordância verbal em Libras",
+      "descricao": "Verbos com concordância na Libras são flexionados em localização espacial para indicar sujeito e objeto, sem afixação fonológica de desinência, comportando-se como auxiliares em estruturas sintáticas. Essa concordância ocorre principalmente em verbos direcionais com movimento entre sujeito e objeto, e é marcada pela posição e direção do movimento do sinal.",
+      "gatilho": "verbo com concordância (direcional, com movimento entre sujeito e objeto)",
+      "exemplos": [
+        "JOÃO <aDARb>do LIVRO",
+        "AMANHÃ <aDARb>do LIVRO"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.001"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos sem concordância e sua flexão fonológica",
+      "descricao": "Verbos sem concordância na Libras apresentam uma operação fonológica de afixação de desinência verbal durante a derivação, semelhante aos verbos principais em inglês. Esses verbos não usam locação espacial para marcar concordância e são produzidos com movimento fixo, independentemente do sujeito ou objeto.",
+      "gatilho": "verbo sem concordância (não direcional, sem movimento entre sujeito e objeto)",
+      "exemplos": [
+        "JOÃO GOSTAR CARRO",
+        "JOÃO aAJUDARb MARIA",
+        "CONHECER -> CONHECER",
+        "AMAR -> AMAR"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.002",
+        "LIBRAS.VERBOS.004"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem verbos sem concordância verbal, com movimento fixo e ausência de locação espacial, sendo que uma foca na operação fonológica e a outra no comportamento morfológico e semântico."
+    },
+    {
+      "titulo": "Auxiliar obrigatório em estruturas não-SVO",
+      "descricao": "Em ordens sintáticas que não seguem a estrutura SVO, verbos sem concordância exigem um auxiliar (AUX) para manter a validade sintática da frase, garantindo clareza na relação entre os constituintes.",
+      "gatilho": "verbo sem concordância em ordem não-SVO",
+      "exemplos": [
+        "JOÃOa aAUXb <NÃO GOSTAR>n",
+        "JOÃOa <MARIAb aAUXb>do <[GOSTAR] i>mc <bAUXa>do <NÃO [e] i>n"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.003"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos manuais e posição final na frase",
+      "descricao": "Verbos manuais, que envolvem a representação de um objeto na mão, sempre ocorrem na posição final da frase, independentemente da estrutura sintática, pois sua forma gestual depende da manipulação do objeto representado.",
+      "gatilho": "presença de verbo manual (ex: PINTAR-ROLO, PINTAR-PINCEL, BATER-POSTE)",
+      "exemplos": [
+        "<JOÃO>t <CASA>t <PINTAR-ROLO>cl",
+        "<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE+>cl"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.005"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Concordância verbal com argumentos locativos",
+      "descricao": "Verbos que expressam predicados locativos (como LEVAR, MUDAR, COLOCAR) podem ter sua localização alterada para coincidir com a localização de um argumento locativo, em vez de sujeito ou objeto, permitindo a representação espacial de mudanças de posição.",
+      "gatilho": "verbo locativo (ex: LEVAR, MUDAR, COLOCAR) com argumento locativo localizável no espaço",
+      "exemplos": [
+        "MUDAR para outra escola -> MUDAR(ESCOLA)",
+        "transporte LEVAR -> LEVAR(TRANSPORTE)",
+        "grupo MUDAR para outra escola -> MUDAR(GRUPO, ESCOLA)",
+        "ME COLOCAR na clínica -> COLOCAR(ME, CLÍNICA)"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos ancorados ao corpo e ausência de concordância",
+      "descricao": "Verbos articulados presos ao corpo do sinalizante (como APRENDER, TER) não permitem alteração de localização espacial e, portanto, não apresentam concordância verbal em sua morfologia, mantendo-se fixos em posição.",
+      "gatilho": "verbo articulado preso ao corpo do sinalizante",
+      "exemplos": [
+        "APRENDER -> APRENDER",
+        "TER -> TER"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Direção do movimento em verbos com concordância (SignWriting)",
+      "descricao": "Na escrita de sinais (SignWriting), a direção do movimento do verbo indica se é normal (do sujeito para o objeto) ou reverso (contrário à direção do apontamento), sendo uma representação gráfica da concordância verbal em estruturas direcionais.",
+      "gatilho": "verbo com concordância número-pessoal em escrita de sinais",
+      "exemplos": [
+        "ME-VER -> verbo normal (movimento para o sujeito)",
+        "ME-CHAMAR -> verbo reverso (movimento para fora do sujeito)"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.008"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Verbos inerentemente recíprocos",
+      "descricao": "Verbos como INTERAGIR, CONVERSAR, COMUNICAR e TER-CONTATO são inerentemente recíprocos, ou seja, já trazem em sua representação semântica a ideia de reciprocidade mútua, não exigindo marcas adicionais para indicar que a ação é mútua.",
+      "gatilho": "verbo com significado semântico de reciprocidade mútua",
+      "exemplos": [
+        "INTERAGIR -> INTERAGIR",
+        "CONVERSAR -> CONVERSAR",
+        "COMUNICAR -> COMUNICAR",
+        "TER-CONTATO -> TER-CONTATO"
+      ],
+      "ids_origem": [
+        "LIBRAS.VERBOS.009"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### pergunta lote 0
+{"regras_finais": [{"titulo": "Movimento interrogativo para Spec CP", "descricao": "Elementos interrogativos (quem, o que, onde, por que, como) podem permanecer na posição original (in situ) ou mover-se para o especificador de CP (Complementizer Phrase), à esquerda da frase, mesmo quando aparecem em posição final na superfície. Essa movimentação é uma característica estrutural da sintaxe de perguntas na Libras.", "gatilho": "Presença de palavra interrogativa (quem, o que, onde, por que, como) em oração interrogativa", "exemplos": ["DE QUEM JOÃO GOSTAR t", "O QUE JOÃO PEGAR O QUE", "QUEM GOSTAR MARIA", "JOÃO GOSTAR QUEM", "[CP QUEM [ IP t GOSTAR MARIA]]"], "ids_origem": ["LIBRAS.PERGUNTA.003", "LIBRAS.PERGUNTA.004"], "justificativa_fusao": "Ambas as regras descrevem a mesma estrutura sintática: a possibilidade de movimento ou permanência in situ de elementos interrogativos em relação ao especificador de CP."}, {"titulo": "Foco inerente em perguntas com interrogativos", "descricao": "Toda sentença interrogativa na Libras apresenta foco por natureza, o que impede a ocorrência de outro foco na mesma oração. Isso ocorre porque o CP (sintagma interrogativo) é inerentemente focado, tornando redundante ou impossível a duplicação de foco em elementos interrogativos.", "gatilho": "Presença de palavra interrogativa (QU, ONDE, QUAL, etc.) em uma frase", "exemplos": ["<O QUE JOÃO GOSTAR O QUE>qu", "*<JOÃO GOSTAR QUEM GOSTAR>qu"], "ids_origem": ["LIBRAS.PERGUNTA.002"], "justificativa_fusao": ""}, {"titulo": "Duplicação de interrogativos em foco", "descricao": "Interrogativos em construções de foco são duplicados na posição final da frase, seguindo a estrutura de foco com duplicação. Essa duplicação ocorre quando o elemento interrogativo está em foco, mesmo que já tenha sido movido para o início da frase.", "gatilho": "Frase interrogativa com foco em elemento interrogativo", "exemplos": ["QUANDO JOÃO VIR <QUANDO>mc", "ONDE ELE ESTÁ <ONDE>mc"], "ids_origem": ["LIBRAS.PERGUNTA.001"], "justificativa_fusao": ""}, {"titulo": "Expressões idiomáticas em perguntas com item-QU", "descricao": "Expressões idiomáticas podem ser usadas em perguntas com pronomes interrogativos (QUANDO, ONDE, QUAL, etc.), mantendo sua estrutura idiomática original, mesmo quando inseridas em contextos interrogativos.", "gatilho": "Expressão idiomática usada em contexto de pergunta com item-QU", "exemplos": ["BOCA-FECHAR -> Fique quieto!", "CALAR-ALGUÉM -> Deixar alguém sem palavras."], "ids_origem": ["LIBRAS.PERGUNTA.005"], "justificativa_fusao": ""}]}
+
+### tempo-aspecto lote 0
+{"regras_finais": [{"titulo": "Marcação de tempo no início da frase", "descricao": "O tempo (como amanhã, ontem, agora) é frequentemente expresso por um sinal posicionado no início da frase, funcionando como marcador temporal que antecede o verbo principal.", "gatilho": "presença de tempo (amanhã, ontem, agora) em uma frase", "exemplos": ["AMANHÃ ELE COMPRAR CARRO <AMANHÃ>mc"], "ids_origem": ["LIBRAS.TEMPO-ASPECTO.003"], "justificativa_fusao": ""}, {"titulo": "Aspecto em verbos sem concordância", "descricao": "Verbos sem concordância (como CONHECER, AMAR) podem flexionar em aspecto, mas não em pessoa ou número. A marcação de aspecto ocorre na posição final da frase, independentemente da presença de concordância verbal.", "gatilho": "verbo sem concordância com indicação de aspecto (ex: durativo, conclusivo)", "exemplos": ["CONHECER (durativo) -> CONHECER", "AMAR (conclusivo) -> AMAR", "JOÃO LIVRO <COMPRAR+>aspecto", "*JOÃO <COMPRAR+>aspecto LIVRO"], "ids_origem": ["LIBRAS.TEMPO-ASPECTO.004", "LIBRAS.TEMPO-ASPECTO.005"], "justificativa_fusao": "Ambas as candidatas descrevem a mesma estrutura: a marcação de aspecto em verbos da Libras, especialmente sem concordância, com posicionamento final e independência de concordância verbal."}]}
+
+### morfologia lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Compostos simultâneos com morfemas duplicados",
+      "descricao": "Sinais realizados com duas mãos em configuração de mão idêntica e espelhada são considerados monomorfêmicos, pois o morfema é duplicado no espaço, não contando como dois morfemas distintos. Essa duplicação espacial não implica em múltiplos morfemas, mesmo quando há simetria ou espelhamento. Além disso, sinais com duas mãos com CMs diferentes, mas com CM inicial e final iguais nas duas mãos, também são considerados monomorfêmicos, desde que a estrutura espacial mantenha a unidade morfêmica.",
+      "gatilho": "sinal com duas mãos com CMs idênticas e espelhadas ou com CMs diferentes mas CM inicial e final iguais",
+      "exemplos": [
+        "CASA",
+        "LÍNGUA-DE-SINAIS",
+        "REGRA",
+        "CURSO"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.001",
+        "LIBRAS.MORFOLOGIA.008"
+      ],
+      "justificativa_fusao": "Ambas as regras tratam da unidade morfêmica em sinais com duas mãos, onde a duplicação espacial ou diferença aparente de CM não implica em múltiplos morfemas, desde que a CM inicial e final sejam iguais."
+    },
+    {
+      "titulo": "Morfemas livres como base derivacional",
+      "descricao": "Morfemas lexicais livres podem atuar como base para a formação de novos sinais por meio da adição de morfemas presos, mantendo-se como núcleo semântico do novo sinal. Essa base pode ser usada em processos de derivação, onde o morfema livre permanece como núcleo significativo, mesmo quando modificado por morfemas presos ou quando perde o espelhamento em sua forma original.",
+      "gatilho": "morfema lexical livre usado como radical em construção de novo sinal",
+      "exemplos": [
+        "LÍNGUA-DE-SINAIS^INFERIOR",
+        "PALAVRA-CHAVE",
+        "LÍNGUA-DE-SINAIS^FÁCIL"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.002",
+        "LIBRAS.MORFOLOGIA.010"
+      ],
+      "justificativa_fusao": "Ambas as regras descrevem o uso de morfemas lexicais livres como base em processos derivacionais, com foco na manutenção do núcleo semântico e na possibilidade de perda de espelhamento na derivação."
+    },
+    {
+      "titulo": "Morfemas presos como afixos",
+      "descricao": "Morfemas presos são dependentes e não podem ocorrer isoladamente; funcionam como afixos (prefixos, sufixos, infixos) que se ligam a morfemas livres para formar novos sinais. Eles são responsáveis por marcar funções gramaticais como número, gênero, tempo, aspecto, pessoa, e são essenciais em processos flexionais e derivacionais.",
+      "gatilho": "morfema que não pode ocorrer isolado e está ligado a outro morfema",
+      "exemplos": [
+        "boca",
+        "CM em X",
+        "-SINAL",
+        "PALAVRA+++"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.003",
+        "LIBRAS.MORFOLOGIA.006"
+      ],
+      "justificativa_fusao": "Ambas as regras tratam de morfemas presos que não podem ocorrer isoladamente e funcionam como marcadores gramaticais, com foco em funções como tempo, número e aspecto, sendo essenciais em flexão e derivação."
+    },
+    {
+      "titulo": "Processos morfológicos simultâneos e sequenciais",
+      "descricao": "A morfologia das Línguas de Sinais combina processos simultâneos (como em compostos) e sequenciais (como em derivação), com ambos os tipos sendo usados para flexão e derivação. Esses processos podem envolver justaposição simultânea ou sequencial de sinais, com ou sem redução de elementos, e são fundamentais para a formação de novos sinais com significados derivados.",
+      "gatilho": "formação de sinais com combinação de morfemas",
+      "exemplos": [
+        "LÍNGUA-DE-SINAIS^FLUENTE",
+        "PALAVRA-CHAVE"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.004"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Morfemas lexicais como núcleo semântico",
+      "descricao": "Morfemas lexicais são os núcleos de significação dos sinais, representando conteúdos externos ao sistema linguístico, como objetos, ações e conceitos. Eles atuam como base em processos morfológicos, mantendo-se como ponto central de significado em sinais compostos ou derivados.",
+      "gatilho": "morfema com significado externo (não gramatical)",
+      "exemplos": [
+        "CASA",
+        "EX",
+        "MÃE"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.005"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Morfemas com movimento interno alterando configuração",
+      "descricao": "Quando a configuração de mão inicial é diferente da final, mas o movimento interno a transforma em uma mesma CM, o sinal é considerado monomorfêmico com CM idêntica inicial e final. Isso ocorre mesmo que a CM inicial pareça diferente, desde que o movimento interno resulte em uma CM final idêntica à inicial.",
+      "gatilho": "sinal com movimento interno que altera a CM inicial para torná-la igual à final",
+      "exemplos": [
+        "BRASÍLIA",
+        "SUMIR"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.007"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Repetição sequencial não conta como múltiplos morfemas",
+      "descricao": "Repetições de um morfema no tempo, um após outro, não são contadas como múltiplos morfemas, mas como redundância do mesmo morfema. Isso ocorre em sinais onde o movimento ou configuração é repetido, mas o significado permanece unificado e não indica múltiplas unidades morfêmicas.",
+      "gatilho": "repetição de um morfema em sequência temporal",
+      "exemplos": [
+        "OBRIGADO",
+        "SINAL"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.009"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Composição por aglutinação com redução de morfemas",
+      "descricao": "Em compostos por aglutinação, um ou mais elementos dos sinais constituintes são suprimidos ou reduzidos, especialmente repetições de movimento ou configuração manual (CM), resultando em um sinal composto com estrutura morfologicamente modificada. Essa redução é comum em sinais formados por justaposição, onde partes dos componentes são omitidas para facilitar a articulação.",
+      "gatilho": "sinal composto formado por dois morfemas livres onde ocorre perda de repetição de movimento ou CM",
+      "exemplos": [
+        "CASA^ESTUDAR (escola)",
+        "LETRAS^LIBRAS",
+        "MULHER^BEIJO-NA-MÃO (mãe)",
+        "COMER^MEIO-DIA (almoço)",
+        "CASA^ANTIGA (museu)"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.011"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Justaposição simultânea de sinais com duas mãos",
+      "descricao": "Em compostos simultâneos, dois sinais são articulados simultaneamente por ambas as mãos, sem modificação de movimento ou configuração, resultando em um sinal composto com estrutura simétrica e sem núcleo definido. Essa justaposição é característica de sinais com dois núcleos independentes que se combinam em paralelo.",
+      "gatilho": "dois sinais com núcleos independentes articulados ao mesmo tempo por ambas as mãos",
+      "exemplos": [
+        "PALAVRA^PALAVRA (composição)",
+        "UNIFORME-INES"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.012"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Composição por coordenação com núcleos simétricos",
+      "descricao": "Em compostos por coordenação, dois ou mais núcleos são articulados em relação simétrica, sem hierarquia semântica, resultando em um sinal composto com significado derivado da combinação dos elementos. A relação é equilibrada e os componentes têm status lexical igual.",
+      "gatilho": "dois sinais com status lexical igual combinados em relação simétrica",
+      "exemplos": [
+        "MÉDICO^OLHO (oftalmologista)"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.013"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Composição por subordinação com núcleo modificado",
+      "descricao": "Em compostos por subordinação, um sinal atua como núcleo e outro como modificador ou complemento, com a categoria lexical do composto sendo a mesma do núcleo; a relação é assimétrica e semanticamente determinada. O modificador influencia o significado do núcleo, mas não altera sua categoria gramatical.",
+      "gatilho": "um sinal atua como núcleo e outro como modificador em relação de subordinação",
+      "exemplos": [
+        "CASA^ESTUDAR (escola)"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.014"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Justaposição sequencial de sinais sem modificação",
+      "descricao": "Em justaposição sequencial, dois sinais são articulados um após o outro sem alteração de movimento ou configuração, mantendo-se a forma original de cada componente. Essa estrutura é comum em sinais compostos que derivam de combinações de significados, sem redução ou transformação dos elementos.",
+      "gatilho": "dois sinais articulados consecutivamente sem perda ou redução de elementos",
+      "exemplos": [
+        "CAVALO^LISTRA-PELO-CORPO (zebra)",
+        "ÁGUA^CAMINHO (rio)",
+        "ÁGUA^CÍRCULO (lago)",
+        "ÁGUA^RETÂNGULO (piscina)",
+        "ASSINAR^SEPARAR (divórcio)"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.015"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### morfologia lote 1
+{
+  "regras_finais": [
+    {
+      "titulo": "Compostos simultâneos com morfemas duplicados",
+      "descricao": "Sinais realizados com duas mãos em configuração de mão idêntica e espelhada são considerados monomorfêmicos, pois o morfema é duplicado no espaço, não contando como dois morfemas distintos. Essa duplicação espacial não implica em múltiplos morfemas, mesmo quando há simetria ou espelhamento. Além disso, sinais com duas mãos com CMs diferentes, mas com CM inicial e final iguais nas duas mãos, também são considerados monomorfêmicos, desde que a estrutura espacial mantenha a unidade morfêmica. Em compostos simultâneos, dois sinais são articulados simultaneamente por ambas as mãos, sem modificação de movimento ou configuração, resultando em um sinal composto com estrutura simétrica e sem núcleo definido. Essa justaposição é característica de sinais com dois núcleos independentes que se combinam em paralelo.",
+      "gatilho": "sinal com duas mãos com CMs idênticas e espelhadas ou com CMs diferentes mas CM inicial e final iguais; dois sinais com núcleos independentes articulados ao mesmo tempo por ambas as mãos",
+      "exemplos": [
+        "CASA",
+        "LÍNGUA-DE-SINAIS",
+        "REGRA",
+        "CURSO",
+        "PALAVRA^PALAVRA (composição)",
+        "UNIFORME-INES"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.001",
+        "LIBRAS.MORFOLOGIA.008",
+        "LIBRAS.MORFOLOGIA.012"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem a formação de sinais simultâneos com duas mãos, onde a duplicação espacial ou a justaposição simultânea resulta em um único morfema ou composto simétrico, sem hierarquia ou núcleo definido."
+    },
+    {
+      "titulo": "Morfemas livres como base derivacional",
+      "descricao": "Morfemas lexicais livres podem atuar como base para a formação de novos sinais por meio da adição de morfemas presos, mantendo-se como núcleo semântico do novo sinal. Essa base pode ser usada em processos de derivação, onde o morfema livre permanece como núcleo significativo, mesmo quando modificado por morfemas presos ou quando perde o espelhamento em sua forma original. Morfemas base são componentes lexicais livres, com estatuto de raiz ou radical, que constituem a base para a formação de novos sinais por composição, derivação ou flexão.",
+      "gatilho": "morfema lexical livre usado como radical em construção de novo sinal; morfema livre que atua como núcleo de formação de sinal",
+      "exemplos": [
+        "LÍNGUA-DE-SINAIS^INFERIOR",
+        "PALAVRA-CHAVE",
+        "LÍNGUA-DE-SINAIS^FÁCIL",
+        "CASA",
+        "LÍNGUA-DE-SINAIS",
+        "PALAVRA"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.002",
+        "LIBRAS.MORFOLOGIA.010",
+        "LIBRAS.MORFOLOGIA.021"
+      ],
+      "justificativa_fusao": "Ambas as candidatas tratam do uso de morfemas lexicais livres como base ou raiz para formação de novos sinais, seja em derivação, flexão ou composição."
+    },
+    {
+      "titulo": "Morfemas presos como afixos",
+      "descricao": "Morfemas presos são dependentes e não podem ocorrer isoladamente; funcionam como afixos (prefixos, sufixos, infixos) que se ligam a morfemas livres para formar novos sinais. Eles são responsáveis por marcar funções gramaticais como número, gênero, tempo, aspecto, pessoa, e são essenciais em processos flexionais e derivacionais. Morfemas presos podem servir como base para a formação de novos sinais, especialmente em termos técnicos ou tecnológicos.",
+      "gatilho": "morfema que não pode ocorrer isolado e está ligado a outro morfema; uso de morfema preso com significado específico como base para formar um novo sinal",
+      "exemplos": [
+        "boca",
+        "CM em X",
+        "-SINAL",
+        "PALAVRA+++",
+        "L -> VIDEOCONFERÊNCIA",
+        "L -> HIPERTEXTO"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.003",
+        "LIBRAS.MORFOLOGIA.006",
+        "LIBRAS.MORFOLOGIA.026"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem morfemas presos que se ligam a outros elementos para formar novos sinais, funcionando como afixos ou bases derivacionais, mesmo quando usados em contextos técnicos."
+    },
+    {
+      "titulo": "Processos morfológicos simultâneos e sequenciais",
+      "descricao": "A morfologia das Línguas de Sinais combina processos simultâneos (como em compostos) e sequenciais (como em derivação), com ambos os tipos sendo usados para flexão e derivação. Esses processos podem envolver justaposição simultânea ou sequencial de sinais, com ou sem redução de elementos, e são fundamentais para a formação de novos sinais com significados derivados. Justaposição sequencial de sinais sem modificação mantém a forma original de cada componente, enquanto a justaposição com classificador como clítico envolve articulação de classificador junto a sinal lexical.",
+      "gatilho": "formação de sinais com combinação de morfemas; dois sinais articulados consecutivamente sem perda ou redução de elementos; classificador articulado junto a um sinal lexical em composição",
+      "exemplos": [
+        "LÍNGUA-DE-SINAIS^FLUENTE",
+        "PALAVRA-CHAVE",
+        "CAVALO^LISTRA-PELO-CORPO (zebra)",
+        "ÁGUA^CAMINHO (rio)",
+        "ÁGUA^CÍRCULO (lago)",
+        "ÁGUA^RETÂNGULO (piscina)",
+        "ASSINAR^SEPARAR (divórcio)",
+        "CL-coisa-pequena^PERFURAR (alfinete)",
+        "CL-coisa-pequena^APLICAR-NO-BRAÇO (agulha)",
+        "DORMIR^CL-pessoa+ (alojamento)"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.004",
+        "LIBRAS.MORFOLOGIA.015",
+        "LIBRAS.MORFOLOGIA.016"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem processos de justaposição morfológica, seja sequencial ou simultânea, com ou sem redução, incluindo a inserção de classificadores como clíticos."
+    },
+    {
+      "titulo": "Morfemas lexicais como núcleo semântico",
+      "descricao": "Morfemas lexicais são os núcleos de significação dos sinais, representando conteúdos externos ao sistema linguístico, como objetos, ações e conceitos. Eles atuam como base em processos morfológicos, mantendo-se como ponto central de significado em sinais compostos ou derivados. Morfemas base são componentes lexicais livres, com estatuto de raiz ou radical, que constituem a base para a formação de novos sinais por composição, derivação ou flexão.",
+      "gatilho": "morfema com significado externo (não gramatical); morfema livre que atua como núcleo de formação de sinal",
+      "exemplos": [
+        "CASA",
+        "EX",
+        "MÃE",
+        "CASA",
+        "LÍNGUA-DE-SINAIS",
+        "PALAVRA"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.005",
+        "LIBRAS.MORFOLOGIA.021"
+      ],
+      "justificativa_fusao": "Ambas as candidatas tratam do papel central dos morfemas lexicais como núcleos semânticos e bases para formação de novos sinais."
+    },
+    {
+      "titulo": "Morfemas com movimento interno alterando configuração",
+      "descricao": "Quando a configuração de mão inicial é diferente da final, mas o movimento interno a transforma em uma mesma CM, o sinal é considerado monomorfêmico com CM idêntica inicial e final. Isso ocorre mesmo que a CM inicial pareça diferente, desde que o movimento interno resulte em uma CM final idêntica à inicial. Derivação por modificação interna do sinal ocorre quando um morfema livre é modificado internamente (dentro do sinal) para formar um novo lexema, com alteração na configuração manual ou movimento.",
+      "gatilho": "sinal com movimento interno que altera a CM inicial para torná-la igual à final; morfema livre modificado internamente para formar novo sinal",
+      "exemplos": [
+        "BRASÍLIA",
+        "SUMIR",
+        "PALAVRA^PALAVRA (composição)"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.007",
+        "LIBRAS.MORFOLOGIA.019"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem alterações internas no sinal (configuração ou movimento) que resultam em novos significados, com foco na modificação interna do morfema livre."
+    },
+    {
+      "titulo": "Repetição sequencial não conta como múltiplos morfemas",
+      "descricao": "Repetições de um morfema no tempo, um após outro, não são contadas como múltiplos morfemas, mas como redundância do mesmo morfema. Isso ocorre em sinais onde o movimento ou configuração é repetido, mas o significado permanece unificado e não indica múltiplas unidades morfêmicas. Flexão por repetição sequencial de morfemas livres é realizada por repetição do sinal base para indicar flexão, como no caso da pluralização.",
+      "gatilho": "repetição de um morfema em sequência temporal; repetição sequencial de um sinal base para indicar flexão (ex: plural)",
+      "exemplos": [
+        "OBRIGADO",
+        "SINAL",
+        "CASA+++ (casas)"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.009",
+        "LIBRAS.MORFOLOGIA.018"
+      ],
+      "justificativa_fusao": "Ambas as candidatas tratam da repetição sequencial de um morfema como meio de flexão ou redundância, sem contar como múltiplos morfemas."
+    },
+    {
+      "titulo": "Composição por aglutinação com redução de morfemas",
+      "descricao": "Em compostos por aglutinação, um ou mais elementos dos sinais constituintes são suprimidos ou reduzidos, especialmente repetições de movimento ou configuração manual (CM), resultando em um sinal composto com estrutura morfologicamente modificada. Essa redução é comum em sinais formados por justaposição, onde partes dos componentes são omitidas para facilitar a articulação. Compostos verdadeiros em Libras apresentam ordem fixa e invariável, com supressão da repetição dos sinais componentes. O núcleo do composto está sempre à esquerda, e a troca da ordem resulta em estrutura agramatical.",
+      "gatilho": "sinal composto formado por dois morfemas livres onde ocorre perda de repetição de movimento ou CM; Sinal composto formado por justaposição ou aglutinação de dois sinais, com significado semântico de um único conceito (ex: lugar)",
+      "exemplos": [
+        "CASA^ESTUDAR (escola)",
+        "LETRAS^LIBRAS",
+        "MULHER^BEIJO-NA-MÃO (mãe)",
+        "COMER^MEIO-DIA (almoço)",
+        "CASA^ANTIGA (museu)",
+        "CASA^CRUZ -> igreja",
+        "*CRUZ^CASA -> agramatical"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.011",
+        "LIBRAS.MORFOLOGIA.022"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem compostos com redução de elementos e ordem fixa, caracterizando a aglutinação morfológica com supressão de repetições e estrutura invariável."
+    },
+    {
+      "titulo": "Justaposição sequencial de sinais sem modificação",
+      "descricao": "Em justaposição sequencial, dois sinais são articulados um após o outro sem alteração de movimento ou configuração, mantendo-se a forma original de cada componente. Essa estrutura é comum em sinais compostos que derivam de combinações de significados, sem redução ou transformação dos elementos. Compostos aparentes em Libras têm ordem dos componentes variável, e cada sinal pode ocorrer isoladamente. A estrutura é gramatical em ambas as ordens.",
+      "gatilho": "dois sinais articulados consecutivamente sem perda ou redução de elementos; Sinal composto formado por dois sinais que podem ser usados independentemente e cuja ordem pode ser invertida sem perda de gramaticalidade",
+      "exemplos": [
+        "CAVALO^LISTRA-PELO-CORPO (zebra)",
+        "ÁGUA^CAMINHO (rio)",
+        "ÁGUA^CÍRCULO (lago)",
+        "ÁGUA^RETÂNGULO (piscina)",
+        "ASSINAR^SEPARAR (divórcio)",
+        "PÃO^CASA -> padaria",
+        "CASA^PÃO -> padaria"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.015",
+        "LIBRAS.MORFOLOGIA.023"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem justaposição sequencial de sinais, diferindo apenas na fixidez da ordem: um com ordem fixa (verdadeiro composto), outro com ordem variável (aparente composto)."
+    },
+    {
+      "titulo": "Composição por coordenação com núcleos simétricos",
+      "descricao": "Em compostos por coordenação, dois ou mais núcleos são articulados em relação simétrica, sem hierarquia semântica, resultando em um sinal composto com significado derivado da combinação dos elementos. A relação é equilibrada e os componentes têm status lexical igual. Composição com empréstimo de estrutura oral ocorre quando compostos não nativos são formados por influência de estruturas de línguas orais circundantes, com significado, estrutura e iconicidade derivados do contato com línguas orais.",
+      "gatilho": "dois sinais com status lexical igual combinados em relação simétrica; composto formado por influência de estrutura de língua oral",
+      "exemplos": [
+        "MÉDICO^OLHO (oftalmologista)",
+        "CASA^L (loja)",
+        "LETRAS-LIBRAS"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.013",
+        "LIBRAS.MORFOLOGIA.017"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem composições com dois elementos de status igual, mas diferem na origem: uma é natural (coordenação), outra é derivada de empréstimo estrutural de línguas orais."
+    },
+    {
+      "titulo": "Composição por subordinação com núcleo modificado",
+      "descricao": "Em compostos por subordinação, um sinal atua como núcleo e outro como modificador ou complemento, com a categoria lexical do composto sendo a mesma do núcleo; a relação é assimétrica e semanticamente determinada. O modificador influencia o significado do núcleo, mas não altera sua categoria gramatical. Derivação por modificação de parâmetros ocorre por alteração simultânea de parâmetros do sinal, como configuração de mão, movimento e orientação, permitindo a formação de novos sinais a partir de uma base lexical.",
+      "gatilho": "um sinal atua como núcleo e outro como modificador em relação de subordinação; Formação de novo sinal a partir de uma unidade terminológica existente por mudança em parâmetros do sinal",
+      "exemplos": [
+        "CASA^ESTUDAR (escola)",
+        "MORFOLOGIA -> MORFEMA",
+        "MORFOLOGIA -> COMPOSIÇÃO"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.014",
+        "LIBRAS.MORFOLOGIA.024"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem processos de formação de novos sinais a partir de uma base, com alteração estrutural ou semântica, seja por subordinação ou modificação de parâmetros."
+    },
+    {
+      "titulo": "Derivação com numerais",
+      "descricao": "Numerais livres podem atuar como morfemas base para derivar novos sinais, especialmente em expressões temporais ou numéricas. Derivação com numerais é um caso específico de uso de morfemas livres como base para formação de novos sinais, com significado derivado da combinação com outros elementos.",
+      "gatilho": "Uso de numeral como base para formar um novo sinal",
+      "exemplos": [
+        "DOIS -> DUAS SEMANAS",
+        "DOIS -> BILÍNGUE"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.025"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Restrição de coocorrência de morfemas-boca com sinais manuais",
+      "descricao": "Os morfemas-boca têm restrições de uso e não podem ser combinados com quaisquer sinais manuais; sua coocorrência é limitada a certos sinais específicos, com mudanças de significado ou função. Morfema-boca 'th' apenas com sinal BILÍNGUE; sinal GORDO com bochechas infladas vs sinal GORDINHO com bochechas reduzidas.",
+      "gatilho": "morfema-boca associado a sinal manual específico que altera seu significado",
+      "exemplos": [
+        "sinal GORDO com bochechas infladas vs sinal GORDINHO com bochechas reduzidas",
+        "morfema-boca 'th' apenas com sinal BILÍNGUE"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.031"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Variação morfológica em expressões idiomáticas",
+      "descricao": "Expressões idiomáticas podem sofrer variações morfológicas sutis que ampliam ou ajustam seu significado, mantendo a base morfológica original. Essas variações incluem alterações em parâmetros do sinal que modificam o sentido, como em OLHOS-SALTAR -> Arregalar os olhos.",
+      "gatilho": "Expressão idiomática com variação morfológica que altera ou ajusta o significado",
+      "exemplos": [
+        "OLHOS-SALTAR -> Arregalar os olhos.",
+        "OLHOS-INCHAR -> Encher os olhos.",
+        "OLHOS-QUICAR -> Abismado!",
+        "OLHOS-CAIR -> Olhos arregalados!",
+        "OLHOS-CAIR ROUPA-LIMPAR -> Inacreditável!"
+      ],
+      "ids_origem": [
+        "LIBRAS.MORFOLOGIA.038"
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### expressoes-idiomaticas lote 0
+{
+  "regras_finais": [
+    {
+      "titulo": "Supressão da duplicação em sinais com ETC",
+      "descricao": "Em sinais compostos com ETC, a duplicação da mão e a repetição do sinal principal são suprimidas para formar o sinal ETC, resultando em uma forma simplificada que representa o conceito de 'entre outros' ou 'entre vários'.",
+      "gatilho": "Sinal composto com ETC que segue a estrutura de supressão da repetição do sinal principal",
+      "exemplos": [
+        "LEÃO^ETC",
+        "MAÇÃ^ETC",
+        "ROUPA^ETC"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.001"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Criação de sinais para blocos de sentido complexo",
+      "descricao": "A Língua de Sinais brasileira produz sinais únicos que representam ideias complexas ou estruturas oracionais, em vez de combinar múltiplos sinais para expressar o mesmo significado, permitindo maior eficiência e naturalidade na comunicação.",
+      "gatilho": "Quando um conceito complexo ou estrutura oracional precisa ser expresso em Libras",
+      "exemplos": [
+        "A LÍNGUA DE SINAIS BRASILEIRA CRIA SINAIS QUE REPRESENTAM BLOCOS DE SENTIDO COMPLEXO",
+        "UM SINAL SIMPLES PODE REPRESENTAR UMA ESTRUTURA ORACIONAL EM PORTUGUÊS"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.006"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "titulo": "Expressões idiomáticas com significado não literal",
+      "descricao": "Expressões idiomáticas em Libras são identificadas por significado conotativo ou metafórico, que não pode ser deduzido do sentido das unidades lexicais isoladas, e são reconhecidas por regularidade no uso, durabilidade ao longo do tempo e presença de significado convencional fixo.",
+      "gatilho": "Análise de uma unidade lexical ou combinação de sinais em uso recorrente em discursos de sinalizantes",
+      "exemplos": [
+        "CABELOS-EM-PÉ -> Ficar de cabelos em pé (por susto)",
+        "MÃOS LEVES -> Tem fluência em Libras",
+        "CARA-QUEBRAR",
+        "ORELHA CARA",
+        "CABEÇA DURA",
+        "MÃOS DURAS",
+        "OLHO CARO",
+        "ORELHA BARATA",
+        "ESMAGAR",
+        "SAL-FALTA",
+        "MÃO-LUBRIFICAR",
+        "BRAÇO-JUNTA-ENCOLHER",
+        "LESMA",
+        "TARTARUGA",
+        "CARA-BATER",
+        "OLHO-PISCAR",
+        "PORTA-NA-CARA",
+        "MANGA-ENROLAR",
+        "QUEIXO-CAIR",
+        "CABEÇA-FECHAR -> Estar de cabeça fechada",
+        "GARGANTA-DESCER-DIFÍCIL -> Engolir seco! Não consigo aceitar essa situação!",
+        "GRANADA-PINO-BOCA SOLTAR -> Quero ver o circo pegar fogo!",
+        "FÓSFORO-RISCAR JOGAR -> Quero ver o circo pegar fogo!",
+        "MÃOS-RECUAR -> Tirar o corpo fora!",
+        "MÃOS-TIRAR -> Me deixe fora disso!",
+        "MÃOS-LIMPAR -> Lavar as mãos"
+      ],
+      "ids_origem": [
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.007",
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.008",
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.011",
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.013",
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.014",
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.017",
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.018",
+        "LIBRAS.EXPRESSOES-IDIOMATICAS.019"
+      ],
+      "justificativa_fusao": "Todas as candidatas descrevem expressões idiomáticas em Libras com significado não literal, baseadas em regularidade, convencionalidade, metaforização, uso corporal e variação, sendo fenômenos distintos apenas em foco, mas unificados pelo núcleo comum de significado não derivado da soma dos componentes."
+    }
+  ]
+}
+

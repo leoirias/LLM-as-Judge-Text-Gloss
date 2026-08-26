@@ -1,0 +1,127 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: O COMPORTAMENTO DOS VERBOS E A QUESTÃO DA CONCORDÂNCIA ===
+=== TRECHO: páginas 203-208 (parte 3 de 3 do mesmo tópico) ===
+
+[p.203]
+LÍNGUA DE SINAIS BRASILEIRA     207
+construções com mudança da ordem standard dessa língua, que também é
+SVO. Liddell propõe que a informação sobre a relação entre a atividade e o
+objeto envolvido é claramente expressada de forma espacial em um sentido
+pictórico. Um exemplo, que se apresenta também na língua de sinais brasilei-
+ra com a mesma estrutura, seria o seguinte:
+WOMAN PIE PUT-IN-OVEN
+A Mulher colocou a torta no forno (Liddell, 1980, p. 89-91)
+Liddell também observou que há possibilidade de estruturas OSV serem
+geradas na língua de sinais americana sem marca de tópico em exemplos em
+que há um predicado complexo (mencionados como classificadores anterior-
+mente). Tais predicados são considerados complexos, porque, através de um
+único sinal, o sinalizador expressa um locativo e um nome. A seguir, apresen-
+tam-se dois exemplos considerados relevantes que também aparecem na lín-
+gua de sinais brasileira com a mesma estrutura:
+BALL JOHN SWING-A-BAT
+John bateu na bola com um taco
+FENCE CAT SLEEP
+O gato dormiu na cerca sentado (Liddell, 1980, p. 91-100)
+BOLA JOÃO BATER-COM-TACO
+
+[p.204]
+208     QUADROS & KARNOPP
+Todos estes exemplos ilustram os verbos “manuais” tanto na língua de
+sinais americana como na língua de sinais brasileira. Assim como já menciona-
+do, os verbos são chamados de handling verbs por alguns autores quando inclu-
+em um instrumento e/ou ‘predicados complexos’ por outros autores.
+A versão de Liddell tende a analisar tais construções como expressões de
+ordem não-sintática. Esse viés é retomado nas suas análises mais atuais excluin-
+do por completo uma análise de ordem sintática nos termos analisados até
+então, considerando a teoria lingüística e os estudos das línguas em geral.
+Sua proposta segue um rumo alternativo. Sua versão, na verdade, resulta de
+uma atenção especial às diferenças, uma vez que assim poderia estar aden-
+trando nos limites da teoria lingüística. Liddell (1990, 1995) considera que os
+pontos estabelecidos no espaço, que são incorporados pelos verbos no que
+vem se chamando de concordância, não podem ser analisados morfolo-
+gicamente, uma vez que tais pontos são indeterminados. A partir de suas aná-
+lises, ele conclui que não há concordância verbal na língua de sinais america-
+na. Para o autor, o que acontece é uma indicação de natureza gestual combi-
+nada com elementos de ordem lingüística dos sinais. No entanto, apesar de
+serem identificados aspectos aparentemente diferentes das análises tradicio-
+nais realizadas no âmbito da lingüística teórica, ainda assim há propostas que
+CERCA GATO SENTAR DORMIR-NA-CERCA
+
+[p.205]
+LÍNGUA DE SINAIS BRASILEIRA     209
+parecem acomodar de forma interessante tais características. Lillo-Martin (no
+prelo) e Mathur e Rathmann (2002) apresentam evidências lingüísticas (e
+psicolingüísticas) de que a concordância existe na língua de sinais americana.
+Apesar da existência destes classificadores, parece que o sistema lingüístico é
+ordenado de forma linear em algum nível que obviamente não é trivial. Note-
+se que não há uma ordenação caótica nas sentenças incluindo os verbos ma-
+nuais. Isso indica que, apesar das características essencialmente visuais e es-
+paciais, há restrições quanto à ordenação dos constituintes na estrutura.
+Note-se ainda que tais construções seguem o mesmo padrão: todas ocu-
+pam a posição final da sentença. Com os classificadores, o predicado comple-
+xo inteiro que inclui o verbo ocupa esta posição. Todos os exemplos estão ou
+associados com a marcação não-manual de concordância ou com a marcação
+não-manual de tópico. Em termos estruturais, a posição final também é ocu-
+pada pelo foco que usualmente está associada com o movimento da cabeça,
+mas têm-se exemplos de que há restrições de tal posição ser ocupada por
+argumentos oracionais. Uma hipótese possível seria considerar estas constru-
+ções manuais tendo relação em alguma instância com as construções de foco,
+sendo que tais argumentos oracionais seriam nucleares pela sintaxe, uma vez
+que morfologicamente apresentam características de um único sinal. Assim, a
+sintaxe sendo cega à informação semântica oracional, a estrutura seria deri-
+vada de qualquer forma, apresentando a devida interpretação na interface
+que do ponto de vista fonológico apresentaria uma interpretação equivalente
+a um único sinal que pode ser analisado em unidades menores (cf. Suppala,
+1982, 1986). A seguir, apresentam-se tais exemplos derivados com a
+topicalização e associados com foco:
+<JOÃO>t <TELA>t <PINTAR-PINCEL>cl/mc
+João pinta a tela com o pincel
+
+[p.206]
+210     QUADROS & KARNOPP
+<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE+>cl/mc
+O João estava de carro e bateu no poste, detonando completamente o veículo
+<JOÃO>t <CARRO>t <CL(carro)-BATER-POSTE>cl/mc
+O João estava de carro e deu uma batidinha no poste
+
+[p.207]
+LÍNGUA DE SINAIS BRASILEIRA     211
+<JOÃO>t <MARIA>t <CL(pessoa)-CRUZAR-UMa-PELO-OUTRO>cl/mc
+O João cruzou pela Maria
+Analisar tais derivações como instâncias de foco e/ou tópico favorecem
+as análises de Braze (1997), de que o movimento do objeto é para categorias
+não-argumentais.
+Evidenciou-se até então que a concordância é um aspecto gramatical nas
+línguas de sinais. No entanto, permanece o problema da infinitude levantado
+<CENTRO>t MULHERES [CL(pessoas)-CRUZANDO-ENTRE-SIb] hn
+No centro, várias mulheres cruzam entre si
+
+[p.208]
+212     QUADROS & KARNOPP
+por Liddell e retomado por Rathmann e Mathur (2002) como o problema
+relacionado com a listabilidade. Nesse sentido, Rathmann e Mathur propõem
+que, assim como com as línguas faladas, os elementos que determinam a con-
+cordância verbal são os argumentos de ordem estrutural, os índices (ou, mais
+precisamente, os traços-ϕ) dos IPs e a condição de visibilidade destes IPs para
+atribuição dos papéis-η (ou seja, eles devem ser visíveis ou devem ser deter-
+minados através do Caso Abstrato (cf. Chomsky , 1981) ou ainda através da
+co-indexação com um morfema no verbo através da concordância ou do mo-
+vimento (cf. Baker, 1996). Nas línguas de sinais, o IP será visível para a atri-
+buição dos papéis-η através da concordância. Assim, o problema da infinitude
+é tratado da mesma forma que nas línguas faladas. No entanto, há problemas
+que permanecem relacionados à listabilidade. Na verdade, os problemas não
+são de ordem sintática, mas de ordem fonológica e morfológica. Segundo
+Rathmann e Mathur, as diferenças entre as línguas sinalizadas e as línguas
+faladas apontadas por Liddell estão no nível da interface articulatória-
+perceptual (modelo de Jackendoff, 1992). Essa proposta retira o ‘locus’ do
+módulo da fonologia e acomoda-o na interface, pois o módulo da fonologia
+não é suficientemente sofisticado para incluir este tipo de expressão conceitual
+(referencial), e não há informação suficiente que justifique a articulação do
+locus no módulo da fonética (o locus pode tomar diferentes formas e tama-
+nhos, determinados manualmente através do espaço “gestual”). Assim, o ‘locus’
+é uma realização gestual que é determinada na interface entre o sistema
+lingüístico e a estrutura conceitual.
+A proposta de Rathmann e Mathur é uma alternativa teórica conciliado-
+ra e merece ser analisada em detalhes, considerando suas implicações nas
+análises das línguas de sinais. As perspectivas de pesquisas na área ampliam-
+se, incluindo possibilidades de avanços no nível das investigações das interfaces.

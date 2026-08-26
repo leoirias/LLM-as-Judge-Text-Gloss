@@ -1,0 +1,122 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.11.9 Ordem ===
+=== TRECHO: páginas 211-215 (3 tópicos consecutivos) ===
+
+[p.211]
+212
+(69) anteposta com conjunção.
+SE    IX (eu)   IX (ir   NÃO   ASSOCIAÇÃO    SURDO 
+IX eu)  HOJE                      IX (eu              O-QUE
+SE IX (eu) IR-NÃO ASSOCIAÇÃO SURDO IX 
+(eu HOJE IX (eu) O-QUE
+Se eu não tivesse ido para a Associação de 
+Surdos, o que eu seria hoje?              
+Aleixo (2021, p. 142) e Rodrigues (2022, p. 139), no entanto, apresentam 
+evidências de orações condicionais pospostas em Libras, associando essa ordena-
+ção a um valor semântico específico. Segundo Chafe (2003) e Dancygier (2003), 
+essas orações são classificadas como condicionais de adendo ou condicionais me-
+tatextuais.               
+8.11.10 Subtipos semânticos
+A natureza semântica das orações condicionais constitui um dos seus as -
+pectos mais discutidos na Literatura Linguística sobre línguas orais. No que diz 
+respeito às Línguas de Sinais, muitos trabalhos, além de identificar a ocorrência 
+de condicionais factuais e contrafactuais, as associam à presença de marcadores 
+não manuais específicos (cf. DACHKOVSKY, 2008).
+Aleixo (2021) ressalta que, na Libras, as orações condicionais parecem poder 
+ser mais bem descritas tendo em vista um continuum de hipoteticidade, tal como 
+previsto em Comrie (1986). Baseado em Comrie, (1986), o autor sugere que o agru-
+https://youtu.be/wpV__dMkha0
+
+[p.212]
+213
+pamento das orações condicionais em Libras em dois subgrupos discretos (quer 
+dizer, factual vs. contrafactual) ou tripartido (ou seja, real, potencial e irreal, como 
+Neves (2000) propõe para a Língua Portuguesa) não permite apreender as nuances 
+de significados presentes nessas orações. Desse modo, propõe que as condicionais 
+sejam analisadas tendo em vistas graus de hipoteticidade.     
+Considerando os exemplos extraídos do Inventário Nacional de Libras – 
+Surdo referência (REF), apresentamos três ocorrências de orações condicionais 
+que exibem diferentes graus de hipoteticidade:
+  
+(70)
+        SE   DEM (esse) OUVINTE           FLUENTE    CHIQUE          O-MÁXIMO 
+APAVORAR         VER ENTENDER
+SE DEM (esse) OUVINTE FLUENTE CHIQUE 
+O-MÁXIMO Interr.                 Neg.
+APAVORAR VER ENTENDER
+Se o ouvinte for muito fluente, o máximo, ele vai 
+entender (aquele vídeo)? Não vai.
+https://youtu.be/DuOM0T8QQ3Q
+
+[p.213]
+214
+                                                                                  (71)
+IX (eu)        SÓ                  VERGONHA                     IX(eu)               PALESTRAR            1 
+ 
+OUVINTE      E (chamar) DEM (lá     LÍNGUA PORTUGUESA         ERRAR       IX (eu)
+ 
+  
+ VERGONHA    E (pessoas-olhar-karin)
+IX (eu) SÓ VERGONHA IX (eu) PALESTRAR 
+1 OUVINTE E(chamar) DEM (lá) LÍNGUA 
+PORTUGUESA ERRAR  IX (eu)
+ VERGONHA E(pessoas-olhar-karin).
+Me sentiria envergonhada se, em uma palestra 
+minha alguém da plateia, um ouvinte me disser 
+que estou falando errado.
+https://youtu.be/2FgUlFPm6UI
+
+[p.214]
+215
+(72)
+  SE    CONHECER          SABER-ZERO     LÍNGUA PORTUGUESA    E (então)
+SE CONHECER SABER-ZERO LÍNGUA 
+PORTUGUESA   E (então)
+Se eu não soubesse nada de Língua 
+Portuguesa, como seria?
+Podemos observar, nesses exemplos, que a condicional em (70) exibe um 
+grau menor de hipoteticidade, o que a faz se aproximar da definição de condi -
+cionais factuais. Já (72), com grau maior de hipoteticidade, compreende aqueles 
+casos descritos como condicionais contrafactuais. A ocorrência em (71), por seu 
+turno, apresenta um grau intermediário de hipoteticidade, podendo ser também 
+identificada como uma condicional eventual.
+Embora tenhamos identificado a recorrência de marcadores não manuais 
+na produção de orações condicionais, não foi possível, ao contrário do proposto 
+em outros trabalhos sobre outras Línguas de Sinais estrangeiras, associar o uso de 
+marcadores não manuais específicos relacionados aos subtipos semânticos. Aleixo 
+(2021)3, nesse sentido, aponta que sempre haverá sobreposição de funções para a 
+realização das condicionais4 (por exemplo, condicionais em contextos de pergunta, 
+em contextos de negação, em pressuposição futura), o que não nos permite, ainda, 
+estabelecer marcadores não manuais que determinem se uma condicional seria, 
+evidentemente, factual, eventual ou contrafactual. Assim, o autor aponta que mais 
+pesquisas, partindo de outros córpora de Libras, podem contribuir para fortalecer 
+essa conclusão. 
+3 Aleixo (2021) também identifica que o ‘piscar de olhos’ pode marcar a mudança da prótase 
+para a apódose em sentenças condicionais na Libras. 
+4 Nesta seção, as orações condicionais estarão marcadas em negrito, e as orações principais, 
+em itálico.
+https://youtu.be/OiBS3Q9lt8w
+
+[p.215]
+216
+8.12 FINAIS (OU DE FINALIDADE) 
+De acordo com Lima (2002), as orações hipotáticas de finalidade expressam 
+relação de propósito entre duas sentenças, de maneira que as orações hipotáticas 
+adverbiais de finalidade “expressam o propósito do evento principal” (CECHETTO 
+et al. 2017, p. 478).
+Na sentença (73), há uma relação de finalidade e se percebe que essa é estabe-
+lecida por meio da justaposição das duas sentenças. Nota-se a relação de finalidade 
+entre LEVAR e VER CADERNO:
+(73) Hipotaxe adverbial de finalidade por justaposição.
+    
+IX (ela)        JUNTO   ACOMPANHAR     LEVAR       IX (lá) VER
+ SINAL    CADERNO     FS (revista) CADERNO
+IX (ela) JUNTO ACOMPANHAR LEVAR IX 
+(lá) VER SINAL CADERNO FS (revista) 
+CADERNO 
+Ela me acompanhou e me levou para ver uma 
+revista com sinais em Libras.
+A primeira parte da sentença complexa IX (ela) JUNTO ACOMPANHAR LE-
+VAR IX (lá) é a sentença nuclear. Essa primeira parte apresenta o evento primário 
+que propicia a realização do segundo evento, expressado na sentença VER SINAL 
+https://youtu.be/cih7sur6g8w

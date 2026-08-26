@@ -1,0 +1,24 @@
+### LIBRAS.SINTAXE.001
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.SINTAXE.1", "justificativa": "A base já reconhece a ordem SVO como dominante, mas não explicita que a estrutura básica Sujeto-Predicado (SUJ-PRED) é a fundação da sintaxe, especialmente com sujeito expresso por pronome ou nome próprio e predicado iniciado por verbo direcional ou intransitivo, como destacado na candidata."}
+
+### LIBRAS.SINTAXE.002
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.SINTAXE.1", "justificativa": "A regra LIBRAS.SINTAXE.1 descreve a ordem SVO como dominante, mas não aborda a elipse da preposição locativa em 'IR CASA', que é um fenômeno específico de omissão de preposição redundante devido ao movimento do verbo 'IR'. A candidata complementa a base com um detalhe sintático não coberto pela regra existente."}
+
+### LIBRAS.SINTAXE.003
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.SINTAXE.3", "justificativa": "A regra LIBRAS.SINTAXE.3 proíbe advérbios temporais entre verbo e objeto em estruturas VP[V NP], mas não aborda a posição do advérbio no nível do objeto quando modifica o destino locativo; a candidata adiciona essa nuance, explicando que o advérbio pode estar no nível do objeto quando se refere ao destino, tratando-o como adjunto nominal."}
+
+### LIBRAS.SINTAXE.004
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.PERGUNTA.1", "justificativa": "A regra LIBRAS.PERGUNTA.1 trata da movimentação de elementos interrogativos para Spec CP, mas não aborda explicitamente a omissão ou expressão do sujeito por pronome IX em perguntas com item-QU, que é o foco da candidata. A candidata adiciona um detalhe sobre sujeito nulo ou expresso por IX, especialmente quando o foco está no verbo ou complemento, o que não está coberto pela regra base."}
+
+### LIBRAS.SINTAXE.005
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.SINTAXE.1", "justificativa": "A regra LIBRAS.SINTAXE.1 descreve a ordem SVO como dominante, mas não aborda explicitamente a estrutura de complemento direto com nome e adjetivo; a candidata adiciona um detalhe sobre a projeção do adjetivo como nó adjunto nominal ao nome, que não está coberto na base."}
+
+### LIBRAS.SINTAXE.007
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.TEMPO-ASPECTO.1", "justificativa": "A regra LIBRAS.TEMPO-ASPECTO.1 menciona que o tempo (como agora) é frequentemente expresso no início da frase, mas não aborda a flexibilidade na posição após o verbo; a candidata complementa essa regra ao incluir a possibilidade de posicionamento após o verbo, mantendo naturalidade, o que não está coberto na base."}
+
+### LIBRAS.PERGUNTA.001
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.PERGUNTA.1", "justificativa": "A regra LIBRAS.PERGUNTA.1 trata da movimentação de elementos interrogativos para o início da frase, mas não aborda especificamente o papel do item-QU como advérbio de foco posicionado no final da frase, o que é destacado na candidata como fenômeno distintivo e funcional."}
+
+### LIBRAS.TEMPO-ASPECTO.001
+{"status": "parcial", "regra_base_correspondente": "LIBRAS.TEMPO-ASPECTO.1", "justificativa": "A regra LIBRAS.TEMPO-ASPECTO.1 menciona que o tempo é frequentemente expresso no início da frase, mas não aborda a projeção de advérbios de tempo como adjuntos nominais em estruturas locativas, como em 'CASA HOJE', que é o foco da candidata."}
+

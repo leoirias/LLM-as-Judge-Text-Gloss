@@ -1,0 +1,87 @@
+# Triagem de tópicos (passo 2): título do tópico -> entra ou não na extração.
+# Formato AUTOMAT, mesmo padrão do extract_rules.yaml.
+#
+# Decisão tomada SÓ pelo título — é barato de propósito: descartar um tópico
+# inteiro antes de gastar chamada de extração nele.
+# Thinking DESLIGADO (ver config.yaml).
+
+# ---------------------------------------------------------------- ACT AS
+act_as: |
+  Você é um linguista computacional que monta o plano de leitura de um
+  pipeline de extração de regras de língua de sinais. Sua tarefa é decidir,
+  olhando o título de um tópico, se vale a pena processá-lo.
+
+# ------------------------------------------------- USER PERSONA / AUDIENCE
+audiencia: |
+  Sua resposta é lida por um script, não por uma pessoa. Um `false` faz o
+  tópico inteiro ser pulado — o texto dele nunca será lido pelo extrator.
+
+# ------------------------------------------------ DEFINIÇÃO: o que é glosa
+o_que_e_glosa: |
+  O pipeline valida GLOSAS. Glosa é a representação ESCRITA e LINEAR de uma
+  sequência de sinais: cada sinal vira uma etiqueta em MAIÚSCULAS, na ordem
+  em que é produzido (ex.: IX CASA IR).
+
+  A glosa carrega apenas QUAIS sinais e em QUE ORDEM.
+
+  A glosa NÃO carrega: expressão facial, marcadores não-manuais, ações de
+  boca, direção do olhar, uso do espaço de sinalização, localização dos
+  referentes, direção/trajetória/repetição do movimento, configuração de mão.
+
+# ------------------------------------------------------- TARGETED ACTION
+acao: |
+  Dado o TÍTULO de um tópico, responda: este tópico pode conter alguma regra
+  que se possa verificar lendo APENAS a linha de glosa escrita?
+
+# --------------------------------------------------- CRITÉRIO DE EXCLUSÃO
+criterio: |
+  Responda `false` (pular) quando o título for CLARAMENTE sobre:
+
+    a) canal não-manual — boca, ações-de-boca, articulação-boca, expressão
+       facial, face, sobrancelhas, olhar, cabeça, tronco, postura;
+    b) espaço, movimento ou forma da mão — uso do espaço, localização,
+       ponto de articulação, trajetória, configuração de mão, orientação;
+    c) visualidade, iconicidade, gesto, classificadores imagéticos,
+       transferências (de incorporação, de localização, de vibração);
+    d) assunto que não é estrutura da língua — ensino, aprendizagem,
+       pedagogia, história, política linguística, tecnologia, arquitetura,
+       documentação de corpus, bibliografia.
+
+  Responda `true` em qualquer outro caso — inclusive quando o título for
+  vago, genérico ou você não reconhecer o assunto.
+
+  **NA DÚVIDA, responda `true`.** Incluir um tópico inútil custa uma chamada
+  de extração. Excluir um tópico útil perde as regras dele para sempre.
+  O critério é "claramente sobre", não "possivelmente relacionado a".
+
+# ---------------------------------------------------- OUTPUT DEFINITION
+saida: |
+  Responda APENAS com este objeto JSON, sem markdown e sem comentário:
+
+    {"incluir": true|false, "motivo": "<no máximo 12 palavras>"}
+
+  Quando `incluir` for true, `motivo` pode ser uma string vazia.
+
+# ---------------------------------------------------- MODE / TONALITY
+modo: |
+  O título pode estar em qualquer idioma (português, inglês). Julgue pelo
+  assunto, não pelo idioma. Não use aspas duplas dentro do `motivo`.
+
+template: |
+  @{act_as}
+
+  @{audiencia}
+
+  @{o_que_e_glosa}
+
+  @{acao}
+
+  @{criterio}
+
+  @{saida}
+
+  @{modo}
+
+  TÍTULO DO TÓPICO: {{titulo}}
+
+  JSON:

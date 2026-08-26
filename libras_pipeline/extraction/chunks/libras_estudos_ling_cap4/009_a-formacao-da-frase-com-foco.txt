@@ -1,0 +1,151 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A FORMAÇÃO DA FRASE COM FOCO ===
+=== TRECHO: páginas 166-180 ===
+
+[p.166]
+170     QUADROS & KARNOPP
+Estrutura da frase com verbos com concordância
+A FORMAÇÃO DA FRASE COM FOCO
+Construções com foco na língua de sinais brasileira apresentam as se-
+guintes propriedades:
+(i) Foco envolve construções duplas em que o elemento duplicado ocupa
+a posição final.
+Como na ASL, a língua de sinais brasileira apresenta construções duplas
+com modais, quantificadores e verbos. Além desses casos, são muito comuns
+construções duplas com interrogativos, negação e advérbios:
+
+[p.167]
+LÍNGUA DE SINAIS BRASILEIRA     171
+EU PODER IR <PODER>mc
+Eu posso ir (a algum lugar)
+EU TER DOIS CARROS <DOIS>mc
+Eu tenho dois carros
+
+[p.168]
+172     QUADROS & KARNOPP
+EU PERDER LIVRO <PERDER>mc
+Eu perdi o livro
+<QUEM GOSTAR GATO>qu <QUEM>qu
+Quem gosta de gato?
+
+[p.169]
+LÍNGUA DE SINAIS BRASILEIRA     173
+AMANHÃ ELE COMPRAR CARRO <AMANHÃ>mc
+Amanhã, ele comprará o carro
+EU < NÃO IR>n <NÃO>n
+Eu não vou (a algum lugar)
+
+[p.170]
+174     QUADROS & KARNOPP
+(ii) Foco envolve somente núcleos:
+Todos os casos ilustrados com foco envolvem posições nucleares. A
+posição de sujeito, por exemplo, não pode ser duplicada, uma vez que é
+um DP (sintagma determinado que inclui, além do substantivo, o deter-
+minador).
+Neste exemplo, o sinal de MARIA faz parte do DP , impedindo a ocor-
+rência de sua duplicação. Essa restrição também é observada com sintagmas
+interrogativos e sintagmas adverbiais (CP e AdvP):
+aJOÃO <aDARb>do LIVRO <MARIAb>do
+O João deu o livro para Maria
+* <aJOÃO>do <aDARb>do LIVRO <bMARIA>do <JOÃOa>mc/do
+
+[p.171]
+LÍNGUA DE SINAIS BRASILEIRA     175
+<QUAL MULHER DESSAS TU GOSTAR>qu
+Qual destas mulheres tu gostas?
+*<QUAL MULHER DESSAS TU GOSTAR>qu <QUAL MULHER DESSAS>qu
+<QUAL MULHER TU GOSTAR>qu <QUAL>qu
+
+[p.172]
+176     QUADROS & KARNOPP
+Assim sendo, parece que a duplicação de um elemento em função do foco
+somente se dá com os núcleos dos sintagmas.
+(iii) A posição FP (sintagma de foco) na língua de sinais brasileira é
+uma projeção acima de IP (sintagma nominal) projetada quando
+uma informação acentuada com interpretação fonológica e se-
+mântica é inserida na posição de núcleo associada com traço for-
+te de foco. Assim, IP (ou AgrSP) (que contém o elemento em
+foco) move para o especificador de FP observando os requeri-
+mentos de checagem (conforme representado a seguir).
+17
+Extraposição de IP nas construções com foco
+Considerando essa representação, apresentam-se as construções duplas
+na língua de sinais brasileira com suas respectivas representações:
+17Quando uma interrogativa é inserida, não é possível ter outro elemento com foco dentro
+da mesma sentença. Assim, parece  que CP é inerentemente focado.
+
+[p.173]
+LÍNGUA DE SINAIS BRASILEIRA     177
+[FP [EU PODER IR] i <[F PODER] [IP t i ]>mc
+[FP [EU TER DOIS CARROS] i <[F DOIS] [IP t i ]>mc
+
+[p.174]
+178     QUADROS & KARNOPP
+<[CP [FP [QUEM GOSTAR GATO] i >qu <[F QUEM] [IP t i ]>qu
+[FP [EU PERDER LIVRO] i <[F PERDER] [IP t i ]>mc
+
+[p.175]
+LÍNGUA DE SINAIS BRASILEIRA     179
+[FP [EU <NÃO <aIRb>do] i >n <[F NÃO] [IP t i ]>n
+[FP [AMANHÃ COMPRAR CARRO ] i <[F AMANHÃ] [IP t i ]>mc
+
+[p.176]
+180     QUADROS & KARNOPP
+As sentenças interrogativas parecem ser inerentemente focadas, confor-
+me ilustram os seguintes exemplos:
+<O QUE JOÃO GOSTAR O QUE>qu
+*<JOÃO GOSTAR QUEM GOSTAR>qu
+(iv) O traço [+foco] associado com F0 licencia o núcleo nulo dentro de IP
+mediante identidade com o núcleo de FP, ou seja, a presença do foco
+permite o apagamento do primeiro elemento da construção dupla.
+O traço de FP c-comanda IP, que contém a cópia do núcleo em foco. O traço
+[+foco] associado com F0 licencia potenciais núcleos nulos dentro de IP observan-
+do identidade, derivando, assim, as seguintes sentenças. A relação de c-comando
+de F sobre IP permite a reconstrução da estrutura para a sua interpretação.
+[FP [EU PODER IR]i <[F PODER] [IP t i ]>mc
+
+[p.177]
+LÍNGUA DE SINAIS BRASILEIRA     181
+[FP [EU TER DOIS  CARROS]i <[F DOIS] [IP t i ]>mc
+[FP [EU PERDER LIVRO]i <[F PERDER] [IP t i ]>mc
+<[CP [FP [QUEM GOSTAR GATO]i>>qu <[F QUEM] [IP t i ]>qu
+
+[p.178]
+182     QUADROS & KARNOPP
+(v) As marcas não-manuais associadas com os elementos em foco se
+espalham sobre IP vazio, conforme foi ilustrado nos exemplos
+anteriores.
+[FP [EU <NÃO <aIRb>do ]i >n <[F NÃO] [IP t i ]>n
+[FP [AMANHÃ EL@ COMPRAR CARRO ] i <[F AMANHÃ] [ IP t i ]>mc
+
+[p.179]
+LÍNGUA DE SINAIS BRASILEIRA     183
+(vi) As construções com foco observam as restrições de ilha de Ross
+(1967). Lobato (1986, p. 253-254) resume tais restrições, como a
+seguir:
+As restrições formuladas por Ross se aplicariam a toda a classe de regras de
+deslocamento e impediriam que fossem extraídos elementos de certas configu-
+rações sintáticas que foram por ele denominadas de “ilhas” (exatamente por
+seu estado de isolamento, já que são estruturas cujos constituintes não podem
+ser extraídos pelas regras de movimento). As restrições que ele propôs ficaram
+então conhecidas como “restrições de ilha” ( island constraints).
+Essa restrição está exemplificada através da oração relativa a seguir que
+é considerada uma “ilha” e, por essa razão, pode ter constituintes associados
+somente dentro da própria estrutura, mas não pode ter um constituinte asso-
+ciado com outro constituinte fora de sua “ilha”.
+MULHER <BICICLETA CAIR>r ESTAR HOSPITAL
+A mulher que caiu da bicicleta está no hospital
+
+[p.180]
+184     QUADROS & KARNOPP
+Como observado por Petrônio (1993) na ASL, na língua de sinais brasi-
+leira não há como ter um elemento duplo em uma oração relativa na posição
+final da sentença conforme ilustrado. Essa sentença é agramatical, porque
+uma oração relativa é uma ilha do ponto de vista sintático.
+Ainda há uma questão sobre FP na língua de sinais brasileira: Por que
+“todo” o IP está associado com o traço de foco? Assume-se que o foco se espa-
+lha sobre IP por causa do traço forte de foco. A marca não-manual que se
+espalha sobre IP indica isto. Outro teste usado para confirmar essa intuição é
+apresentado a seguir:
+MULHER <BICICLETA CAIR BICICLETA>r ESTAR HOSPITAL
+* MULHER <BICICLETA CAIR>r ESTAR HOSPITAL BICICLETA

@@ -1,0 +1,148 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.3.2 Construções focalizadas ===
+=== TRECHO: páginas 77-83 (parte 1 de 2 do mesmo tópico) ===
+
+[p.77]
+78
+              -LICENÇA                               GRAVIDEZ                                        PEDIR-LICENÇA
+PORQUE EU JÁ PEDIR-LICENÇA GRAVIDEZ 
+PEDIR-LICENÇA
+Eu pedi licença devido à minha gravidez.
+Fonte: Royer (2019, p. 130)
+(112) Sentença com foco de ênfase
+ (esse-sinal) VERDE (variante-INES) VIRAR [VERDE (sinal-Marisa)] foco DELE PROPRIO SINAL 
+[VERDE (sinal-Marisa)] foco+eyegaze
+(esse-sinal) VERDE (variante-INES) VIRAR [VERDE 
+(sinal-Marisa)] foco DELE PROPRIO SINAL 
+[VERDE 
+(sinal-Marisa)]foco+eyegaze
+Aí (esse) VERDE (variante-INES) virou o VERDE (sinal-Ma-
+risa), 
+seguindo padrão do próprio sinal do VERDE 
+(sinal-Marisa) deles
+(113)
+https://youtu.be/V0-D801mtpI
+https://youtu.be/pvLVsb96Mp8
+
+[p.78]
+79
+IX (eu) [OLHO]foco               VERDE [OLHO]foco
+IX (eu) [OLHO]foco VERDE [OLHO]foco
+Eu tenho olhos verdes.
+(114) Sentença com foco de ênfase e negação 
+[PORQUE CIDADE PEQUENO]      TER-NÃO
+https://youtu.be/QTSfa_yCFJo
+
+[p.79]
+80
+ESCOLA                     PRÓPRIA           SURDO               TER-NÃO
+[PORQUE CIDADE PEQUENO] TER-NÃO 
+ESCOLA PRÓPRIA SURDO TER-NÃO
+Porque a cidade é pequena, não tem escola 
+específica para surdos.
+                                                          (115) Sentença com foco de ênfase.
+                   
+ É              FAZ-TEMPO     MOMENTO       PERÍODO        É IX (isso) COMUNICAÇÃO-TOTAL IX (isso)
+ 
+É FAZ-TEMPO MOMENTO PERÍODO É IX (isso) 
+COMUNICAÇÃO-TOTAL IX (isso)
+É faz tempo, naquele período era isso mesmo, 
+comunicação total.
+(116) Sentença temporal com negativa com foco de ênfase.
+                              [ANTERIORMENTE                IX (eu) NENHUM
+https://youtu.be/xoJ80h91MyA
+https://youtu.be/Rtlj0CLysvw
+
+[p.80]
+81
+                   TER-NÃO               PERFEITO           METODOLOGIA          PERFEITO
+  ANTERIORMENTE] foco-ênfase ENTÃO [neg) CLARO [neg]                          NÃO
+[ANTERIORMENTE IX (eu) NENHUM TER-
+NÃO PERFEITO METODOLOGIA PERFEITO 
+ANTERIORMENTE] foco-ênfase ENTÃO [neg) 
+CLARO [neg] NÃO
+Antes, eu não-tive acesso a uma metodologia 
+certa antes, não era claro.
+(117) Sentença com foco de ênfase, oração temporal e com oração encaixada.
+             [DEPOIS             PASSADO         MOMENTO          Período            PASSADO] 
+https://youtu.be/K2dQHgKfA7I
+
+[p.81]
+82
+       [IX (eu)          ACREDITAR            CERTO           MATEMATICA         POSS(meu)          E(positivo)]
+[DEPOIS PASSADO MOMENTO Período PASSADO] 
+[IX (eu) ACREDITAR CERTO MATEMATICA 
+POSS (meu) E(positivo)]
+Depois, no passado naquele período passado, eu 
+acreditei que matemática era algo que eu gostava.
+(118) Sentença temporal com foco de ênfase em NÃO-TER.
+   ANTES     TER-NÃO   OBRIGAR [neg] TER-NÃO
+                           INTERPRETE [neg]                     COISA [neg]              TER-NÃO
+ANTES TER-NÃO OBRIGAR [neg] TER-NÃO 
+INTERPRETE [neg] COISA [neg] TER-NÃO.
+Antes não-tinha obrigação não-tinha intérprete 
+e outras coisas não-tinha+.
+Quadros (1999) observa também que o redobro deve respeitar as fronteiras da 
+https://youtu.be/m9e64-0JWuU
+https://youtu.be/wpcuJTpBE-0
+
+[p.82]
+83
+oração. Por isso, quando há uma sentença complexa, o redobro deve estar contido 
+na oração que hospeda o elemento focalizado. No caso de uma oração subordinada, 
+o redobro acontecerá no limite da oração encaixada e não na posição final da frase 
+como um todo. Observe os exemplos a seguir extraídos de Quadros (1999, p. 222) 
+em que temos a focalização de um elemento da oração relativa. Note ainda que o 
+redobro ocupando a posição final da oração principal não é gramatical em Libras.
+ 
+(119) MENINA [BICICLETA CAIR] FICAR HOSPITAL
+A menina que caiu da bicicleta está no hospital.
+ 
+(120) MENINA [BICICLETA CAIR BICICLETA] FICAR HOSPITAL
+ 
+(121) *MENINA [BICICLETA CAIR] FICAR HOSPITAL BICICLETA 
+ 
+Além das estruturas com foco enfático, também têm sido analisadas em Li-
+bras as estruturas com foco contrastivo. O foco contrastivo quando um elemento 
+da sentença é focalizado de modo a oferecer um contraste ou uma correção de 
+uma informação anterior (MIOTO, 2004, p. 169). Há, portanto, nas palavras de 
+Minuzzi (2012, p. 97), “a asserção de uma proposição e a negação de (pelo menos) 
+uma proposição alternativa”.
+Em Libras, duas estruturas distintas foram identificadas que envolvem a 
+marcação de foco contrastivo. A primeira delas, descrita por Lillo-Martin e Quadros 
+(2008), trata do movimento do constituinte que carrega o contraste para a posição 
+inicial da sentença.11 Mas, nesse caso, trata-se de informação nova e contrastiva.
+(122) Foco contrastivo em posição inicial da sentença:
+Pergunta: Que livro você leu? O livro do Saussure?
+Resposta: [LIVRO JAIRO] IX(eu) LER                     
+‘Eu li o livro do Jairo (não o do Saussure).’
+Também encontramos exemplos de foco contrastivo marcado em posição 
+inicial da sentença no Corpus de Libras: 
+11 Repare que essa pode ser considerada uma operação de topicalização, que descrevemos 
+na seção anterior. Por esse motivo, alguns autores chamam essa operação de topicalização 
+para fins de foco contrastivo (WILBUR, 1997).
+
+[p.83]
+84
+(123) Foco contrastivo.
+       [FAMÍLIA                                 MÃE                       NÃO] foco-contrastivo MAIS          FALAR-ORAL
+[FAMÍLIA MÃE NÃO] foco-contrastivo MAIS 
+FALAR-ORAL
+Diferentemente da família da minha mãe, 
+que usa mais da oralidade.
+Outra possibilidade de marcação de foco contrastivo em Libras se dá pelo 
+movimento do constituinte para a posição final da sentença, conforme apontam 
+Arrotéia (2003) e Quadros e Karnopp (2004). Vale mencionar ainda que o foco 
+contrastivo em posição final de sentença pode resultar na ordem VOS da frase em 
+Libras.
+  (124) Foco contrastivo em posição final da sentença:
+ Asserção: A Maria comprou um carro.
+ Contraste: NÃO. COMPRAR CARRO [JOÃO]foco
+‘Comprou o carro, o João (não a Maria).’
+Foco contrastivo marcado em posição final da sentença também foi encon-
+trado no Corpus de Libras: 
+(125) Sentença adversativa marcada com o item lexical ‘MAS’   associado à marcação 
+não manual marcada pelo corpo e pela expressão facial e associada ao foco contrastivo  
+(com marca não manual de foco).
+                     MAS                IX (eu) DIFICIL        CONTATO            DEPOIS
+https://youtu.be/oX1gcHS1e0A

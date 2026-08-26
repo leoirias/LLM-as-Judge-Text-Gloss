@@ -1,0 +1,140 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.4 CONJUNTIVAS ===
+=== TRECHO: páginas 123-127 (parte 2 de 2 do mesmo tópico) ===
+
+[p.123]
+124
+E (então)
+INTERAGIR CONTATO PRIMEIRO  [dedo 
+médio. BOIA-2] PRIMEIRO CONTATO 
+CRIANÇA E(então) SINAL ESCOLA 
+PRIMEIRO CONTATO dedo indicador. 
+BOIA -1] LÍNGUA-DE-SINAIS VERDADE 
+E(então) NORMAL SEU LÍNGUA-DE-
+SINAIS [dedo médio. BOIA 2.] TER-NÃO 
+SINTAXE DIFERENTE GESTO E(então) MAIS 
+LÍNGUADESINAIS TER E(então) O-QUE 
+NADA E (não) TER E(então)
+A interação foi o primeiro contato, o primeiro 
+contato foi com as crianças na escola, foi o 
+primeiro contato, e o outro no qual eu sinalizei 
+de verdade; com as crianças era sinalização 
+normal, era assim, sem sintaxe, diferente, mais 
+gestual, era também Língua de Sinais, não é 
+que não era nada, tinham sinais.
+Essa unidade oracional complexa apresenta um conjunto de orações para-
+táticas que são coesivamente coordenadas por meio da apontação sistemática para 
+a boia-numeral. Na segunda delas, há o uso da boia indicando o dedo médio para 
+referir ao primeiro contato com outras crianças, dando a entender que também 
+havia outra forma de contato indicada pelo outro dedo da boia que apresenta duas 
+possibilidades. Na sequência, a sinalizante indica o dedo indicador contrastando o 
+tipo de sinalização por meio da interação com outros surdos que era diferente da 
+sinalização entre as crianças; daí, ela reitera apontando novamente para o dedo 
+médio que a sinalização com as crianças era diferente da outra. Interessante que 
+nesta unidade oracional paratática, os dedos não correspondem ao primeiro e ao 
+segundo contato que aconteceu na infância e, depois na adolescência, temporal -
+https://youtu.be/yEUPJ66Phvs
+
+[p.124]
+125
+mente; mas sim, a sinalizante estabeleceu uma hierarquia de importância dada ao 
+primeiro que foi na adolescência e, ao segundo dedo, que foi na infância. A coorde-
+nação paratática é indicada para elencar a experiência de interação na Língua de 
+Sinais na infância e na adolescência apresentando algumas informações adicionais 
+sobre cada uma delas, assim como estabelecendo uma diferenciação hierárquica 
+em termos de importância atribuída a cada tipo de interação.
+ Quando a apontação é usada como boia, ela pode ser um mecanismo gra -
+matical de marcação paratática. A seguir, apresentamos um exemplo que ilustra 
+esta possibilidade:
+Figura 8: Boia-IX
+(5) Parataxe conjuntiva Boia-IX. 
+ 
+IX (eu) Boia-IX (teatro-esquerda).
+[esquerda DESVIAR direita] DOIS ALTERNAR
+IX (eu) Boia-IX (teatro-esquerda) esquerda 
+DESVIAR direita DOIS ALTERNAR
+Eu desviei [do curso de teatro] [para o curso de 
+letras libras], daí frequentei um e outro curso 
+simultaneamente.
+https://youtu.be/R27FnoCA4g8
+
+[p.125]
+126
+Nesse exemplo, o indicador (IX) é usado como boia, pois é mantido simul-
+taneamente no espaço de sinalização à esquerda para referir ao curso de teatro 
+enquanto a sinalização da oração seguinte referente ao curso de Letras Libras (à 
+direita) apresenta uma relação paralela à primeira (o curso de teatro na esquerda). 
+A relação entre as duas orações é de ter frequentado um e o outro curso simulta-
+neamente. De certa forma, há uma relação temporal indicada pela simultaneidade 
+(as duas ações aconteceram simultaneamente), mas o foco é ter frequentado os 
+dois cursos em paralelo, o curso de teatro e o curso de Letras Libras, uma relação 
+paratática conjuntiva. As orações podem ser separadas da seguinte forma:
+    
+IX (eu) Boia-IX (teatro-esquerda) esquerda DESVIAR direita]
+Eu desviei do curso de teatro para o curso de Letras Libras.
+ 
+DOIS ALTERNAR
+Daí frequentei um e outro curso simultaneamente.
+ A Boia-IX é produzida ao longo da primeira oração e é substituída pelo sinal 
+ALTERNAR com a utilização das duas mãos. A boia apresenta esta característica 
+de indicar a relação e poder ser substituída por questões de ordem fonológica, pois 
+o sinal seguinte precisava ser produzido com as duas mãos, assim uma das mãos 
+é direcionada para a posição que antes estava ocupada pela Boia-IX, estabelecen-
+do-se a correferência.
+ Outro elemento que indica parataxe conjuntiva é o sinal ‘É’. Esse indicador 
+conjuntivo parece representar o verbo de ligação “ser” na oração, no entanto a po-
+sição do verbo de ligação não é marcada sistematicamente na Libras. Na verdade, 
+muitas vezes, essa posição não tem nenhum item lexical associado a ela, embora 
+seja identificado o predicado sem a presença do verbo. No entanto, quando o sinal 
+‘É’ é produzido, ele marca ênfase com interpretação afirmativa, tanto é que, mui-
+tas vezes, é produzido também na posição final da oração. Identificamos alguns
+
+[p.126]
+127
+exemplos nos quais o É parece que está sendo usado exatamente para confirmar 
+a correlação entre partes da unidade oracional complexa. Assim, incluímos aqui 
+como um indicador conjuntivo, apesar deste mesmo elemento ser usado apenas 
+para marcar a ênfase entre o sujeito e o predicado em várias ocorrências. Estamos 
+considerando, portanto, que o sinal ‘É’ nos auxilia a identificar o uso de orações 
+correlatas que indicam parataxe conjuntiva, mas talvez não seja em si um marcador 
+conjuntivo com o mesmo status de outros marcadores, tais como o sinal ‘TAMBÉM’.
+ 
+Figura 9: É
+(6) Parataxe conjuntiva É.
+ É       FS (idioma)
+  
+         
+É    VERDADE       IX (nós-todos) É                    USAR          LINGUA-SINAIS 
+   
+      
+    IX (mãos-sinais) E(então)
+ É FS (idioma) É VERDADE IX (nós-todos) É 
+USAR LÍNGUA-DE-SINAIS IX (mão) E(então) 
+É idioma, é verdadeira para todos nós, é a língua 
+usada por nós, é isso.
+ 
+https://youtu.be/Jke8mJl7WvA
+
+[p.127]
+128
+Nesse exemplo, as três orações estão iniciadas pelo item lexical ‘É’, que in-
+dica a composição conjuntiva: a primeira ‘É FS’ (idioma) ([a Libras] é idioma); a 
+segunda ‘É VERDADE IX’ (nós-todos) (é [uma língua] vista por todos); e a terceira 
+‘É USAR LINGUA-SINAIS IX’ (mãos-sinais) (é a língua usada por nós). Observa-se 
+uma correlação entre as orações marcadas individualmente pelo item lexical ‘É’.
+ Outro marcador é ‘PALM-UP’, um sinal gestual produzido de forma bastante 
+produtiva com diferentes significados. Em algumas ocorrências, ‘PALM-UP’ pode 
+indicar a marcação conjuntiva
+Figura 10: PALM-UP
+(7) Parataxe conjuntiva PALM-UP.
+VERDADE        IX (eu) 1VER1          IX (eu)   SINALIZAR         PALM-UP   NATURAL
+VERDADE IX (eu) 1VER1 IX (eu) SINALIZAR  
+PALM-UP NATURAL
+Na verdade, eu olho para mim mesmo, eu 
+sinalizando, é simplesmente natural.
+ Nesse exemplo, há três orações coordenadas. A primeira não apresenta 
+marcador manual: IX (eu) 1VER1, seguida da segunda: IX (eu) SINALIZAR, que 
+apresenta na sequência o gesto PALM-UP coordenando as duas primeiras com a 
+terceira oração: NATURAL. A relação semântica estabelecida entre elas é conjun-
+tiva com ênfase dada ao fato de ser alguém que sinaliza e se perceber sinalizante 
+https://youtu.be/EToRFWP1TxE

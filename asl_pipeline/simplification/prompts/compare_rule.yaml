@@ -1,0 +1,60 @@
+# Compara UMA regra candidata (de uma fonte nova) contra a BASE já
+# consolidada, pra decidir se o fenômeno já está coberto e, se sim, se a
+# base concorda ou diverge da candidata.
+
+objetivo: |
+  Você está comparando UMA regra candidata (extraída de uma fonte nova, ainda
+  não incorporada) contra uma BASE DE REGRAS já consolidada, pra decidir se a
+  base já cobre esse fenômeno gramatical e, se cobre, se diz A MESMA COISA ou
+  algo DIFERENTE/CONTRADITÓRIO.
+
+candidata: |
+  CANDIDATA (fonte nova, ainda fora da base):
+  [{{candidata_id}}] {{candidata_titulo}}
+    descricao: {{candidata_descricao}}
+    gatilho: {{candidata_gatilho}}
+    exemplos: {{candidata_exemplos}}
+
+base: |
+  BASE JÁ CONSOLIDADA (regras que já usamos hoje):
+  {{base}}
+
+instrucoes: |
+  Compare a candidata contra CADA regra da base que trate do mesmo fenômeno
+  (mesmo que com outras palavras) e decida:
+  - "ja_temos"  — a base já tem uma regra que diz A MESMA COISA sobre esse
+    fenômeno (mesma condição, mesmo resultado). A candidata é redundante.
+  - "nao_temos" — nenhuma regra da base trata desse fenômeno. É novidade.
+  - "conflito"  — a base TEM uma regra sobre o MESMO fenômeno, mas ela diz
+    algo DIFERENTE ou CONTRADITÓRIO em relação à candidata (ex.: a base
+    permite algo que a candidata proíbe, ou vice-versa).
+  - "parcial"   — a base cobre PARTE do fenômeno, mas a candidata acrescenta
+    um detalhe, exceção ou nuance que falta na base.
+  Em "conflito" ou "parcial" ou "ja_temos", informe o ID exato da regra da
+  base mais relacionada em `regra_base_correspondente`. Deixe "" só em
+  "nao_temos".
+
+schema: |
+  Retorne APENAS um objeto JSON: {"status": "...", "regra_base_correspondente": "...", "justificativa": "..."}
+    status                     - "ja_temos" | "nao_temos" | "conflito" | "parcial"
+    regra_base_correspondente  - ID da regra da base (ex.: "LIBRAS.PERGUNTA.1"); "" se nao_temos
+    justificativa              - frase curta explicando a decisão, citando a diferença/semelhança específica
+
+output_rules: |
+  Produza APENAS o objeto JSON descrito. Sem cercas de markdown, sem comentário
+  antes ou depois, nada após a chave final.
+
+template: |
+  @{objetivo}
+
+  @{candidata}
+
+  @{base}
+
+  @{instrucoes}
+
+  @{schema}
+
+  @{output_rules}
+
+  JSON:

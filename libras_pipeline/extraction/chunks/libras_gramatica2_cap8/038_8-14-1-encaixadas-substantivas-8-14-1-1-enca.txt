@@ -1,0 +1,29 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva ===
+=== TRECHO: páginas 240-240 (parte 3 de 3 do mesmo tópico) ===
+
+[p.240]
+241
+(95) Substantiva objetiva manual marcada com o sinal O-QUE.
+  AGORA   IX (eu) APRENDER++ O-QUE   MOVIMENTAR  MAIS  PROCESSO
+MOVIMENTAR IX (processo) TAMBÉM         LÍDER
+AGORA IX (eu) APRENDER++  
+[O-QUE MOVIMENTAR MAIS PROCESSO 
+MOVIMENTAR IX (processo)  
+TAMBÉM LÍDER]
+Atualmente já aprendi que o que me fez me 
+movimentar, crescer, desenvolver, também ser líder.
+A sentença (95) é também uma oração encaixada substantiva objetiva direta 
+com marcação manual O-QUE. O sinal O-QUE exerce a função de conectivo entre 
+as sentenças, realçando a relação entre elas. A primeira parte da sentença AGORA 
+IX (eu) APRENDER possui o sujeito simples IX (eu) e o predicado, cujo núcleo é o 
+verbo APRENDER. Esse verbo exige dois argumentos (Sujeito e Objeto). O objeto 
+direto da sentença é a oração encaixada substantiva objetiva direta, introduzida 
+pelo conectivo O-QUE - O-QUE MOVIMENTAR MAIS PROCESSO MOVIMENTAR 
+IX (processo) TAMBÉM LÍDER. Essa sentença faz parte da estrutura sintática da 
+oração principal. Nesse caso, o objeto direto é uma sentença inteira e não um núcleo 
+nominal. Por isso, as duas sentenças se articulam, formando uma oração complexa. 
+Há uma pequena pausa após o sinal o que, bem como a sinalizante inclina o tronco 
+para frente em toda a sentença encaixada. Essa marcação não manual específica 
+marca a sentença encaixada. 
+https://youtu.be/Mf41FDDwrq4

@@ -8,9 +8,12 @@ dependencies = [
     "openai>=1.0.0",
     "pydantic>=2.11.0",
     "pyyaml>=6.0.0",
-    "torch>=2.5.0,<2.6",
+    # 2.9.x especificamente: foi a versão verificada nesta máquina (carregou um
+    # Qwen3 na A100 e gerou em bf16 sob o driver 535). 2.11+cu128 provavelmente
+    # também funciona, mas não foi testado aqui — subir só com teste.
+    "torch>=2.9.1,<2.10",
     "tqdm>=4.67.0",
-    "transformers>=4.52.0,<5",
+    "transformers>=5.15.0,<6",
     # normalization pipeline (B2 deterministic stages)
     "ftfy>=6.2.0",
     "rapidfuzz>=3.9.0",
@@ -33,16 +36,21 @@ dev = [
 [tool.uv]
 package = false
 
-# Cluster's NVIDIA driver is 535 (CUDA 12.2 max). Default PyPI torch ships
-# +cu130 which crashes at torch._C._cuda_init(). Pull torch from PyTorch's
-# cu121 wheel index instead.
+# Cluster's NVIDIA driver is 535, which caps at CUDA 12.2 — but CUDA minor
+# version compatibility means ANY cu12x wheel runs on it. What actually breaks
+# is CUDA 13.x (default PyPI torch ships +cu130 and crashes at
+# torch._C._cuda_init()). Verified on the cluster's A100: torch 2.9.1+cu128
+# initialises CUDA and runs bf16 matmul fine under driver 535.
+#
+# cu128 (not cu121) because transformers 5.x is required for the 2026 model
+# architectures (qwen3_5 family) and pairs with a current torch.
 [[tool.uv.index]]
-name = "pytorch-cu121"
-url = "https://download.pytorch.org/whl/cu121"
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
 explicit = true
 
 [tool.uv.sources]
-torch = [{ index = "pytorch-cu121" }]
+torch = [{ index = "pytorch-cu128" }]
 
 [tool.pytest.ini_options]
 pythonpath = ["src"]

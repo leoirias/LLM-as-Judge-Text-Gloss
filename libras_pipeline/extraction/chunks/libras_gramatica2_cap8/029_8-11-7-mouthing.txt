@@ -1,0 +1,123 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.11.7 Mouthing ===
+=== TRECHO: páginas 204-210 (5 tópicos consecutivos) ===
+
+[p.204]
+205
+Figura 25: Arqueamento de Sobrancelha em Condicional com conjunção na Libras.
+Fonte: Corpus de Libras (2022).
+8.11.7 Mouthing
+Na Libras, a realização das orações condicionais introduzidas pelas conjun-
+ções manuais SE e EXEMPLO pode vir acompanhada de mouthing em sobreposi-
+ção à conjunção condicional ou, em caso de justaposição, no início da prótase. O 
+mouthing tem uma realização correspondente à produção oral da conjunção SE, 
+como mostrado em (63) e (64):
+(63) mouthing “se” com a conjunção SE.
+SE                         IX (eu) IX ir) NÃO       ASSOCIAÇÃO        SURDO
+
+[p.205]
+206
+IX (eu) HOJE                      IX (eu) O-QUE
+SE IX (eu) IR-NÃO ASSOCIAÇÃO SUR-
+DO IX (eu) HOJE IX (eu) O-QUE
+Se eu não tivesse ido para a Associação de 
+Surdos, o que eu seria hoje.
+Figura 26:  Mouthing de “se” realizado com a conjunção manual SE.
+ 
+Fonte: Corpus de Libras (2022).
+Destacamos, todavia, que Aleixo (2021, p. 124) e Rodrigues (2022, p. 148) 
+relatam que alguns sinalizantes realizam condicionais introduzidas pela conjunção 
+EXEMPLO com mouthing “se”, o que, para esses autores, é uma evidência do pro-
+cesso de gramaticalização de EXEMPLO. Ademais, Aleixo (2021, p. 129) salienta 
+que mesmo em condicionais justapostas é observada a presença de mouthing “se”, 
+nesse caso, desacompanhado da realização do sinal manual.
+https://youtu.be/C_Tr52AYsuY
+
+[p.206]
+207
+(64)  mouthing “se” com a conjunção EXEMPLO.
+  
+  EXEMPLO                QUERER          IMPLANTE-COCLEAR   QUERER-NÃO
+   
+   
+IMPLANTE-COCLEAR       DEPENDER
+EXEMPLO QUERER IMPLANTE-
+COCLEAR QUERER-NÃO IMPLANTE-
+COCLEAR DEPENDER
+Se a pessoa quer ou não quer o implante 
+coclear, depende de cada um.
+Figura 27: Mouthing de “se” realizado com a conjunção manual EXEMPLO.
+   Fonte: Corpus de Libras (2022).
+https://youtu.be/Wm7UOqhGe70
+
+[p.207]
+208
+ 8.11.8 Inclinação da cabeça
+Na Libras, encontramos casos de orações condicionais em que a prótase é 
+acompanhada de inclinação de cabeça, como em (65) (justaposta) e (66) (intro -
+duzida por SE):
+              
+(65) justaposta com inclinação de cabeça
+DÚVIDA          IX (celular) INTERAGIR        MAIS
+DÚVIDA   IX (celular) INTERAGIR MAIS
+Se tem dúvida, interage mais pelo celular.
+Figura 28: Inclinação de cabeça para a frente sobre a prótase.
+ 
+Fonte: Corpus de Libras (2022).
+https://youtu.be/HPx4xnLkwhg
+
+[p.208]
+209
+Figura 29: Mudança de Inclinação de cabeça sobre a apódose.
+Fonte: Corpus de Libras (2022).
+(66) condicional com SE com inclinação de cabeça.
+      SE                       TER               DEPENDER         DEM (esse) PESSOA            FRACO
+ 
+    
+   
+DEPENDE            IX (eu) QUIETO      E (deixar) IX (eu)   RESPEITAR.
+SE TER DEPENDER DEM (esse) PESSOA 
+FRACO DEPENDE IX (eu) QUIETO E(deixar) IX 
+(eu) RESPEITAR.
+Se talvez houver alguma pessoa que não sabe bem 
+Libras, eu não me importo, eu respeito.
+https://youtu.be/kTxov_f3TJk
+
+[p.209]
+210
+ Figura 30: Inclinação de Cabeça sobre a prótase.
+Fonte: Corpus de Libras (2022).
+Figura 31: Mudança de Inclinação de Cabeça sobre a apódose.
+Fonte: Corpus de Libras (2022).
+Como se pode perceber por meio dos exemplos acima, de acordo com Aleixo 
+(2021, p.142), sempre haverá uma diferença de inclinação de cabeça entre prótase 
+e apódose, quer dizer, a cabeça tende a não se manter na mesma posição entre os 
+dois constituintes da condicional. Veja-se mais um exemplo em (67):
+(67)
+EXEMPLO          POSS (meu) E (tempo) TRABALHAR          DIFERENTE
+EXEMPLO POSS (meu) E(tempo) 
+TRABALHAR  DIFERENTE
+Se eu estou no meu horário de trabalho, 
+eu não posso colaborar.
+https://youtu.be/rBQItx48kaw
+
+[p.210]
+211
+Figura 32: Mudança de Inclinação de Cabeça que demarca mudança da     prótase para a apódose [2]
+Fonte: Corpus de Libras (2022).
+8.11.9 Ordem
+A maioria dos estudos sobre as ora ções condicionais em Línguas de Sinais 
+ao redor do mundo prevê que a anteposição, ou seja, a sequência PRÓTASE. APÓ-
+DOSE, é a ordem gramatical das orações condicionais, não sendo relatados casos 
+de posposição (PFAU, 2008; LIDDELL, 1980; DACHKOVSKY, 2005; 2008; SUT-
+TON-SPENCE; WOLL, 1999; JOHNSTON; SCHEMBRI, 2007; LACKNER, 2013).
+Na Libras, estudos prévios confirmam que a anteposição é a ordem não 
+marcada das condicionais, como observamos em (68) e (69):
+(68) anteposta justaposta.
+ 
+IX (eu)   SURDO                   IX (eu)                VER                  ENTENDER         CL(entender-tudo)
+IX (eu) SURDO IX (eu) VER ENTENDER CL  
+(entender-tudo)
+Se eu, surda, vir (o vídeo), vou entender tudo.
+ 
+https://youtu.be/KYyOl06ePHI

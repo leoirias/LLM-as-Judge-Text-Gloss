@@ -1,0 +1,17 @@
+# Etapa 3 — juiz de glosa Libras (texto+glosa -> valido/invalido/nao_coberto).
+#
+# Mesmo modelo das etapas 1-2 (Qwen3.8-27B, denso, thinking desligado,
+# determinístico) — consistência com o resto do pipeline já validado hoje.
+
+model:
+  name: qwen3.8-27b
+  model_id: Qwen/Qwen3.8-27B
+  dtype: bfloat16
+  device_map: cuda
+
+generation:
+  enable_thinking: false      # thinking desligado de propósito (ver llm.py)
+  max_new_tokens: 1024   # resposta é só o JSON do veredito, curto
+  do_sample: false
+  temperature: 0.0
+  top_p: 1.0

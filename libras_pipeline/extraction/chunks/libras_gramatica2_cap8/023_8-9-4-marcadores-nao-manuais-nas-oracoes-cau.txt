@@ -1,0 +1,133 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.9.4 Marcadores não manuais nas orações causais em Libras ===
+=== TRECHO: páginas 179-183 (parte 1 de 2 do mesmo tópico) ===
+
+[p.179]
+180
+responsável pela veiculação de informação remática.
+Um estudo de Quadros, Ludwig e Silva (2022, no prelo) aponta a presença 
+de marcações manuais e não manuais sobrepostas na hipotaxe adverbial causal. O 
+corpus da pesquisa englobou quatro surdos de referência do Inventário Nacional 
+de Libra. Foram encontradas 38 sentenças, sendo 27 com a presença de algum 
+conectivo de causalidade e 11 sem marcações manuais. No entanto, nas sentenças 
+sem conectivos, observa-se a presença de marcações não manuais que evidenciam 
+as relações causais nas sentenças.
+Entre as sentenças com marcações manuais, foram encontrados os sinais 
+PORQUE, POR-CAUSA, ENTÃO, É e a datilologia m-o-t-i-v-o. Todas as senten -
+ças e seus respectivos conectivos apresentam a sobreposição das marcações não 
+manuais piscar de olhos e o articulações-boca. Pêgo (2021) apresenta a distinção 
+entre articulações-boca e gestos-boca. Segundo a autora:
+Dentro do âmbito das expressões não-manuais, temos os 
+movimentos de boca, ou ações-boca. Essas ações dividem-se 
+em dois principais grupos: as articulações-boca, que são o 
+foco desta tese, e os gestos-boca. A diferença básica entre 
+esses dois grupos se resume ao fato de que o primeiro deriva 
+da língua oral circundante, enquanto o segundo é insepa-
+rável da Língua de Sinais.  (PÊGO, 2021, p. 37). 
+Dessa forma, a pesquisa de Quadros, Ludwig e Silva (2022) utiliza o con -
+ceito articulações-boca que se caracteriza como as articulações-boca que possuem 
+relação com a língua oral circundante. Além disso, Pêgo (2022) discute que as 
+articulações-boca não se restringem ao campo lexical, mas também a outros do -
+mínios linguísticos como o prosódico. Dessa forma, no nível sintático, também 
+é possível a presença de articulações-boca como uma estratégia de construção 
+oracional complexa.
+Além disso, algumas marcações não manuais não obrigatórias foram analisa-
+das, tais como arqueamento das sobrancelhas, olhos semicerrados, aceno da cabeça 
+e levantamento dos ombros, este último sempre associado ao sinal POR-CAUSA. 
+As sentenças que não possuem um item lexical que funcione como conectivo apre-
+sentam, regularmente, a marcação não manual piscar de olhos entre a sentença 
+matriz e a hipotaxe adverbial causal. A seguir, são apresentados alguns exemplos 
+de cada tipo de sentenças desta pesquisa.
+As sentenças complexas causais normalmente apresentam uma ordem em 
+que a primeira parte da sentença é a nuclear e a segunda parte é a causa. No entanto, 
+o exemplo a seguir apresenta a hipotaxe adverbial anteposta à oração matriz, sendo 
+bastante recorrente entre as sentenças causais (RODRIGUES, 2020). O exemplo 
+a seguir apresenta a oração causal anteposta à sentença nuclear:
+
+[p.180]
+181
+ (45) Hipotaxe Adverbial causal marcada pelo sinal PORQUE.
+      
+     PORQUE         IX (eu) TER               BASE               BOM                     X (eu)
+    PERCEBER    IX (eu) ENTENDER        CONTEXTO          ÁREA
+PORQUE (IX) (EU) TER BASE BOM IX 
+(EU) PERCEBER IX (EU) ENTENDER 
+CONTEXTO ÁREA  
+ 
+Porque eu tive uma boa base, percebia e 
+entendia as coisas à minha volta.
+A sentença 45 apresenta hipotaxe causal manual marcada pelo sinal POR -
+QUE. Estabelece a relação entre ter bastante conhecimento prévio (TER BASE 
+BOM) e a capacidade de perceber e entender os conteúdos que a surda aprendia 
+na escola. Essa sentença, ao contrário da maioria das sentenças causais, apresenta 
+a hipotaxe causal anteposta à oração nuclear: PORQUE EU TER BASE BOM. Esse 
+exemplo ilustra que a hipotaxe causal pode ser anteposta à oração matriz, embora 
+não seja um caso frequente. Nesse exemplo, a oração nuclear está posposta à hipo-
+taxe causal: EU PERCEBER EU ENTENDER CONTEXTO ÁREA. O sinal PORQUE 
+é marcado pelas articulações-boca e pelo piscar de olhos, enfatizando a relação 
+causal entre as duas sentenças.
+A sentença a seguir apresenta um exemplo com sinal POR-CAUSA no final 
+da sentença complexa:    
+https://youtu.be/QVnkFSHseMY
+
+[p.181]
+182
+                                  46) Hipotaxe Adverbial causal marcada pelo sinal POR-CAUSA.
+        
+PARTICIPAR              GRUPO                PARTICIPAR             ESPORTE
+      
+         VÁRIOS                   PARTICIPAR          ASSOCIAÇÃO            NÃO
+ 
+     DEPOIS             PARTICIPAR            PROCESSO             APRENDER
+ 
+   
+POR-CAUSA        DEM (esse)
+PARTICIPAR GRUPO PARTICIPAR ESPORTE 
+VÁRIOS PARTICIPAR ASSOCIAÇÃO 
+NÃO DEPOIS PARTICIPAR PROCESSO 
+APRENDER POR-CAUSA DEM (esse)
+Participava ativamente do grupo de esportes, 
+associação não, foi só depois, participava e 
+aí foi acontecendo a aquisição (da Língua de 
+Sinais) por causa disso.
+https://youtu.be/fVcOaLQ7QJA
+
+[p.182]
+183
+Essa sentença apresenta a relação causal com o conectivo POR-CAUSA no 
+final da construção sintática. A hipotaxe causal conecta a participação do sinalizante 
+em diversos grupos e eventos com a aquisição da Língua de Sinais. A primeira parte 
+da sentença PARTICIPAR GRUPO PARTICIPAR ESPORTE VÁRIOS PARTICIPAR 
+ASSOCIAÇÃO NÃO DEPOIS PARTICIPAR contém a causa da aquisição da Língua 
+de Sinais, enquanto que a sentença matriz APRENDER está posposta à hipotaxe 
+causal e o sinal POR-CAUSA está deslocado da sentença causal. Esse tipo de cons-
+trução geralmente apresenta aceno da cabeça associado ao sinal POR-CAUSA. Além 
+disso, apresenta piscar de olhos ao final de POR-CAUSA e as articulações-boca 
+sobre o sinal PAR-CAUSA, o que reforça a construção da hipotaxe causal.
+A sentença a seguir apresenta uma construção sintática com a datilologia 
+m-o-t-i-v-o:
+(47) Hipotaxe Adverbial causal marcada pela datilologia m-o-t-i-v-o.
+IX (eu) INTERAGIR                   IX (eu)
+APRENDER             INTERAGIR                  É
+IX (eu)
+
+[p.183]
+184
+FS (motivo)
+DEM (esse)
+EU INTERAGIR EU APRENDER INTERAGIR É 
+FS (motivo) DEM (esse)
+Eu fui interagindo, aprendendo, interagindo e é 
+por esse motivo (que aprendi a Libras).
+Esse (47) exemplo estabelece a relação entre o aprendizado da língua e as 
+interações comunicativas do Surdo. O informante responde à pergunta da entrevis-
+tadora “Qual o motivo que levou você a aprender a Libras?” A causa nessa sentença 
+é apresentada na primeira parte da sentença – EU INTERAGIR EU APRENDER 
+INTERAGIR. No final da sentença, percebe-se a datilologia m-o-t-i-v-o como uma 
+marcação manual, como uma estratégia para explicitar a relação causal que emerge 
+do contexto da sentença. No final da sentença, há o piscar de olhos e as articu -
+lações-boca sobre a datilologia m-o-t-i-v-o que realçam a articulação hipotática 
+entre as sentenças.
+O exemplo seguinte apresenta a hipotaxe adverbial causal com o sinal EN-
+TÃO:
+https://youtu.be/VIUL6RtmHxs

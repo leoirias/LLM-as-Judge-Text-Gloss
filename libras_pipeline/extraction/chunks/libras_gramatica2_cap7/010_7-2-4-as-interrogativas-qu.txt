@@ -1,0 +1,163 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2.4 As interrogativas QU ===
+=== TRECHO: páginas 52-59 (5 tópicos consecutivos) ===
+
+[p.52]
+53
+(62) Sentença OSV com verbo marcado para aspecto durativo. Há mudança no  
+movimento do verbo e ele ocupa a posição final da sentença. Nessa sentença há também  
+a topicalização do objeto, que pode ser observada pelo arqueamento das sobrancelhas e pela  
+posição do objeto em início da sentença.
+                       IXa>tópico                          IX1                     VER+(aspecto)
+IXa>tópico   IX1    VER+(aspecto)
+Ele, eu olhava (continuamente).
+7.2.4 As interrogativas QU
+Expressão facial com elevação da cabeça para cima associada à testa franzida 
+com as sobrancelhas elevadas acompanhando o franzir da testa:
+Marcação não manual típica de interrogativas QU.
+                                    
+Fonte: Quadros (2019, p. 98).
+Exemplos de sentenças interrogativas de Quadros (1999, p. 199), traduzidos 
+para a Língua Portuguesa. 
+  
+https://youtu.be/tnY9X54b7Hwd
+https://tinyurl.com/52z789a9
+
+[p.53]
+54
+(63)
+[QUEM GOSTA MARIA] qu
+Quem gosta da Maria?
+ 
+(64)
+[GOSTA MARIA QUEM] qu
+ 
+(65)
+[QUEM GOSTA MARIA QUEM] qu
+ 
+Nesses exemplos, vemos que em (a) o ‘QUEM’ está na sua posição original, 
+chamado de posição in situ. No exemplo que aparece na posição final, Quadros 
+(1999) argumenta que é a posição de foco de ênfase, pois em vários exemplos na 
+Libras, há repetição de um sinal que indica o foco de ênfase, como aparece no exem-
+plo seguinte em que QUEM está repetido. No caso de (b), o elemento repetido que 
+aparece na posição inicial já foi apagado. Isso foi proposto originalmente por Pe-
+trônio e Lillo-Martin (1997) para a ASL que apresenta o mesmo tipo de construção.
+(66)
+                 QUEM                                  ENSINAR                         LÍNGUA PORTUGUESA
+QUEM ENSINAR LÍNGUA PORTUGUESA
+Quem ensina Língua Portuguesa?
+Fonte: Royer (2019, p. 133).
+https://youtu.be/Lt3wUTqgHtg
+
+[p.54]
+55
+(67) Sentença interrogativa QU.
+                           PORQUE                                           SINAL(Marisa)
+PORQUE SINAL SINAL(Marisa)
+Por que o seu sinal?
+ (68) Sentença interrogativa QU.
+E (então) COMO            COMEÇAR
+E(então) COMO COMEÇAR
+Como começou?
+Também há interrogativas sem o sinal QU, mas que significam uma questão 
+QU, nesses casos, a marcação não manual indica a interrogativa QU com a elevação 
+da cabeça marcada para QU associada ao franzir elevado das sobrancelhas:
+ 
+https://youtu.be/uafmAzUlHeY
+https://youtu.be/uafmAzUlHeY
+
+[p.55]
+56
+(69) SINAL IX (você).
+Qual o seu sinal?
+(70) Sentença interrogativa QU.
+SINAL IX (você)
+Qual o seu sinal?
+     
+(71) Sentença coordenada com reiteração interrogativa QU.
+  
+[FS(r)-TAMANHO-PEQUENO FS(r)- 
+TAMANHO-PEQUENO
+FS(r)-TAMANHO-PEQUENO] interrogativa-QU
+(onde está) o R pequeno, o R pequeno,  
+o R pequeno?
+https://youtu.be/_DNhjZMDeRw
+https://youtu.be/JhnItflAGkM
+
+[p.56]
+57
+7.2.5 As interrogativas polares (Quadros, 1999)
+As interrogativas polares são aquelas que esperam uma resposta sim ou não. 
+São perguntas associadas com uma marcação não manual que envolve o rebaixa-
+mento da cabeça com sobrancelhas elevadas.  
+  
+Figura 3: Elevação das sombrancelhas.
+Fonte: Quadros (2019, p. 101).
+(72)
+                                 (72) Sentença interrogativa polar.
+                 TODOS                                       SURDOS
+TODOS SURDOS
+Todos eram surdos?
+https://youtu.be/e2L_T4oCQm0
+https://tinyurl.com/ye26mfzh
+
+[p.57]
+58
+ (73)
+  
+VOCÊ         DENTRO (escola) TER               INTERPRETE               NADA?
+ VOCÊ DENTRO (escola) TER INTERPRETE 
+NADA?
+Você na escola não tinha intérprete?
+7.2.6 Construções QU em orações subordinadas
+Há também construções com qu em sentenças que não são interrogativas 
+(Quadros, 1999). As construções com QU são associadas com marcação não ma -
+nual, mas sobre o próprio sinal, diferente das construções qu interrogativas que a 
+marcação não manual está associada a toda sentença interrogativa. 
+Exemplos com construções com QU em orações subordinadas (QUADROS, 
+1999, pp. 209-210).
+ 
+(74)
+IX (eu) QUERER SABER [QU-E] qu JOÃO ENCONTRAR
+Eu quero saber quem o João encontrou
+ 
+(75)
+IX (eu) SABER [QU+] qu IX (ele) PEGAR
+Eu sei quem ele pegou.
+  
+(76) Sentença encaixada – uso do sinal QU em sentença encaixada sem marcação não
+manual específica QU.
+IX (eu) 1 Área (perceber)3           PARECER
+https://youtu.be/kd_iPxo6OcM
+
+[p.58]
+59
+             QUAL            DISCIPLINA             IX (eu) AFINIDADE           EU    GOSTAR
+IX (eu) 1Área (perceber)3 PARECER QUAL DIS-
+CIPLINA IX (eu) AFINIDADE EU GOSTAR
+Eu comecei a tentar identificar qual disciplina 
+sinto mais afinidade e gosto mais.
+(77) Sentença encaixada com pronome relativo marcado lexicalmente associada à marcação não 
+manual marcada pela boca e virada da cabeça.
+          PORQUE                  INCLUSÃO                    IX (inclusão)       SIGNIFICA
+           O-QUE               TER             PROPOSTA                          COLOCAR-PESSOA
+https://youtu.be/y51QroXXwow
+
+[p.59]
+60
+OLHAR                     ADAPTAR
+PORQUE INCLUSÃO IX (inclusão) SIGNIFICA 
+O-QUE TER PROPOSTA COLOCAR-PESSOA 
+OLHAR ADAPTAR
+Porque a inclusão significa que tem proposta de 
+colocar- 
+alunos e fazer adaptações.
+(78) Sentença como resposta a uma pergunta com ordem sob.
+PORQUE             ENTÃO                    MESMO                   IX (eu
+FAMILIA                      1INTERAGIR3      1LÍNGUA-DE-SINAIS (conversar)3
+PORQUE ENTÃO MESMO IX (eu) FAMILIA 1IN-
+TERAGIR3 1LÍNGUA-DE-SINAIS (conversar)3
+Porque sempre foi assim, eu interagia com  
+a família em Língua de Sinais.
+https://youtu.be/L6WHPOXZx5Y
+https://youtu.be/SlQCnaF3xqE

@@ -1,0 +1,100 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.6 Ações-boca: morfemas-boca, articulação-boca e gestos-boca ===
+=== TRECHO: páginas 238-239 (parte 2 de 2 do mesmo tópico) ===
+
+[p.238]
+239
+linguístico. Além deles, temos as expressões faciais não manuais linguísticas e as 
+afetivas. A principal diferença apontada entre elas, na literatura, consiste no fato 
+de que as primeiras fazem parte da gramática da Língua de Sinais e a segunda 
+categoria engloba a linguagem humana, sendo incorporada à comunicação para 
+diversos objetivos. A seguir, apresentamos uma tradução de Corina et al.  (1999), 
+feita por Pêgo (2013), e listamos as quatro principais diferenças existentes entre 
+as expressões citadas, em relação à musculatura ativada na produção dos sinais:
+1 - Início e fim rápidos: As expressões afetivas são inconsis-
+tentes e inconstantes em seu início e nos padrões de deslo-
+camento e na sua forma ápice; já as linguísticas, tais como 
+os exemplos, possuem um claro, rápido e padrão específico 
+de início-fim.
+2 - Músculos específicos e individualmente recrutados: O 
+uso de grupos musculares, em ações globalizadas, ocorrem 
+nas expressões afetivas; em contraste, as expressões linguís-
+ticas exigem músculos específicos que não são recrutados 
+no momento de expressar emocionalmente. As pesquisas 
+de Ekman e Friesen (1978; 1981; 1982) revelaram que os 
+comportamentos faciais gramaticais que fazem parte do 
+sistema linguístico da ASL são marcadamente diferen -
+tes do uso dos músculos faciais nas expressões afetivas.  
+Observaram que o rápido início e o rápido deslocamento de 
+disparo de cada um dos músculos faciais ocorrem somente 
+dentro de regras gramaticais, e são exclusivos para este 
+sistema linguístico; também especificaram a ausência (ou 
+a raridade de ocorrência) de recrutamento de músculos 
+faciais específicos e individuais nas expressões emocionais. 
+3 - Âmbito linguístico: A principal diferença entre os dois 
+tipos de expressões está na previsão de ocorrência. Nas 
+afetivas, podem ocorrer expressões acompanhadas do sinal 
+(ou palavra) com vários padrões possíveis de execução, po-
+dendo ocorrer antes ou depois de uma expressão linguística, 
+sem especificidade de tempo. As expressões linguísticas, 
+por sua vez, exigem coordenação com os sinais manuais, 
+determinando limites gramaticais, sendo possível prever 
+sua ocorrência, seu início e fim.
+4 - Exigência: Os estudos de Reilly, Mcintire e Bellugi 
+(1990) relatam que, em sentenças relativas ou condicio -
+nais, uma específica expressão facial linguística é exigida 
+durante a produção da frase, enquanto os sinais manuais
+
+[p.239]
+240
+associados (por exemplo, o sinal SE nas condicionais) são 
+opcionais. Também nos contextos adverbiais, expressões 
+específicas são necessárias para a construção da sentença 
+(PÊGO, 2013, p.43).
+As expressões afetivas podem ser usadas independentemente de elementos 
+linguísticos, uma vez que é possível traduzir emoção por meio do olhar, da postura 
+ou dos gestos, ou revelar função fática e diferentes comportamentos por meio das 
+posições do corpo. Segundo Reilly (2006, p. 266): “ao contrário do que ocorre 
+com as expressões gramaticais não manuais nas Línguas de Sinais, as emocionais 
+são variáveis quanto à sua intensidade e a sua duração é inconsistente”. Podem 
+coocorrer com a “pronúncia” ou existirem independentemente de um comporta -
+mento linguístico. “Isso nos permite concluir que os sinais não manuais gramaticais 
+dependem de regras linguísticas específicas.” (ANATER, 2009, p. 89) 
+Pêgo (2013) faz um breve resumo das principais diferenças entre as expres-
+sões afetivas e linguísticas. O quadro abaixo apresenta uma adaptação dos seus 
+apontamentos.
+EXPRESSÕES FACIAIS LINGUÍSTICAS EXPRESSÕES FACIAIS AFETIVAS
+Ocorrem condicionadas aos elementos 
+linguísticos.
+Ocorrem independentemente de elementos 
+linguísticos (emoções são expressas pelo olhar, 
+postura, gestos).
+Possuem comportamento fixo e exigido em 
+um momento específico (SANDLER; LILO-
+MARTIN, 2001).
+Claro, rápido e padrão específico de início-fim 
+(CORINA et al., 1999).
+Possuem intensidade, duração e ocorrência 
+variáveis (REILLY, 2006).
+Inconsistentes e inconstantes em seu início e 
+nos padrões de deslocamento e na sua forma 
+ápice (CORINA et al., 1999).
+Início e fim passível de previsão (CORINA et 
+al., 1999).
+Não há como delimitar ou prever seu início e 
+fim (CORINA et al., 1999).
+Mediadas pelo hemisfério cerebral esquerdo, 
+que envolve aspectos linguísticos, como a 
+morfologia e a sintaxe (tanto para as línguas 
+orais como para as de sinais). (REILLY, 2006)
+Mediadas pelo hemisfério cerebral direito (em 
+adultos). (REILLY, 2006)
+Assumem funções linguísticas específicas (por 
+exemplo, funções sintáticas, condicionais, 
+relativas e adverbiais). (CORINA et al., 1999)
+Não assumem funções gramaticalmente 
+determinadas (CORINA et al., 1999).
+Exigidas pela gramática (REILLY; MCINTIRE; 
+BELLUGI, 1990).
+Opcionais (REILLY; MCINTIRE; BELLUGI, 
+1990).

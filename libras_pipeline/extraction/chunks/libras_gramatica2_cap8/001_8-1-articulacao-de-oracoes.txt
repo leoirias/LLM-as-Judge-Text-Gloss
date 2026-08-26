@@ -1,0 +1,150 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.1 Articulação de Orações ===
+=== TRECHO: páginas 96-100 (2 tópicos consecutivos) ===
+
+[p.96]
+97
+Capítulo 8
+SINTAXE 
+DA LIBRAS –  
+ARTICULAÇÃO  
+DE ORAÇÕES
+Amanda Rocha – UFRGS
+Angélica Rodrigues – UNESP 
+Bruno Gonçalves Carneiro – UFT
+Carlos Roberto Ludwig – UFT
+Felipe Aleixo – UFRR
+Jair Barbosa da Silva – UFAL
+José Ishac Brandão El Khouri – UFT
+Liona Paulus – UzK
+Miriam Royer – UFCA
+Rodrigo Nogueira Machado – UFC
+Ronice Müller de Quadros – UFSC
+Thamara Cristina Santos – UFT
+Vinicius Rodrigues da Silva – UFSC
+8. SINTAXE DA LIBRAS –  
+ARTICULAÇÃO DE ORAÇÕES 
+8.1 Articulação de Orações  
+De forma genérica, pode-se dizer que a Sintaxe é a área da Linguística que 
+estuda como os itens lexicais (palavras ou sinais) de uma língua natural se orga -
+nizam de modo a formar unidades maiores, a que chamamos de frases. As línguas 
+do mundo de que se tem conhecimento organizam seus itens lexicais para formar 
+unidades maiores por meio de regras e princípios organizacionais. Nesse sentido, é 
+que ordem e concordância são dois aspectos importantes para a sintaxe das línguas.
+
+[p.97]
+98
+Conforme descrito por Quadros, Royer e Lourenço na seção 4.1, na Libras 
+são permitidas ordens distintas dos constituintes sentenciais e, isso, é um dado já 
+encontrado, também, em outras Línguas de Sinais (TANG e LAU, 2012); no entan-
+to, as pesquisas sobre como as orações em Libras se articulam ainda são recentes 
+no Brasil. Tomando-se unidades sintáticas formadas por duas ou mais orações, as 
+análises empreendidas nesta seção têm por objetivo descrever os processos por 
+meio dos quais uma dada oração em Libras se articula à outra, de modo a formar 
+unidades sintáticas maiores, ou seja, períodos compostos.
+Todas as línguas humanas possuem estratégias para combinar orações sim-
+ples e formar sentenças complexas. As relações entre orações são amplas, consi-
+derando a integração dos componentes sintático, semântico e pragmático (CAR -
+VALHO, 2004). 
+O modo como as orações se articulam pode variar, o que tem como conse-
+quência a presença de diferentes fenômenos sintáticos, a exemplo de encaixamento 
+e justaposição de sentenças de modo a formar unidades sintáticas maiores. Tendo 
+isso em vista, as estratégias de articulação de orações podem ser classificadas como: 
+encaixamento, hipotaxe, parataxe, coordenação, subordinação. É importante 
+destacar que, a depender da abordagem teórica, esses termos se equivalem, apro-
+ximam-se ou se excluem. Assim, encaixamento e subordinação quase sempre se 
+equivalem; parataxe e coordenação quase sempre se aproximam; e hipotaxe estaria 
+na fronteira entre parataxe e subordinação, já que as orações dessa natureza são 
+dependentes, mas não encaixadas.
+Para Kenedy e Othero (2019, p. 88), “a principal propriedade da linguagem 
+humana é a sua produtividade [grifo dos autores]” e a produtividade “é uma con-
+sequência de uma característica mais básica das línguas humanas: a articulação 
+[grifo dos autores]”, (KENEDY e OTHERO, op. cit.). A articulação de unidades 
+menores para a formação de unidades maiores é a mesma de uma característica 
+inerente às línguas humanas. Isso ocorre em diferentes níveis estruturais, do fonoló-
+gico ao sintático, e num grau de complexidade que não podemos dele dar conta nos 
+limites desta versão da Gramática Virtual da Libras, tampouco é nossa pretensão.
+A articulação entre orações, a fim de formar períodos compostos, é o mais 
+complexo nível de análise da sintaxe de uma língua natural (KENEDY e OTHERO, 
+op. cit.), o que requer um olhar além do que tradicionalmente se tem descrito e 
+rotulado pelo par coordenação e subordinação.
+8.2 Recursividade na Libras 
+Quando nos referimos às estruturas complexas das línguas naturais e suas 
+dependências sintáticas, é importante atentarmos para a propriedade da recur -
+sividade. Segundo Chomsky (1965), é a capacidade de os indivíduos encaixarem 
+recursos finitos da língua como sintagmas ou unidades básicas, construindo sen-
+
+[p.98]
+99
+tenças de infinita extensão. Em Libras, a recursividade em narrativas de surdos 
+de referência foi descrita por Rocha (2021). A autora aponta que a modalidade 
+visual espacial da língua proporciona manifestações recursivas simultâneas de 
+forma manual e não manual. Ainda, Rocha destaca que marcadores não manuais 
+são mais produzidos na manifestação recursiva em Libras. 
+Segundo Rocha (2021), os possíveis marcadores recursivos identificados na 
+análise da Libras são os seguintes: 
+Tabela 1: Marcações não manuais que indicam recursividade
+Movimento de  
+tronco para frente 
+ou para trás.  
+              atirar                                atirar 
+atira duas pedras [que quebram o vidro da janela]
+https://youtu.be/uSB42BqedI8
+Elevação de tronco.
+                      atirar                      quebrar 
+atira duas pedras [que quebram o vidro da janela]
+https://youtu.be/jzusJb5uioI
+Incorporação de per -
+sonagem/redirecio -
+namento de tronco; 
+direcionamento de 
+olhar.
+policial   flagrar interagir menino disfarçar 
+[...] [quando é flagrado pelo policial [que interage com ele 
+[que disfarça]
+https://youtu.be/LBm55914e5I
+
+[p.99]
+100
+Movimento de 
+cabeça; elevação de 
+queixo.  
+                       atirar             quebrar 
+[...] atira a pedra em outra janela [que quebra o vidro] [...] 
+https://youtu.be/z-1HWJPGrcE
+Elevação ou contra -
+ção de sobrancelhas; 
+contração de olhos; 
+movimento de boca  
+ou lábios.
+atirar            quebrar 
+[...] atira a pedra [que bate no vidro e o quebra] [...]
+https://youtu.be/Fxy3ZdP9R3k
+                   ideia        precisar           avisar 
+[...] tem a ideia [de que precisa avisar o Chaplin] [...]
+https://youtu.be/0_u2s4u5EUs
+ MANUAIS 
+Apontamentos no 
+espaço.
+     ix (lá)                 janela 
+[...] a mulher [que aponta para a janela] [...]
+https://youtu.be/qdAVi99kWYM
+
+[p.100]
+101
+Simultaneidade 
+manual. 
+ix (ele                 ir embora 
+[...] enquanto a mulher vem olhar o que aconteceu o menino [que 
+está ali] foge correndo. 
+https://youtu.be/wCrVbiyF-S8
+https://youtu.be/VS92qBSWQ-w
+Simultaneidade 
+manual.  
+você ir direita eu ir esquerda nós vamos encontrar 
+[...] [eu irei pela esquerda enquanto tu irás pela direita pelo caminho 
+mais longo], vamos ao mesmo tempo e nos encontramos lá [...]
+   estar atrás   perceber pessoa atrás 
+[...] Chaplin se movimenta para trás e percebe [que o policial está 
+atrás dele], olha para trás e avista o policial [...]
+https://youtu.be/cye3CyA5mpA

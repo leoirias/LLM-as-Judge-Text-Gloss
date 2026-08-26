@@ -1,0 +1,35 @@
+Texto,Glosa,Estado,Fidelidade,Naturalidade,Regras,Problema,Sugestao,Esperado,Acertou,Origem
+Quando a dor começou?,DOR COMEÇAR QUANDO?,valido,Sim,Sim,TANIA.M.002; TANIA.M.003,,,valido,sim,llm
+Quando a dor começou?,QUANDO DOR COMEÇAR?,invalido,Sim,Não,TANIA.M.002,"O item QU (QUANDO) deve aparecer no final da sentença, não no início.",DOR COMEÇAR QUANDO?,invalido,sim,llm
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,invalido,Sim,Não,TANIA.M.001,"A preposição locativa 'PARA' não deve aparecer na glosa, pois é realizada pelo movimento do verbo.",EU PODER IR CASA HOJE,invalido,sim,llm
+Bebeu água suficiente?,BEBER ÁGUA SUFICIENTE?,valido,Sim,Sim,TANIA.M.003; TANIA.M.004,,,valido,sim,llm
+Comeu algo estranho?,COMER ESTRANHO ALGO?,invalido,Sim,Não,TANIA.M.004,"O adjetivo 'estranho' deve vir depois do nome 'algo' (NOME ADJETIVO), não antes.",COMER ALGO ESTRANHO?,invalido,sim,llm
+Pode explicar o tratamento?,PODER EXPLICAR TRATAMENTO,valido,Sim,Sim,TANIA.M.005,,,valido,sim,llm
+Posso ir para casa hoje?,EU PODER IR CASA HOJE,valido,Sim,Sim,TANIA.M.001; TANIA.M.005; TANIA.M.007,,,valido,sim,llm
+"Chamar a enfermeira, agora.",ENFERMEIRA CHAMAR AGORA,valido,Sim,Sim,TANIA.M.009; TANIA.M.007,,,valido,sim,llm
+De menino,MENINO,nao_coberto,Sim,Sim,,"A frase 'De menino' é um fragmento nominal/locativo sem verbo principal ou estrutura sintática completa que permita aplicar as regras de sintaxe, verbos ou pronomes listadas. A glosa MENINO é a tradução direta do substantivo, mas a ausência de regras para preposições não-locativas ou fragmentos impede a validação formal.",,valido,,llm
+De menino,DE MENINO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de frases nominais curtas ou a preposição 'DE' neste contexto.,,invalido,,llm
+Por aqui,AQUI,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre especificamente a estrutura de advérbios de lugar ou a omissão de preposições de modo (por).,,valido,,llm
+A mulher,MULHER,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a omissão do artigo definido 'A' ou a estrutura nominal simples.,,valido,,llm
+A mulher,A MULHER,nao_coberto,Sim,Sim,,Nenhuma das regras listadas aborda o uso de artigos definidos (A/O) ou a estrutura nominal simples 'A MULHER'.,,invalido,,llm
+Os meus filhos,MEUS FILHOS,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de possessivos ou a omissão do artigo definido 'Os' nesta frase nominal.,,valido,,llm
+Os dois porcos,DOIS PORCOS,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de numerais ou substantivos simples sem modificadores adjetivos ou verbais.,,valido,,llm
+A presidente,PRESIDENTE MULHER,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de substantivo composto ou a marcação de gênero via sinal 'MULHER' após o título.,,valido,,llm
+A presidente,MULHER PRESIDENTE,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura nominal 'MULHER PRESIDENTE' ou a especificação de gênero/título nesta frase.,,invalido,,llm
+O artista,ARTISTA HOMEM,invalido,Não,Não,TANIA.M.004,"A glosa adiciona o sinal HOMEM, que não está presente na frase original 'O artista', alterando o sentido. Além disso, se houvesse um adjetivo, ele viria depois do nome, mas aqui é uma adição indevida de informação.",ARTISTA,valido,não,llm
+Bebo água,BEBER ÁGUA,valido,Sim,Sim,,,,valido,sim,llm
+Bebo água,BEBO ÁGUA,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de frase declarativa simples com sujeito nulo e objeto direto sem modificadores.,,invalido,,llm
+Ontem trabalhei,ONTEM TRABALHAR,valido,Sim,Sim,TANIA.M.008,,,valido,sim,llm
+Vi ontem,VER ONTEM,valido,Sim,Sim,TANIA.M.003; TANIA.M.007,,,valido,sim,llm
+Estudarei Libras,ESTUDAR LIBRAS FUTURO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a marcação de tempo futuro (FUTURO) ou a estrutura específica de afirmação simples com sujeito nulo e objeto próprio.,,valido,,llm
+Estudarei Libras,ESTUDAREI LIBRAS,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a marcação de tempo futuro (sufixo -ei) ou a estrutura simples Sujeito Nulo + Verbo + Objeto sem modificadores específicos.,,invalido,,llm
+Aprenderam português,APRENDER PORTUGUÊS PASSADO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a marcação de aspecto verbal (passado) ou a estrutura específica de sujeito nulo com objeto direto nesta frase.,,valido,,llm
+Não ter,NÃO_TER,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de negação ou a forma de verbos modais/auxiliares isolados como 'ter' neste contexto.,,valido,,llm
+Não conhecer,NÃO_CONHECER,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de negação ou a ordem de verbos simples sem modificadores específicos.,,valido,,llm
+Não bonito,NÃO_BONITO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de negação ou a ordem de adjetivo/nome nesta frase específica.,,valido,,llm
+Lindo demais,MUITO_LINDO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de adjetivo predicativo ou a ordem de advérbio de intensidade com adjetivo.,,valido,,llm
+Muito bonito,MUITO_BONITO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de adjetivos predicativos ou a fusão de sinais (MUITO_BONITO).,,valido,,llm
+Bem demais,MUITO_BEM,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de advérbios de intensidade ou a ordem de advérbio + adjetivo nesta frase.,,valido,,llm
+Trabalhar muito,TRABALHAR_MUITO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de advérbio de intensidade (muito) ou a ordem verbo-advérbio nesta frase.,,valido,,llm
+Você é bonito,VOCÊ BONITO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de frases copulativas (verbo ser) ou a ordem sujeito-predicado adjetival simples sem modificadores específicos.,,valido,,llm
+Você é bonito,VOCÊ SER BONITO,nao_coberto,Sim,Sim,,Nenhuma das regras listadas cobre a estrutura de frases copulativas (verbo SER) ou a ordem sujeito-verbo-adjetivo para este caso específico.,,invalido,,llm

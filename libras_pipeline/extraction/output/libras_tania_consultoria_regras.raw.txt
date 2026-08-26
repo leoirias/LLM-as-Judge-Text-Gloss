@@ -1,0 +1,77 @@
+### p.0-5
+{
+  "rules": [
+    {
+      "categoria": "pronomes",
+      "titulo": "Incorporação de pronome ao verbo direcional",
+      "descricao": "O pronome pode estar incorporado morfologicamente ao verbo direcional, representando a direcionalidade do verbo em direção ao sinalizante ou referente (ex: EXPLICAR-ME).",
+      "gatilho": "Verbo direcional com sujeito e objeto localizáveis no espaço, onde o pronome é parte da forma verbal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Pode explicar tratamento? -> PODER EXPLICAR-ME TRATAMENTO"
+      ],
+      "fonte_pagina": "p.1",
+      "fonte_citacao": "Nesses casos , o pronome também pode estar incorporado morfologicamente ao verbo direcional."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Preposição locativa elíptica",
+      "descricao": "A preposição locativa (como PARA) é sempre nula em Libras e nunca aparece na glosa, pois está presente apenas na realização do movimento.",
+      "gatilho": "Verbo de movimento ou locução locativa seguida de um complemento de lugar (ex: IR CASA).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Posso ir para a casa hoje? -> EU PODER IR CASA HOJE"
+      ],
+      "fonte_pagina": "p.2",
+      "fonte_citacao": "IR CASA é tratado como um OBJIND com preposição locativa elíptica [PARA] , isto é, a preposição PARA sempre será nula em Libras , ela é “presente” na realização do movimento, por isso, nunca aparecerá na glosa."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Posição do advérbio de tempo modificando locativo",
+      "descricao": "O advérbio de tempo (ex: HOJE) pode ser projetado como adjunto do nome (ADJN) em vez de adjunto do verbo (ADJV) quando modifica o destino locativo e não o evento verbal.",
+      "gatilho": "Advérbio de tempo que se refere a um complemento locativo (ex: estar em casa hoje) e não à ação em si.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu estou em casa hoje -> EU CASA HOJE"
+      ],
+      "fonte_pagina": "p.2",
+      "fonte_citacao": "No entanto, nestes casos o HOJE não modifica o evento verbal (ir) e sim o destino locativo (casa) . Então, considerando que em Libras é possível sentenças do tipo EU CASA HOJE ( Eu estou em ca sa hoje )"
+    },
+    {
+      "categoria": "pergunta",
+      "titulo": "Posição final do item QU",
+      "descricao": "Os itens interrogativos (QUANDO, QUAL, ONDE) aparecem no final da sentença e ocupam a função de advérbio (ADJV) que é o foco da interrogação.",
+      "gatilho": "Formação de perguntas com palavras interrogativas (item-QU).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Dor começar quando? -> DOR COMEÇAR QUANDO?"
+      ],
+      "fonte_pagina": "p.2",
+      "fonte_citacao": "o item QU (QUANDO , QUAL, ON DE) e demais , que aparecem no final da sentença, sempre ocupará a função de um ADJV ( Advérbio) que é o foco da interrogação."
+    },
+    {
+      "categoria": "verbos",
+      "titulo": "Verbo intransitivo com direcionalidade",
+      "descricao": "Um verbo pode assumir a forma intransitiva (sem complemento explícito na glosa) quando assume a direção sobre algo ou alguém que está sendo afetado pela ação.",
+      "gatilho": "Verbo que indica ação direcionada a um referente, onde o objeto é implícito pela direcionalidade.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Enfermeira chamar, agora. -> ENFERMEIRA CHAMAR AGORA"
+      ],
+      "fonte_pagina": "p.4",
+      "fonte_citacao": "OBS.: Vejam que esta sentença não apresenta complemento. O verbo CHAMAR está na forma intransitiv a, isso porque ele assume a direção sobre algo ou alguém que está sendo “chamado”."
+    },
+    {
+      "categoria": "sintaxe",
+      "titulo": "Ordem alternativa com advérbio inicial",
+      "descricao": "A ordem com o advérbio de tempo no início (ex: AGORA ENFERMEIRA CHAMAR) é válida, resultando em uma mudança na estrutura sintática em relação à ordem padrão.",
+      "gatilho": "Quando o advérbio de tempo é topicalizado ou enfatizado no início da frase.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Agora enfermeira chamar -> AGORA ENFERMEIRA CHAMAR"
+      ],
+      "fonte_pagina": "p.4",
+      "fonte_citacao": "A ordem AGORA ENFERMEIRA CHAMAR também pode ser válida , nesse caso haverá mudança na estrutura."
+    }
+  ]
+}

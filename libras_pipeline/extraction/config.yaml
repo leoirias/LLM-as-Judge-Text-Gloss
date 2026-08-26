@@ -1,17 +1,20 @@
-# Extração de regras (etapa 1) — 2 livros de Libras
+# Extração de regras (etapa 1) — 3 fontes de Libras (2 livros acadêmicos +
+# as notas de consultoria da profa. Tânia, que definem convenções específicas
+# deste projeto — ex.: item-QU sempre no fim, preposição locativa sempre nula
+# — que os livros acadêmicos não cobrem)
 #
-# Modelo: Qwen3-30B-A3B-Instruct-2507 (MoE, non-thinking) — ver justificativa
+# Modelo: Qwen3.8-27B (denso, thinking desligado) — ver justificativa
 # em llm.py. Determinístico (do_sample off) de propósito: rodar a mesma
 # janela de novo deve produzir a mesma lista de regras (reprodutibilidade).
 
 model:
-  name: qwen3-30b-a3b-instruct-2507
-  model_id: Qwen/Qwen3-30B-A3B-Instruct-2507
+  name: qwen3.8-27b
+  model_id: Qwen/Qwen3.8-27B
   dtype: bfloat16
   device_map: cuda            # GPU única do container (docker-compose) -> cuda:0
 
 generation:
-  enable_thinking: false      # checkpoint non-thinking; explícito por clareza/segurança
+  enable_thinking: false      # 3.8 é híbrido: thinking desligado de propósito (ver llm.py)
   max_new_tokens: 6000        # subido de 4000 depois de ver truncamento real na 1a
                                # rodada do ASL (mesmo modelo/config, mesma margem de segurança)
   do_sample: false
@@ -38,6 +41,8 @@ categorias_validas:
   - foco
   - classificadores
   - expressoes-idiomaticas
+  - lexico                    # mapeamento PT->glosa com gatilho (idiomatismo,
+                              # falso cognato); passou a ser extraído de propósito
 
 # Duas fontes acadêmicas (não é livro "for dummies" — prosa de linguística
 # mais densa). Faixas mapeadas pelo sumário de cada uma (ver plano):
@@ -48,9 +53,30 @@ books:
     start_page: 174
     end_page: 377
     window_pages: 15
-  - label: "Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial"
-    slug: libras_estudos_ling_cap4
-    path: Lingua_de_sinais_brasileira_estudos_linguisticos.pdf
-    start_page: 123
-    end_page: 210
+    topic_prefix: 5          # cap.5 -> só aceita título 5.x como fronteira
+  - label: "Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras"
+    slug: libras_gramatica2_cap7
+    path: Gramatica_de_libras_2.pdf
+    start_page: 18
+    end_page: 95
+    window_pages: 15
+    topic_prefix: 7          # ordem SVO, interrogativas QU, negativas, pronome final
+  - label: "Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações"
+    slug: libras_gramatica2_cap8
+    path: Gramatica_de_libras_2.pdf
+    start_page: 96
+    end_page: 255
+    window_pages: 15
+    topic_prefix: 8          # condicionais, causais, temporais, relativas
+  # Fora do escopo por ora (rodar só se sobrar tempo / se fizer falta):
+  #   Cap.9  Coesão e coerência   p.256-300  — conjunções e referência anafórica
+  #   Cap.10 Gêneros textuais     p.301-327  — tipo de discurso, não estrutura
+  #   Cap.11 Literatura           p.328-341  — forma poética, majoritariamente visual
+  #   Cap.12 Interfaces           p.342-475  — panorama; p.454+ é bibliografia
+  #   Estudos Linguísticos Cap.4  — sintaxe espacial (Quadros & Karnopp)
+  - label: "Elaboração da Gramática Formal da Libras — Notas de consultoria (Profa. Tânia, reunião 31/07/2026)"
+    slug: libras_tania_consultoria
+    path: Analise_sintatica_tania.pdf
+    start_page: 0
+    end_page: 5
     window_pages: 15

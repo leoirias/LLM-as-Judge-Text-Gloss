@@ -1,0 +1,35 @@
+Texto,Glosa,Estado,Fidelidade,Naturalidade,Regras,Problema,Sugestao,Esperado,Acertou,Origem
+Quando a dor começou?,DOR COMEÇAR QUANDO?,valido,Sim,Sim,TANIA.M.002,,,valido,sim,llm
+Quando a dor começou?,QUANDO DOR COMEÇAR?,invalido,Sim,Não,TANIA.M.002,"O item interrogativo QU (QUANDO) deve aparecer na posição final da sentença, não no início.",DOR COMEÇAR QUANDO?,invalido,sim,llm
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,invalido,Sim,Não,TANIA.M.001; LIVRO.SINTAXE.043,A preposição locativa 'PARA' não deve aparecer na glosa; a direção é expressa pelo movimento do verbo.,EU PODER IR CASA HOJE,invalido,sim,llm
+Bebeu água suficiente?,BEBER ÁGUA SUFICIENTE?,valido,Sim,Sim,TANIA.M.003; TANIA.M.004,,,valido,sim,llm
+Comeu algo estranho?,COMER ESTRANHO ALGO?,invalido,Sim,Não,TANIA.M.004,"O adjetivo 'estranho' deve vir depois do nome que modifica ('algo'), não antes.",COMER ALGO ESTRANHO?,invalido,sim,llm
+Pode explicar o tratamento?,PODER EXPLICAR TRATAMENTO,valido,Sim,Sim,TANIA.M.005; TANIA.M.003,,,valido,sim,llm
+Posso ir para casa hoje?,EU PODER IR CASA HOJE,valido,Sim,Sim,TANIA.M.001; TANIA.M.005; TANIA.M.007,,,valido,sim,llm
+"Chamar a enfermeira, agora.",ENFERMEIRA CHAMAR AGORA,valido,Sim,Sim,TANIA.M.009; LIVRO.SINTAXE.007,,,valido,sim,llm
+De menino,MENINO,nao_coberto,Sim,Sim,,"A frase 'De menino' é uma expressão nominal/locativa fragmentada. Nenhuma das regras listadas especifica a estrutura sintática para preposições de origem ('de') ou a glosa específica para este fragmento isolado, apenas a omissão de preposições locativas em verbos de movimento (TANIA.M.001/LIVRO.SINTAXE.043), o que não se aplica aqui.",,valido,,llm
+De menino,DE MENINO,nao_coberto,Sim,Sim,,Nenhuma regra da base cobre a estrutura gramatical da expressão 'De menino' (preposição + substantivo) ou a omissão de preposições não-locativas.,,invalido,,llm
+Por aqui,AQUI,nao_coberto,Sim,Sim,,Nenhuma regra da base cobre especificamente a omissão da preposição 'por' em locuções adverbiais de lugar como 'por aqui'.,,valido,,llm
+A mulher,MULHER,nao_coberto,Sim,Sim,,"A frase é um sintagma nominal simples ('A mulher') e as regras fornecidas não especificam a realização do artigo definido 'A' (se por apontação IX ou nulo) para substantivos comuns isolados, apenas para contextos anafóricos específicos ou indefinidos.",,valido,,llm
+A mulher,A MULHER,invalido,Sim,Não,LIVRO.PRONOMES.001,O artigo definido 'A' não é um sinal lexical em Libras; a definitude é marcada por apontação (IX) pré-nominal.,IX MULHER,invalido,sim,llm
+Os meus filhos,MEUS FILHOS,nao_coberto,Sim,Sim,,Nenhuma regra da base lista a estrutura específica para possessivos (pronomes possessivos + substantivo) ou a omissão do artigo definido 'os' neste contexto.,,valido,,llm
+Os dois porcos,DOIS PORCOS,invalido,Sim,Não,LIVRO.MORFOLOGIA.001,"O plural de 'porcos' deve ser marcado por repetição sequencial do sinal (PORCO+++), não apenas pela presença do numeral DOIS.",DOIS PORCO+++,valido,não,llm
+A presidente,PRESIDENTE MULHER,nao_coberto,Sim,Sim,,Nenhuma regra da base especifica a estrutura morfológica ou sintática para o substantivo 'presidente' ou a marcação de gênero feminino em cargos.,,valido,,llm
+A presidente,MULHER PRESIDENTE,nao_coberto,Sim,Sim,,Nenhuma regra da base especifica a estrutura ou o sinal para o título 'presidente' ou a combinação com gênero.,,invalido,,llm
+O artista,ARTISTA HOMEM,nao_coberto,Sim,Sim,,Nenhuma regra da base lista a estrutura específica para o substantivo 'artista' ou a adição de 'HOMEM' como especificador de gênero.,,valido,,llm
+Bebo água,BEBER ÁGUA,valido,Sim,Sim,TANIA.M.003,,,valido,sim,llm
+Bebo água,BEBO ÁGUA,nao_coberto,Sim,Sim,,Nenhuma regra da base cobre especificamente a estrutura de sentenças simples com sujeito nulo e verbo intransitivo/transitivo sem marcadores de tempo ou aspecto.,,invalido,,llm
+Ontem trabalhei,ONTEM TRABALHAR,valido,Sim,Sim,TANIA.M.008,,,valido,sim,llm
+Vi ontem,VER ONTEM,valido,Sim,Sim,TANIA.M.003; TANIA.M.007,,,valido,sim,llm
+Estudarei Libras,ESTUDAR LIBRAS FUTURO,nao_coberto,Sim,Sim,,Nenhuma regra da base especifica a marcação morfológica ou sintática do futuro simples (sufixo -ei) na glosa linear.,,valido,,llm
+Estudarei Libras,ESTUDAREI LIBRAS,nao_coberto,Sim,Sim,,As regras fornecidas não especificam a marcação morfológica de tempo verbal futuro (sujeito 'eu' nulo e verbo 'estudar' no futuro).,,invalido,,llm
+Aprenderam português,APRENDER PORTUGUÊS PASSADO,nao_coberto,Sim,Sim,,Nenhuma regra da base especifica a ordem do marcador temporal PASSADO em relação ao verbo ou a estrutura exata para verbos de aprendizado.,,valido,,llm
+Não ter,NÃO_TER,invalido,Sim,Não,LIVRO.MORFOLOGIA.010,"A regra LIVRO.MORFOLOGIA.010 especifica que a negação do verbo 'ter' deve ser representada pela etiqueta 'TER-NÃO', e não por 'NÃO_TER'.",TER-NÃO,valido,não,llm
+Não conhecer,NÃO_CONHECER,invalido,Sim,Não,LIVRO.MORFOLOGIA.010,"A negação do verbo CONHECER deve ser incorporada ao sinal (CONHECER-NÃO), não precedida por um sinal separado NÃO.",CONHECER-NÃO,valido,não,llm
+Não bonito,NÃO_BONITO,nao_coberto,Sim,Sim,,"A estrutura 'NÃO + ADJETIVO' (negação de estado/qualidade) não é explicitamente coberta pelas regras de sintaxe ou negação fornecidas, que focam em verbos ou posições específicas de advérbios.",,valido,,llm
+Lindo demais,MUITO_LINDO,nao_coberto,Sim,Sim,,Nenhuma regra da base cobre a ordem de advérbio de intensidade ('demais') com adjetivo ('lindo') ou a estrutura específica desta exclamação.,,valido,,llm
+Muito bonito,MUITO_BONITO,nao_coberto,Sim,Sim,,Nenhuma regra da base lista a estrutura específica para a expressão 'Muito bonito' ou a ordem advérbio-adjetivo isolado.,,valido,,llm
+Bem demais,MUITO_BEM,nao_coberto,Sim,Sim,,Nenhuma regra da base lista a estrutura específica para a expressão 'Bem demais' ou a ordem de advérbios de intensidade com adjetivos.,,valido,,llm
+Trabalhar muito,TRABALHAR_MUITO,nao_coberto,Sim,Sim,,Nenhuma regra da base lista a estrutura específica para advérbios de intensidade (MUITO) ou a formação de compostos verbais com advérbios.,,valido,,llm
+Você é bonito,VOCÊ BONITO,valido,Sim,Sim,LIVRO.SINTAXE.015,,,valido,sim,llm
+Você é bonito,VOCÊ SER BONITO,invalido,Sim,Não,LIVRO.VERBOS.001; LIVRO.PRONOMES.005,"O pronome 'você' deve ser representado por IX (você) e o verbo copulativo 'ser' deve ser representado pelo sinal É, não por SER.",IX (você) É BONITO,invalido,sim,llm

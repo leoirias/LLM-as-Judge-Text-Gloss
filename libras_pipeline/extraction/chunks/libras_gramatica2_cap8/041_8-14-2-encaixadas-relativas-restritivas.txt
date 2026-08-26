@@ -1,0 +1,139 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.14.2 Encaixadas relativas restritivas ===
+=== TRECHO: páginas 247-252 (parte 1 de 2 do mesmo tópico) ===
+
+[p.247]
+248
+Sobrancelha  
+franzida
+Giro do tronco Cabeça virada Expressão da boca
+ 
+Veja alguns exemplos de orações relativas na Libras: 
+(102) Encaixada relativa restritiva com deslocamento do tronco.
+IX (eu) TROCAR  TER UM AMIGO VIZINHO  IX (eu) SEMPRE-JUNTO
+INTERAGIR 
+IX (eu) TROCAR TER UM AMIGO [VIZINHO] 
+[IX (eu) SEMPRE-JUNTO] relativa  INTERAGIR  
+ 
+Tinha um amigo, que era meu vizinho, que 
+sempre estávamos juntos, sempre interagindo 
+um com o outro.
+A oração [VIZINHO] e também a oração [IX (eu) SEMPRE-JUNTO] são 
+orações relativas restritivas. Essas duas orações trazem informações especificando 
+‘AMIGO’. Entre várias possibilidades de ‘amigo’, as orações encaixadas individuali-
+https://youtu.be/sEfnEu-didc
+
+[p.248]
+249
+zam o termo da oração principal. No exemplo, as orações encaixadas são espacial-
+mente articuladas, por meio do deslocamento do corpo, também com marcação não 
+manual na boca e virada da cabeça para o lado, com elevação das sobrancelhas. O 
+exemplo a seguir ilustra, mais uma vez, orações relativas na Libras:
+(103) Encaixada relativa restritiva não manual.
+ IX (eu)  UM  VIIZINHO AMIGO IX (ele)  SINALIZAR SÓ
+IX (eu) UM [VIZINHO AMIGO] relativa  IX (ele)  
+SINALIZAR SÓ 
+Eu tinha uma pessoa, que era vizinho amigo,  
+com quem sinalizava.
+ A oração [VIZINHO AMIGO] é a oração relativa restritiva dessa construção, 
+porque especifica alguém [UM]. Essa oração encaixada possui uma marcação não 
+manual específica, ou seja, a face marcada pela boca e a cabeça inclinada. Nesse 
+exemplo, a encaixada relativa restritiva especifica alguém [UM] [=VIZINHO AMI-
+GO]. O exemplo a seguir ilustra, mais uma vez, oração relativa na Libras.
+(104) Encaixada relativa restritiva não manual.
+EXEMPLO TER UMA LEGAL HISTÓRIA IX (escola) MARCAR  MINHA
+https://youtu.be/JAzNLDA1jOc
+
+[p.249]
+250
+ HISTÓRIA       DENTRO         ESCOLA
+EXEMPLO TER UMA LEGAL HISTÓRIA IX 
+(escola) [MARCAR MINHA HISTÓRIA] 
+relativa  DENTRO ESCOLA
+Eu tenho uma lembrança muito legal que 
+marcou muito minha história dentro da escola.
+A oração [MARCAR MINHA HISTÓRIA] é uma oração encaixada porque traz 
+informações especificando HISTÓRIA, individualizando esse referente. Há uma 
+marcação não manual específica, com cabeça virada e marcação facial na boca.
+(105) Encaixada relativa restritiva não manual.
+           IX (eu)                  VER                  SURDO             ALGUNS        SINALIZAR            BEM   
+ 
+NÃO
+IX (eu)VER SURDO [ALGUNS SINALIZAR 
+BEM NÃO] relativa
+Eu vi alguns surdos que não sinalizavam bem.
+https://youtu.be/u5D3tcmPOsw
+https://youtu.be/JL7qdHskhrI
+
+[p.250]
+251
+A sentença (105) apresenta uma oração relativa restritiva que especifica o 
+sintagma SURDO. Dentro de um universo de vários surdos na escola, o sinalizante 
+se refere a um grupo de surdos que não sinalizavam bem, diferenciando-os dos 
+surdos que possuíam sinalização fluente. Assim, a oração relativa restritiva AL -
+GUNS SINALIZAR BEM NÃO funciona como um adjetivo que restringe o sintagma 
+SURDO. Na oração relativa, há a marcação não manual sobrancelha franzida que 
+marca a oração relativa restritiva. Não há um conectivo que articule as duas orações, 
+mas é empregada a estratégia de justaposição entre as sentenças. 
+(106) Encaixada relativa restritiva com uso da boia.
+          
+        PRIMEIRA-SÉRIE QUARTA-SÉRIE        UM              PROFESSOR SEMPRE          SEGUIR
+       FÁCIL          AJUDAR      MASIX (depois) CL (na-quinta-série) ALTERNAR   DIFÍCIL
+PRIMEIRA-SÉRIE QUARTA-SÉRIE UM 
+PROFESSOR SEMPRE SEGUIR FÁCIL 
+AJUDAR BOM, MAS IX (depois) CL (na-quinta-
+série) ALTERNAR DIFÍCIL
+Da primeira à quarta série, era um único 
+professor que permanecia sempre; acompanhar 
+era fácil e me ajudava, mas quando (os 
+professores) alternavam era difícil.
+A sentença (106) é uma oração relativa restritiva que especifica um único pro-
+fessor num universo de outros professores. Quando ele sinaliza UM PROFESSOR, 
+ele mantém o classificador como boia e depois ele introduz um segundo classificador 
+para indicar professores que alternam e diz que era difícil, sendo utilizada também a 
+https://youtu.be/EXVVJVkyJmo
+
+[p.251]
+252
+boia. Nesse caso, a boia tem uma função gramatical na sentença relativa, marcando 
+o referente especificado. A restritiva se aplica ao sintagma PROFESSOR que per-
+manecia sempre. Não há um item lexical na sentença que funciona como conectivo. 
+No entanto, as duas sentenças são articuladas pela justaposição. Percebe-se que o 
+sinalizante infla as bochechas enquanto sinaliza PROFESSOR SEMPRE, o que se 
+configura como marcação não manual específica. 
+(107) Encaixada relativa restritiva com sobrancelhas franzidas.
+IX (eu) E (chamar) UM PESSOA [MULHER VELHO IX (ela) SURDO IX (este)]
+Eu chamei uma pessoa que era idosa e surda.
+IX (eu)   E(chamar)     UM                PESSOA        MULHER        VELHO  IX (ela)
+ 
+SURDO           IX (este) 
+IX (eu) E(chamar) UM PESSOA [MULHER 
+VELHO IX (ela) SURDO IX (este)] 
+Eu chamei uma pessoa que era idosa e surda.
+A sentença (107) apresenta uma oração relativa restritiva que especifica o 
+sintagma PESSOA num universo de vários outros referentes possíveis. Nesse caso, 
+a oração relativa funciona como um adjetivo do referente especificado. Não há um 
+conectivo que ligue a sentença relativa ao referente PESSOA, mas é utilizada a 
+estratégia de justaposição para articulação da sentença. Há uma expressão facial 
+específica – sobrancelhas franzidas – sobre a oração relativa que marca sintatica-
+mente a sentença. 
+https://youtu.be/6BBBBuPf0gY
+
+[p.252]
+253
+(108) Encaixada relativa restritiva com marcação não manual.
+DESENHAR       IX (ele)                  AMIGO SURDO           ENSINAR
+DESENHAR                             POSITIVO                                          LEGAL  DESENHAR.
+DESENHAR [IX (ele) AMIGO SURDO 
+ENSINAR] DESENHAR POSITIVO LEGAL 
+DESENHAR.
+Foi a desenhar que um amigo surdo me ensinou  
+e desenhar era legal.
+Em (108), o sintagma DESENHAR (foi a desenhar) é especificado a partir 
+do sintagma seguinte, em IX (ele) AMIGO SURDO ENSINAR. Dessa forma, o fato 
+de desenhar a que o sinalizante se refere se trata daquele em que um amigo surdo 
+o ensinou a desenhar. É possível observar nesta sentença uma construção relativa 
+restritiva manual, em que IX (ele) parece exercer um papel sintático de conectivo 
+associado ao direcionamento do olhar, demonstrando que o apontamento IX pode 
+ser utilizado como marcador relativo. 
+https://youtu.be/gK2vUr_uogE

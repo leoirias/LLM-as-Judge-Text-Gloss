@@ -1,0 +1,242 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.6.2.3.2 Categorias de articulações-boca da Libras ===
+=== TRECHO: páginas 290-301 (parte 6 de 6 do mesmo tópico) ===
+
+[p.290]
+291
+CATEGORIAS DE ARTICULAÇÕES-BOCA DA LIBRAS
+CRITÉRIO CATEGORIA CONCEITO EXEMPLO
+FUNÇÃO
+REFERENCIAL
+Articulação-boca que 
+referencia pessoas, lugares 
+e papéis no discurso.
+ESPECIFICA-
+DORA
+Articulação-boca especi-
+fica o significado do sinal 
+manual.
+FLEXIONADA
+Articulação-boca que fle-
+xiona o sinal manual. 
+CLASSIFICA-
+DORA
+Articulação-boca que 
+confere características 
+classificadoras ao sinal 
+manual.
+PERFORMÁ-
+TICA
+Articulação-boca que se 
+relaciona ao discurso.
+
+[p.291]
+292
+CATEGORIAS DE ARTICULAÇÕES-BOCA DA LIBRAS
+CRITÉRIO CATEGORIA CONCEITO EXEMPLO
+TEMPO  
+ASSOCIADO 
+AO SINAL 
+MANUAL
+ 
+SÍNCRONA
+Articulação-boca produzi-
+da, semântica e tempo-
+ralmente, junto ao sinal 
+manual.
+SOBREPOSTA
+Articulação-boca que se 
+sobrepõe, semântica e 
+temporalmente, a um ou a 
+mais sinais manuais. 
+REDUZIDA
+Articulação-boca produ-
+zida no meio ou no fim da 
+sinalização do sinal. 
+ESTENDIDA
+Articulação-boca que se 
+sobrepõe temporalmente 
+a um ou a mais sinais 
+manuais, mas é influencia-
+da semanticamente pelos 
+sinais adjacentes.
+INDEPENDENTE
+Articulação-boca que se 
+sobrepõe, semântica e 
+temporalmente, a um ou a 
+mais sinais manuais. 
+Fonte: Pêgo (2021)
+Transcrição das articulações-boca das Línguas de Sinais (PÊGO, 2021)
+A maioria dos estudos transcreve as articulações-boca com base no código 
+fonético da língua oral do meio, perpetuando o “forçado” ancoramento linguístico 
+das Línguas de Sinais nas línguas orais, subtraindo algumas particularidades vi -
+suais que são intrínsecas às Línguas Sinalizadas e que demonstram ser muito mais 
+complexas e multimodais do que pensamos. O fato de serem corporais-visuais e 
+permitirem a “materialização” de pensamentos permite aos estudiosos, também das 
+línguas orais, estudarem de que formas estas não permitem tal materialização por 
+serem lineares, orais-auditivas. A dificuldade de transcrever “julgando” as articula-
+
+[p.292]
+293
+ções-boca com referência à fonética da língua oral reflete, também, a necessidade 
+de mudança da terminologia que possa abranger os aspectos corpóreo-visuais 
+dessa modalidade linguística. 
+Os atuais códigos para transcrever a articulação-boca não são compatíveis 
+e não permitem a descrição aproximada ou exata da sua forma de produção, pois 
+eles fazem referência aos sons e à forma de escrita das línguas orais. É importante 
+destacar que o ELAN possui suas limitações, já que as trilhas só permitem a trans-
+crição utilizando o código alfanumérico e fonético da língua oral. Incluindo o SW 
+ou o ELIS, será possível a transcrição das articulações-boca, pois tal fato permitirá 
+englobar as características visuais da Língua de Sinais que não estão presentes na 
+gramática da língua oral. 
+Por ainda não haver esse recurso no ELAN, as glosas das articulações-boca 
+da Libras devem ser transcritas com referência somente aos Sons Surdos, que são 
+os fonemas “mais visuais” da língua oral. Por exemplo, a articulação-boca que 
+acompanha o sinal CASA será glosada como ASA, e não como /kaza/, que é o som 
+tradicionalmente transcrito.
+ Um exemplo do nosso estudo demonstra que, visualmente, é diferente para 
+o surdo a percepção do movimento da articulação-boca IUAL , que acompanha o 
+sinal IGUAL, e que normalmente seria transcrito pela ótica ouvinte como IGUAL 
+ou [igw’aw]. Para os surdos, o movimento articulatório do G não é visualizado, e 
+o L no fim das palavras é omitido na articulação, resultando em uma glosa IUA, 
+como mostra o vídeo do sinalizante do Grupo 3:
+Figura 75 - Articulação-boca IUA, associada ao sinal IGUAL
+Fonte: Imagens do vídeo disponível no canal do YouTube, Libras_Articulações-boca.10
+Essa correspondência visual é importante para transcrever de forma mais 
+padronizada, tanto por transcritores ouvintes quanto por transcritores surdos, 
+10 Disponível em: https://www.youtube.com/watch?v=Qk2GNCKMg0I
+
+[p.293]
+294
+seguindo o movimento visual-articulatório. Cielo (2008) confirma a necessidade 
+de discriminação visual atrelada à auditiva, nos Sons Surdos:
+As informações lingüísticas [sic] e visuais, aliadas às informações acústicas, 
+também podem auxiliar a percepção apurada dos fonemas fricativos surdos, uma 
+vez que os fricativos são fonemas com turbulência aérea evidenciada e de altas 
+freqüências[sic], mas também com uma articulação de certa forma visível utilizan-
+do-se de lábios e língua e auxiliando o ouvinte com essas pistas visuais. Além disso, 
+a língua falada e o contexto lingüístico [sic]  também favorecem a identificação de 
+tais fonemas. (CIELO, 2008, p.353 )
+Um fato interessante que nos mostra o quanto esse contato linguístico é pas-
+sado de surdo para surdo, fruto de experiências visuais semelhantes, é a habilidade 
+de crianças surdas que ainda não adquiriram a escrita da Língua Portuguesa de 
+reproduzirem, visualmente, as articulações-boca. Com o progressivo contato com a 
+escrita, ela passa a aprimorar o reconhecimento de movimentos articulatórios que 
+possuem mais influência da língua oral. Lembramos, aqui, que há articulações-boca 
+que são fortemente representativas do contato entre a Língua Portuguesa e a Libras 
+e outras que foram adquirindo formas mais lexicalizadas. 
+Esse quadro de transcrição permite assumir uma perspectiva mais real e vin-
+culada à interpretação visual que os surdos têm sobre os movimentos dos fonemas 
+da Língua Portuguesa, possibilitando a transcrição, tanto por indivíduos surdos, 
+quanto por ouvintes, pois se desvincula a ortografia dos sons e coloca a visualidade 
+do movimento articulatório como base para as glosas. 
+Articulações-boca e suas correspondências com as transcrições das glosas 
+dos sinais manuais
+Grafemas
+(glosas dos sinais 
+manuais)
+Grafemas
+(glosas das articulações-boca)
+Forma visual-articulatória*
+a a
+b p
+
+[p.294]
+295
+c
+a/o/u (assume a forma da vogal 
+que o acompanha)
+e/i (assume a forma do s)
+ca
+ce
+ci
+co
+cu
+qu
+
+[p.295]
+296
+d t
+e e
+f f
+g
+X(se acompanhado da vogal E ou 
+da vogal I)
+Assume a forma da vogal que o 
+acompanha (A, O ou U)
+ga
+ge
+gi
+go
+gu
+
+[p.296]
+297
+h
+a/e/i/o/u (assume a forma da 
+vogal que o acompanha)
+ha
+he
+hi
+ho
+hu
+i i
+
+[p.297]
+298
+j x
+k
+a/e/i/o/u (assume a forma da 
+vogal que o acompanha)
+ka
+ke
+ki
+ko
+ku
+ku
+
+[p.298]
+299
+l l
+m p
+n t
+ 
+  
+o o
+p p
+
+[p.299]
+300
+q/qu
+a/e/i/o/u (assume a forma da 
+vogal que o acompanha)
+qua
+que
+qui
+qui
+
+[p.300]
+301
+r
+a/e/i/o/u (assume a forma da 
+vogal que o acompanha)
+ra
+re
+ri
+ro
+ru
+s s
+t t
+
+[p.301]
+302
+u u
+v f
+x/ch x
+w u/f
+ 
+y
+i
+z
+s
+Fonte: Pêgo (2021).

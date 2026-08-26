@@ -1,0 +1,109 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.7 HIPOTAXE ===
+=== TRECHO: páginas 155-157 (parte 1 de 2 do mesmo tópico) ===
+
+[p.155]
+156
+son (2013), nos casos em que há apenas marcas não manuais, é sempre acionada 
+uma combinação dessas marcas, geralmente torso, cabeça e/ou olhos, em sincronia.
+Como observado por Tang e Lau (2021), o processo de segmentação de Lín-
+guas de Sinais ainda é caro ao linguista que descreve essas línguas. Esse fato fica 
+mais evidente quando nos deparamos com dados de uso reais da língua, extraídos de 
+corpora de Línguas de Sinais, em que toda a riqueza expressiva da língua se revela. 
+Assim, sinais, mais o uso de classificadores, o uso de expressões não manuais, o 
+jogo de olhares e a utilização do espaço constituem uma rica e complexa estrutura 
+fonologicomorfossintaticossemântica (tudo junto mesmo) das Línguas de Sinais. 
+Para além dos recursos de ordem mais segmentais, pistas prosódicas, como pausas 
+e ritmo, são de suma importância na determinação de certas unidades sintáticas 
+da Libras. Assim, não é exagero afirmar que as pistas prosódicas e semânticas, por 
+vezes, se sobrepõem às marcas morfossintáticas.
+Embora a escrita não seja uma representação de uma língua, as línguas orais 
+se beneficiam dessa tecnologia (a escrita), no momento da segmentação, tomando-a 
+como referência para registros e mesmo para representar unidades sintáticas ou 
+de outra natureza, o que não ocorre com as Línguas de Sinais, para as quais um 
+sistema de escrita consolidado ainda inexiste. A definição de onde começa e onde 
+termina uma unidade sintática em línguas como a Libras é, ainda, desafiador ao 
+linguista, o que, de alguma forma, enaltece a necessidade de mais trabalhos que 
+descrevam essa língua em todos os níveis de análise.
+Os achados apresentados nesta pesquisa sobre parataxe em Libras certamen-
+te não se esgotam no trabalho por nós realizados. Outras investigações, sobretudo 
+envolvendo a interface sintaxe/prosódia, serão de grande impacto para a descrição 
+desse fenômeno linguístico na Libras. Embora tenhamos abordado a importância da 
+prosódia nos processos de parataxe em Libras, certamente estudos experimentais, 
+controlados, podem apontar com mais clareza o papel da prosódia na constituição 
+de unidades sintáticas nas Línguas de Sinais.
+8.7 HIPOTAXE 
+A oração começa a partir de um predicador que, por sua vez, vai exigir uma 
+estrutura argumental. Os argumentos são esses elementos que são acionados e que 
+vão compor a estrutura em torno do predicador. E, assim, a partir das caracterís-
+ticas semânticas e transitivas do verbo, uma oração será determinada, alicerçada 
+em um esquema proposicional e discursivo maior, de forma que o predicador é a 
+base da organização do sintagma verbal.
+Mas, em uma sentença, podemos identificar elementos que não são aqueles 
+exigidos pelo predicado. Isso significa que, na descrição de orações e de sua estru-
+tura argumental, há termos que não são considerados complementos, apesar de 
+fazerem parte da sentença. Esses termos, embora não sejam argumentos, ajudam
+
+[p.156]
+157
+a construir o enunciado, compõem a cena discursiva e funcionam como satélites. 
+Considerando a estrutura argumental, um complemento não pode ser dispensado, 
+já um satélite, sim. Mas isso não quer dizer que um satélite não seja um termo 
+importante da sentença.
+Toda uma oração pode funcionar como satélite de uma oração matriz e, 
+nesse caso, essas orações funcionam como um adjunto da oração principal, pois 
+promovem um realce e proporcionam um aspecto circunstancial. De alguma forma, 
+elas orientam o interlocutor para a mensagem que se quer transmitir, organizando 
+o discurso. Pode ser uma parte importante, no todo discursivo, a conduzir o inter-
+locutor à mensagem dita e orientar para o cenário em que desenrola o evento, ou 
+seja, serve para um propósito maior do enunciado.
+A articulação entre uma oração satélite, considerada um elemento relativa-
+mente dependente, e uma oração matriz, considerada o seu elemento dominante, 
+acontece a nível de hipotaxe. Assim, orações articuladas por hipotaxe atuam para 
+a formação de um discurso coeso e coerente, já que mantêm uma relação circuns-
+tancial com as orações com as quais articulam (NEVES, 2001; LIMA, 2002). 
+Para Lehmann (1988, p. 2), a hipotaxe pode ser concebida como a “subor-
+dinação de uma oração no sentido restrito”, que apresenta uma relação de depen-
+dência com a oração nuclear, bem como tem a função de uma sentença satélite que 
+gira em torno da sentença matriz. Halliday (2004, p. 452) destaca que a hipotaxe 
+é a ligação de sentenças que não possuem o mesmo status hierárquico. Segundo o 
+autor, “o elemento dominante é livre, mas o elemento dependente não o é”.  
+Nas unidades oracionais complexas, articuladas a nível de hipotaxe, existe 
+a oração primária, considerada a oração dominante, e a oração secundária, con -
+siderada a oração dependente. Vale ressaltar que o termo “primária” não tem o 
+sentido de principal, mas o sentido de nuclear ou matriz.  É a partir dela que o 
+outro segmento do complexo oracional segue. Neves (2001) coloca que nem sem-
+pre as orações primárias carregam a informação mais importante do discurso. Ao 
+contrário, muitas vezes é a informação da oração dependente e não a da oração 
+principal, que é comunicativamente a mais importante. Afinal, se a informação do 
+satélite não fosse importante, não haveria porque acrescentá-la.
+A sentença (31), a seguir, ilustra uma unidade oracional complexa na Libras, 
+em que as unidades componentes estão articuladas a nível de hipotaxe. A oração 
+dependente traz uma circunstância que realça a proposição estabelecida na oração 
+matriz. Nesse caso, a oração dependente estabelece o tempo do evento expresso 
+na matriz.
+
+[p.157]
+158
+(32) Hipotaxe temporal.
+IDADE COMEÇAR   1-2   COMEÇAR APRENDER LÍNGUA- DE-SINAIS
+IDADE COMEÇAR 12 COMEÇAR 
+APRENDER LÍNGUA-DE-SINAIS
+Quando eu tinha 12 anos , eu comecei a 
+aprender a Língua de Sinais.
+A oração complexa acima é constituída pela unidade oracional 1 – IDADE 
+COMEÇAR 12 (Quando eu tinha 12 anos), considerada a oração dependente, e pela 
+unidade oracional 2 – COMEÇAR APRENDER LÍNGUA-DE-SINAIS (eu comecei a 
+aprender a Língua de Sinais), considerada a oração matriz ou nuclear. Elas estão 
+articuladas a nível de hipotaxe, pois a primeira oração funciona como um adjunto da 
+oração nuclear, ao trazer uma circunstância sobre a proposição que é codificada na 
+oração nuclear. Nesse caso, o evento estabelecido na unidade oracional 1 funciona 
+como um marcador temporal do evento que é estabelecido na unidade oracional 
+2. Isso significa que toda a oração 1 age como um adendo em relação à oração 2. A 
+relação hipotática estabelecida é satélite-núcleo, em que a oração satélite cumpre 
+uma função adverbial temporal. Não há dependência sintática entre elas, pois a 
+oração satélite não atua como complemento da oração núcleo. Do ponto de vista 
+estrutural, a oração satélite está menos integrada, apesar de haver algum nível de 
+dependência, e sua função está relacionada à organização do discurso, ao trazer 
+um adendo à proposição codificada na oração nuclear.  
+https://youtu.be/mfCqQlcaTzE

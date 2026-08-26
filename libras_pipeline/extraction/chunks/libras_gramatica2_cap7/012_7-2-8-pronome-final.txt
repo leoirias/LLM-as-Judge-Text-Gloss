@@ -1,0 +1,75 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2.8 Pronome final ===
+=== TRECHO: páginas 67-68 (2 tópicos consecutivos) ===
+
+[p.67]
+68
+7.3 Estrutura informacional e construções  
+de topicalização e focalização
+Guilherme Lourenço, Michelle Murta, Ronice Müller de Quadros 
+Até o momento, temos discutido diferentes tipos de sentenças em Libras, 
+priorizando as discussões sobre ordem dos constituintes e também esclarecendo 
+como sentenças copulativas, negativas e interrogativas funcionam na língua. Além 
+do estudo dessas estruturas, interessa também à Sintaxe entender como os sinali-
+zantes de Libras podem construir informações de diferentes maneiras na língua, 
+a depender do conteúdo e da finalidade daquela informação. Assim, a estrutura 
+linguística pode ser alterada a depender da informação a ser transmitida, resultando 
+em diferentes maneiras de se organizar a sentença em Libras.
+Por esse motivo que, universalmente, as línguas podem formular sentenças 
+que se diferenciam em estrutura da chamada ordem básica da frase. Diferentes 
+ordenações de constituintes são utilizadas a depender do contexto discursivo. Não 
+há, portanto, dúvidas de que há uma relação entre os aspectos formais (estruturais) 
+da língua e os aspectos comunicativos. Nos estudos gramaticais, chamamos essa 
+relação entre a estrutura linguística e o conteúdo informacional a ser transmitido 
+de estrutura informacional (HALLIDAY, 1967; CHAFE, 1987, PRINCE, 1981; 
+LAMBRECHT, 1994; VAN VALIN, 2005).
+Uma vez que o sinalizante constrói suas sentenças de maneira a atender 
+as necessidades de seu interlocutor, diferentes conceitos passam a ser relevantes 
+para a estrutura sintática, tais como a ideia de informação nova e a informação 
+dada. Nesse sentido, o sinalizante vai sempre tentar definir que tipo de informação 
+não é considerada nova, ou seja, é uma informação dada (“velha”) e que tipo de 
+informação é nova para seu interlocutor. A depender da natureza da informação, 
+a Libras pode alterar a ordem de seus constituintes, empregar diferentes padrões 
+entonacionais e, até mesmo, empregar diferentes marcadores não manuais. É isso 
+que observamos nas construções com topicalização e focalização que discutiremos 
+a seguir. 
+Antes de prosseguirmos, é importante esclarecer os conceitos de tópico e 
+foco e fazer uma distinção importante. Os termos tópico e foco, geralmente, são 
+empregados a partir de noções pragmáticas de estrutura informacional. Tópico é 
+normalmente definido como sendo “sobre o que a sentença trata” e geralmente é 
+associado à ideia de informação dada/velha (REINHART, 1981). Por outro lado, 
+Foco pode ser definido como sendo aquela informação que é colocada em evidência 
+na sentença e que geralmente está associada a uma informação nova no discurso. 
+Essas diferentes noções de estrutura informacional podem ser marcadas nas 
+línguas por meio de diferentes estratégias gramaticais, podendo essas serem morfo-
+lógicas, sintáticas e/ou prosódicas. Nessa seção da gramática, interessam-nos as es-
+tratégias utilizadas pela Libras que são de natureza sintática, ou seja, que impactam
+
+[p.68]
+69
+na estrutura da sentença. Essas estratégias são aquelas em que o item que expressa 
+o tópico ou o foco passa a ocupar uma posição específica na frase, podendo haver 
+uma mudança na ordem das palavras na sentença. Para evitar possíveis confusões 
+entre os conceitos de tópico e foco da pragmática, chamaremos especificamente 
+essas construções sintáticas de construções topicalizadas e focalizadas.
+7.3.1 Construções topicalizadas
+Em Libras, assim como em outras Línguas de Sinais, a marcação de tópico 
+é bastante comum e são utilizadas estratégias tanto prosódicas quanto sintáticas. 
+Quadros (1999) observa que, no caso de sentenças topicalizadas, o tópico ocupa a 
+posição inicial da sentença, é separado do restante da frase por uma breve pausa 
+e, ainda, possui um marcador não manual específico que é o levantamento da so-
+brancelha. (QUADROS e KARNOPP, 2004; FIGUEIREDO e LOURENÇO, 2018).
+             
+(94) [FUTEBOL] top JOÃO GOSTAR                  QUADROS, 1999, p. 234). 
+De futebol, o João gosta.
+(95) Sentença com tópico (OSV).
+     [PROFESSOR]tópico                                                       IX (eu) GOSTAR E(positivo)
+[PROFESSOR] tópico IX (eu) GOSTAR E(positivo)
+              O professor, eu gostei muito, bom mesmo.
+Observe que em ambas as sentenças acima, o objeto sintático da oração se 
+move para a posição inicial da frase e passa a ocupar a posição de tópico. Além 
+disso, esse objeto é pronunciado com o levantamento da sobrancelha e há uma 
+breve pausa entre o tópico e o restante da sentença.
+Vale apontar ainda que o tópico pode ser seguido de uma sentença afirmativa, 
+negativa ou até mesmo de uma interrogativa, como no exemplo a seguir:   
+https://youtu.be/SNsIVbt_xs0

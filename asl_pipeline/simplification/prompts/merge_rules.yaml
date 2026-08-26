@@ -35,7 +35,10 @@ instrucoes: |
     regra, incluindo fusões de rodadas anteriores — nunca remova um ID que
     já estava lá.
   - `justificativa_fusao`: frase curta explicando por que as candidatas são
-    o mesmo fenômeno. Deixe "" se a regra ainda tem só 1 id_origem.
+    o mesmo fenômeno. Deixe "" SÓ se a regra tem 1 único id_origem — se
+    `ids_origem` tem 2 ou mais, `justificativa_fusao` é OBRIGATÓRIA, mesmo
+    quando as duas candidatas fundidas vêm do MESMO lote novo (não só quando
+    uma nova candidata funde com algo já consolidado de rodada anterior).
   - NÃO invente regra que nenhuma candidata sustente. NÃO funda duas
     candidatas só porque são da mesma categoria — categoria ampla (ex.
     "sintaxe") cobre vários fenômenos distintos; só funda se for

@@ -16,3 +16,4 @@ huggingface/
 .codex
 
 .agents
+logs/

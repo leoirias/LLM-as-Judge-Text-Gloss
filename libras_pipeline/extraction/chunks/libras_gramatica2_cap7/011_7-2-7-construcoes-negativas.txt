@@ -1,0 +1,155 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2.7 Construções negativas ===
+=== TRECHO: páginas 60-66 (3 tópicos consecutivos) ===
+
+[p.60]
+61
+7.2.7 Construções negativas 
+Arrotéia (2005) apresenta uma descrição dos elementos negativos em Libras 
+analisando suas interações nas sentenças. A autora identifica vários sinais e marca-
+ções não manuais que são marcados na produção de estruturas negativas. Quadros 
+(1999) verificou que a negação comumente aparece na posição final da sentença, 
+mas também pode aparecer antes dos verbos marcados com concordância, mas 
+não com verbos sem concordância. No entanto, parece que a marcação não manual 
+tende estar sobre todo o escopo do sintagma negado (algo do tipo de concordância 
+da negação, conforme Quer (2012), aplicando-se tanto a recorrência manual e aos 
+usos das marcações não manuais de negação). Seguem alguns exemplos com base 
+na pesquisa desta autora.8
+ 
+(79)
+IX (eu)1 [NÃO 1VERx x JOÃO] neg  
+Eu não vi o João.
+ 
+(80)
+IX (eu) [CONHECER JOÃO NÃO] neg
+Eu não conheço o João
+ (81)
+IX (eu) OUVIR NEG-0-nãotenso
+Eu não ouço
+ 
+(82)
+*IX (eu) NEG-0-nãotenso OUVIR (agramatical)
+ 
+(83)
+IX (eu)1 NEG-0-nãotenso xCONVIDAR1
+Eu não fui convidado.
+ Além desses elementos negativos analisados por Arrotéia (2004, 2005), a 
+autora identificou mais alguns conforme seguem:
+NINGUÉM-intermitente
+NINGUÉM-NÃO-TER
+NADA
+NEG-0-tenso
+ 
+8 Construções negativas (QUADROS, 1999; ARROTÉIA, 2005).
+
+[p.61]
+62
+Também identificamos os seguintes nos dados do corpus de Libras:
+NADA-acabar
+ZERO-ninguém
+ZERO
+ 
+(84) 
+       IX (eu) BRINCAR           NADA                        SURDO                                      NADA
+IX (eu) BRINCAR NADA SURDO NADA
+Eu não tinha de brincar com surdos na escola.
+Fonte: Royer (2019, p. 134).
+(85) Sentença condicional com foco de ênfase na segunda parte da sentença que é negativa associa-
+da ao sinal NÃO e à marcação não manual de t.
+[EXEMPLO       SINAL               OLHO            VERDE            CABELO          AMARELO] condição
+https://youtu.be/CKyCQV0_0b4
+
+[p.62]
+63
+[COMBINAR-NÃO                  NÃO               IDENTIDADE NÃO] negação-foco
+[EXEMPLO SINAL OLHO VERDE CABELO AMA-
+RELO] condição [COMBINAR-NÃO NÃO IDENTIDA-
+DE NÃO] negação-foco
+Se o sinal é olho verde e cabelo amarelo, daí não 
+combina não.
+ (86) Sentença adversativa marcada com foco contrastivo, com negação por meio do
+sinal NADA-acabar associado à marcação facial de negação.
+                                IX (eu) VOZ [neg] NADA-acabar [GESTUALIZAR]foco contrastivo
+IX (eu) VOZ [neg] NADA-acabar [GESTUALIZAR]
+foco contrastivo
+Eu não usava voz, eu gesticulava.
+https://youtu.be/6YfXkqzxjpA
+https://youtu.be/E_2ge-m47eU
+
+[p.63]
+64
+(87) Sentença coordenada com encaixada relativa marcada sutilmente com a virada da cabeça e a 
+negação (incorporação da negação no verbo SABER-NÃO e o uso do item lexical de negação NEG-
+-0-não-tenso associado à marcação de negação não manual).
+                   ENTÃO                   IX (eu) PROVA                     IX (eu)    LER-TEXTO
+                         [UMA IX (eu)                 SABER-NÃO             NEG-0-nãotenso COMO]
+ENTÃO IX (eu) PROVA IX (eu) LER-TEXTO [UMA 
+IX (eu) SABER-NÃO NEG-0-nãotenso COMO]
+Eu peguei a prova e comecei a ler e tinha uma 
+questão que eu não sabia como fazer.
+https://youtu.be/TlE9gMhAzF0
+
+[p.64]
+65
+(88) Sentença negativa com o zero na cabeça indicando a negação associada à marcação não manual 
+na boca e com um movimento sutil de negação da cabeça.
+ IX (eu)  SABER-ZERO [neg]
+IX (eu) SABER-ZERO [neg]
+Eu não sabia de nada.
+ (89) Sentença temporal com negação.
+[DURANTE-TEMPO]      [TER-NÃO             BILINGUE                             INCLUSÃO1
+https://youtu.be/eGHH4MCDZrY
+
+[p.65]
+66
+          INCLUSÃO2                                                                                                 DIVERSOS] NADA-acabar
+[DURANTE-TEMPO] [TER-NÃO BILINGUE 
+INCLUSÃO1 INCLUSÃO2 DIVERSOS] 
+NADA-acabar
+Durante aquele período, não tinha (escola) 
+bilíngue, inclusão e outros, (não tinha) nada.
+ No exemplo (89), a negação aparece incorporada ao verbo TER-NÃO e ao 
+final com o sinal NADA-acabar, associada à marcação não manual ao longo da 
+sentença negada.
+ 
+(90) Sentença com negação tripla (incorporada no verbo TER-NÃO, soletrada FS (sem), nos sinais 
+NENHUM, ZERO e NADA-acabar.
+ENTÃO              IX (eu)  ESTUDAR        TER-NÃO
+FS (sem) INTERPRETE                NENHUM ZERO NADA-acabar
+ENTÃO IX (eu) ESTUDAR TER-NÃO FS (sem) 
+INTERPRETE NENHUM ZERO NADA-acabar
+Então, eu escola não tive nenhum  
+intérprete, zero, nada.
+https://youtu.be/k8WAyCKnGRc
+https://youtu.be/v9UL-lOpME0
+
+[p.66]
+67
+7.2.8 Pronome final
+Arrotéia (2003; 2005) encontrou alguns exemplos de interação com a ne -
+gação com sujeito final. Esse tipo de ocorrência foi atestado como agramatical por 
+Ferreira-Brito (1995) e Quadros (1999); no entanto, realmente é possível haver 
+sujeitos finais quando o sujeito é um pronome pessoal. Esse tipo de construção 
+também foi atestado por Chen (1998) na ASL. Quadros e Karnopp (2004) apre -
+sentam esses exemplos apresentados a seguir a partir desses autores.
+Pronome final (QUADROS e KARNOPP, 2004). 
+ 
+(91)
+IX (ele)i CONSEGUIR PEGAR IX (ele)i
+Ele consegue pegar.
+ 
+(92)
+IX (eu) IR AMANHÃ UFSC IX (eu)
+Eu vou na UFSC amanhã.
+(93) Sentença com sujeito-pronome final (VOS).
+É                                               OUVINTE                                 IX (ele)
+É OUVINTE IX (ele)
+É ouvinte ele.
+Esse tipo de produção acontece com pronomes que podem estar associado 
+ao fato da indicação explícita à pessoa, tornando muito clara a correferência, por-
+tanto sendo licenciado.
+Todos esses tipos de construção impactam na ordenação das sentenças na 
+Libras. A ordem SVO é alterada diante da interação de vários mecanismos grama-
+ticais. A seguir, aprofundamos a questão da estrutura informacional, considerando 
+em mais detalhes as construções de topicalização e focalização.
+https://youtu.be/2QGav4Qw0PI

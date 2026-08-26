@@ -1,0 +1,94 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A ORDEM BÁSICA DA FRASE ===
+=== TRECHO: páginas 132-133 (parte 2 de 5 do mesmo tópico) ===
+
+[p.132]
+136     QUADROS & KARNOPP
+Caso os argumentos sejam não-reversíveis, parece haver mais flexibilida-
+de na ordem da frase na ASL. No entanto, Fischer constatou que todas as
+diferentes ordenações são seguidas de marcas não-manuais de topicalização
+ou concordância pronunciada, isto é, utilização rica do espaço. As ordens
+listadas por Fischer foram SVO, OSV , VOS e SOV . A ordenação OSV resulta de
+topicalização. Assim como Fischer, Liddell (1980) também analisou as dife-
+rentes ordenações na ASL como derivadas de SVO. Um argumento de Fischer
+para sustentar sua conclusão em relação à ordem básica SVO está baseado na
+análise de orações subordinadas. A autora observou que SOV é uma ordem
+não-licenciada na posição de objeto oracional. Liddel (1980) apresentou mais
+um argumento a favor da ordem SVO e constatou que somente estruturas
+SVO poderiam ser transformadas em interrogativas sim/não.
+Friedman (1976) apresentou uma análise diferente de Fischer e Liddell.
+A autora argumenta que a flexibilidade da ordem na ASL resulta da ausência
+de uma ordenação fixa. Apesar de ser um estudo polêmico, esse texto de-
+monstra as possibilidades potenciais de análise que podem ser consideradas
+para explicar a “aparente” flexibilidade da ordem da frase da ASL. Isso pode
+ser observado também na língua de sinais brasileira, pois poder-se-ia facil-
+mente ter diferentes análises se o pesquisador se detivesse apenas na estrutu-
+ra de superfície.
+Quanto à ordem SOV , Liddell (1980) analisa as construções com os ver-
+bos manuais (handling verbs), tais como MULHER-BOLO-COLOCAR-FORNO,
+em que a relação entre a atividade e o objeto envolvido está claramente ex-
+pressa no espaço. Chen (1998) analisou esse tipo de estrutura e constatou
+que há uma característica comum observada em todas as estruturas formadas
+com esse tipo de verbo: uma mão é deixada no espaço incorporando o objeto
+e servindo de base para o verbo. Conforme mencionado por Chen, Padden
+(1990) propõe que esses verbos sejam como clíticos, permitindo diferentes
+ordenações (SOV ou OSV). Se forem clíticos, há aspectos sintáticos da língua
+de sinais que os caracterizam como um fenômeno diferente dos encontrados
+nas línguas faladas.
+Segundo Liddell (1980, p.88), as sentenças com os verbos manuais do
+tipo HOMEM-LIVRO-LER, são gramaticais em oposição às não-gramaticais *HO-
+MEM-NÚMERO-ESQUECER e *MENINO-BALA-NÃO-GOSTA, por pertencerem
+a essa classe restrita da ASL . Os verbos manuais, como mencionado por Chen
+(1998), envolvem “uma configuração de mão que é uma reprodução de uma
+mão segurando um objeto” (Schick, 1990, p.28). Chen concorda com Matsuoka
+(1997), entendendo que esses verbos manuais são movidos como aqueles ver-
+bos que se movem para a posição de aspecto. Seguindo a análise de Matsuoka
+dos casos com aspecto, o movimento do verbo para uma posição mais alta
+pode ocorrer resultando na ordem SOV . Os verbos manuais também estariam
+movendo-se para uma posição mais alta, uma vez que eles poderiam ter uma
+
+[p.133]
+LÍNGUA DE SINAIS BRASILEIRA     137
+projeção independente em uma posição mais alta relacionada a eles. Nesse
+sentido, Matsuoka deriva estruturas tais como SALLY e PAPER TYPE[aspecto].
+A autora também apresenta a possibilidade de derivar a sentença OSV conten-
+do verbos associados com aspecto, uma vez que haveria movimento do objeto
+para a posição de Spec do sintagma de aspecto licenciado pela elevação do
+verbo para fora de VP (sintagma verbal). Essa derivação seria possível em
+concordância com a Generalização de Holmberg.
+6 Baseado nessa análise, tor-
+na-se possível explicar os casos em que são geradas sentenças SOV e OSV na
+ASL quando não há marcação de tópico.
+No entanto, vale considerar ainda as análises de Padden (1990) referen-
+tes às sentenças SOV como sendo, na verdade, três sentenças diferentes ao
+invés de uma só. Ela propõe que o sujeito e o objeto sejam predicados inde-
+pendentes introduzidos no discurso com o estabelecimento de referentes no
+espaço. Nesse caso, primeiro o usuário de língua de sinais sinaliza o sujeito e
+o objeto enquanto predicados independentes em pontos específicos no espa-
+ço. Tais pontos corresponderiam ao estabelecimento nominal. Depois, o
+sinalizador usaria tais pontos para estabelecer as relações entre o sujeito e o
+objeto utilizando o verbo. Dessa forma, essas três partes seriam, então, inde-
+pendentes. A autora utiliza exemplos para ilustrar sua análise com verbos
+com concordância: JOÃO<a> (no ponto à direita), MARIA<b> (no ponto à
+esquerda), <a> ENTREGAR<b> LIVRO (em que o sinal de ENTREGAR seria
+sinalizado do ponto <a> para o ponto <b>, significando que João entregou
+o livro a Maria). Nessas sentenças, há pausas entre a introdução de cada refe-
+rente e o verbo, incluindo os pontos introduzidos no espaço. A última senten-
+ça pode ser considerada independente, uma vez que a ASL é uma língua que
+marca o parâmetro de argumentos nulos (Lillo-Martin, 1986).
+Vale ponderar que essa análise de Padden não poderia ser considerada
+ao se analisar todas as sentenças SOV geradas na língua de sinais brasileira,
+uma vez que em algumas derivações inexistem as pausas mencionadas pela
+autora, assim como observado com aquelas derivadas com verbos manuais e
+flexionadas com aspecto. Propõe-se que na língua de sinais brasileira existe
+um tipo de construção com foco que licencia a ordem SOV . Esse tipo de cons-
+trução também existe na ASL, conforme análises de Petrônio (1993). O autor
+as chama de “construções duplas” ( double constructions), apresentando a re-
+petição de núcleos (X
+0) na posição final. A título de ilustração, na língua de
+sinais brasileira, têm-se sentenças como HOMEM COMPRAR CARRO COM-
+PRAR, em que o último COMPRAR está ocupando a posição de núcleo do
+foco, licenciando, portanto, o apagamento do primeiro COMPRAR em VP. Pos-
+teriormente, analisar-se-á em mais detalhes este tipo de construção.
+6A generalização de Holmberg diz que o movimento do objeto será licenciado somente se
+o verbo for movimentado para fora de VP .

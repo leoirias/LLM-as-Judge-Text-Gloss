@@ -1,0 +1,92 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: O COMPORTAMENTO DOS VERBOS E A QUESTÃO DA CONCORDÂNCIA ===
+=== TRECHO: páginas 195-196 (parte 1 de 3 do mesmo tópico) ===
+
+[p.195]
+LÍNGUA DE SINAIS BRASILEIRA     199
+A marca não-manual desse tipo de interrogativa parece estar associada
+com a idéia de querer ter uma confirmação.
+As construções interrogativas na língua de sinais brasileira se compor-
+tam de diferentes formas, mas, mesmo assim, pode-se concluir que CP está à
+esquerda de IP, permitindo o movimento do elemento interrogativo para a
+esquerda da sentença durante a derivação. As construções duplas, ou seja,
+com foco, são fundamentais para explicar uma série de derivações na língua
+de sinais brasileira, inclusive aquelas que determinam mudanças na ordem
+das palavras e as interrogativas.
+O objetivo das análises apresentadas foi de descrever e explicar alguns
+tipos de construções sintáticas possíveis na língua de sinais brasileira. Ainda
+vale analisar as discussões a respeito dos efeitos da modalidade das línguas
+na sintaxe. A próxima seção se ocupará de fazer algumas considerações dian-
+te de alguns questionamentos que têm sido levantados a respeito das implica-
+ções efetivas na teoria da gramática.
+O COMPORTAMENTO DOS VERBOS E A QUESTÃO DA CONCORDÂNCIA
+Concordância é um fenômeno lingüístico no qual a presença de um ele-
+mento em uma sentença requer uma forma particular de outro elemento que
+é gramaticalmente ligado a ele. Em muitas línguas, a forma particular do
+segundo elemento, normalmente um verbo, depende de traços-ϕ do primeiro
+elemento, tipicamente o sujeito da sentença. Uma característica comum entre
+as línguas com concordância marcada é que todas apresentam concordância
+com o sujeito. Em alguns casos, há marcação de concordância com o objeto. Nas
+línguas de sinais, a concordância é obrigatória com o objeto, podendo ou não ser
+realizada com o sujeito, dependendo da seleção do verbo.
+A grande questão em relação às línguas de sinais é a seguinte: a marca-
+ção chamada de concordância nas línguas de sinais é de fato concordância?
+Tem-se assumido que a concordância nas línguas de sinais é marcada aberta-
+mente em verbos do tipo DAR, PERGUNTAR, AJUDAR em diferentes línguas
+de sinais – DGS, ASL, NS, AUSLAN e, também, na língua de sinais brasileira
+(Suppala, 1986; Mathur e Rathmann, 2001; Mathur, 2000; Quadros, 1999).
+20
+No entanto, há variações nas análises destes verbos. Entre as diferentes
+propostas, Klima e Bellugi (1979) analisam a modulação do verbo como que
+acontecendo de acordo com o lócus em um plano horizontal sendo considera-
+do um processo flexional que reflete a referência indexical. Meier (1980, 1990)
+analisa os morfemas dentro do verbo como correspondente ao objeto (e ao
+sujeito) ocorrendo simultaneamente com o verbo. Liddell e Johnson (1989) e
+20DGS – língua de sinais alemã; NS – língua de sinais holandesa; AUSLAN – língua de
+sinais australiana.
+
+[p.196]
+200     QUADROS & KARNOPP
+Sandler (1989) desenvolvem modelos que não são apenas simultâneos, mas
+apresentam uma seqüência estrutural. Por exemplo, um sinal pode ter duas
+CM (configuração de mão) ou L (locação) em uma seqüência, como visto no
+Capítulo 2. Esta proposta tornou possível uma análise do morfema de concor-
+dância consistindo de traços de locação como afixo independente que é ajun-
+tado ao verbo não-especificado para a locação. Lillo-Martin e Klima (1990),
+Bahan (1996) e Meir (1998) assumem que o lócus é representado como uma
+variável no sistema lingüístico determinado pelo discurso. P ara esses autores,
+não há necessidade de marcar o lócus abertamente no nível da sintaxe, uma vez
+que os índices são suficientes para garantir a referência. Por outro lado, Liddell
+(1990, 1995) sugere que os pontos no espaço devem ser descritos como entida-
+des mentais (pictóricas). Segundo sua análise, tais entidades não podem fazer
+parte do sistema lingüístico, pois envolvem espaços reais contendo uma repre-
+sentação mental do objeto/referência em si. Assim, não há necessidade de defi-
+nir o lócus fonológica e morfologicamente. Além disso, a concordância verbal
+deixa de existir enquanto concordância do ponto de vista lingüístico.
+Rathmann e Mathur (2002) analisam a proposta de Liddell e mostram
+que o problema se apresenta considerando os níveis de variação fonética do
+locus em línguas de sinais, sendo eles formal e de determinação de fronteiras.
+No primeiro caso, se se estabelecesse um ponto no espaço para JOÃO no lado
+esquerdo, tenta-se voltar ao mesmo ponto ao referir JOÃO durante o discur-
+so. No segundo caso, um ponto diferente do ponto estabelecido para JOÃO
+pode ter um significado diferente. Considerando esses casos, cada lócus deve
+ser listado no léxico, uma vez que há correspondência entre o ponto e o re-
+ferente.
+Apesar do lócus de não-primeiras pessoas fazerem parte de um conjunto
+que apresenta “ligação” dentro do discurso, o critério do léxico que determina
+listabilidade não é observado. Assim, o problema de infinitude está relaciona-
+do com a listabilidade.
+Mesmo assim, os pesquisadores assumem a concordância como sendo
+separada da entrada lexical do verbo e como sendo de natureza lingüística. A
+seguir, serão apresentados vários aspectos que evidenciam que a proposta de
+Liddell não dá conta das propriedades lingüísticas da concordância verbal
+(Rathmann e Mathur, 2002; Lillo-Martin, no prelo; Quadros, 1999).
+A concordância nas línguas de sinais como elemento gramatical justifica-
+se a partir de vários aspectos gramaticais, entre eles, os pesquisadores mencio-
+nam os seguintes:
+– as formas para primeira pessoa e não-primeira pessoa são diferentes;
+– a presença de marcação de número nos verbos apresenta múltiplas
+formas em diferentes línguas de sinais;
+– a existência de auxiliar em algumas línguas de sinais expressam a
+relação sujeito-verbo-objeto nas construções com verbos que não mar-
+cam concordância;

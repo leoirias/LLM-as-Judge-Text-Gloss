@@ -1,0 +1,116 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: A ORDEM BÁSICA DA FRASE ===
+=== TRECHO: páginas 129-131 (parte 1 de 5 do mesmo tópico) ===
+
+[p.129]
+LÍNGUA DE SINAIS BRASILEIRA     133
+• Marcação de tópico
+< >t
+• Marcação de interrogativas
+Na seção seguinte, primeiramente será analisada a ordem básica da frase
+na língua de sinais americana e na língua de sinais brasileira. Para isso, far-se-
+á uma apresentação das discussões sobre a ordem das palavras no campo da
+lingüística. Posteriormente, serão apresentados vários tipos de estrutura de
+frase da língua de sinais brasileira (cf. Quadros, 1999). Tais estruturas nor-
+malmente estão associadas a essas marcas não-manuais.
+A ORDEM BÁSICA DA FRASE
+Ordem das palavras é um conceito básico relacionado com a estrutura da
+frase de uma língua. O fato de que as línguas podem variar suas ordenações
+das palavras apresenta um papel significante nas análises lingüísticas. Por
+exemplo, Greenberg (1966) observou que de seis combinações possíveis de
+sujeito (S), objeto (O) e verbo (V), algumas delas são mais comuns do que
+outras.
+Nas línguas, freqüentemente há muita variação na ordem das pala-
+vras, mas Greenberg observou que mesmo havendo a variação, cada lín-
+< >qu < >sn
+
+[p.130]
+134     QUADROS & KARNOPP
+gua elege uma ordenação de palavras como a dominante. De acordo com
+suas investigações, a ordem dominante sempre será SOV , SVO ou VSO. O
+autor constatou que a ordenação dos elementos tende a ser consistente, ou
+seja, a língua VO terá o objeto da preposição depois desta, enquanto uma
+língua OV terá uma ordem oposta, ou seja, primeiro objeto e, então, a
+preposição.
+Essas generalizações foram formalizadas na teoria X-barra (Jackendoff,
+1977; Chomsky, 1981), que delimitou que “o sistema da estrutura da frase em
+uma determinada língua é altamente restringido pela especificação dos
+parâmetros que determinam a ordem núcleo-complemento, núcleo-adjunto e
+especificador-núcleo ” (Chomsky e Lasnik, publicado primeiro em 1993, e,
+depois, em 1995, p.53).
+2
+O núcleo pode ocupar uma posição final, como no alemão, ou uma posi-
+ção inicial, como no inglês. Isso é definido pelo “parâmetro de núcleo”, ou
+seja, as línguas serão ou de núcleo inicial ou de núcleo final.
+Além disso, os termos ordem ‘básica’, ‘canônica’ ou ‘subjacente’ são tam-
+bém usados para descrever as diferentes ordens das línguas. Dos estudos
+tipológicos aos estudos formais, observa-se uma distinção entre esses termos.
+O primeiro e o segundo estão relacionados com a ordem das palavras na su-
+perfície. Como mencionado anteriormente, Greenberg constatou que tais or-
+dens parecem ser dominantes em todas as línguas e, por isso, são chamadas
+de ‘básicas’ ou ‘canônicas’. Em qualquer língua, a decisão de apresentar a
+ordem básica estará baseada nas orações simples não-marcadas.
+Por outro lado, o termo ‘subjacente’ está relacionado com a derivação na
+estrutura profunda da frase. ‘Estrutura profunda’ é aquela considerada “pura”
+(Chomsky, 1965), ou seja, aquela existente antes de sofrer qualquer transfor-
+mação. A estrutura profunda não corresponde obrigatoriamente à forma que
+é pronunciada (isto é, a estrutura de superfície). Com o desenvolvimento da
+teoria X-barra (Chomsky, 1981), a estrutura profunda passou a ser um nível
+abstrato da sintaxe que relaciona o sistema computacional e o léxico, o que
+corresponde a ‘interface interna’. A variação na ordem é expressa pelo compo-
+nente fonológico, no qual os elementos são pronunciados. Nesse nível do sis-
+tema computacional da linguagem, observar-se o resultado das transforma-
+ções nas diferentes derivações, tendo assim como resultado as diferentes or-
+denações de palavras nas línguas. A ordem subjacente, nesse sentido, está
+relacionada com o parâmetro de núcleo e é aquela à qual as operações se
+aplicam. Por exemplo, a ordem subjacente de uma sentença topicalizada é
+aquela em que não há a topicalização. As variações na ordem das palavras
+2No inglês : The phrase structure system for a particular language is largely restricted to
+specification of the parameters that determine the ordering of head-complement, head-adjunct,
+and specifier-head.
+
+[p.131]
+LÍNGUA DE SINAIS BRASILEIRA     135
+resultam ou de diferentes derivações que se aplicam em uma dada língua ou
+de diferentes marcações do parâmetro de núcleo. 3
+A proposta inicial deste capítulo é analisar a ordem subjacente das pala-
+vras na língua de sinais brasileira como uma peça-chave de sua estrutura da
+frase. É importante saber qual é a ordem subjacente para delimitar as suas
+possíveis variações. Assim, as variações são determinadas pelas operações sin-
+táticas que são motivadas por razões semânticas (implicações no significado
+intencionado pelo falante) e fonológicas (implicações de organização sonora
+ou visual), ou seja, pelas interfaces do componente lógico (LF) e fonológico
+(PF), respectivamente.
+Chomsky (1993, 1995), nas investigações minimalistas, propôs que tais
+componentes sejam responsáveis pelas operações aplicadas no sistema
+computacional. Dessa forma, PF e LF forçam os movimentos dos elementos
+da sentença no processo de derivação observando os princípios de interpre-
+tação.
+4
+A língua de sinais brasileira apresenta certa flexibilidade na ordem das
+palavras. Portanto, determinar a sua ordem básica não é tão trivial. O objetivo
+deste capítulo é muito mais descritivo do que explicativo, uma vez que inexistem
+descrições dessa língua no espírito das análises da estrutura sintática propos-
+tas por Chomsky (1957) e Lasnik (1995). Apesar disso, são analisadas várias
+possibilidades de derivações que possam trazer alguma contribuição para a
+discussão conceitual sobre a linearidade da gramática (Kayne, 1994).
+São utilizadas as pesquisas realizadas sobre a ASL como ponto de parti-
+da para as análises da língua de sinais brasileira. Há vários estudos sobre a
+ordem da frase na ASL, uma vez que esta apresenta grande variabilidade.
+Apesar disso, as pesquisas concluem que a sua ordem básica é SVO.
+Fisher (1973) apresentou uma análise da ordem das palavras na ASL
+considerando tanto aspectos sintáticos como semânticos. A autora constatou
+que sua ordem básica é SVO, mas se não houver dúvida quanto à interpreta-
+ção semântica, a frase pode apresentar outras ordenações. Esse não é o caso
+quando o sujeito e o objeto são ‘reversíveis’
+:5 “Se o verbo for transitivo e o
+sujeito e o objeto forem reversíveis (isto é, um ou outro forem opções seman-
+ticamente plausíveis), a flexibilidade nas ordenações seriam mais restritas
+(...)” (Fischer, 1973, p. 15).
+3O programa minimalista propôs a eliminação da estrutura profunda. O aspecto em ques-
+tão é a motivação para postular a interface interna, uma vez que há um problema empírico.
+Isso é analisado em detalhes em Chomsky (1993, 1995).
+4Tudo deve ter uma interpretação semântica e fonológica.
+5No original: If the verb is transitive and the subject or the object are reversible (i.e., either could
+be the subject or the object and still be semantically plausible), the permissible orders are more
+restricted (…).

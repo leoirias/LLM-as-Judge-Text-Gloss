@@ -1,0 +1,149 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2.1 A ordem básica SVO ===
+=== TRECHO: páginas 33-38 (parte 1 de 2 do mesmo tópico) ===
+
+[p.33]
+34
+Observe as sentenças a seguir extraídas de Quadros (1999): 
+SVO Quadros (1999, p. 55), glosas traduzidas para a Língua 
+Portuguesa.  
+(20)
+IX JOÃO GOSTAR [FUTEBOL]movimento-cabeça
+O João gosta de futebol.
+ 
+(21)
+IX JOÃO GOSTAR [MARIA] movimento-cabeça
+O João gosta da Maria.
+ 
+(22)
+IX [JOÃOa] direção_olhar_a [aASSISTIRb]direação_olhar_a-para-b [bTV]
+direação_olhar_b
+O João assiste a TV.
+(23)
+IX (eu)a bPEGARa bCARRO   
+Eu pego (busco) o carro.
+As sentenças de (20) a (23) exemplificam construções bastante comuns 
+em Libras e possuem a ordem Sujeito-Verbo-Objeto. Além disso, elas não possuem 
+nenhum tipo de informação enfática tampouco requerem um contexto pragmático 
+específico para serem pronunciadas. Observe ainda que os exemplos apresentados 
+trazem sentenças transitivas com argumentos em ambos os argumentos realizados. 
+Em (20) e (21), temos orações com o verbo GOSTAR, que é um verbo simples, 
+ou seja, não possui marcação morfológica de concordância. 6 Já o exemplo (22) 
+traz o verbo ASSISTIR, que é um verbo com concordância marcada. Os exemplos 
+também apresentam marcações não manuais associadas. Em (20) e (21), há um 
+movimento da cabeça associado ao objetivo, indicando afirmação (corroboração da 
+ação), que é bastante comum em sentenças declarativas em Libras. Já o exemplo 
+(22) está marcado com a direção do olhar, também bastante comum em sentenças 
+com concordância verbal. Por fim, em (23), temos uma sentença com o verbo de 
+concordância reversa BUSCAR.7 Os verbos de concordância reversas são aqueles 
+cujo ponto inicial do movimento concorda com a localização do objeto, e o ponto 
+final do movimento concorda com a localização do sujeito. O exemplo (23) mostra 
+6 Sobre concordância verbal em Libras, ver a Seção 3.2 da gramática.
+7 Nesta gramática, assumimos que os verbos reversos são uma subcategoria dos verbos 
+com concordância e que apresentam a mesma distribuição dos verbos com concordância 
+quanto à ordenação dos sinais.
+
+[p.34]
+35
+que mesmo verbos de concordância reversa apresentam a ordem SVO como ordem 
+não marcada. Vale apontar também que todos esses exemplos são considerados 
+gramaticais quando produzidos sem marcação não manual alguma, conforme 
+julgamento de informantes surdos (QUADROS, 1999).
+Além do fato de a ordem SVO não precisar de nenhum contexto sintático e/
+ou pragmático específico que a licencie, há também evidências advindas de testes 
+sintáticos que têm sido utilizados para se identificar a ordem básica da frase nas 
+línguas naturais. Construções com advérbios, verbos modais, negação e subor -
+dinação são alguns exemplos de testes que podem revelar a estrutura subjacente 
+das sentenças de uma língua. Quadros (1999) analisa também o comportamento 
+sentencial de diferentes sentenças em Libras, entre elas: sentenças com e sem 
+marcadores não manuais; sentenças com verbos de concordância; sentenças com 
+verbos simples; e sentenças com verbo de concordância reversa.
+Royer (2019) analisou as estruturas transitivas com argumentos realizados 
+nos dados em uso, a partir dos surdos da Grande Florianópolis que integram o 
+Inventário Nacional da Libras. Royer partiu das análises de Quadros (1999) e con-
+firmou a ordem básica SVO na Libras, conforme apresentando a seguir:
+Dados do corpus que indicam a ordem básica SVO na Libras corroborando 
+os achados anteriores com base nos usos da Libras.
+ (24)
+ 
+                                                        MORARV                                             BAIRRO
+FS (BELA-VISTA)] O
+IX (eu)S MORARV [BAIRRO FS(BELA-VISTA)] O
+Eu moro no bairro Bela Vista.
+Elementos de tipo de sentença: Afirmativa e verbos simples.
+Fonte: Royer (2019, p. 114).
+https://youtu.be/ECcp-1Rk6xw
+
+[p.35]
+36
+Royer (2019) encontrou exemplos com verbos com concordância com argumen-
+tos pronunciados nos dados do Corpus de Libras na ordem SVO, conforme a seguir:  
+(25)
+ 
+               IX (eu)1S                 1VER3+V                     IX (ele) FLUENCIA-LIBRASO
+aIX (eu)1S 1VER3+V IX (ele) FLUENCIA-LIBRASO
+Eu olhei uma pessoa sinalizando.
+Fonte: Royer (2019, p. 122).
+(26)
+                 IX (eu)1S                                   3CHAMAR1V [3AMIGO           SECRETÁRIO] O
+IX (eu)1S 3CHAMAR1V [3AMIGO SECRETÁRIO] O
+Eu chamo um amigo que também é secretário.
+Fonte: Royer (2019, p. 122).
+https://youtu.be/hf2JLC1tkic
+https://youtu.be/vOxQ8JZCiyg
+
+[p.36]
+37
+Outro exemplo encontrado por Royer (2019), apresenta uma oração subor-
+dinada na ordem SVO, conforme apresentado a seguir:
+ 
+(27)
+                                              [(INCLUSÃOS                              CONTINUARV)] 
+ [MAS                  PROFESSOR                               RESPEITAR                                         MEU] O
+[(INCLUSÃOS CONTINUARV)] [MAS 
+PROFESSOR RESPEITAR MEU] O
+(Continua um sistema de inclusão,) mas o 
+professor me respeitava.
+Elementos de tipo de sentença: Coordenativa adversativa, afirmativa simples  
+e verbo com concordância.
+Fonte: Royer (2019, p. 125).
+https://youtu.be/Idc6DsAPriw
+
+[p.37]
+38
+Royer (2019) constatou que 87% das sentenças transitivas com argumentos 
+realizados foram produzidas na ordem SVO. Apenas 13% foram produzidas com 
+outra ordem que parecem ser derivadas da ordem SVO, assim como analisado 
+previamente por outros autores. 
+Para essa gramática, nós também analisamos as produções dos Surdos de 
+Referência (grupo de surdos que são referência em diversos estados brasileiros e 
+que fazem parte de uma das coletas de dados do Corpus de Libras), também cons-
+tatamos o uso da ordem SVO nas sentenças com argumentos pronunciados, com 
+verbos simples sem concordância e verbos com concordância marcada.
+ 
+ (28) SVO (verbo simples).
+[SINAL(Marisa) IX (ele)] S            TERV             HISTORIAO             ENTÃO
+[SINAL(Marisa) IX (ele)] S TERV HISTORIAO 
+ENTÃO
+O sinal-Marisa tem história então.
+(29) SVO (verbo simples copulativo).
+                      
+TIOS                             ÉV                                         SURDOO
+TIOS ÉV SURDOO
+O tio é surdo.
+https://youtu.be/HSVrGTBhlRY
+https://youtu.be/bPC2X1PXUpg
+
+[p.38]
+39
+(30) SVO (com o advérbio entre o sujeito e o verbo).
+      ENTÃO         IX (eu)S               VERDADE                            NASCERV                              SURDOO
+ENTÃO IX (eu)S VERDADE NASCERV SURDOO
+Então, eu realmente nasci surda.
+(31) SVO verbo simples com negação.
+                       
+IX (eu)S          NUNCA       ORALIZARV                     FONOO
+IX (eu)S NUNCA ORALIZARV FONOO
+Eu nunca oralizei com fonoaudiólogo.
+https://youtu.be/638sA2t2aK0
+https://youtu.be/3AoNKLnaT0w

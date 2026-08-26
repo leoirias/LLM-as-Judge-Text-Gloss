@@ -1,0 +1,144 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.5 ADVERSATIVAS ===
+=== TRECHO: páginas 134-140 (parte 1 de 2 do mesmo tópico) ===
+
+[p.134]
+135
+8.5 ADVERSATIVAS 
+Os estudos sobre orações adversativas em Línguas de Sinais relatam o uso 
+de conjunção manual, a descrição de orações adversativas justapostas e o uso de 
+marcadores não manuais. Pfau (2016, p. 164) observa que muitas Línguas de Si -
+nais parecem ter uma conjunção manual adversativa assim como a DGS (Língua 
+de Sinais alemã): 
+                                                                              
+(12) roland spanish learn want but ix3a never time.
+      ‘Roland gostaria de aprender espanhol, mas ele nunca tem tempo. (DGS)
+                                                                          
+Waters e Sutton-Spence (2005, p. 5) analisam a frequência de conjunções na BSL e concluem que a 
+conjunção manual ‘but’, como em (12), representa 11% (a segunda mais frequente) de 238 instâncias 
+de conectivos nessa língua.
+(13) Cornwall oral county but youth come deaf club.
+     ‘Cornwall é uma vila oralizada, mas os jovens vêm para o Clube dos Surdos.’
+Zorzi (2018, p. 72) descreve as orações adversativas na Língua de Sinais catalã 
+(LSC). De acordo com suas análises, são frequentemente expressas com a conjunção 
+manual ‘MAS’ ou por justaposição, sempre em combinação com marcadores não 
+manuais típicos de coordenação, como movimento ou inclinação de corpo e/ou 
+cabeça e uso do espaço em lados opostos.
+Zorzi (2018, p. 197) argumenta que na LSC as adversativas veiculam, como 
+nas línguas orais, valores semânticos de contraexpectativa e retificação (contraste 
+corretivo) e que a presença da conjunção manual não é obrigatória.
+Rodrigues (2020) analisou 146 orações adversativas identificadas no Corpus 
+de Libras (UFSC), dados da Grande Florianópolis. Dessas, 12% (18 ocorrências) 
+correspondem a casos de justaposição (14 e 15), e 88% (128 ocorrências) a orações 
+introduzidas por conjunção manual (16 e 17).
+
+[p.135]
+136
+(14)
+  
+PROFESSOR            BOM              COMUNICAR             PODER              EXPLICAR
+          
+      SURDO             DV(ASSISTIR) CLARO               PARECER          IDENTIDADE
+       IGUAL              IX (ele) PROFESSOR           OUVIR          INTÉRPRETE       INCLUSÃO
+PROFESSOR BOM COMUNICAR PODER 
+EXPLICAR SURDO DV(ASSISTIR) CLARO 
+PARECER IDENTIDADE IGUAL IX (ele) 
+PROFESSOR OUVIR INTÉRPRETE 
+INCLUSÃO
+Quando o professor é surdo consegue se 
+comunicar melhor, tem a mesma identidade, 
+os surdos entendem melhor, mas quando o 
+professor é ouvinte é inclusão.
+Fonte: (RODRIGUES, 2022).
+https://youtu.be/KQWGQw8hxEs
+
+[p.136]
+137
+(15)
+ATRASAR              É                      ÓBVIO          PASSADO         ATRASAR] PROBLEMA [neg] 
+NÃO
+ATRASAR É ÓBVIO PASSADO ATRASAR 
+PROBLEMA [neg] NÃO
+Atrasado, é óbvio lá atrás, muito atrasado, 
+mas não tem problema.
+Sentença com ênfase ATRASAR e adversativa.
+                                                                                (16) 
+IX (eu) PREFERIR                SURDO             LÍNGUA-DE-SINAIS 
+https://youtu.be/ZIGLOvv-zbk
+
+[p.137]
+138
+            
+MAS1                                         IX (eu) DESCULPAR               IX (eu)            HOMEM 
+ CASAR                  OUVINTE                  IX (orelha) E (positivo)SABER 
+LÍNGUA-DE-SINAIS
+IX (eu) PREFERIR SURDO LÍNGUA-DE-SINAIS 
+MAS1 IX (eu) DESCULPAR HOMEM CASAR 
+OUVINTE IX (orelha) E(positivo) SABER LÍNGUA-
+DE-SINAIS
+Eu prefiro (interagir) com surdo, mas eu sou casa-
+da com um ouvinte que sinaliza.
+Fonte: (RODRIGUES, 2022).
+https://youtu.be/_wlAKjJEv9o
+
+[p.138]
+139
+(17)
+[IX (todos)] ESCOLA [articulação-boca. MAS] [IX (eu) SENTIR
+     
+            
+DIFERENTE [neg] IX (eu) VIZINHO               INTERAGIR          E (então)
+[IX (todos) ESCOLA MAS [IX (eu) SENTIR 
+DIFERENTE [neg] IX (eu) VIZINHO 
+INTER AGIR E (então)
+Eu estudava, mas não me sentia diferente, 
+pois éramos vizinhos e interagíamos 
+normalmente.
+No corpus analisado, as adversativas apresentam diferentes marcadores 
+manuais na Libras, assim como observado por Rodrigues (2019), o sinal que a au-
+tora identificou as conjunções adversativas ‘MAS1’, ‘MAS2’ e ‘MAS3’, essa terceira 
+que estamos referindo como ‘PALM-UP’. Esses marcadores expressam uma rela-
+ção semântica de oposição ou restrição a algo dito na oração anterior. A oposição 
+pode apresentar diferentes graus, pois pode ser um contraponto, como Rodrigues 
+(2019) refere, contraexpectativa, um comentário que informa uma retificação, 
+um posicionamento diferenciado, até chegar a uma oposição de fato, que pode 
+envolver uma negação.
+Em relação aos valores semânticos das orações adversativas, Rodrigues 
+(2019, 2020) esclarece que as orações adversativas em Libras podem veicular va-
+lores de contraexpectativa (18-20) e retificação (125), por exemplo. Na ocorrência 
+registrada em (18), a conjunção manual ‘MAS1’ correlaciona duas sentenças que 
+https://youtu.be/jCWwu3Dl3HM
+
+[p.139]
+140
+veiculam valores contrastivos e de contraexpectativa. As premissas disponíveis a 
+partir da informação de que a sinalizante prefere se relacionar com surdos se opõem 
+a uma aparente conclusão de que, por exemplo, ela não se casaria com um ouvinte. 
+Todavia, a sinalizante afirma na sequência que é casada com um homem ouvinte.
+(18)
+        IX (eu)  PREFERIR                                                            SURDO                  LÍNGUA-DE-SINAIS
+               
+ 
+      MAS1                    IX 
+    
+   (eu) DESCULPAR      IX (eu) HOMEM 
+   
+   CASAR    UVINTE   IX (orelha) E (positivo) SABER
+
+[p.140]
+141
+LÍNGUA-DE-SINAIS
+IX (eu) PREFERIR SURDO LÍNGUA-DE-SINAIS 
+MAS1 IX (eu) DESCULPAR HOMEM CASAR 
+OUVINTE IX (orelha) E(positivo) SABER 
+LÍNGUA-DE-SINAIS
+Eu prefiro (interagir) com surdo, mas eu sou 
+casada com um ouvinte que sinaliza. 
+Fonte: (RODRIGUES, 2022).
+ Igualmente em (19), temos um exemplo de contraste e contraexpectativa em 
+sentenças justapostas, ou seja, sem que seja feito o uso de uma conjunção manual 
+adversativa. Nessa ocorrência, a informação de que o professor, quando questio-
+nado pela aluna, explicava a ela o conteúdo que se opõe à conclusão esperada de 
+que a estudante compreendia aquilo que lhe fora ensinado. No entanto, mesmo 
+com a explicação do professor, a aluna não entendia.
+https://youtu.be/B5h7fEy6wFo

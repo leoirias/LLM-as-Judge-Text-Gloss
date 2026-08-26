@@ -1,0 +1,111 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva ===
+=== TRECHO: páginas 231-234 (parte 1 de 3 do mesmo tópico) ===
+
+[p.231]
+232
+(86) Substantiva Subjetiva com ordem direta.
+DV (lábios) VER         IMPOSSÍVEL
+[DV (lábios) VER] IMPOSSÍVEL
+Ler os lábios (era) impossível.
+A sentença (86) apresenta a ordem direta de sujeito e predicado. Ao invés 
+de o sujeito ser desempenhado por um substantivo, tem-se, nesse caso, um exem-
+plo de uma oração que desempenha a função de sujeito, chamada de Encaixada 
+Substantiva Subjetiva. O sujeito dessa oração complexa é DV (lábios) VER. Em 
+seguida, a oração apresenta o predicativo IMPOSSÍVEL, que expressa um estado 
+do sujeito oracional. Segundo Givón (2001, p. 106), os verbos de estado podem ser 
+caracterizados da seguinte forma: “Uma proposição pode significar um estado, não 
+envolvendo nenhuma mudança ao longo do tempo. O estado pode ser temporário 
+(de duração limitada), ou permanente (de duração relativamente longa), ou ainda 
+de duração intermediária”. O autor apresenta dois exemplos de estado temporário 
+e permanente em língua inglesa:
+a. Estado temporário: 
+She was angry
+Ela estava brava. 
+b. Estado permanente: 
+She was tall.
+Ela era alta.
+No exemplo em Libras, nota-se um estado permanente, expressado em IM-
+POSSÍVEL (ser impossível). Os outros exemplos analisados a seguir também apre-
+sentam verbos de estado semelhantes a esse. 
+Essa oração é articulada pela justaposição. Não há um sinal que marque a 
+sentença encaixada, mas a proposição entre as duas sentenças emerge o contexto. 
+Apesar disso, a primeira parte da sentença – DV (lábios) VER – uma marcação 
+manual específica, ou seja, o sinalizante faz o giro da cabeça para a direita e para 
+a esquerda, bem como usa a expressão os lábios, indicando a expressão em língua 
+oral. Em seguida, na segunda parte da sentença – IMPOSSÍVEL – há uma mudança 
+no padrão prosódico, quando o enunciador move a cabeça para a esquerda, bem 
+como contrai as sobrancelhas e infla as bochechas. Ao final da sentença, ele volta 
+https://youtu.be/Ikf0KQWnp7Q
+
+[p.232]
+233
+seu olhar para a interlocutora. Essa mudança prosódica contribui para articular 
+as duas sentenças, formando o todo da oração encaixada substantiva subjetiva.
+              (87) Substantiva Subjetiva com ordem direta.
+    TROCAR       ORALIZAR       PASSAR+     DIFÍCIL  PALM-UP
+[TROCAR ORALIZAR PASSAR+ ] DIFÍCIL 
+PALM-UP
+Ler lábios de diferentes professores que  
+se alternavam era difícil.
+A sentença (87) possui, da mesma forma que a anterior: a ordem direta do 
+sujeito e predicado. Como se nota, trata-se de uma sentença encaixada substantiva 
+subjetiva que exerce a função de sujeito da oração complexa. A segunda parte da 
+sentença é composta por DIFÍCIL (ser difícil), sendo que expressa o estado do su-
+jeito oracional. As duas sentenças são articuladas por meio da justaposição, sendo 
+dispensado um item lexical entre essas orações. No entanto, o contexto discursivo 
+permite que se perceba a proposição entre as duas sentenças. Além disso, há mar-
+cação não manual específica. Na primeira parte da sentença, em que está o sujeito 
+oracional, TROCAR ORALIZAR PASSAR+, o sinalizante repete o piscar de olhos 
+e o movimento do queixo, movendo o tronco para a direita, de forma que a dispo-
+sição da face sugere a mimese da difícil tarefa de tentar acompanhar a fala oral de 
+professores distintos. Na segunda parte da oração, DIFÍCIL, em que se encontra 
+o predicativo do sujeito, o enunciador move o tronco para a esquerda, marcando 
+uma mudança no padrão prosódico da sentença. Essa mudança contribui para 
+articular as duas orações, formando a sentença encaixada substantiva subjetiva. 
+A seguir, veremos três exemplos que apresentam a ordem inversa entre sujei-
+to e predicado. Assim, o predicado inicia a sentença, seguido do sujeito oracional:
+https://youtu.be/ABFUGKCwm4I
+
+[p.233]
+234
+(88) Substantiva Subjetiva com ordem inversa.
+POSSÍVEL     ENTENDER  OLHAR
+POSSÍVEL [ENTENDER+ OLHAR+]
+(Era) possível entender e visualizar (todos).
+A sentença (88) é constituída por duas orações, sendo sujeito e predicado em 
+ordem inversa: Predicado + Sujeito oracional. A sentença inicia com POSSÍVEL (ser 
+possível), que desempenha a função de predicado da oração, mais especificamente 
+predicativo do sujeito. Como se percebe, a sentença não segue a ordem canônica 
+Sujeito e Predicado, mas por razões discursivas, o sinalizante se utiliza em ordem 
+inversa. O sinal POSSÍVEL funciona como um verbo de estado (GIVÓN, 2001), 
+que expressa uma característica do sujeito oracional. Em seguida, nota-se o sujeito 
+oracional composto com dois verbos ENTENDER+ OLHAR+, sendo que ambos são 
+repetidos várias vezes pelo sinalizante. As duas sentenças são articuladas por meio 
+de justaposição, sem a necessidade de um item lexical que reforce a relação entre 
+ambas. A proposição entre as sentenças também emerge do contexto de sinalização. 
+Além disso, há marcação não manual com movimento da cabeça e do tronco para 
+a direita e para esquerda nos verbos ENTENDER+ OLHAR+.
+https://youtu.be/GuZkf-Ata6I
+
+[p.234]
+235
+(89) Substantiva Subjetiva com ordem inversa.
+ESPECIAL                           VIR
+[ESPECIAL VIR]
+É muito especial vir aqui.
+A oração (89) apresenta o predicado ESPECIAL (ser especial) no início da 
+sentença, como uma construção inversa da ordem canônica Sujeito e Predicado. 
+Desempenha a função sintática de predicativo do sujeito, bem como demonstra 
+um estado sobre o sujeito oracional VIR. Na segunda parte, aparece o sujeito VIR. 
+Uma possível ordem direta seria VIR ESPECIAL (Vir aqui é muito especial). No 
+entanto, por razões discursivas, o sinalizante expressou seu pensamento numa 
+estrutura sintática inversa. As duas sentenças são justapostas sem a presença de 
+um item lexical marcando a relação entre as sentenças. Apesar disso, a proposição 
+entre as orações emerge do contexto. 
+Há uma marcação não manual específica que diferencia as duas sentenças. 
+Em ESPECIAL, há a elevação da sobrancelha, ao passo que na segunda parte da 
+sentença, no sinal VIR, as sobrancelhas estão franzidas. Essa mudança no padrão 
+prosódico realça a articulação entre as sentenças, bem como marca a distinção 
+entre as duas orações. 
+https://youtu.be/92Kdx8Gga9Y

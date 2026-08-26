@@ -1,0 +1,84 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.3.2 Construções focalizadas ===
+=== TRECHO: páginas 84-86 (parte 2 de 2 do mesmo tópico) ===
+
+[p.84]
+85
+                          [MAIS                      CASA                        DENTRO] foco-contrastivo
+MAS IX (eu) DIFICIL CONTATO DEPOIS [MAIS 
+CASA
+DENTRO] foco-contrastivo
+Mas eu dificilmente tinha contato com eles, tinha 
+sim mais contato dentro de casa.
+(126) Sentença adversativa marcada com foco contrastivo, com negação.
+                           IX (eu) VOZ [neg] NADA [GESTUALIZAR]foco contrastivo
+IX (eu) VOZ [neg] NADA [GESTUALIZAR]foco 
+contrastivo
+Eu não usava voz, gesticulava.
+7.4 Construções copulativas
+Ronice Müller de Quadros
+O estudo sobre verbos copulativos na Libras parte de dados do Corpus da 
+Libras para a análise dos predicados relacionais que são expressos por meio de 
+verbo estativo, existencial ou de posse sem realidade fonética ou expressos por 
+https://youtu.be/SKGXpl8hee4
+https://youtu.be/uqrpCJActow
+
+[p.85]
+86
+meio dos sinais SER e TER na Libras. A proposta é descrever a constituição predi-
+cativa envolvendo esses tipos de verbos relacionais nessas duas Línguas de Sinais, 
+a partir de discussões linguísticas prévias apresentadas em outras línguas. Avelar 
+(2004, 2009) propõe que os verbos ‘ser’, ‘estar’, ‘ter’, ‘haver’  apresentam uma 
+mesma base. Como esses verbos podem ser copulativos, existenciais, estativos e 
+possessivos em diferentes línguas, podem ser manifestados nas línguas com ou 
+sem expressão fonética, pois estão associados a traços formais: BE = [+copulativo] 
+e HAVE = [+copulativo, +preposição].
+A consequência desta proposta é que se torna fundamental acessar as infor-
+mações semânticas para identificar a interpretação respectiva de cada verbo: se 
+possessivo, se existencial ou se copulativo. O verbo existencial toma como comple-
+mento uma preposição abstrata responsável pelas relações: (i) possuidor-possuído; 
+(ii) controlador-controlado; (iii) experienciador-experienciado; (iv) todo-parte.  
+O pronome ‘você’ se apresenta como referência genérica na posição de sujeito de 
+construções com ‘ter’, instâncias de marcação possessiva não existencial. A estru-
+tura interna de posse e existência seria então um predicado locativo, com as duas 
+expressões diferindo superficialmente das estritamente locativas por propriedades 
+associadas a efeitos de definitude.  Essa proposta capta o paralelismo temático exis-
+tente entre esses verbos em diferentes línguas (LYONS 1968; CÂMARA JR. 1973; 
+AVELAR, 2004, 2009; KAYNE, 1993 e HORNSTEIN et al. 2002): (a) Inglês - ‘be’ 
+(copulativo e existencial)  and ‘have’ (posse); (b) Francês - ‘avoir’ (posse e existen-
+cial) e ‘être’ (estativa); (c) Língua Portuguesa brasileira - ‘ter’ (existência e posse), 
+‘ser’ (copulativa que indica estado permanente) e ‘estar’ (estado transitório); (d) 
+Espanhol e Língua Portuguesa de Portugal – ‘haver’/’haber’ (existencial), ‘ter’/’te-
+ner’ (possessiva) e ‘ser’/’estar’ (copulativa); (e) finlandês, verbos que expressam 
+posse, cópula e existência são os mesmos.
+Na Libras, identificamos predicados que marcam tais relações sem conteúdo 
+fonético, ou com dois verbos: É (ser) e TER (ter e haver) apresentando informação 
+copulativa, existencial e de posse. Os dados foram baseados em produções de surdos 
+fluentes em Libras do Corpus de Libras, integrantes da proposta de documentação 
+da Libras (QUADROS et al. 2018, 2019). Quando as ocorrências não apresentam o 
+material fonético, parece que não há um verbo no predicado. Assim, podemos ter 
+uma oração sujeito-predicado, normalmente o predicado com sintagma adjetival, 
+sintagma preposicional ou um adjunto de lugar.
+Os dados analisados indicam a possibilidade de tratar verbos copulativos, 
+existenciais e de posse nesta língua com ou sem realização fonética a partir da 
+mesma base associados aos traços formais propostos por Avelar (2004, 2009), 
+captando assim a interpretação semântica associada nesses predicados podendo 
+ser [+copulativa] e [+copulativa, +preposição] indicando estado, existência ou 
+posse. Identificamos ocorrências que manifestam as três interpretações tanto sem 
+realização fonética como com realização fonética por meio dos seguintes sinais:
+
+[p.86]
+87
+       Sinais de verbos copulativo, existenciais ou de posse
+Figura 4: É (ser) Figura 5: TER (ter/haver)
+O sinal ‘É’ que pode ser traduzido pelo verbo ‘ser’ com suas respectivas conju-
+gações verbais não apresenta marcação temporal nem outra marcação morfológica. 
+É um verbo que sempre acontece na forma É. O verbo ‘TER’ pode aparecer com 
+a incorporação da negação TER-NÃO, assim como acontece com outras formas 
+verbais na Libras. Tanto o verbo ‘É’ como o verbo ‘TER’’ podem também ser asso-
+ciados à informação aspectual marcados pelo movimento repetido intermitente.
+A seguir, apresentamos alguns exemplos deste tipo de oração.
+Exemplo de predicado com existencial com o sinal TER-NÃO e na sequência 
+predicado estativo ‘É’:
+(127)  TER-NÃO existencial + É ligação.
+DURANTE-PERÍODO       TER-NÃO             BILINGUE                             INCLUSÃO

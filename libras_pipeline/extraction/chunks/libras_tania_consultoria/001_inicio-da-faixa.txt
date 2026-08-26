@@ -1,0 +1,219 @@
+=== DOCUMENTO: Elaboração da Gramática Formal da Libras — Notas de consultoria (Profa. Tânia, reunião 31/07/2026) ===
+=== TÓPICO: (início da faixa) ===
+=== TRECHO: páginas 0-3 (parte 1 de 2 do mesmo tópico) ===
+
+[p.0]
+Elaboração da Gramática Formal da Libras – Por Tânia 
+(Reunião 31-07-2026) 
+Base: 50 sentenças do contexto Saúde do arquivo “V2S. 
+Critério geral: as árvores sintáticas abaixo seguem organização sintática compatível 
+com a Libras, priorizando estruturas simples considerando o referente presente.  
+SENTENÇAS-EXEMPLOS: 
+1. PODER EXPLICAR TRATAMENTO -> Pode explicar tratamento? 
+2. EU PODER IR CASA HOJE -> Posso ir para a casa hoje? 
+3. DOR COMEÇAR QUANDO?  -> Dor começar quando? 
+4. COMER ALGO ESTRANHO?  -> Comer algo estranho? 
+5. BEBER ÁGUA SUFICIENTE  -> Beber água suficiente? 
+6. ENFERMEIRA CHAMAR AGORA  -> Enfermeira chamar, agora. 
+  
+Árvore Sintática (Sentenças 1 a 6). 
+1. PODER EXPLICAR TRATAMENTO 
+                                 S           
+                                                                                                      
+                            ADJV 
+  
+          ADJV<marcador>         
+            <por favor>    SJPR                    
+               (polidez)                    
+                                    
+                SUJ<pronome>       PRED 
+                                  (IX2 / você)         
+                                                    V<verbo direcional> 
+ 
+                                                                      (EXPLICAR-ME) 
+                                                           (IX1) 
+                                              COMPL  
+ 
+                                               OBJ DIR 
+ 
+                                              <nome> 
+                                         TRATAMENTO 
+Nota: Em Libras, os marcadores de polidez podem vir marcadas com as expressões não 
+manuais (ENM) de solicitação (corpo levemente inclinado à frente, expressão facial de 
+PRODUÇÕES 
+S   → SUJ PRED 
+ADJV   → <marcador> 
+SJPR   → SUJ PRED  
+SUJ       → Pronome (IX) 
+PRED   → V (direcional) 
+V    → <verbo direcional>  
+COMPL    → OBJ DIR           
+OBJ DIR   → <nome>
+
+[p.1]
+pedido/polidez) adjungidas aos sinais PODER, QUERER, POR FAVOR. Por isso, nestes 
+casos os marcadores POR FAVOR, COM LICENÇA podem ficar fora da árvore nuclear, 
+como um elemento discursivo de polidez.  
+➢ Outro ponto importante, é o verbo estar assoc iado a um tipo de IX (pronome), 
+como é o caso do verbo EXPLICAR em que IX 2explicarIX1 que representa a 
+direcionalidade do verbo em direção ao sinalizante que solicita a explicação (“para 
+mim”). Nesses casos , o pronome também pode estar incorporado 
+morfologicamente ao verbo direcional. 
+ 
+ 
+2. EU PODER IR CASA HOJE       
+                                             S 
+                                          SJPR 
+                                     SUJ       PRED 
+                              <pronome>      VB 
+                                     EU 
+                                                   V       COMPL 
+                                              <verbo>      OBJIND 
+                                           PODER IR 
+                                                 
+                                                            PREP       NUCLOBI       
+                                                                     
+                                                                    NUL     <nome>   ADJN 
+                                                                           CASA 
+                                                                                                  <advérbio> 
+                                                                                                 HOJE 
+                                                                       
+ 
+ 
+ 
+ 
+ 
+ 
+Nota: Para esta sentença, temos uma estrutura com verbo modal (PODER) seguido de 
+verbo principal (IR), complemento locativo (CASA) e adjunto adverbial de tempo (HOJE). 
+Acredito que na g ramática não haja necessidade de formalizar explicitamente o verbo 
+modal como categoria separada. Portanto, PODER será tratado como o verbo principal 
+PRODUÇÕES 
+S   → SUJ PRED 
+SUJ   → Pronome reto     EU 
+PRED   →  VB 
+VB        → Verbo COMPL  
+V          → Verbo         PODER IR 
+COMPL → OBJ IND           
+OBJIND  → [Prep] NUCLOBI 
+PREP     → Nulo (não é realizada) 
+NUCLOBI → NOME ADJN 
+NOME    → nome       CASA 
+ADJN      → Advérbio    HOJE
+
+[p.2]
+do VB, e IR como seu complemento verbal , achei essa uma solução que pode ser 
+replicada a outras sentenças semelhantes.  
+➢ IR CASA é tratado como um OBJIND com preposição locativa elíptica [PARA] , 
+isto é, a preposição PARA sempre será nula em Libras , ela é “presente” na 
+realização do movimento, por isso, nunca aparecerá na glosa. 
+➢ Um impasse importante nesta sentença é a posição do advérbio HOJE , no geral 
+HOJE deveria ser tratado como ADJV do verbo (após o verbo) e não dentro do 
+NUCLOBI. No entanto, nestes casos o HOJE não modifica o evento verbal (ir) e 
+sim o destino locativo (casa) . Então, considerando que em  Libras é possível 
+sentenças do tipo EU CASA HOJE ( Eu estou em ca sa hoje ), embora, HOHE 
+pertença à classe lexical dos advérbios, ele também poderá  ser projetado na 
+árvore como um nó ADJN. 
+ 
+3. DOR COMEÇAR QUANDO?                                 
+S-INT [QU] 
+ 
+    SJPR 
+ 
+SUJ          PRED 
+       
+      <nome>         VB 
+       (DOR)            
+              V            ADJV 
+   
+   <verbo>       <advérbio – tempo> 
+COMEÇAR          QUANDO? 
+ 
+Nota: o item QU (QUANDO , QUAL, ON DE) e demais , que aparecem no final da 
+sentença, sempre ocupará a função de um ADJV ( Advérbio) que é o foco da 
+interrogação. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PRODUÇÕES 
+S   → SJPR  INT [QU] 
+SJPR   → SUJ PRED  
+SUJ       → NOME  
+PRED   → VB (verbo base) 
+V        → VERBO        
+ADJV   →  ADVÉRBIO
+
+[p.3]
+4. COMER ALGO ESTRANHO?   
+ 
+S-INT [QU] 
+                                                                      
+    SJPR 
+ 
+SUJ          PRED 
+       
+        NUL             VB 
+        (IX)          
+              V            COMPL 
+   
+   <verbo>       OBJDIR 
+   COMER           
+                       NOME 
+ 
+          <pronome>      ADJN 
+              ALGO 
+                                   <adjetivo> 
+                                    ESTRANHO 
+ 
+5. BEBER ÁGUA SUFICIENTE?  
+ 
+S-INT [QU]                                                       
+ 
+    SJPR 
+ 
+SUJ          PRED 
+       
+        NUL             VB 
+        (IX)          
+              V            COMPL 
+   
+   <verbo>       OBJDIR 
+   BEBER           
+                       NOME 
+ 
+          <pronome>      ADJN 
+              ÁGUA 
+                                   <adjetivo> 
+                                    SUFICIENTE 
+PRODUÇÕES 
+S   → SJPR  INT [QU] 
+SJPR   → SUJ PRED  
+SUJ       → Nul ou IX 
+PRED   → VB (verbo base) 
+VB        → V COMPL 
+V        → VERBO     
+COMPL → OBJDIR 
+OBJDIR → NOME 
+NOME   →  ADJN 
+ADJN   →  ADJETIVO 
+ 
+ 
+PRODUÇÕES 
+S   → SJPR  INT [QU] 
+SJPR   → SUJ PRED  
+SUJ       → Nul ou IX 
+PRED   → VB (verbo base) 
+VB        → V COMPL 
+V        → VERBO     
+COMPL → OBJDIR 
+OBJDIR → NOME 
+NOME   →  ADJN 
+ADJN   →  ADJETIVO

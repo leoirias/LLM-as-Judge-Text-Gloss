@@ -1,0 +1,473 @@
+### p.174-174
+{
+  "rules": []
+}
+
+### p.175-176
+{
+  "rules": []
+}
+
+### p.177-181
+{
+  "rules": []
+}
+
+### p.182-186
+{
+  "rules": []
+}
+
+### p.187-191
+{
+  "rules": []
+}
+
+### p.192-192
+{
+  "rules": []
+}
+
+### p.193-195
+{
+  "rules": [
+    {
+      "titulo": "Representação de pluralização por repetição sequencial",
+      "descricao": "A pluralização de um sinal pode ser representada na glosa pela repetição sequencial do sinal, indicada por três sinais idênticos seguidos (ex.: CASA+++).",
+      "gatilho": "Quando um substantivo ou sinal é pluralizado por meio de repetição sequencial do sinal.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "casas -> CASA+++"
+      ],
+      "fonte_pagina": "194",
+      "fonte_citacao": "Processos flexionais manifestos fazem uso de morfologia sequencial, como é o caso da pluralização exemplificada em (55) CASA+++. A produção repetida sequencial de morfemas livres CASA manifesta uma flexão consecutiva.",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de composição por justaposição simultânea",
+      "descricao": "A composição de sinais realizada por justaposição simultânea (um sinal por cada mão) deve ser representada na glosa com o símbolo '^' entre os sinais (ex.: PALAVRA^PALAVRA).",
+      "gatilho": "Quando a composição lexical é formada pela articulação simultânea de dois sinais idênticos, um por cada mão.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "composição -> PALAVRA^PALAVRA"
+      ],
+      "fonte_pagina": "194",
+      "fonte_citacao": "o sinal de “composição”, em Libras, constituído pela derivação simultânea, por um processo de justaposição de duas vezes o sinal (51) PALAVRA, que equivale a (56) PALAVRA^PALAVRA (composição), sendo os dois sinais articulados, um  por cada uma das mãos.",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.196-197
+{
+  "rules": [
+    {
+      "titulo": "Representação de compostos por justaposição",
+      "descricao": "Compostos formados por justaposição de dois sinais (coordenação) devem ser representados na glosa pela junção das etiquetas dos sinais componentes, separadas pelo símbolo '^' (ex.: BOA^NOITE, CARRO^BATER).",
+      "gatilho": "Quando a frase em português corresponde a um composto de Libras formado pela combinação de dois sinais distintos (justaposição).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "boa noite -> BOA^NOITE",
+        "acidente -> CARRO^BATER"
+      ],
+      "fonte_pagina": "197",
+      "fonte_citacao": "Essa regra representa compostos por justaposição com dois núcleos – compostos por coordenação. Nestes sinais, a mão não dominante aparece no espaço neutro... como em (60) BOA^NOITE (BOA NOITE) e (61) CARRO^BATER (ACIDENTE)",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos com eliminação de movimento",
+      "descricao": "Compostos formados pela eliminação de movimento interno ou repetição (sequência única) devem ser representados na glosa pela junção das etiquetas dos sinais componentes, separadas pelo símbolo '^' (ex.: SÁBADO^DOMINGO).",
+      "gatilho": "Quando a frase em português corresponde a um composto de Libras onde o movimento de um dos sinais é eliminado ou modificado para se conectar ao outro.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "fim de semana -> SÁBADO^DOMINGO"
+      ],
+      "fonte_pagina": "196",
+      "fonte_citacao": "Regra da sequência única: Em compostos, o movimento interno ou a repetição do movimento é eliminada, como em (58) SÁBADO^DOMINGO (fim de semana)",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.198-200
+{
+  "rules": [
+    {
+      "titulo": "Representação de compostos sequenciais na glosa",
+      "descricao": "Compostos formados por justaposição sequencial (sinais realizados um após o outro) devem ser representados na glosa pela junção das etiquetas dos sinais constituintes, separadas pelo símbolo '^' (ex: CASA^ESTUDAR).",
+      "gatilho": "Quando a frase em português corresponde a um sinal composto nativo formado por justaposição sequencial de dois ou mais sinais.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "escola -> CASA^ESTUDAR",
+        "zebra -> CAVALO^LISTRA-PELO-CORPO",
+        "rio -> AGUA^CAMINHO",
+        "lago -> AGUA^CIRCULO",
+        "piscina -> AGUA^RETANGULO",
+        "divorcio -> ASSINAR^SEPARAR"
+      ],
+      "fonte_pagina": "199",
+      "fonte_citacao": "Dessa forma, o composto resultante da composição do núcleo (62) CASA com (63) ESTUDAR/ESTUDO, em posição de um morfema modificador do lugar, especifica o tipo de CASA a que se refere a composição, no caso, (64) CASA^ESTUDAR, que equivale a escola",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos simultâneos na glosa",
+      "descricao": "Compostos formados por justaposição simultânea (sinais realizados ao mesmo tempo) devem ser representados na glosa pela junção das etiquetas dos sinais constituintes, separadas pelo símbolo '^' (ex: PALAVRA^PALAVRA).",
+      "gatilho": "Quando a frase em português corresponde a um sinal composto nativo formado por justaposição simultânea de dois ou mais sinais.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "composição -> PALAVRA^PALAVRA"
+      ],
+      "fonte_pagina": "200",
+      "fonte_citacao": "(67) PALAVRA^PALAVRA (composição) < = > justaposição simultânea",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos com classificador na glosa",
+      "descricao": "Compostos formados pela justaposição de um classificador (CL) e um item lexical devem ser representados na glosa pela junção da etiqueta do classificador e do sinal, separadas pelo símbolo '^' (ex: CL-coisa-pequena^PERFURAR).",
+      "gatilho": "Quando a frase em português corresponde a um sinal composto que inclui um classificador como um dos constituintes.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "alfinete -> CL-coisa-pequena^PERFURAR",
+        "agulha -> CL-coisa-pequena^APLICAR-NO-BRACO",
+        "alojamento -> DORMIR^CL-pessoa+"
+      ],
+      "fonte_pagina": "200",
+      "fonte_citacao": "Justaposição de um classificador com um item le- xical. Nesse processo o classificador funciona como um clítico. São exemplos desse processo os sinais: (73) CL-coisa-pequena^PERFURAR (alfinete);",
+      "categoria": "classificadores"
+    }
+  ]
+}
+
+### p.201-205
+{
+  "rules": [
+    {
+      "titulo": "Ordem fixa em compostos verdadeiros",
+      "descricao": "A ordem dos sinais na glosa deve ser invariável. A inversão da ordem dos elementos do composto resulta em glosa agramatical.",
+      "gatilho": "Quando a frase em português corresponde a um composto 'verdadeiro' (genuíno) formado por justaposição ou aglutinação.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "igreja -> CASA^CRUZ (correto)",
+        "igreja -> *CRUZ^CASA (agramatical)"
+      ],
+      "fonte_pagina": "205",
+      "fonte_citacao": "Com supressão da repetição e ordem fixa, invariável; são aqueles que se dão por justaposição ou por aglutinação, como é o caso de (91) CASA^CRUZ (igreja) e que não pode ter sua ordem trocada como em (92) *CRUZ^CASA, porque essa alteração de ordem é agramatical",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos por aglutinação",
+      "descricao": "O composto deve ser representado na glosa pela junção dos radicais com o símbolo '^' (ex: CASA^ESTUDAR), indicando que houve supressão ou redução de elementos (como repetições) em relação aos sinais isolados.",
+      "gatilho": "Quando dois morfemas lexicais livres se unem formando um terceiro sinal com supressão ou redução de elementos (aglutinação).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "escola -> CASA^ESTUDAR",
+        "mãe -> MULHER^BEIJO-NA-MÃO",
+        "almoço -> COMER^MEIO-DIA"
+      ],
+      "fonte_pagina": "201",
+      "fonte_citacao": "Os compostos por aglutinação em Libras compreendem a utilização de mais de um sinal para a criação de um terceiro, mas há uma supressão ou redução de um ou mais elementos do composto... Retomando o caso de (78) CASA^ESTUDAR(escola)",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Representação de compostos dvandva",
+      "descricao": "Compostos que referem-se a objetos conectados pela conjunção 'e' devem ser representados na glosa pela justaposição dos sinais com o símbolo '^' (ex: PAI^MÃE).",
+      "gatilho": "Quando a expressão em português denota um conjunto de itens conectados por 'e' (composto dvandva).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "pais -> PAI^MÃE"
+      ],
+      "fonte_pagina": "205",
+      "fonte_citacao": "Pode-se dizer que, em Língua de Sinais brasileira, há também os compostos dvandva, que se referem a um ou mais objetos que podem ser conectados pela conjunção “e”. O principal exemplo que podemos dar é (90) PAI^MÃE para se referir a pais",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.206-208
+{
+  "rules": [
+    {
+      "titulo": "Ordem fixa em compostos de lugar",
+      "descricao": "Em compostos que indicam lugares, o núcleo semântico deve estar à esquerda. A ordem inversa é agramatical.",
+      "gatilho": "Formação de compostos que indicam lugares (ex: igreja).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "igreja -> CASA^CRUZ (gramatical)",
+        "igreja -> *CRUZ^CASA (agramatical)"
+      ],
+      "fonte_pagina": "206",
+      "fonte_citacao": "Quando os compostos criados indicam lugares, o núcleo se encontra à esquerda.",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Ordem variável em compostos aparentes",
+      "descricao": "Em compostos aparentes, a ordem dos elementos componentes é variável. Ambas as ordens são gramaticais.",
+      "gatilho": "Formação de compostos aparentes onde cada sinal pode ocorrer isoladamente (ex: padaria).",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "padaria -> PÃO^CASA (gramatical)",
+        "padaria -> CASA^PÃO (gramatical)"
+      ],
+      "fonte_pagina": "206",
+      "fonte_citacao": "b) Compostos aparentes: A ordem dos elementos componentes é variável. Cada sinal pode ocorrer isoladamente",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Derivação nominal por reduplicação",
+      "descricao": "Nomes derivados de verbos apresentam movimento repetido e curto, enquanto os verbos base apresentam movimento único e longo.",
+      "gatilho": "Derivação de nomes a partir de verbos.",
+      "verificavel_por_texto": false,
+      "exemplos": [],
+      "fonte_pagina": "207",
+      "fonte_citacao": "Ou seja, os nomes apresentam um movimento repetido e curto, enquanto os verbos apresentam um movimento único e longo.",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Incorporação de negação por alteração de movimento",
+      "descricao": "Na incorporação da negação, o item negado sofre alteração no parâmetro Movimento, resultando em uma estrutura fonético-fonológica diferente da base.",
+      "gatilho": "Formação de sinais com negação incorporada (ex: NÃO SABER, NÃO TER).",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "NÃO SABER",
+        "NÃO TER"
+      ],
+      "fonte_pagina": "208",
+      "fonte_citacao": "o item a ser negado sofre alteração em um dos parâmetros, especialmente o parâmetro Movimento, acarretando, assim, o aparecimento de um item de estrutura “fonético-fonológica” diferente",
+      "categoria": "negacao"
+    }
+  ]
+}
+
+### p.209-211
+{
+  "rules": []
+}
+
+### p.212-212
+{
+  "rules": []
+}
+
+### p.213-217
+{
+  "rules": [
+    {
+      "titulo": "Concordância verbal regular (sujeito-início, objeto-fim)",
+      "descricao": "Para verbos de concordância dupla regular, a glosa deve indicar que o ponto inicial do movimento do verbo coincide com a localização do sujeito e o ponto final coincide com a localização do objeto. A glosa deve refletir essa ordem (ex: 1ªpessoaVER2ªpessoa).",
+      "gatilho": "O verbo é classificado como de concordância dupla regular (ex: VER, ENSINAR, AJUDAR) e possui movimento de trajetória direcional.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Eu vejo você. -> 1ªpessoaVER2ªpessoa",
+        "Você me vê. -> 2ªpessoaVER1ªpessoa",
+        "Ensino ele. -> 1ªpessoaENSINAR3ªpessoa",
+        "Ele me ensina. -> 3ªpessoaENSINAR1ªpessoa"
+      ],
+      "fonte_pagina": "215",
+      "fonte_citacao": "A grande maioria desses verbos possui o ponto inicial do movimento concordando com a localização do sujeito, enquanto que o ponto final do movimento concorda com a localização do objeto.",
+      "categoria": "verbos"
+    },
+    {
+      "titulo": "Concordância verbal reversa (objeto-início, sujeito-fim)",
+      "descricao": "Para verbos de concordância dupla reversa, a glosa deve indicar que o ponto inicial do movimento do verbo coincide com a localização do objeto e o ponto final coincide com a localização do sujeito. A glosa deve refletir essa ordem invertida em relação à regular (ex: 1ªpessoaCONVIDAR2ªpessoa).",
+      "gatilho": "O verbo é classificado como de concordância dupla reversa (ex: CONVIDAR, PERCEBER, CHAMAR).",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "Eu convido você. -> 1ªpessoaCONVIDAR2ªpessoa",
+        "Você me convida. -> 2ªpessoaCONVIDAR1ªpessoa",
+        "PERCEBER ELE -> Sinal PERCEBER da1ª pessoa para 3ª pessoa"
+      ],
+      "fonte_pagina": "216",
+      "fonte_citacao": "o ponto inicial do movimento concorda com o objeto da sentença; já o ponto final do movimento concorda com a localização do sujeito da sentença. A esses verbos chamamos de verbos de concordância dupla reversa.",
+      "categoria": "verbos"
+    }
+  ]
+}
+
+### p.218-222
+{
+  "rules": [
+    {
+      "titulo": "Verbos ancorados ao corpo não flexionam",
+      "descricao": "Verbos ancorados ao corpo do sinalizante não apresentam concordância verbal em sua morfologia, pois não podem ter sua localização alterada.",
+      "gatilho": "O verbo é ancorado ao corpo do sinalizante (ex: APRENDER, TER).",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "APRENDER",
+        "TER"
+      ],
+      "fonte_pagina": "219",
+      "fonte_citacao": "Já os verbos ancorados ao corpo do sinalizante não podem ter sua localização alterada e, portanto, não apresentam concordância verbal em sua morfologia.",
+      "categoria": "verbos"
+    },
+    {
+      "titulo": "Reciprocidade em verbos unimanuais por cópia de mão",
+      "descricao": "Para marcar reciprocidade em verbos unimanuais, a segunda mão (M2) copia as especificações fonológicas da primeira mão (M1), resultando em um sinal bimanual.",
+      "gatilho": "O verbo é unimanual e a construção expressa reciprocidade.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "FALAR-ORAL (unimanual) -> DUAS-PESSOAS-FALAM (bimanual com cópia)"
+      ],
+      "fonte_pagina": "222",
+      "fonte_citacao": "a marcação de reciprocidade se dá através do processo de cópia da segunda mão. Assim, o sinal passa a ser produzido com as duas mãos, sendo que a M2 copia as especificações fonológicas da M1.",
+      "categoria": "morfologia"
+    },
+    {
+      "titulo": "Reciprocidade com conversão de movimento",
+      "descricao": "Em verbos unimanuais com movimento direcional, a reciprocidade é marcada pela cópia da M2 e pela conversão do movimento, onde M1 vai de A para B e M2 vai de B para A.",
+      "gatilho": "O verbo é unimanual, possui movimento de trajetória direcional e a construção expressa reciprocidade.",
+      "verificavel_por_texto": false,
+      "exemplos": [
+        "AVISAR",
+        "DAR"
+      ],
+      "fonte_pagina": "222",
+      "fonte_citacao": "além da cópia da M2, há também a conversão do movimento do verbo. ... a M1 move-se de um ponto A para um ponto B, enquanto que a M2 apresenta um movimento convertido que vai do ponto B para o ponto A.",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.223-224
+{
+  "rules": [
+    {
+      "titulo": "Omissão de marcador de reciprocidade em verbos ancorados ao corpo",
+      "descricao": "A glosa não deve conter marcador de reciprocidade (como sufixo ou anotação de movimento reduplicado) para verbos ancorados ao corpo, pois a reciprocidade é expressa por estratégias bi-oracionais (invisíveis na glosa linear).",
+      "gatilho": "O verbo é ancorado ao corpo e a frase expressa reciprocidade.",
+      "verificavel_por_texto": true,
+      "exemplos": [],
+      "fonte_pagina": "224",
+      "fonte_citacao": "Para verbos ancorados ao corpo, a Libras utiliza-se principalmente de estratégias bi-oracionais.",
+      "categoria": "verbos"
+    }
+  ]
+}
+
+### p.225-227
+{
+  "rules": [
+    {
+      "titulo": "Pluralidade verbal codificada por movimento",
+      "descricao": "A pluralidade verbal é codificada por alterações no movimento do verbo. A glosa, por si só, não carrega informações sobre a direção, trajetória ou repetição do movimento, portanto, a distinção entre as formas de pluralidade (participantes, lugares, tempo) não é verificável apenas pela sequência de etiquetas.",
+      "gatilho": "Quando a frase em português expressa pluralidade de eventos (seja por múltiplos participantes, múltiplos lugares ou repetição temporal).",
+      "verificavel_por_texto": false,
+      "exemplos": [],
+      "fonte_pagina": "225",
+      "fonte_citacao": "É importante destacar que todos esses tipos de pluralidade verbal são codificados a partir da alteração do movimento do verbo.",
+      "categoria": "morfologia"
+    }
+  ]
+}
+
+### p.228-231
+{
+  "rules": [
+    {
+      "titulo": "Representação de verbos com concordância reversa",
+      "descricao": "A glosa deve conter o pronome oblíquo (ex: ME) prefixado ao verbo (ex: ME-CHAMAR) para indicar que o verbo é do tipo reverso, onde a direção do movimento não segue o padrão sujeito-objeto.",
+      "gatilho": "Quando o verbo em Libras é classificado como 'reverso' (ex: CHAMAR, BUSCAR, ESCOLHER) e o objeto é marcado por um pronome oblíquo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ME-CHAMAR"
+      ],
+      "fonte_pagina": "231",
+      "fonte_citacao": "Figura 4 - Verbo normal e reverso retirados do mesmo pronome oblíquo - ME - pelo corpus ... (148) ME-CHAMAR",
+      "categoria": "verbos"
+    },
+    {
+      "titulo": "Representação de verbos com concordância normal",
+      "descricao": "A glosa deve conter o pronome oblíquo (ex: ME) prefixado ao verbo (ex: ME-VER) para indicar que o verbo é do tipo normal, seguindo a direção padrão do movimento.",
+      "gatilho": "Quando o verbo em Libras é classificado como 'normal' (ex: VER, RESPONDER, MOSTRAR) e o objeto é marcado por um pronome oblíquo.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "ME-VER"
+      ],
+      "fonte_pagina": "231",
+      "fonte_citacao": "Figura 4 - Verbo normal e reverso retirados do mesmo pronome oblíquo - ME - pelo corpus ... (147) ME-VER",
+      "categoria": "verbos"
+    }
+  ]
+}
+
+### p.337-338
+{
+  "rules": []
+}
+
+### p.339-340
+{
+  "rules": []
+}
+
+### p.341-345
+{
+  "rules": []
+}
+
+### p.346-348
+{
+  "rules": []
+}
+
+### p.349-353
+{
+  "rules": []
+}
+
+### p.354-359
+{
+  "rules": []
+}
+
+### p.360-361
+{
+  "rules": []
+}
+
+### p.362-362
+{
+  "rules": []
+}
+
+### p.363-365
+{
+  "rules": []
+}
+
+### p.366-367
+{
+  "rules": []
+}
+
+### p.368-371
+{
+  "rules": []
+}
+
+### p.372-375
+{
+  "rules": [
+    {
+      "titulo": "Concordância verbal em expressões idiomáticas",
+      "descricao": "A glosa da expressão idiomática deve conter marcadores de concordância (numerais ou referentes) que indiquem a direção da ação (sujeito-objeto ou objeto-sujeito), refletindo a concordância verbal da oração.",
+      "gatilho": "Quando a frase contém uma expressão idiomática que apresenta concordância verbal com o sujeito ou objeto.",
+      "verificavel_por_texto": true,
+      "exemplos": [
+        "Eu pego no pé del@ -> 1-3PEGAR-NO-PÉ",
+        "Pegou no meu pé! -> 2-1PEGAR-NO-PÉ",
+        "…Me ofendeu! -> 2-DIZER-ALGO-PARA-1",
+        "Vou dizer uma palavra só! -> 1-DIZER-ALGO-PARA-2",
+        "Expulsei el@. -> 1-EXPULSAR-2",
+        "Fui expulso. -> 2-EXPULSAR-1"
+      ],
+      "fonte_pagina": "373",
+      "fonte_citacao": "Do ponto de vista sintático, as expressões idiomáticas também podem concordar com o sujeito da oração. Existem, assim, expressões idiomáticas sinalizadas que apresentam concordância verbal.",
+      "categoria": "verbos"
+    }
+  ]
+}
+
+### p.376-377
+{
+  "rules": []
+}

@@ -1,0 +1,43 @@
+n,arquivo,topico,nivel_outline,pagina_ini,pagina_fim,n_paginas,n_topicos,parte,tokens,topicos_todos,incluir,motivo_exclusao
+1,001_8-1-articulacao-de-oracoes.txt,8.1 Articulação de Orações,0,96,100,5,2,,1737,8.1 Articulação de Orações | 8.2 Recursividade na Libras,1,
+2,002_8-3-tipos-de-articulacao-de-oracoes.txt,8.3 TIPOS DE ARTICULAÇÃO DE ORAÇÕES,0,101,103,3,1,1/2,1870,8.3 TIPOS DE ARTICULAÇÃO DE ORAÇÕES,1,
+3,003_8-3-tipos-de-articulacao-de-oracoes.txt,8.3 TIPOS DE ARTICULAÇÃO DE ORAÇÕES,0,104,106,3,1,2/2,1671,8.3 TIPOS DE ARTICULAÇÃO DE ORAÇÕES,1,
+4,004_8-3-1-tipos-de-parataxe-coordenacao.txt,8.3.1 Tipos de Parataxe/Coordenação,1,107,107,1,1,,649,8.3.1 Tipos de Parataxe/Coordenação,1,
+5,005_8-3-1-tipos-de-parataxe-coordenacao.txt,8.3.1 Tipos de Parataxe/Coordenação,-1,108,110,3,1,1/3,1485,8.3.1 Tipos de Parataxe/Coordenação,1,
+6,006_8-3-1-tipos-de-parataxe-coordenacao.txt,8.3.1 Tipos de Parataxe/Coordenação,-1,111,114,4,1,2/3,1635,8.3.1 Tipos de Parataxe/Coordenação,1,
+7,007_8-3-1-tipos-de-parataxe-coordenacao.txt,8.3.1 Tipos de Parataxe/Coordenação,-1,115,115,1,1,3/3,614,8.3.1 Tipos de Parataxe/Coordenação,1,
+8,008_8-4-conjuntivas.txt,8.4 CONJUNTIVAS,0,116,116,1,1,,368,8.4 CONJUNTIVAS,1,
+9,009_8-4-conjuntivas.txt,8.4 CONJUNTIVAS,-1,117,122,6,1,1/2,1721,8.4 CONJUNTIVAS,1,
+10,010_8-4-conjuntivas.txt,8.4 CONJUNTIVAS,-1,123,127,5,1,2/2,1893,8.4 CONJUNTIVAS,1,
+11,011_8-4-1-conjuntivas-sem-marcacao-manual-com-ma.txt,"8.4.1 Conjuntivas sem marcação manual, com marcações não manuais",1,128,133,6,1,,1905,"8.4.1 Conjuntivas sem marcação manual, com marcações não manuais",0,Título foca explicitamente em marcações não manuais.
+12,012_8-5-adversativas.txt,8.5 ADVERSATIVAS,0,134,140,7,1,1/2,1843,8.5 ADVERSATIVAS,1,
+13,013_8-5-adversativas.txt,8.5 ADVERSATIVAS,0,141,147,7,1,2/2,1995,8.5 ADVERSATIVAS,1,
+14,014_8-5-1-adversativas-sem-marcacao-manual-com-m.txt,"8.5.1 Adversativas sem marcação manual, com marcações não manuais",1,148,150,3,1,,1494,"8.5.1 Adversativas sem marcação manual, com marcações não manuais",0,Título foca explicitamente em marcações não manuais.
+15,015_8-6-disjuntivas.txt,8.6 DISJUNTIVAS,0,151,154,4,2,,1859,"8.6 DISJUNTIVAS | 8.6.1 Disjuntivas sem marcação manual, com marcações não manuais",1,
+16,016_8-7-hipotaxe.txt,8.7 HIPOTAXE,0,155,157,3,1,1/2,1854,8.7 HIPOTAXE,1,
+17,017_8-7-hipotaxe.txt,8.7 HIPOTAXE,0,158,160,3,1,2/2,1228,8.7 HIPOTAXE,1,
+18,018_8-8-explicativas.txt,8.8 EXPLICATIVAS,0,161,164,4,1,1/3,1662,8.8 EXPLICATIVAS,1,
+19,019_8-8-explicativas.txt,8.8 EXPLICATIVAS,0,165,168,4,1,2/3,1881,8.8 EXPLICATIVAS,1,
+20,020_8-8-explicativas.txt,8.8 EXPLICATIVAS,0,169,172,4,1,3/3,1810,8.8 EXPLICATIVAS,1,
+21,021_8-9-causais.txt,8.9 CAUSAIS,0,173,177,5,2,,1645,8.9 CAUSAIS | 8.9.2 Orações causais nas Línguas de Sinais,1,
+22,022_8-9-4-marcadores-nao-manuais-nas-oracoes-cau.txt,8.9.4 Marcadores não manuais nas orações causais em Libras,-1,178,178,1,1,,432,8.9.4 Marcadores não manuais nas orações causais em Libras,0,Título claramente sobre marcadores não manuais.
+23,023_8-9-4-marcadores-nao-manuais-nas-oracoes-cau.txt,8.9.4 Marcadores não manuais nas orações causais em Libras,1,179,183,5,1,1/2,1808,8.9.4 Marcadores não manuais nas orações causais em Libras,0,Título claramente sobre marcadores não manuais.
+24,024_8-9-4-marcadores-nao-manuais-nas-oracoes-cau.txt,8.9.4 Marcadores não manuais nas orações causais em Libras,1,184,187,4,1,2/2,1462,8.9.4 Marcadores não manuais nas orações causais em Libras,0,Título claramente sobre marcadores não manuais.
+25,025_8-10-comparativas.txt,8.10 COMPARATIVAS,0,188,192,5,1,1/2,1970,8.10 COMPARATIVAS,1,
+26,026_8-10-comparativas.txt,8.10 COMPARATIVAS,0,193,195,3,1,2/2,1243,8.10 COMPARATIVAS,1,
+27,027_8-11-condicionais.txt,8.11 CONDICIONAIS,0,196,197,2,1,,1641,8.11 CONDICIONAIS,1,
+28,028_8-11-2-oracoes-condicionais-nas-linguas-de-s.txt,8.11.2 Orações condicionais nas Línguas de Sinais,1,198,203,6,4,,1911,8.11.2 Orações condicionais nas Línguas de Sinais | 8.11.3 Orações condicionais na Libras | 8.11.5 Marcadores não manuais | 8.11.5 Marcadores não manuais,1,
+29,029_8-11-7-mouthing.txt,8.11.7 Mouthing,-1,204,210,7,5,,1530,8.11.7 Mouthing | 8.11.7 Mouthing | 8.11.8 Inclinação da cabeça | 8.11.8 Inclinação da cabeça | 8.11.9 Ordem,1,
+30,030_8-11-9-ordem.txt,8.11.9 Ordem,1,211,215,5,3,,1675,8.11.9 Ordem | 8.11.10 Subtipos semânticos | 8.12 FINAIS (OU DE FINALIDADE),1,
+31,031_8-12-finais-ou-de-finalidade.txt,8.12 FINAIS (OU DE FINALIDADE),0,216,219,4,2,,1741,8.12 FINAIS (OU DE FINALIDADE) | 8.13 TEMPORAIS,1,
+32,032_8-13-temporais.txt,8.13 TEMPORAIS,0,220,224,5,1,1/3,1836,8.13 TEMPORAIS,1,
+33,033_8-13-temporais.txt,8.13 TEMPORAIS,0,225,228,4,1,2/3,1910,8.13 TEMPORAIS,1,
+34,034_8-13-temporais.txt,8.13 TEMPORAIS,0,229,229,1,1,3/3,739,8.13 TEMPORAIS,1,
+35,035_8-14-oracoes-encaixadas.txt,8.14 ORAÇÕES ENCAIXADAS,0,230,230,1,1,,266,8.14 ORAÇÕES ENCAIXADAS,1,
+36,036_8-14-1-encaixadas-substantivas-8-14-1-1-enca.txt,8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva,1,231,234,4,1,1/3,1653,8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva,1,
+37,037_8-14-1-encaixadas-substantivas-8-14-1-1-enca.txt,8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva,1,235,239,5,1,2/3,1793,8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva,1,
+38,038_8-14-1-encaixadas-substantivas-8-14-1-1-enca.txt,8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva,1,240,240,1,1,3/3,406,8.14.1 Encaixadas substantivas 8.14.1.1 Encaixada substantiva subjetiva,1,
+39,039_8-15-1-5-encaixada-substantiva-objetiva-nao-.txt,8.15.1.5 Encaixada substantiva objetiva não manual,-1,241,244,4,1,1/2,1817,8.15.1.5 Encaixada substantiva objetiva não manual,0,Título indica explicitamente que o conteúdo é não manual.
+40,040_8-15-1-5-encaixada-substantiva-objetiva-nao-.txt,8.15.1.5 Encaixada substantiva objetiva não manual,-1,245,246,2,1,2/2,1229,8.15.1.5 Encaixada substantiva objetiva não manual,0,Título indica explicitamente que o conteúdo é não manual.
+41,041_8-14-2-encaixadas-relativas-restritivas.txt,8.14.2 Encaixadas relativas restritivas,1,247,252,6,1,1/2,1878,8.14.2 Encaixadas relativas restritivas,1,
+42,042_8-14-2-encaixadas-relativas-restritivas.txt,8.14.2 Encaixadas relativas restritivas,1,253,255,3,1,2/2,902,8.14.2 Encaixadas relativas restritivas,1,

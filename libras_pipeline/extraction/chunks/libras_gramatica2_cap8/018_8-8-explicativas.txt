@@ -1,0 +1,109 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.8 EXPLICATIVAS ===
+=== TRECHO: páginas 161-164 (parte 1 de 3 do mesmo tópico) ===
+
+[p.161]
+162
+Os Tipos de orações hipotáticas tratadas nesta gramática são:
+- Adjetivas explicativas
+- Adverbiais
+- Causais
+- Comparativas
+- Condicionais
+- Finais (ou de finalidade)
+- Temporais
+Foram analisadas orações hipotáticas dentre as 855 unidades oracionais com-
+plexas entre 12 participantes do grupo de Surdos de Referência, conforme tabela 01:
+Quadro 05:  Síntese da distribuição quantitativa das UOC hipotáticas analisadas por participante.
+Tabela 01: Síntese das orações hipotáticas identificadas nos dados.
+8.8 ADJETIVAS EXPLICATIVAS
+As orações adjetivas explicativas, assim como as orações adverbiais, são 
+aquelas que se articulam a uma oração nuclear atendendo à organização do discurso 
+e não à estrutura argumental da oração matriz. Por isso, são uma opção do falante 
+e possuem uma dependência relativa. Enquanto orações não completivas, estão 
+articuladas a uma oração primária a nível de hipotaxe.
+
+[p.162]
+163
+De maneira mais específica, uma oração adjetiva explicativa funciona como 
+uma paráfrase de uma oração nuclear e traz um reforço de informação, um tipo de 
+exemplificação, atuando como um aposto. De acordo com Decat (2001), a oração 
+adjetiva explicativa acrescenta uma informação em relação à oração antecedente 
+que, por sua vez, está delimitada de maneira independente. Nesse caso, essa infor-
+mação é suplementar, o que a torna uma oração não restritiva por não servir para 
+identificar, de maneira especial, nenhum elemento de um conjunto.
+A informação veiculada à oração adjetiva explicativa (ou não restritiva) é 
+adicional e mantém a função semântica de explicação, constituindo um comen -
+tário acerca da proposição presente na oração nuclear. É nesse sentido que elas 
+podem ser consideradas como unidades de informação à parte, pois servem para 
+fornecer explicações a mais para determinada ideia veiculada, cuja presença indica 
+a necessidade de maiores detalhamentos sobre o que foi dito (DECAT, 2001).
+Mais uma vez, essas sentenças se distinguem das orações relativas restriti-
+vas, considerando que realçam o sentido de um sintagma, complementando infor-
+mações e tornando-o mais detalhado. Por isso, as sentenças hipotáticas adjetivas 
+explicativas são também chamadas de apositivas, pois desempenham a função de 
+aposto na sentença. Por outro lado, as sentenças adjetivas restritivas especificam 
+um referente num contexto discursivo em que há outros referentes possíveis. Para 
+Cecchetto et al. (2017, p. 447), muitas vezes, a distinção entre sentenças adjetivas 
+restritivas e explicativas é semântica: as orações relativas restritivas “delimitam 
+um conjunto de possíveis entidades às quais pode se referir o nome modificado 
+pela oração relativa”; por outro lado, as orações adjetivas explicativas “destacam 
+informações complementares sobre o núcleo modificado”. 
+Em relação às orações hipotáticas adjetivas explicativas na Língua de Sinais 
+Brasileira, identificamos que, entre as possibilidades de articulação, parece haver 
+uma descontinuidade do padrão prosódico corporal entre uma oração nuclear e 
+uma oração adjetiva explicativa. 
+A sentença (33), a seguir, é uma unidade oracional complexa composta 
+por orações que estão articuladas a nível de parataxe e a nível de hipotaxe. Nesse 
+segundo caso, a oração dependente se configura como uma hipotática adjetiva 
+explicativa. Na sentença, a oração dependente retoma a proposição estabelecida 
+na oração matriz, trazendo mais informações sobre o significado codificado ante-
+riormente, só que de maneira mais detalhada.
+
+[p.163]
+164
+(34) Hipotaxe adjetiva explicativa marcada por mudança no padrão prosódico 
+(incorporação do referente).
+       ESCOLA        PRIMEIRO   ADQUIRIR           MAS            IDADE               IGUAL               SURDO
+   IDOSO                  1VER2       2PROVOCAR1       IX (eu) BOBO        2PROVOCAR1      
+ ODIAR   2PROVOCAR1    ODIAR   SUCESSO    LÍNGUA-DE-SINAIS
+ESCOLA PRIMEIRO ADQUIRIR MAS IDADE 
+IGUAL SURDO IDOSO VER+ PROVOCAR 
+IX (eu) BOBO PROVOCAR ODIAR 
+PROVOCAR ODIAR SUCESSO LÍNGUA-DE-
+SINAIS
+A escola foi o primeiro lugar onde adquiri 
+(a Língua de Sinais), mas (eu) estava em pé 
+de igualdade com os surdos mais velhos: 
+eu olhava [os surdos mais velhos] e 
+me provocavam, eu era ingênuo, me 
+provocam e ficava irado, e me tornei fluente 
+em Língua de Sinais.  
+https://youtu.be/9CbaQwgw-cU
+
+[p.164]
+165
+Como a proposta dessa seção é enfatizar a estratégia articulatória da oração 
+adjetiva explicativa, dividimos essa unidade oracional complexa em três partes. A 
+primeira parte da unidade oracional complexa corresponde ao trecho ESCOLA PRI-
+MEIRO ADQUIRIR MAS IDADE IGUAL SURDO IDOSO (A escola foi o primeiro  
+lugar onde adquiri (a Língua de Sinais), mas (eu) estava em pé de igualdade com 
+os surdos mais velhos) e é composta por duas orações articuladas a nível de para-
+taxe do tipo adversativa. Há uma conjunção manual que une essas duas orações, 
+conforme pode ser observado no trecho a seguir. 
+Unidade oracional complexa 1
+   ESCOLA    PRIMEIRO       ADQUIRIR      MAS      IDADE              IGUAL         SURDO
+IDOSO
+ A escola foi o primeiro lugar onde adquiri [a Língua de Sinais], mas (eu) estava em pé de igualdade 
+com os surdos mais velhos [...].
+Conforme mencionado, a primeira parte da unidade oracional complexa é 
+formada por duas orações que estão articuladas a nível de parataxe do tipo adver-
+sativa, por meio da conjunção manual ‘MAS’. Essa primeira parte é considerada, 
+ainda, um complexo oracional matriz de que um segundo complexo oracional 
+emerge e que se articula com a primeira parte a nível de hipotaxe do tipo adjetiva 
+explicativa. Observa-se que, a segunda parte, por sua vez, é composta por orações 
+articuladas a nível de parataxe aditiva e que, como um todo, formam uma unidade 
+oracional articulada com a primeira parte. A segunda parte, que corresponde ao 
+trecho VER+ PROVOCAR IX(eu) BOBO PROVOCAR ODIAR PROVOCAR ODIAR 
+(eu olhava [os surdos mais velhos] e me provocavam, eu era ingênuo, me pro -
+vocam e ficava irado), então, é dependente e pode ser considerado um adendo,

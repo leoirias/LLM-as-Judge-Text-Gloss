@@ -1,0 +1,162 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.5 ADVERSATIVAS ===
+=== TRECHO: páginas 141-147 (parte 2 de 2 do mesmo tópico) ===
+
+[p.141]
+142
+    (19) 
+ 
+IX (eu) 1PERGUNTAR3 PROFESSOR, 3EXPLICAR1        IX (eu) 1VER3
+        
+IX (eu) ENTENDER NÃO                     ENTENDER NÃO          IX (ele) PALM-UP
+IX (eu) 1PERGUNTAR3 PROFESSOR3, EXPLI-
+CAR3 IX  (eu) 1VER3, IX (eu) ENTENDER NÃO, 
+ENTENDER NÃO, IX (ele) PALM-UP
+Eu perguntava ao professor e ele explicava,  
+mas eu não entendia de jeito nenhum e ele  
+não sabia o que fazer.
+Em (20), por sua vez, o sinalizante, numa discussão sobre escola inclusiva, 
+afirma que a presença de intérpretes é boa, o que habilita uma conclusão de que 
+ele é a favor de escola inclusiva. Essa pressuposição, todavia, é cancelada, pois na 
+segunda sentença, ele afirma que intérpretes são bons em auditórios (mas não 
+nas escolas).
+https://youtu.be/B5h7fEy6wFo
+
+[p.142]
+143
+    (20)  
+        
+               SE                       INTÉRPRETE                   AJUDAR                    BOM
+    
+MAS                        AUDITÓRIO                    IMPORTANTE
+SE INTÉRPRETE AJUDAR BOM MAS 
+AUDITÓRIO IMPORTANTE
+‘(Nas escolas) se tem intérprete ajuda, é bom, mas 
+é mais importante em auditório.’
+Fonte: (RODRIGUES, 2022).
+Já o valor de retificação associado às orações adversativas pode ser verificado em 
+sentenças como (21), em que, segundo Rodrigues (2022), “na primeira parte da 
+sentença figura a informação de que alguns surdos gostam de música, informação 
+que é retificada na segunda oração introduzida por ‘MAS’ (MAS2), em que é ex -
+plicitado que os surdos gostam de música adaptadas”:
+                    
+(21) TER PESSOA SURD@ GOSTAR INDEX3 MÚSICA3 S-I-M MAS2 ADAPTAÇÃO
+‘Há surdos que gostam de música, mas quando existe uma adaptação.’ 
+A seguir, apresentamos os marcadores identificados em nosso corpus como 
+‘MAS1’, ‘MAS 2’ (com uma e duas mãos), ‘PALM-UP’ e ‘MAS-NÃO-É’, na figura 16.
+Vamos apresentar um exemplo de cada uma dessas instâncias. As ocorrências 
+de ‘PALM-UP’ nesses exemplos analisados do corpus apresentam função adver -
+https://tinyurl.com/58pcrrnk
+
+[p.143]
+144
+sativa. ‘PALM-UP’ é um gesto que aparece com diferentes funções gramaticais, 
+como já identificado no caso de parataxe conjuntiva anteriormente. Nos casos de 
+adversativas, sempre há uma associação com marcações não manual que indicam 
+a oposição ou a restrição.
+ O último caso de marcação adversativa incorpora a negação. Na figura 16, 
+‘MAS-NÃO-É’ é um marcador manual tipo ‘MAS’ incorporando a negação com o 
+movimento de negação na própria mão para direita e esquerda intermitente.
+ 
+Figura 16-21: Marcações manuais adversativas.
+MAS1
+ 
+MAS2
+ 
+PALM-UP 
+ MAS-NÃO-É
+ 
+ Figura 22
+(22) Parataxe adversativa ‘MAS’.
+IX (eu)             SOFRER                   JÁ              PROCESSO         MAS1
+
+[p.144]
+145
+ 
+      IX (eu) ADQUIRIR             FORTE      IX (eu)       FORÇA
+IX (eu) SOFRER JÁ PROCESSO MAS IX (eu)  
+ADQUIRIR FORTE IX (eu) FORÇA
+Eu sofri muito, mas isso me tornou  
+poderosa e forte.
+ 
+Nesse exemplo, a segunda oração apresenta uma oposição à primeira que 
+informa sobre o sofrimento da Priscila: IX (eu) SOFRER JÁ PROCESSO, a oposição 
+é que em contrapartida ao sofrimento, ela se tornou poderosa e forte, introduzida 
+pelo sinal MAS1: MAS1 IX (eu) ADQUIRIR FORTE IX (eu) FORÇA.
+ 
+(23) Parataxe adversativa ‘MAS2’.
+          
+    INTERAGIR        CRESCER               MAS2                    AQUI                  IX (eu) ESTUDAR
+https://youtu.be/ju9PUz7FYzQ
+
+[p.145]
+146
+       
+FIEL              IX (aquele) NÃO 
+INTERAGIR CRESCER MAS2 IX (aquele) IX (eu) 
+ESTUDAR FIEL IX (aquele) NÃO
+Fui interagindo e crescendo, mas eu não estudei  
+apenas aqui não.
+Nesse exemplo, Ana Regina apresenta uma restrição ao fato de ter estudado 
+em um determinado lugar onde interagia com vários colegas, INTERAGIR+ CRES-
+CER+. A restrição informa que não estudou apenas nesta escola: MAS2 AQUI IX 
+(eu) ESTUDAR FIEL AQUI NÃO. É uma marca manual adversativa, apresentando 
+uma restrição ao que foi dito anteriormente formando uma construção paratática.
+ 
+Os exemplos associados ao sinal MAS2 aparecem com uma ou duas mãos. 
+O uso de duas mãos parece dar mais ênfase ao contraste dado à construção ad -
+versativa.
+(24) Parataxe adversativa PALM-UP.
+   É PALM-UP     PROBLEMA   IX (essa) MÃE          PENSAR        CULPAR
+https://youtu.be/WtOFbjnJYTM
+
+[p.146]
+147
+   
+  
+    IX (ela) NÃO
+E (então) PROBLEMA PALM-UP IX (essa) MÃE 
+PENSAR CULPAR IX (mãe) NÃO
+E aí esse problema, mas a mãe não teve culpa não.
+Nesse exemplo, o sinal ‘PALM-UP’ é produzido marcando a adversativa 
+oposicional. A primeira oração anuncia o problema: E (então) PROBLEMA e o 
+sinal ‘PALM-UP’, uma produção gestual com significados dependente do discurso, 
+apresenta a função adversativa anunciando que a mãe não tinha culpa do problema: 
+‘PALM-UP IX’ (essa) MÃE PENSAR CULPAR IX (mãe) NÃO. A produção ‘PALM-
+-UP’ apresenta a característica de se moldar a cada contexto com função relacional. 
+Nesse caso, está marcando a fronteira entre as duas orações. Assim como observado 
+em todos os exemplos, a marcação não manual associada às orações adversativas 
+está marcada nesta unidade oracional complexa. Essa marcação não manual ad -
+versativa normalmente está marcada por uma expressão facial que contrasta com 
+a anterior e com o movimento da cabeça para trás.
+ 
+https://youtu.be/jy74KOHDZEw
+
+[p.147]
+148
+(25) Parataxe adversativa MAS-NÃO-É.
+IX (eu) TER              INTERAGIR     MAS-NÃO-É        EXEMPLO           NÃO 
+TAMBÉM          OBRIGAR        PARECER              CERTO             FORMAL
+IX (eu) TER INTERAGIR MAS-NÃO-É  
+EXEMPLO NÃO TAMBÉM OBRIGAR PARECER 
+CERTO FORMAL
+Sim, eu tenho interações na Língua de Sinais, mas 
+por exemplo não é uma Língua de Sinais que segue 
+obrigatoriamente um registro formal.
+Rimar está falando sobre as interações que teve em Libras ao longo da sua vida. Ele 
+conta que interagia na Língua de Sinais neste determinado contexto expresso na primeira 
+oração, IX (eu) TER INTERAGIR e, então introduz um contraponto por meio do sinal 
+MAS-NÃO-É que é o sinal MAS2 incorporando a negação com o movimento intermitente 
+para a direita e para esquerda que é encontrado no sinal NÃO, para dizer que não era uma 
+interação formal, séria, precisa. Aqui está expressa uma adversativa marcada manualmente. 
+A oposição também está estabelecida pelo movimento afirmativo da cabeça associado a 
+primeira oração e o movimento negativo da cabeça estabelecendo uma oposição ao pro-
+duzir o sinal MAS-NÃO-É.
+Após fazermos análises dos casos de adversativas, encontramos também 
+algumas unidades oracionais complexas com os sinais que são tipicamente en -
+contrados em adversativas, mas com usos que podem ser analisados com uma 
+interpretação semântica diferenciada indicando, por exemplo, uma relação com-
+plementar que pode ser analisada como uma parataxe conjuntiva. Por exemplo, a 
+seguir há uma ocorrência de coordenação entre duas orações marcadas pelo sinal 
+MAS1, típico marcador paratático, mas sem função restritiva ou oposicional:
+https://youtu.be/Cj2CqCBl1Ko

@@ -1,0 +1,74 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.15.1.5 Encaixada substantiva objetiva não manual ===
+=== TRECHO: páginas 245-246 (parte 2 de 2 do mesmo tópico) ===
+
+[p.245]
+246
+IX (eu) MÃE FAMÍLIA COMBINAR, ela mantém a cabeça, o olhar e o tronco à 
+direita. Na oração encaixada, MUDAR PORTO ALEGRE, ela muda as marcações 
+não manuais, ajustando o tronco e a cabeça para o centro e olhando diretamente 
+para sua interlocutora. Essa alteração na prosódia da sentença complexa marca a 
+distinção entre a oração principal e a encaixada.
+(101) Substantiva objetiva não manual com justaposição.
+ 
+       E(positivo)   GOSTAR   CONHECER
+E(positivo) GOSTAR [CONHECER]
+Prazer em conhecê-la.
+A construção (101) é constituída por dois verbos que desempenham a função 
+de núcleo do predicado e objeto. O primeiro verbo GOSTAR representa a oração 
+principal e exige dois argumentos: sujeito e objeto. Nesse caso, o sujeito é oculto, 
+IX (eu). Como objeto direto, o verbo GOSTAR seleciona outro verbo, CONHECER, 
+que constitui a sentença encaixada substantiva objetiva. Essa oração desempenha 
+a função sintática de objeto direto e está intimamente ligada à oração principal. 
+As duas sentenças são articuladas pela justaposição e pela marcação não 
+manual, sendo que não há um conectivo que articule as duas orações. Há uma 
+alteração nas expressões faciais, especialmente nas sobrancelhas, durante as duas 
+sentenças. Sobre a oração principal GOSTAR, as sobrancelhas estão levantadas, 
+ao passo que na sentença encaixada, CONHECER, elas estão franzidas. Essa mu-
+dança no padrão prosódico da sentença marca a distinção entre as duas sentenças 
+e contribui para a sua articulação.
+8.14.2 Encaixadas relativas restritivas
+As orações encaixadas relativas funcionam como modificador, uma espécie 
+de adjetivo da oração principal. Uma língua pode individualizar (modificar) um 
+referente utilizando diversas estratégias, que podem ser: (i) o uso de adjetivo (um 
+https://youtu.be/TciBOWL0KGw
+
+[p.246]
+247
+único lexema); (ii) uma locução adjetiva, ou ainda; (iii) uma oração. Nesse caso, 
+toda uma sentença passa a ser o predicador (adjetivo). Dessa forma, uma oração 
+relativa restritiva funciona como um adjetivo.
+Conforme discutido por Cecchetto et al. (2017, p. 442), as orações relativas 
+se configuram como sentenças cuja principal propriedade é a modificação de um 
+substantivo, sempre que desempenha a função de núcleo do sintagma nominal. 
+As sentenças relativas restritivas têm a função de especificar o núcleo de um sin-
+tagma nominal dentro de um universo de outros referentes possíveis no discurso, 
+individualizando esse referente. Por isso, trata-se de uma sentença indispensável 
+no enunciado, visto que o sentido global da oração depende dessa individuação 
+proporcionada pela sentença relativa restritiva. 
+As línguas, em geral, apresentam processos de constituição das orações re-
+lativas de forma peculiar, utilizando marcações não manuais e, em alguns casos, 
+algum conectivo que indicie essa relação entre as sentenças. Cecchetto et al. (2017, 
+p. 442) argumentam que algumas Línguas de Sinais não apresentam, nas orações 
+relativas, um item lexical (sinal manual) que as identifique. Em contrapartida, utili-
+zam expressões não manuais específicas. Consequentemente, identificar as orações 
+relativas em uma Língua de Sinais pode ser uma tarefa desafiadora, pois a presença 
+de marcações não manuais se configura como o único dispositivo linguístico que 
+possibilita a distinção entre sentenças relativas e paratáticas. (CECCHETTO et al., 
+2017, p. 442).
+Em algumas Línguas de Sinais pesquisadas até o momento, verifica-se o uso 
+de algum item lexical que marca a sentença relativa restritiva. Entre essas línguas 
+estudadas, a Língua de Sinais americana (ASL) apresenta o pronome THAT e a 
+Língua de Sinais alemã (DGS) possui dois pronomes relativos: um para referen -
+tes humanos (PROR-H) e outro pronome relativo para referentes não humanos 
+(PROR-NH).  No entanto, Tang e Lau (2012, p. 358) relatam que, em diversas 
+Línguas de Sinais há marcações não manuais específicas, como sobrancelhas le -
+vantadas, cabeça para trás, levantamento do lábio superior na ASL, inclinação do 
+tronco para o lado em direção à locação do pronome relativo na DGS, bem como 
+olhos diminuídos e lábios para frente na LIS. 
+Na Libras, há marcações não manuais que evidenciam as sentenças relativas, 
+como o olhar diminuído, giro do corpo, cabeça virada e expressão facial da boca para 
+evidenciar as sentenças relativas. Além do mais, a justaposição é uma estratégia 
+utilizada para articular as orações relativas restritivas.
+A seguir, apresentamos algumas marcações não manuais encontradas nas 
+sentenças relativas restritivas:

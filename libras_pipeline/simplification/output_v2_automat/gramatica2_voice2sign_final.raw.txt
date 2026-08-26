@@ -1,0 +1,277 @@
+### pronomes lote 1
+{
+  "decisoes": [
+    {
+      "id_origem": "LIBRAS.PRONOMES.001",
+      "funde_com": "LIBRAS.PRONOMES.002",
+      "titulo": "Apontação pré-nominal como artigo definido (incluindo anafórico)",
+      "descricao": "A glosa deve conter uma apontação (IX) pré-nominal (singular ou plural) para marcar o nome como definido. Essa apontação funciona como artigo definido. No caso de interpretação anafórica (retomada de referente já mencionado), a ausência dessa apontação torna a glosa agramatical para essa leitura.",
+      "gatilho": "O nome ocorre em posição argumental e deve ser interpretado como definido, seja por contexto anafórico (retomada) ou por especificidade.",
+      "exemplos": [
+        "[IX.pl ALUNO OUVINTE] FALAR-ORAL",
+        "Exemplo (8) no texto (glosa não transcrita integralmente, mas a regra é derivada da exigência de IX pré-nominal para a retomada de MULHER)"
+      ],
+      "justificativa_fusao": "Ambas as candidatas exigem a mesma determinação (apontação IX pré-nominal) sob a mesma condição geral (nome definido). A candidata 001 é um caso particular da 002, especificando o contexto anafórico. Fundir preserva a regra geral e declara a condição especial na descrição."
+    },
+    {
+      "id_origem": "LIBRAS.PRONOMES.002",
+      "funde_com": "",
+      "titulo": "Apontação pré-nominal como artigo definido (incluindo anafórico)",
+      "descricao": "A glosa deve conter uma apontação (IX) pré-nominal (singular ou plural) para marcar o nome como definido. Essa apontação funciona como artigo definido. No caso de interpretação anafórica (retomada de referente já mencionado), a ausência dessa apontação torna a glosa agramatical para essa leitura.",
+      "gatilho": "O nome ocorre em posição argumental e deve ser interpretado como definido, seja por contexto anafórico (retomada) ou por especificidade.",
+      "exemplos": [
+        "[IX.pl ALUNO OUVINTE] FALAR-ORAL",
+        "Exemplo (8) no texto (glosa não transcrita integralmente, mas a regra é derivada da exigência de IX pré-nominal para a retomada de MULHER)"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.PRONOMES.003",
+      "funde_com": "",
+      "titulo": "Numeral 1 como artigo indefinido",
+      "descricao": "A glosa deve conter o numeral 1 antes do nome para marcar o nome como indefinido. Esse numeral funciona como artigo indefinido.",
+      "gatilho": "O nome ocorre em posição argumental e deve ser interpretado como indefinido.",
+      "exemplos": [
+        "PRIMO TER [1 PRIMO] SURDO TAMBEM LÍNGUA-DE-SINAIS"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.PRONOMES.004",
+      "funde_com": "",
+      "titulo": "Posição do pronome interrogativo QU",
+      "descricao": "O pronome interrogativo (ex: QUEM, QU) pode aparecer na posição in situ (original) ou na posição final da sentença. A repetição do sinal na posição final indica foco de ênfase.",
+      "gatilho": "A frase em português é uma interrogativa com pronome interrogativo (QUEM, O QUE, etc.)",
+      "exemplos": [
+        "Quem gosta da Maria? -> [QUEM GOSTA MARIA] qu",
+        "Quem gosta da Maria? -> [GOSTA MARIA QUEM] qu",
+        "Quem ensina Língua Portuguesa? -> QUEM ENSINAR LÍNGUA PORTUGUESA"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.PRONOMES.005",
+      "funde_com": "",
+      "titulo": "Pronome pessoal final",
+      "descricao": "O pronome pessoal (IX) pode aparecer na posição final da sentença, após o verbo e os complementos.",
+      "gatilho": "O sujeito da frase é um pronome pessoal (IX) e a construção é atestada como gramatical (VOS).",
+      "exemplos": [
+        "Ele consegue pegar. -> IX (ele) CONSEGUIR PEGAR IX (ele)",
+        "Eu vou na UFSC amanhã. -> IX (eu) IR AMANHÃ UFSC IX (eu)"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.PRONOMES.006",
+      "funde_com": "",
+      "titulo": "Uso de IX para pronomes pessoais",
+      "descricao": "Pronomes pessoais (eu, ele, ela, nós, etc.) devem ser representados na glosa pela etiqueta IX seguida do referente entre parênteses (ex: IX (eu), IX (ela)).",
+      "gatilho": "A frase em português contém um pronome pessoal.",
+      "exemplos": [
+        "Se eu não tivesse ido... -> SE IX (eu) IR-NÃO...",
+        "Ela me acompanhou... -> IX (ela) JUNTO ACOMPANHAR..."
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.PRONOMES.007",
+      "funde_com": "",
+      "titulo": "Uso de DEM para demonstrativos",
+      "descricao": "Pronomes ou adjetivos demonstrativos (esse, aquele, lá, etc.) devem ser representados na glosa pela etiqueta DEM seguida do referente ou direção entre parênteses (ex: DEM (esse), DEM (lá)).",
+      "gatilho": "A frase em português contém um demonstrativo.",
+      "exemplos": [
+        "Se o ouvinte for muito fluente... (contexto de demonstrativo) -> SE DEM (esse) OUVINTE FLUENTE..."
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.PRONOMES.008",
+      "funde_com": "",
+      "titulo": "Uso de IX como marcador relativo",
+      "descricao": "O sinal de apontação IX pode ser utilizado na glosa para exercer o papel sintático de conectivo ou marcador relativo, associando a oração relativa ao referente.",
+      "gatilho": "A frase em português contém uma oração relativa restritiva e a glosa utiliza um sinal de apontação (IX) para articular as orações.",
+      "exemplos": [
+        "Foi a desenhar que um amigo surdo me ensinou... -> DESENHAR IX (ele) AMIGO SURDO ENSINAR DESENHAR POSITIVO LEGAL DESENHAR."
+      ],
+      "justificativa_fusao": ""
+    }
+  ]
+}
+
+### sintaxe lote 1
+{
+  "decisoes": [
+    {
+      "id_origem": "LIBRAS.SINTAXE.001",
+      "funde_com": "",
+      "titulo": "Ordem básica SVO em sentenças transitivas",
+      "descricao": "A ordem dos sinais na glosa deve seguir a sequência Sujeito-Verbo-Objeto (SVO). Outras ordens (SOV, OSV, VOS) são possíveis, mas são derivadas de operações sintáticas específicas e não representam a ordem subjacente básica.",
+      "gatilho": "A frase em português é uma sentença transitiva declarativa simples que possui sujeito e objeto realizados.",
+      "exemplos": [],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.002",
+      "funde_com": "LIBRAS.SINTAXE.001",
+      "titulo": "Ordem básica SVO em sentenças transitivas",
+      "descricao": "A ordem dos sinais na glosa deve seguir a sequência Sujeito-Verbo-Objeto (SVO). Esta é a ordem não marcada e a mais frequente (87% dos dados citados) para sentenças transitivas com argumentos realizados, independentemente do tipo de verbo (simples, com concordância ou reverso). Outras ordens são derivadas de operações sintáticas específicas.",
+      "gatilho": "A frase em português é uma sentença transitiva declarativa com sujeito e objeto realizados, sem marcadores de ênfase ou topicalização específica que alterem a ordem.",
+      "exemplos": [
+        "O João gosta de futebol. -> IX JOÃO GOSTAR [FUTEBOL]",
+        "Eu moro no bairro Bela Vista. -> IX (eu)S MORARV [BAIRRO FS(BELA-VISTA)] O",
+        "Eu olhei uma pessoa sinalizando. -> IX (eu)1S 1VER3+V IX (ele) FLUENCIA-LIBRASO"
+      ],
+      "justificativa_fusao": "Ambas as candidatas descrevem a mesma regra: a ordem subjacente SVO para sentenças transitivas declarativas. A candidata 002 adiciona estatísticas e exemplos, mas o fenômeno e a determinação (manter SVO) são idênticos à 001."
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.003",
+      "funde_com": "",
+      "titulo": "Posição do advérbio entre sujeito e verbo",
+      "descricao": "Quando a frase contém um advérbio (como 'realmente' ou 'então' em função adverbial), este pode aparecer na glosa posicionado entre o sujeito e o verbo, mantendo a estrutura geral SVO.",
+      "gatilho": "A frase em português contém um advérbio que modifica o verbo e está posicionado antes do verbo na estrutura sintática.",
+      "exemplos": [
+        "Então, eu realmente nasci surda. -> ENTÃO IX (eu)S VERDADE NASCERV SURDOO"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.004",
+      "funde_com": "",
+      "titulo": "Omissão de argumentos nulos com verbos de concordância",
+      "descricao": "A glosa pode omitir o argumento (sujeito ou objeto) quando o verbo é marcado com concordância, pois a marcação morfológica do verbo licencia a recuperação do argumento nulo.",
+      "gatilho": "A frase contém um verbo com concordância (pessoal ou espacial) e o argumento correspondente é omitido na glosa.",
+      "exemplos": [
+        "Ele fala para mim -> IX (ele)S eleFALAReuV (objeto 'mim' incorporado/implícito no sufixo -eu)"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.005",
+      "funde_com": "",
+      "titulo": "Ordem OSV com verbo simples e argumento externo animado",
+      "descricao": "A ordem OSV (Objeto-Sujeito-Verbo) com verbos simples (sem concordância morfológica) é agramatical quando o argumento externo (objeto) é animado. A glosa não deve apresentar essa estrutura para argumentos animados.",
+      "gatilho": "A frase em português tem a ordem OSV (ex: 'O João, a Maria, gosta') e o verbo é simples (sem concordância) e o objeto é animado.",
+      "exemplos": [
+        "O João, a Maria, gosta. -> *IX JOÃO IX MARIA GOSTAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.006",
+      "funde_com": "",
+      "titulo": "Ordem OSV com verbo simples e argumento externo inanimado",
+      "descricao": "A ordem OSV (Objeto-Sujeito-Verbo) com verbos simples (sem concordância morfológica) é aceitável quando o argumento externo (objeto) é inanimado.",
+      "gatilho": "A frase em português tem a ordem OSV (ex: 'O João, o futebol, gosta') e o verbo é simples (sem concordância) e o objeto é inanimado.",
+      "exemplos": [
+        "O João, o futebol, gosta. -> IX JOÃO FUTEBOL GOSTAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.007",
+      "funde_com": "",
+      "titulo": "Ordem OSV com verbo simples e AUX",
+      "descricao": "A ordem OSV com verbos simples é aceita quando há a inserção do marcador AUX (concordância referencial) na glosa.",
+      "gatilho": "A frase em português tem a ordem OSV e o verbo é simples, mas a glosa inclui o marcador AUX.",
+      "exemplos": [
+        "O João, a Maria, gosta. -> IXa JOÃOa IXb MARIAb aAUXb GOSTAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.008",
+      "funde_com": "",
+      "titulo": "Ordem SOV com oração subordinada como objeto",
+      "descricao": "A ordem SOV (Sujeito-Objeto-Verbo) onde o objeto é uma oração subordinada é agramatical, mesmo com marcações não manuais. A glosa não deve apresentar essa estrutura.",
+      "gatilho": "A frase em português tem a ordem SOV com objeto subordinado (ex: 'Eu, que a Maria foi embora, acho').",
+      "exemplos": [
+        "Eu, que a Maria foi embora para algum lugar, acho. -> *IX (eu)S [MARIAa aSAIRloc]O ACHARV"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.009",
+      "funde_com": "",
+      "titulo": "Ordem OSV com oração subordinada como objeto",
+      "descricao": "A ordem OSV (Objeto-Sujeito-Verbo) onde o objeto é uma oração subordinada é aceita, mas considerada uma sentença marcada.",
+      "gatilho": "A frase em português tem a ordem OSV com objeto subordinado (ex: 'Que a Maria foi embora, eu acho').",
+      "exemplos": [
+        "Que a Maria foi embora para algum lugar, eu acho. -> [MARIAa aSAIRloc] O IX (eu)S ACHARV"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.010",
+      "funde_com": "",
+      "titulo": "Flexibilidade de ordem com verbos de concordância",
+      "descricao": "Verbos com concordância morfológica permitem maior flexibilidade na ordem dos sinais (incluindo ordens não-SVO) mesmo com argumentos animados, pois o verbo incorpora a informação sintática dos argumentos.",
+      "gatilho": "O verbo na glosa é um verbo de concordância (ex: ASSISTIR, INFORMAR-OLHO) e a ordem dos sinais difere da SVO.",
+      "exemplos": [
+        "O João, a TV, assisti. -> IX [JOÃOa] [bTV] [aASSISTIRb]"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.011",
+      "funde_com": "LIBRAS.SINTAXE.004",
+      "titulo": "Omissão de argumentos nulos com verbos de concordância",
+      "descricao": "A glosa pode omitir o argumento (sujeito ou objeto) quando o verbo é marcado com concordância, pois a marcação morfológica do verbo licencia a recuperação do argumento nulo. Em verbos com concordância, os argumentos podem ser omitidos se a informação for recuperável pela marcação morfológica.",
+      "gatilho": "A frase contém um verbo com concordância (pessoal ou espacial) e o argumento correspondente é omitido na glosa.",
+      "exemplos": [
+        "Ele fala para mim -> IX (ele)S eleFALAReuV (objeto 'mim' incorporado/implícito no sufixo -eu)",
+        "(Ela) ajuda (a mim) -> 3AJUDAR1V"
+      ],
+      "justificativa_fusao": "As candidatas 004 e 011 descrevem exatamente o mesmo fenômeno: a omissão de argumentos nulos licenciada pela concordância verbal. A 011 apenas fornece um exemplo adicional e uma formulação ligeiramente diferente, mas a condição (verbo de concordância) e a determinação (omissão permitida) são idênticas."
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.012",
+      "funde_com": "",
+      "titulo": "Ordem SOV/OSV para verbos manuais/instrumentais e classificadores",
+      "descricao": "A glosa deve apresentar a ordem SOV (Sujeito-Objeto-Verbo) ou OSV (Objeto-Sujeito-Verbo), com o verbo manual/instrumental ou classificador verbal posicionado no final da sentença.",
+      "gatilho": "A frase em português contém um verbo manual/instrumental (que usa a mão para pegar algo ou substituir instrumento) ou um classificador verbal.",
+      "exemplos": [
+        "Da estante, pego-o-livro -> ESTANTEO (eu)S PEGAR-LIVROV",
+        "A casa, eu pinto-com-pincel-rolo -> CASAO (eu)S PINCELAR-PAREDE-COM-PINCEL-ROLOV"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.013",
+      "funde_com": "",
+      "titulo": "Uso de QU em orações subordinadas",
+      "descricao": "O sinal QU (ou pronome interrogativo) é usado em orações subordinadas (ex: 'quem', 'o que') mesmo quando a sentença principal não é interrogativa. A marcação não manual é associada ao sinal QU, não à sentença inteira.",
+      "gatilho": "A frase em português contém uma oração subordinada com pronome relativo/interrogativo (ex: 'saber quem', 'saber o que')",
+      "exemplos": [
+        "Eu quero saber quem o João encontrou -> IX (eu) QUERER SABER [QU-E] qu JOÃO ENCONTRAR",
+        "Eu sei quem ele pegou. -> IX (eu) SABER [QU+] qu IX (ele) PEGAR"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.014",
+      "funde_com": "",
+      "titulo": "Topicalização move o constituinte para a posição inicial",
+      "descricao": "Quando um elemento da frase é topicalizado, todo o constituinte correspondente deve ser movido para a posição inicial da sequência de glosas, precedendo o restante da oração.",
+      "gatilho": "A frase em português apresenta uma construção topicalizada (elemento deslocado para o início com função de tópico).",
+      "exemplos": [
+        "De futebol, o João gosta? -> FUTEBOL JOÃO GOSTAR",
+        "Meus primos, alguns Codas, eu sinalizava com eles normalmente. -> PRIMO IX(eles) ALGUNS CODA IX(eu) LÍNGUA-DE-SINAIS NORMAL SÓ"
+      ],
+      "justificativa_fusao": ""
+    },
+    {
+      "id_origem": "LIBRAS.SINTAXE.015",
+      "funde_com": "LIBRAS.SINTAXE.014",
+      "titulo": "Topicalização move o constituinte para a posição inicial",
+      "descricao": "Quando um elemento da frase é topicalizado, todo o constituinte correspondente deve ser movido para a posição inicial da sequência de glosas, precedendo o restante da oração. Isso inclui advérbios, que podem ser topicalizados aparecendo na posição inicial, antes do sujeito e do verbo.",
+      "gatilho": "A frase em português apresenta uma construção topicalizada (elemento deslocado para o início com função de tópico), incluindo advérbios.",
+      "exemplos": [
+        "De futebol, o João gosta? -> FUTEBOL JOÃO GOSTAR",
+        "Meus primos, alguns Codas, eu sinalizava com eles normalmente. -> PRIMO IX(eles) ALGUNS CODA IX(eu) LÍNGUA-DE-SINAIS NORMAL SÓ",
+        "Agora, estou com 37 anos. -> AGORA IX(eu) 37"
+      ],
+      "justificativa_fusao": "A candidata 015 é um caso particular da regra geral de topicalização descrita na 014. Ambas exigem a mesma coisa (mover o elemento para o início) sob a mesma condição (topicalização). A 015 especifica que advérbios também seguem essa regra, o que é um subconjunto do fenômeno geral de topicalização de constituintes."
+    }
+  ]
+}
+

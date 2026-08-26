@@ -1,0 +1,85 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.7 HIPOTAXE ===
+=== TRECHO: páginas 158-160 (parte 2 de 2 do mesmo tópico) ===
+
+[p.158]
+159
+(33) Unidade oracional 1
+                    IDADE                             COMEÇAR                                                1-2
+Quando eu tinha 12 anos [...]
+Unidade oracional 2
+  
+                                       COMEÇAR               APRENDER                  LÍNGUA-DE-SINAIS 
+[...] [eu] comecei a aprender a Língua de Sinais.
+Durante a articulação da unidade oracional 1, pode ser observado um 
+discreto deslocamento posterior do corpo, enquanto o olhar do sinalizante está 
+direcionado para as próprias mãos. Na articulação da unidade oracional 2, há um 
+discreto deslocamento anterior do corpo em relação ao padrão anterior, enquanto 
+o olhar do sinalizante é direcionado para pontos distintos do espaço de sinalização, 
+como se estivesse enfatizando a sua interação com diferentes interlocutores durante 
+o seu processo de apropriação da Libras. Não há um sinal que atue como conectivo 
+a articular as duas orações, embora haja uma mudança no padrão prosódico que 
+parece distingui-las.  
+ Além das orações adverbiais, na hipotaxe temos orações que interrompem 
+outras para fazer um esclarecimento, como se fossem um aposto, que nesse caso, 
+está em forma de oração. Essas orações são classificadas como adjetivas explicativas 
+(ou apositivas) e, assim como as adverbiais, servem para modificar o sentido da 
+oração principal, trazendo uma informação suplementar. Mas não são consideradas 
+parte da oração matriz. Há uma dependência semântica, mas não estrutural. 
+A sentença (32), a seguir, também ilustra orações articuladas a nível de 
+hipotaxe, em que a oração dependente se configura como uma adjetiva explicativa 
+em relação à oração principal. No exemplo, a oração dependente retoma a proposi-
+ção estabelecida na oração matriz, trazendo o significado codificado anteriormente 
+de maneira mais detalhada.
+
+[p.159]
+160
+(33) Hipotaxe adjetiva explicativa.
+          
+ DEM (esse) PROFESSOR     LÍNGUA-DE-SINAIS     PERFEITO                    NÃO  
+DV (sinalizar-de-maneira-truncada) 
+DEM (esse) PROFESSOR LÍNGUA-DE-
+SINAIS PERFEITO NÃO DV (sinalizar-de-
+maneira-truncada) 
+Os professores não sinalizavam muito bem:  
+eles sinalizavam de maneira truncada .
+A unidade oracional complexa em (32) é constituída pela unidade oracional 
+1 – DEM (esse) PROFESSOR LÍNGUA-DE-SINAIS PERFEITO NÃO (Os profes -
+sores não sinalizavam muito bem), considerada a oração nuclear, e pela unidade 
+oracional 2 – DV (sinalizar-com-defeito) (eles sinalizavam de maneira truncada), 
+considerada a oração dependente. Elas estão articuladas a nível de hipotaxe, pois a 
+segunda oração faz uma espécie de esclarecimento sobre o evento que é estabelecido 
+na primeira oração, funcionando, assim, como um adjunto da oração nuclear. Em 
+alguma medida, as duas orações trazem uma mesma proposição em relação ao 
+evento codificado. Mas podemos reconhecer também que cada uma delas traz uma 
+perspectivização distinta dessa mesma proposição. A proposição presente na oração 
+matriz é retomada na oração dependente. Essa esclarece aquilo que está dito na 
+oração matriz e, a partir de uma simulação da ação, detalha aquilo que está posto 
+https://youtu.be/nUb9GBT2q08
+
+[p.160]
+161
+na oração nuclear. A relação hipotática estabelecida é do tipo adjetiva explicativa, 
+em que a oração satélite cumpre uma função de aposto.  
+Unidade oracional 1
+ DEM (esse) PROFESSOR LÍNGUA-DE-SINAIS PERFEITO   NÃO
+Os professores não sinalizavam muito bem [...]
+Unidade oracional 2
+DV (sinalizar-com-defeito)
+[...] eles sinalizavam de maneira truncada.
+ As duas orações estão articuladas a nível de justaposição, sem um sinal 
+específico que atue como conectivo a integrá-las. Durante a articulação da unidade 
+oracional 1, o olhar da sinalizante está direcionado para a interlocutora e o seu 
+corpo codifica o sujeito do discurso, que pronuncia a sinalização. Na articulação 
+da unidade oracional 2, a sinalizante parece simular a proposição estabelecida na 
+oração 1, como a ilustrar, em uma encenação, que os professores não sinalizavam 
+muito bem. Há uma ação construída que traz de maneira visível e explícita a cena 
+discursiva anteriormente pronunciada, elucidando o que está codificado na primeira 
+oração. 
+As orações articuladas no nível de hipotaxe podem abranger tanto as orações 
+adverbiais quanto as orações adjetivas explicativas (apositivas) e se configuram 
+como unidades oracionais relativamente dependentes. Mais uma vez, as orações 
+hipotáticas não são constituintes da oração núcleo, ou seja, não funcionam nem 
+como argumento nem como modificadores da oração primária (nuclear), mas com-
+põem a organização discursiva do falante/ sinalizante, trazendo uma informação 
+à parte (HOPPER e TRAUGOTT, 1993; CARVALHO, 2004).

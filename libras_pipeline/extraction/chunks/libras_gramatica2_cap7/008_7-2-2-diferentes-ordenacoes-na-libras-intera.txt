@@ -1,0 +1,147 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.7 Sintaxe da Libras ===
+=== TÓPICO: 7.2.2 Diferentes ordenações na Libras (interação dos tipos de verbos, tipos de e ===
+=== TRECHO: páginas 42-45 (parte 1 de 2 do mesmo tópico) ===
+
+[p.42]
+43
+(37)
+[TVb]direação_olhar_b [IX JOÃOa]direção_olhar_a [aASSISTIRb] direação_olhar_a-para-b
+TV, o João assiste.
+ 
+(38)
+IX JOÃO FUTEBOL [GOSTAR]movimento-cabeça
+O João, o futebol, gosta.
+ 
+(39)
+*IX JOÃO IX MARIA [GOSTAR]movimento-cabeça (considerada agramatical pelos informantes)
+O João, a Maria, gosta.
+ 
+(40)
+IX [JOÃOa]direção_olhar_a [bTV]]direação_olhar_b [aASSISTIRb]]direação_olhar_a-para-b
+O João, a TV, assisti.
+Os exemplos evidenciam que a mudança na ordem básica parece ser licen-
+ciada pela presença da marcação de concordância do verbo nos exemplos com 
+ASSISTIR. No caso dos tipos de sentença com o verbo simples GOSTAR, quando o 
+argumento externo é inanimado, é aceitável e quando o argumento é animado, não 
+é aceitável. Quadros (1999) fez vários testes com exemplos similares e confirmou a 
+rejeição pela estrutura com verbos simples com argumento externo animado, que 
+parece estar relacionado com o fato de a sentença poder ou não poder ser reversí-
+vel. Ao produzir JOÃO MARIA GOSTAR, mesmo com marcação não manual, os 
+informantes compreendiam JOÃO e MARIA como sujeitos da oração, faltando, 
+portanto, um argumento externo. No caso de JOÃO FUTEBOL GOSTAR, o argu-
+mento inanimado é compreendido como objeto da sentença, exatamente por não 
+ser reversível, ou seja, eu não posso dizer FUTEBOL GOSTAR JOÃO, mas posso 
+dizer MARIA GOSTAR JOÃO. Assim sendo, a autora analisa os exemplos como 
+derivados da ordem básica SVO, apresentando restrições para serem produzidos 
+nas ordens OSV e SOV. Em todos os exemplos testados com diferente ordenação, 
+a marcação não manual era obrigatória, diferente dos exemplos análogos produ-
+zidos na ordem SVO. Assim, a ordem mais básica parece ser realmente SVO, pois 
+as demais exigem mais marcações para poderem ser geradas.
+ Os exemplos nas diferentes ordens podem também ser derivados quando 
+contam com a inserção de AUX quando associados com verbos simples (um tipo 
+de marcador de concordância referencial). Veja os exemplos a seguir:
+ AUX Quadros (1999, p. 65), exemplos traduzidos para a Língua Portuguesa.
+
+[p.43]
+44
+(41)
+SO-AUX-V
+IXa JOÃOa IXb MARIAb aAUXb [GOSTAR]movimento-cabeça 
+O João, a Maria, gosta.
+ 
+Quadros (1999) também analisou sentenças complexas com subordinação. A 
+autora verificou que a ordem SVO em que o objeto configura uma oração, apresenta 
+restrições quanto à ordem. A ordem SVO é preferida.
+ 
+(42)
+IX (eu)S ACHARV [MARIAa aSAIRloc]O
+Eu acho que a Maria foi embora para algum lugar.
+ 
+(43)
+*IX (eu)S [MARIAa aSAIRloc]O ACHARV (considerada agramatical pelos informantes)
+Eu, que a Maria foi embora para algum lugar, acho.
+ 
+Esses exemplos SOV com sentenças complexas considerados agramaticais 
+mesmo com marcações não manuais foram usados como mais uma evidência para 
+a ordem básica SVO por Quadros (1999).
+No entanto, quando a marcação não manual foi associada nos testes com 
+diferentes ordenações com estruturas complexas, a ordem OSV foi aceita pelos 
+informantes, mas como uma sentença marcada.
+Subordinada OSV Quadros (1999, p. 71), exemplos traduzidos para a Língua 
+Portuguesa. 
+ 
+(44)
+[MARIAa aSAIRloc] O IX (eu)S ACHARV
+Que a Maria foi embora para algum lugar, eu acho.
+ 
+Quadros (1999) aponta também uma assimetria sintática, ou seja, diferentes 
+tipos de estruturas, entre as estruturas com verbos sem e com concordância. A auto-
+ra verificou que os verbos com concordância são mais marcados morfologicamente 
+e que isso permite uma flexibilidade maior na ordenação da sentença, mesmo com 
+argumentos animados, pois o verbo recupera a informação sintática, pois incorpora 
+o sujeito e o objeto na sua forma. A marcação morfológica pode ainda ser associada 
+com a marcação não manual da direção do olhar, tornando ainda mais clara a re-
+lação argumental entre os argumentos e sua função sintática enquanto sujeito ou 
+objeto. Quando o AUX que representa um elemento de concordância referencial é 
+inserido na estrutura com verbos sem concordância, a sentença é aceita, da mesma 
+forma como foi observado com a presença dos verbos com concordância. Parece
+
+[p.44]
+45
+que o AUX supre a falta da marcação morfológica associada ao verbo simples sem 
+concordância marcada.
+ As diferentes ordenações possíveis parecem ser sempre mais marcadas por 
+meio da marcação não manual, uso do corpo de forma mais marcada, combina -
+ção da direção do olhar com o uso do espaço. Identificamos alguns aspectos que 
+parecem ser recorrentes quando há mudança na ordem e então listamos a seguir. 
+É importante destacar que no uso, é muito comum ter argumentos nulos, ou seja, 
+omissão dos argumentos que podem ser recuperados por diferentes estratégias 
+(QUADROS, 1995). Basicamente, os argumentos nulos nas estruturas com verbos 
+com concordância podem ser recuperados pela própria marcação morfológica do 
+verbo associada ao sujeito e ao objeto. No caso dos verbos simples sem concordância 
+marcada, os argumentos nulos podem ser recuperados contextualmente. Consi -
+derando isso, quando apresentamos exemplos dos Surdos de Referência, iremos 
+discutir esses casos, dentro de cada categoria analisada a seguir.
+ Quadros (1999), apresenta uma assimetria entre construções com verbos 
+simples e verbos com concordância. Os verbos simples aparecem mais com os ar-
+gumentos realizados, mesmo quando com ordenação diferente por causa de outras 
+marcações, conforme já discutimos previamente, como marcações não manuais e 
+o uso do AUX para complementar a referência de concordância.
+Os verbos com concordância são os que apresentam um impacto maior na 
+ordem da sentença, pois como eles apresentam a concordância com os argumentos 
+e até incorporam os argumentos, facilmente podemos recuperar o sujeito, o objeto 
+direto e o objeto indireto, quando for o caso.
+Os verbos com concordância apresentam diferentes morfemas de concordân-
+cia. A mais clássica na literatura geral é a concordância de pessoa e número. Esse 
+tipo de concordância favorece estruturas com argumentos nulos.  Por exemplo:
+  
+ 
+(45)
+MENINAaS aENTREGARbV bMENINOOI LIVROOD  
+A menina entregou ao menino o livro
+  
+(46)
+3AJUDAR1V   
+(Ela) ajuda (a mim)
+
+[p.45]
+46
+(47)
+3AJUDAR1V   
+(Ela) ajuda (a mim)
+ 
+                  (47)
+                 IX (eu)S                         PALAVRAx             [xINFORMAR-OLHO1] V               NADA
+IX (eu)S PALAVRAx [xINFORMAR-OLHO1] V 
+NADA
+Eu não tinha muitas informações sobre a palavra.
+Fonte: Royer (2019, p. 136).
+(48)  Sentença coordenada associada à negação marcada pela intermitência sentencial (alternância) 
+associada à condição, com verbo com concordância pessoal marcada 3PERCEBER1.
+IX (eu)S                        NÃO                        3PERCEBER1]V, 
+                [IX (você) SURDO,     IX(você)      OUVINTE,    NÃO]
+IX (eu)S NÃO [3PERCEBER1] V, [IX (você)SURDO, 
+IX (você) OUVINTE, NÃO]
+Eu não percebia se era surda ou se era ouvinte.
+https://youtu.be/jj4QaccSTvQ
+https://youtu.be/sddG0ArLhYQ

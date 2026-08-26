@@ -1,0 +1,96 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.4.3.2. Processos de composição dos sinais da Língua de Sinais ===
+=== TRECHO: páginas 201-205 (parte 2 de 2 do mesmo tópico) ===
+
+[p.201]
+202
+Justaposição com datilologia da palavra, em por -
+tuguês, com o sinal que representa a ação realizada pelo 
+substantivo que, na sede semântica da ação verbal, seria 
+seu caso instrumental. Exemplo: COSTURAR-COM-AGU-
+LHA^A-G-U-L-H-A. (FELIPE, 2006, p. 207). Entende-se 
+que, “quando dois sinais aparecem juntos para formar um 
+composto, mudanças predicáveis na estrutura do sinal se 
+manifestam” (QUADROS; KARNOPP, 2004, p. 106).
+A perda de movimento parece ser um indicativo de que há uma composição 
+(MINUSSI; RODERO-TAKAHIRA, 2013):
+ 
+b.  Composição por aglutinação: Na Língua de Sinais 
+brasileira, a aglutinação ocorre quando dois morfemas lexi-
+cais livres, radicais, chegam à estrutura de raiz e se unem. 
+Os compostos por aglutinação em Libras compreendem a 
+utilização de mais de um sinal para a criação de um terceiro, 
+mas há uma supressão ou redução de um ou mais elementos 
+do composto, o que significa que, para haver um composto 
+por aglutinação, algum ou alguns dos elementos de um ou 
+ambos os sinais é/são modificado(s) ou não realizado(s) (cf. 
+FELIPE, 2006). Retomando o caso de (78) CASA^ESTU -
+DAR(escola), em que ocorre a perda da repetição do sinal 
+(61) CASA e da repetição do sinal (77) ESTUDAR, tem-se 
+um exemplo de composição por subordinação, como já vis-
+to, e por aglutinação:
+         (76)  CASA                       (77) ESTUDAR                         (78)  CASA^ESTUDAR (escola)
+Há composição por aglutinação simultânea quando o sinal composto é 
+constituído por dois sinais originalmente realizados com a CM duplicada. Uma das 
+CMs de cada sinal se apaga (redução / apagamento morfêmico da duplicação / do 
+espelhamento do morfema), como acontece na concepção do sinal que denomina o 
+https://youtu.be/VS8DjXWTndI 
+ https://youtu.be/2hzMtX_25sE 
+ https://youtu.be/7BTEDbci4Vg
+
+[p.202]
+203
+curso Letras-Libras, em que ocorre o apagamento morfêmico da duplicação espacial 
+do sinal (79) LETRAS e (80) LIBRAS, que resulta no sinal (81) LETRAS^LIBRAS5. 
+        (79) LETRAS                                             (80) LIBRAS                               (81) LETRAS^LIBRAS
+ Seguem mais alguns exemplos de formações de compostos na Libras, ex -
+traídos de estudos descritos por Quadros e Karnopp (2004, p.65); FELIPE, 2006; 
+Figueiredo Silva e Sell (2009, p. 17-18); Faria-Nascimento (2009) e Minussi e 
+Rodero-Takahira (2013):
+(82)  MULHER^BEIJO-NA-MÃO (mãe)
+- Perda da repetição de morfema que marca o movimento e a CM do sinal MULHER.
+5 Oliveira (2015) chama esse fenômeno específico de aglomeração.
+https://youtu.be/MstFSO-8aFU 
+ https://youtu.be/MTDyz9BqnCY 
+ https://youtu.be/N5gK1zRpwts 
+https://youtu.be/jQdhWB12pWk
+
+[p.203]
+204
+ (83)  COMER^MEIO-DIA (almoço) - Perda da repetição do sinal COMER.
+(84) CASA^ANTIGA (museu) - Perda da repetição do sinal CASA.
+(85) CASA (uma mão) + L (loja) - Supressão da CM duplicada do sinal CASA + contato da CM em L.
+https://youtu.be/9UTAhN7hBoE 
+https://youtu.be/AxF88eqF5gQ 
+https://youtu.be/17cArr7o-MQ
+
+[p.204]
+205
+(86)  LEÃO^ETC (animais) - Eventual supressão da duplicação da mão para realização do sinal ETC.
+(87)  MAÇÃ^ETC (frutas)
+- Perda da repetição do sinal MAÇÃ com eventual supressão da duplicação da mão  
+para realização do sinal ETC.
+(88)  ROUPA^ETC (vestuário) - Perda da repetição do sinal ROUPA.
+https://youtu.be/4wHfYXVKIlY 
+https://youtu.be/ih4hEcU0nQY 
+https://youtu.be/7cz4hr1BwZo
+
+[p.205]
+206
+(89)  PÉ^PÉ (chinelo)
+Pode-se dizer que, em Língua de Sinais brasileira, há também os compostos 
+dvandva, que se referem a um ou mais objetos que podem ser conectados pela 
+conjunção “e”. O principal exemplo que podemos dar é (90) PAI^MÃE para se 
+referir a pais:
+(90) PAI^MÃE (pais)
+ 
+Por fim, Figueiredo Silva e Sell (2009, p. 21) dividiram os compostos em 
+compostos “verdadeiros” e compostos “aparentes”.
+a) Compostos verdadeiros  (genuínos, ordinários): 
+Com supressão da repetição e ordem fixa, invariável; são 
+aqueles que se dão por justaposição ou por aglutinação, 
+como é o caso de (91) CASA^CRUZ (igreja) e que não pode 
+ter sua ordem trocada como em (92) *CRUZ^CASA, porque 
+essa alteração de ordem é  agramatical:
+https://youtu.be/Aunpqg-63Xg 
+https://youtu.be/mR4wCnDE8WY

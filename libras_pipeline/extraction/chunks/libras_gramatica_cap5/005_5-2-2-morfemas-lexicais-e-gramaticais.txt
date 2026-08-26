@@ -1,0 +1,249 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.2.2. Morfemas lexicais e gramaticais ===
+=== TRECHO: páginas 187-191 (parte 2 de 3 do mesmo tópico) ===
+
+[p.187]
+188
+alteração do movimento, compreendido como morfema preso afixal, nesse caso. 
+Em (22), a expansão do morfema lexical livre “arrasta” sua produção pelo espaço 
+neutro e acrescenta o morfema boca para representar a ideia de expansão a vários 
+atores do discurso. Em (23), o morfema lexical livre, em posição de morfema base 
+(19), incorpora o afixo que agrega o conceito de “fluência linguística” e com um 
+morfema boca demarca o conceito que leva alguém a ser fluente / proficiente em 
+Língua de Sinais. Em (24), a amplitude espacial de produção do sinal acrescenta 
+a denominação mais vigorosa do conceito da unidade lexical sinalizada produzida 
+em (23). Em (25), por fim, à base (19), agrega-se o valor de uma língua admirada e 
+apreciada. Esses exemplos ilustram como morfemas livres se unem a morfemas pre-
+sos, entre os quais morfemas boca, e derivam novas unidades lexicais sinalizadas.
+Outro exemplo bastante produtivo de morfema lexical livre que se torna 
+morfema base para constituição terminológica, em Língua de Sinais brasileira, é 
+(26) PALAVRA. No Quadro abaixo, seguem exemplos de expansão lexical e ter -
+minológica a partir do morfema base (26) PALAVRA, entendido como morfema 
+lexical, livre, produtivo na constituição de uma série de termos, conjugados com 
+outros morfemas livres ou presos.
+O Quadro se apresenta em três colunas, considerando a coluna mais à es -
+querda como espaço do produto, a coluna do meio, a base e a coluna da direita o 
+especificador:
+PRODUTO (SINAL FORMADO) BASE ESPECIFICADOR
+(26) PALAVRA
+PALAVRA
+(MORFEMA 
+LIVRE)
+ Ø
+(27) LÉXICO
+PALAVRA
+(MORFEMA  
+LIVRE)
+ESCOLHER
+(MORFEMA 
+LIVRE)
+https://youtu.be/KiG6-VZreMo 
+https://bit.ly/3qp4XJ7
+
+[p.188]
+189
+PRODUTO (SINAL FORMADO) BASE ESPECIFICADOR
+(28) TERMINOLOGIA
+ PALAVRA
+(MORFEMA  
+LIVRE)
+MÃO EM 
+CONCHA
+(MORFEMA 
+PRESO)
+(29) SINAL-TERMO
+PALAVRA
+(MORFEMA 
+LIVRE)
+-SINAL
+(MORFEMA 
+LIVRE)
+(30) ENTRADA (DICIONÁRIO)
+ PALAVRA
+(MORFEMA 
+LIVRE)
+ CM em X
+(MORFEMA 
+PRESO)
+(31) PALAVRA-CHAVE
+PALAVRA
+(MORFEMA 
+LIVRE) 
+ CHAVE
+(MORFEMA 
+LIVRE)
+(32) PALAVRAS
+PALAVRA
+(MORFEMA 
+LIVRE)
+PALAVRA +++
+(MORFEMA 
+LIVRE)
+(33) SUBSTANTIVO
+PALAVRA
+(MORFEMA 
+LIVRE)
+NOME
+(MORFEMA 
+LIVRE)
+https://bit.ly/3OVOioP
+https://bit.ly/44dneXz
+https://tinyurl.com/3e7nzwwx
+https://tinyurl.com/2s4y8ypw
+https://youtu.be/n4leX7MEsbs 
+https://tinyurl.com/4ejnzyze
+
+[p.189]
+190
+PRODUTO (SINAL FORMADO) BASE ESPECIFICADOR
+(34) MORFEMA PRESO
+PALAVRA
+(MORFEMA 
+LIVRE)
+PRESO
+(MORFEMA 
+LIVRE)
+(35) MORFEMA LIVRE
+PALAVRA
+(MORFEMA  
+LIVRE)
+LIVRE 
+(MORFEMA 
+LIVRE)
+- Apenas redução 
+de uma mão
+(36) MORFOLOGIA
+PALAVRA
+(MORFEMA  
+LIVRE)
+PALAVRA
+(MORFEMA 
+LIVRE) 
+(37) MORFEMA ADITIVO
+PALAVRA
+(MORFEMA  
+LIVRE)
+SUFIXO SOMAR
+(MORFEMA 
+LIVRE)
+- Apenas redução 
+de uma mão
+(38) MORFEMA SUBTRATIVO
+PALAVRA
+(MORFEMA  
+LIVRE)
+TIRAR
+(MORFEMA 
+LIVRE)
+https://youtu.be/xHIMs0vKACY 
+https://bit.ly/3OAbYyO
+https://youtu.be/8R7UvzmaTTk 
+https://youtu.be/pl4mBcxirv8 
+https://youtu.be/1It4xvE32aI
+
+[p.190]
+191
+PRODUTO (SINAL FORMADO) BASE ESPECIFICADOR
+(39) MORFEMA ZERO
+PALAVRA
+(MORFEMA  
+LIVRE)
+ZERO
+(MORFEMA 
+LIVRE)
+ 
+(40) MORFEMA
+PALAVRA
+(MORFEMA  
+LIVRE)
+(MORFEMA 
+LIVRE) 
+(41) INFIXO
+PALAVRA
+(MORFEMA  
+LIVRE) 
+(MORFEMA 
+LIVRE) 
+(42) SUFIXO
+PALAVRA
+(MORFEMA  
+LIVRE)
+ PALAVRA 
+(menor - depois)
+(MORFEMA 
+LIVRE)
+(43) PREFIXO
+PALAVRA
+(MORFEMA  
+LIVRE)
+PALAVRA (menor 
+- antes)
+(MORFEMA 
+LIVRE) 
+(44) SÍLABA
+PALAVRA
+(MORFEMA  
+LIVRE)
+PALAVRA (menor 
+- dentro)
+(MORFEMA 
+LIVRE)
+https://bit.ly/47uKMdp
+https://bit.ly/457X1uU
+https://bit.ly/448QOxl
+https://bit.ly/3YEMXqD
+https://youtu.be/xUlFM1savXM 
+https://youtu.be/6i4sdmFDMNE
+
+[p.191]
+192
+PRODUTO (SINAL FORMADO) BASE ESPECIFICADOR
+(45) SOBRENOME
+PALAVRA
+(MORFEMA  
+LIVRE)
+PALAVRA
+(MORFEMA 
+LIVRE)
+(46) FLEXÃO
+PALAVRA
+(MORFEMA  
+LIVRE)
+TROCAR  
+(fora do sinal)
+(MORFEMA 
+LIVRE)
+(47) DERIVAÇÃO
+PALAVRA
+(MORFEMA  
+LIVRE)
+TROCAR  
+(dentro do sinal) 
+(MORFEMA 
+LIVRE)
+- Apenas redução 
+de uma mão
+(48) LETRAMENTO
+PALAVRA
+(MORFEMA  
+LIVRE)
+ÁREA
+(MORFEMA 
+LIVRE)
+Quadro 1: Morfemas livres e presos na constituição de sinais-termo a partir  
+de PALAVRA (morfema base / morfema lexical / raiz)
+A partir dessa análise, apreende-se que o morfema livre (26) PALAVRA 
+constitui-se como um morfema base, monomorfêmico, livre, lexical, raiz/radical, 
+núcleo formador de lexemas em Língua de Sinais, em especial de sinais-termo, 
+concatenativos, sequenciais, composicionais justapostos, como (27) LÉXICO e 
+(29) SINAL-TERMO, composicionais aglutinantes, como (46) FLEXÃO (47) DE-
+RIVAÇÃO, relacionados, afins e expansíveis de unidades lexicais e terminológicas 
+que tenham como conceito de base o conceito de (26) PALAVRA.
+ 
+5.2.4. Morfemas base, morfemas especificadores, afixos
+ Do ponto de vista dos papéis exercidos pelos morfemas, eles podem ser: 
+morfemas base, morfemas especificadores ou afixos.
+https://youtu.be/_n0n3tLUPyk 
+https://bit.ly/3qtLiHZ
+https://youtu.be/0KfG_5nxa5s 
+https://bit.ly/459Aa1M

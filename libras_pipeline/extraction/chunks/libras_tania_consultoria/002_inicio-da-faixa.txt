@@ -1,0 +1,60 @@
+=== DOCUMENTO: Elaboração da Gramática Formal da Libras — Notas de consultoria (Profa. Tânia, reunião 31/07/2026) ===
+=== TÓPICO: (início da faixa) ===
+=== TRECHO: páginas 4-5 (parte 2 de 2 do mesmo tópico) ===
+
+[p.4]
+6. ENFERMEIRA CHAMAR AGORA   
+                                                                                                  
+                                              S 
+  
+                                      SJPR 
+ 
+                               NOME          VB 
+                              <nome> 
+                       ENFERMEIRA   V     ADJV 
+                                                 
+                                          <verbo>    <advérbio de tempo> 
+                                        CHAMAR         AGORA 
+ 
+OBS.: Vejam que esta sentença não apresenta complemento. O verbo CHAMAR está na 
+forma intransitiv a, isso porque ele assume a direção sobre algo ou alguém que está 
+sendo “chamado”.  
+➔ A ordem AGORA ENFERMEIRA CHAMAR também pode ser válida , nesse caso 
+haverá mudança na estrutura. 
+ 
+ 
+LÉXICO 
+(TABELA DE SÍMBOLOS) 
+Item Lexical Atributo 1 Atributo 2  - Libras ... 
+SINAL CLASSE GRAMATICAL ...  
+3. PODER Verbo Locução adverbial   
+4. POR FAVOR Locução adverbial Polidez  
+5. EXPLICAR Verbo transitivo direto Verbo Direcional  
+6. TRATAMENTO Substantivo   
+7. DOR Substantivo   
+8. COMEÇAR Verbo transitivo direto Verbo Simples  
+9. QUANDO Advérbio de tempo Advérbio de tempo  
+10. COMER Verbo transitivo direto Verbo   
+11. ALGO Pronome indefinido Pronome   
+12. ESTRANHO Adjetivo   
+13. BEBER Verbo transitivo direto   
+14. ÁGUA Substantivo   
+15. SUFICIENTE Adjetivo   
+16. EU  Pronome reto, 1ª pessoa 
+singular 
+  
+17. IR  Verbo intransitivo e pronominal Verbo Locativo (espacial)  
+18. CASA Substantivo   
+19. HOJE Advérbio de tempo Advérbio de tempo  
+20.     
+PRODUÇÕES 
+S → SJPR  INT [QU] 
+SJPR → SUJ PRED  
+SUJ    → NOME 
+PRED → VB (verbo base) 
+VB      → V  [ADJV] 
+V      → VERBO     
+ADJV  → ADVÉRBIO
+
+[p.5]
+21.

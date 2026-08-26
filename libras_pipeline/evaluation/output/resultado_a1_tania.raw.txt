@@ -1,0 +1,101 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.002",
+"TANIA.M.003"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.002"
+],
+"problema": "O item QU (QUANDO) deve aparecer no final da sentença, não no início.",
+"sugestao": "DOR COMEÇAR QUANDO?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.001"
+],
+"problema": "A preposição locativa PARA não deve aparecer na glosa, pois é realizada pelo movimento do verbo.",
+"sugestao": "EU PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.003",
+"TANIA.M.004"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.M.004"
+],
+"problema": "O adjetivo ESTRANHO deve vir depois do nome que modifica (ALGO), conforme a regra de ordem adjetivo-nome.",
+"sugestao": "COMER ALGO ESTRANHO?"
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.005"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.001",
+"TANIA.M.005",
+"TANIA.M.007"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.M.009",
+"TANIA.M.007"
+],
+"problema": "",
+"sugestao": ""
+}
+

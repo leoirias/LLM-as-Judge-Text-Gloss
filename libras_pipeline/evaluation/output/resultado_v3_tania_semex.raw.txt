@@ -1,0 +1,97 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.SINTAXE.1",
+"TANIA.PERGUNTA.1"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.PERGUNTA.1"
+],
+"problema": "O item-QU (QUANDO) deve ser posicionado no final da frase como advérbio de foco, não no início.",
+"sugestao": "DOR COMEÇAR QUANDO?"
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.SINTAXE.2",
+"TANIA.SINTAXE.3"
+],
+"problema": "A preposição 'PARA' é redundante/elíptica em Libras (regra TANIA.SINTAXE.2) e a estrutura de pergunta com 'PODER' não é natural; a ordem natural seria SUJ VERBO DESTINO TEMPO.",
+"sugestao": "EU IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"TANIA.SINTAXE.5"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.SINTAXE.5"
+],
+"problema": "A ordem do complemento direto está invertida; a regra exige Nome seguido de Adjetivo (ALGO ESTRANHO), não Adjetivo seguido de Nome.",
+"sugestao": "COMER ALGO ESTRANHO?"
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma das regras listadas cobre a estrutura de perguntas de sim/não (polar) ou o uso do verbo PODER como modal.",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"TANIA.SINTAXE.1",
+"TANIA.SINTAXE.2",
+"TANIA.SINTAXE.3",
+"TANIA.PERGUNTA.1"
+],
+"problema": "Falta o item-QU (interrogativo) no final da frase, exigido para perguntas em Libras.",
+"sugestao": "EU PODER IR CASA HOJE QU"
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A estrutura Objeto-Verbo (OV) para imperativos e a posição do advérbio 'AGORA' não são explicitamente cobertas pelas regras fornecidas (que focam em SVO, perguntas e locativos).",
+"sugestao": ""
+}
+

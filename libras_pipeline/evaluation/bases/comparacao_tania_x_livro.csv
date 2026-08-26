@@ -1,0 +1,13 @@
+id_tania,regra_tania,status,regra_livro,analise
+TANIA.M.001,Preposição locativa é sempre nula,PARCIAL,LIVRO.SINTAXE.043,"Livro condiciona ('QUANDO o verbo de movimento já expressa a direção'); Tânia é absoluta ('SEMPRE nula, NUNCA aparece'). Para verbo de movimento coincidem."
+TANIA.M.002,Item QU na posição final,CONFLITO,LIVRO.PRONOMES.003,Livro: QU 'pode aparecer in situ OU na posição final'. Tânia: no final. O livro ACEITA o que a Tânia rejeita.
+TANIA.M.003,Sujeito pode ser nulo,PARCIAL,LIVRO.SINTAXE.005,Livro licencia omissão só COM verbo de concordância; Tânia não impõe condição. Verbo simples fica descoberto no livro.
+TANIA.M.004,Adjetivo depois do nome,NAO_COBERTA,,Nenhuma regra do livro trata ordem nome-adjetivo.
+TANIA.M.005,Verbo modal como verbo principal,NAO_COBERTA,,Nenhuma regra do livro trata verbo modal.
+TANIA.M.006,Advérbio do locativo depois do nome,NAO_COBERTA,,"Livro trata advérbio do verbo, não advérbio que modifica o locativo."
+TANIA.M.007,Advérbio do verbo depois do verbo,CONFLITO,LIVRO.SINTAXE.004,Livro: advérbio ENTRE sujeito e verbo. Tânia: DEPOIS do verbo. Posições opostas.
+TANIA.M.008,Advérbio pode vir no início,EQUIVALENTE,LIVRO.SINTAXE.004,O exemplo do livro ('ENTÃO IX eu VERDADE NASCER SURDO') mostra advérbio inicial.
+TANIA.M.009,Verbo direcional intransitivo sem objeto,PARCIAL,LIVRO.SINTAXE.005,Coberto de forma mais geral pela omissão de argumentos com concordância.
+TANIA.M.010,Pronome incorporado ao verbo direcional,EQUIVALENTE,LIVRO.SINTAXE.005,"Livro traz o mesmo fenômeno, com exemplo de objeto incorporado ao verbo."
+TANIA.M.011,Marcador de polidez fora da árvore,NAO_COBERTA,,Fora da base (sign2voice); nada equivalente no livro.
+TANIA.M.012,Priorizar referente presente,NAO_COBERTA,,Fora da base (sign2voice); critério geral sem equivalente.

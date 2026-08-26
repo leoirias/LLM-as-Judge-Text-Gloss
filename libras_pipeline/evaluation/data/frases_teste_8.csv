@@ -1,0 +1,9 @@
+text,gloss,esperado,fonte
+Quando a dor começou?,DOR COMEÇAR QUANDO?,valido,libras_teste
+Quando a dor começou?,QUANDO DOR COMEÇAR?,invalido,libras_teste
+Posso ir para casa hoje?,EU PODER IR PARA CASA HOJE,invalido,libras_teste
+Bebeu água suficiente?,BEBER ÁGUA SUFICIENTE?,valido,libras_teste
+Comeu algo estranho?,COMER ESTRANHO ALGO?,invalido,libras_teste
+Pode explicar o tratamento?,PODER EXPLICAR TRATAMENTO,valido,grammar_tania
+Posso ir para casa hoje?,EU PODER IR CASA HOJE,valido,grammar_tania
+"Chamar a enfermeira, agora.",ENFERMEIRA CHAMAR AGORA,valido,grammar_tania

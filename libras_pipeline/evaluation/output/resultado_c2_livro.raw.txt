@@ -1,0 +1,345 @@
+### Quando a dor começou? -> DOR COMEÇAR QUANDO?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra específica na base cobre a estrutura sintática de interrogativas com advérbio interrogativo (QUANDO) ou a ordem temporal em perguntas.",
+"sugestao": ""
+}
+
+### Quando a dor começou? -> QUANDO DOR COMEÇAR?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra específica na base cobre a estrutura sintática de interrogativas temporais com o marcador QUANDO ou a ordem dos sinais nesta construção específica.",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR PARA CASA HOJE
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.SINTAXE.043"
+],
+"problema": "A preposição locativa 'PARA' deve ser omitida na glosa quando o verbo de movimento (IR) já expressa a direção ou o destino é apontado.",
+"sugestao": "EU PODER IR CASA HOJE"
+}
+
+### Bebeu água suficiente? -> BEBER ÁGUA SUFICIENTE?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre especificamente a estrutura de interrogativas sim/não (sem QU) ou a ordem de advérbios de quantidade como 'suficiente' em relação ao objeto.",
+"sugestao": ""
+}
+
+### Comeu algo estranho? -> COMER ESTRANHO ALGO?
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a ordem específica de adjetivos e objetos indefinidos em interrogativas simples sem concordância.",
+"sugestao": ""
+}
+
+### Pode explicar o tratamento? -> PODER EXPLICAR TRATAMENTO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A frase é uma interrogativa sim (polar), mas as regras fornecidas não especificam a estrutura gramatical para perguntas sim/não (ausência de regras sobre intonação não manual ou marcadores específicos para interrogativas sim/não).",
+"sugestao": ""
+}
+
+### Posso ir para casa hoje? -> EU PODER IR CASA HOJE
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIVRO.SINTAXE.003",
+"LIVRO.SINTAXE.043",
+"LIVRO.PRONOMES.005"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### Chamar a enfermeira, agora. -> ENFERMEIRA CHAMAR AGORA
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [
+"LIVRO.SINTAXE.014"
+],
+"problema": "",
+"sugestao": ""
+}
+
+### De menino -> MENINO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A preposição 'de' e a estrutura nominal simples não possuem regras específicas na base fornecida para validação de ordem ou omissão.",
+"sugestao": ""
+}
+
+### De menino -> DE MENINO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre especificamente a estrutura ou o uso da preposição 'de' com substantivos comuns em Libras.",
+"sugestao": ""
+}
+
+### Por aqui -> AQUI
+{"veredito":"nao_coberto","representa_sentido":"Sim","natural_estrutura":"Sim","regras":[],"problema":"Nenhuma regra da base cobre especificamente a representação de advérbios de lugar ou a omissão de preposições locativas em frases isoladas como 'Por aqui'.","sugestao":""}
+
+### A mulher -> MULHER
+{"veredito":"valido","representa_sentido":"Sim","natural_estrutura":"Sim","regras":[],"problema":"","sugestao":""}
+
+### A mulher -> A MULHER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a forma específica de glosar o substantivo 'mulher' isolado ou o uso do artigo 'A' como prefixo 'A' na glosa.",
+"sugestao": ""
+}
+
+### Os meus filhos -> MEUS FILHOS
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para possessivos ou a ordem de adjetivos possessivos em Libras.",
+"sugestao": ""
+}
+
+### Os dois porcos -> DOIS PORCOS
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.MORFOLOGIA.001"
+],
+"problema": "A pluralização do substantivo 'porcos' deve ser representada pela repetição sequencial do sinal (PORCO+++), conforme a regra de morfologia, e não apenas pelo numeral 'DOIS' que indica quantidade.",
+"sugestao": "DOIS PORCO+++"
+}
+
+### A presidente -> PRESIDENTE MULHER
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a estrutura morfológica ou sintática para o substantivo 'presidente' ou a marcação de gênero feminino em Libras.",
+"sugestao": ""
+}
+
+### A presidente -> MULHER PRESIDENTE
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para o título 'presidente' ou a combinação 'mulher presidente'.",
+"sugestao": ""
+}
+
+### O artista -> ARTISTA HOMEM
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para o substantivo 'artista' ou a adição de 'HOMEM' como especificador.",
+"sugestao": ""
+}
+
+### Bebo água -> BEBER ÁGUA
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a estrutura SVO simples sem sujeito explícito ou concordância verbal específica para este caso.",
+"sugestao": ""
+}
+
+### Bebo água -> BEBO ÁGUA
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a estrutura SVO simples com verbo intransitivo/ergativo 'beber' ou a ausência de sujeito explícito.",
+"sugestao": ""
+}
+
+### Ontem trabalhei -> ONTEM TRABALHAR
+{
+"veredito": "valido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "",
+"sugestao": ""
+}
+
+### Vi ontem -> VER ONTEM
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre especificamente a ordem do advérbio temporal 'ontem' em relação ao verbo 'ver' ou a estrutura SVO para essa frase específica.",
+"sugestao": ""
+}
+
+### Estudarei Libras -> ESTUDAR LIBRAS FUTURO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a marcação morfológica ou sintática para o tempo futuro (futuro do presente) em Libras.",
+"sugestao": ""
+}
+
+### Estudarei Libras -> ESTUDAREI LIBRAS
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a marcação de tempo futuro ou a estrutura SVO simples sem sujeito explícito.",
+"sugestao": ""
+}
+
+### Aprenderam português -> APRENDER PORTUGUÊS PASSADO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a ordem canônica de verbos simples com objeto inanimado (SVO vs SOV) ou a marcação temporal específica para o pretérito perfeito sem sujeito explícito.",
+"sugestao": ""
+}
+
+### Não ter -> NÃO_TER
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.MORFOLOGIA.010"
+],
+"problema": "A regra LIVRO.MORFOLOGIA.010 especifica que a negação do verbo 'ter' deve ser representada pela etiqueta 'TER-NÃO', e não por 'NÃO_TER'.",
+"sugestao": "TER-NÃO"
+}
+
+### Não conhecer -> NÃO_CONHECER
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.NEGACAO.003"
+],
+"problema": "A negação deve aparecer após o verbo em verbos sem concordância (CONHECER), não antes.",
+"sugestao": "CONHECER NÃO"
+}
+
+### Não bonito -> NÃO_BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "A estrutura de negação adjetival (NÃO + ADJETIVO) não é especificada nas regras fornecidas, que cobrem apenas negação verbal.",
+"sugestao": ""
+}
+
+### Lindo demais -> MUITO_LINDO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a estrutura sintática de adjetivos com intensificadores ou a ordem específica de 'Lindo demais'.",
+"sugestao": ""
+}
+
+### Muito bonito -> MUITO_BONITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base lista a estrutura específica para o adjetivo 'bonito' ou a combinação 'muito bonito'.",
+"sugestao": ""
+}
+
+### Bem demais -> MUITO_BEM
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base cobre a estrutura ou o mapeamento específico da expressão 'Bem demais' ou do sinal MUITO_BEM.",
+"sugestao": ""
+}
+
+### Trabalhar muito -> TRABALHAR_MUITO
+{
+"veredito": "nao_coberto",
+"representa_sentido": "Sim",
+"natural_estrutura": "Sim",
+"regras": [],
+"problema": "Nenhuma regra da base especifica a estrutura morfológica ou sintática para a combinação de um verbo com o advérbio 'muito' (intensificação).",
+"sugestao": ""
+}
+
+### Você é bonito -> VOCÊ BONITO
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.VERBOS.001"
+],
+"problema": "Falta o sinal copulativo 'É' obrigatório para a função de ligação.",
+"sugestao": "VOCÊ É BONITO"
+}
+
+### Você é bonito -> VOCÊ SER BONITO
+{
+"veredito": "invalido",
+"representa_sentido": "Sim",
+"natural_estrutura": "Não",
+"regras": [
+"LIVRO.VERBOS.001",
+"LIVRO.PRONOMES.005"
+],
+"problema": "O pronome 'você' deve ser representado por IX (você) e o verbo copulativo 'ser' deve ser representado pelo sinal É, não por SER.",
+"sugestao": "IX (você) É BONITO"
+}
+

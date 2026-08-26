@@ -1,0 +1,91 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.7.5.1. Sugestões e parâmetros para a implementação de pro- ===
+=== TRECHO: páginas 334-335 (parte 4 de 5 do mesmo tópico) ===
+
+[p.334]
+335
+trabalhar com a visualidade, observar as expressões faciais e corporais, os sinais 
+da cultura, ter consciência da variabilidade dos sinais, uso adequado dos sinais 
+nos níveis semântico, fonético e sintático e tudo o que no diálogo é possível de ser 
+compreendido e, assim, possibilitar uma comunicação mais segura e inequívoca 
+na relação dialógica entre professor e aluno Surdo.
+  Laborit (1994), Surda, nos conta sua experiência:
+ 
+(...)Tive uma boa nota em francês e o professor me convidou 
+para explicar o assunto aos alunos que não haviam com -
+preendido. Fui ao quadro e comecei a exprimir na Língua 
+de Sinais. No início de minha demonstração, o professor me 
+deteve. Acusou-me de excesso de “facilidade” e exigiu que 
+me exprimisse oralmente. Senti-me ridícula. Jamais tinha 
+me sentido tão ridícula. Os alunos me olhavam rindo, não 
+entendiam absolutamente nada do que eu tentava formular.
+No fim do que me pareceu uma eternidade, parei de uma 
+vez. Não somente estava infeliz, mas fiz todo mundo perder 
+tempo. Pedi ao professor para ter “a grande delicadeza” de 
+me conceder 5 minutos para fazer o mesmo raciocínio, mas 
+dessa vez na Língua de Sinais. Convencido de que não tinha 
+nível suficiente para conseguir o que queria, persuadido de 
+que minha língua era “inferior”, limitada, deixou-me fazer, 
+provavelmente pensando que iria demonstrar a minha in-
+capacidade. Os alunos, até eles, olhavam-me com olhos 
+arredondados, brilhando de malícia, rindo. Habitualmente, 
+entre nós, não nos exprimíamos com sinais a não ser para 
+trapacear ou no recreio, ou na rua. A pequena revolução 
+que eu acabava de conseguir era importante. Iriam eles 
+compreender o que não haviam compreendido oralmente 
+quando explicado pelo professor?
+“Escutaram-me” com bastante atenção. Meu raciocínio foi 
+claro, a explicação convincente e os alunos ficaram satis -
+feitos. O professor ainda assim recusou-se a acreditar que 
+eu havia explicado tão rapidamente e tão bem.
+- Vocês compreenderam tudo?
+O “sim” foi unânime. Ele duvidou ainda e pediu ironica -
+mente a um aluno que viesse repetir aquilo que supos -
+tamente havia entendido. O aluno executou a tarefa e o 
+professor, surpreso, fez uma careta, e se refugiou em sua 
+má-fé habitual. Continuou a aula oralmente, esquecendo-se 
+do que acabava de acontecer.”
+
+[p.335]
+336
+ 
+Bakhtin (2006) destaca que, “as condições de comunicação e as estruturas 
+sociais estão indissoluvelmente ligadas”, que a estrutura da linguagem e a organiza-
+ção da atividade mental estão ligadas na interação verbal, assim como as expressões 
+faciais e corporais que, no momento dos “sinais” (a fala), já expressam a sua sintaxe, 
+semântica e ideologia em saber que o mundo interior é expresso e fundamentado 
+nas possibilidades de expressão, das características sociais e das subjetividades. A 
+fala, assim como os sinais e sua condição de comunicação, no caso da modalidade 
+viso-gestual (já que sua aquisição ou o significado exterior vêm através dos “olhos” 
+e do ato de “ver”), e sua estruturação social variam de um caso para outro, devido 
+à sua identidade diversificada, de acordo com o ambiente exterior onde adquiriu 
+a língua materna ou de um ambiente em que foi ou se é criado. As condições de 
+comunicação e sua estrutura social estão ligadas, porque na aquisição dos primei-
+ros sinais, os significados começam a se constituir a partir de um conceito visual. 
+A sua construção subjetiva parte por meio do contato com os outros sinais visuais 
+e começa a formar a expressão, os sentidos, os conceitos visuais relacionados à 
+atividade mental, como diz Bakhtin (apud JOBIM; SOUZA, 1994, p.112):
+ é a expressão que organiza a atividade mental, que modela 
+e determina sua orientação; não é tanto a expressão que 
+se adapta ao nosso mundo exterior, mas o nosso mundo 
+interior que se adapta às possibilidades de nossa expressão, 
+aos seus caminhos e às suas orientações possíveis.
+ 
+A consciência de que o significado visual difere, em seu processamento, do 
+significado oral abre a possibilidade de se descobrirem as diferenças e contradições 
+no diálogo, submetido às pressões sociais com os ouvintes. A diferença começa a 
+ser experimentada e transformada em uma ideologia, devido à diferença cultural e 
+à imposição da homogeneidade e uso artificial da fala (no caso da oralização para 
+se igualar ao mesmo modelo dos não Surdos, apesar de a voz continuar destoante). 
+A ideologia surge da experimentação e das experiências vivenciais de um indivíduo 
+ou de um grupo.
+ Nem todos os Surdos, dependendo do seu ambiente exterior ou de contato 
+com os mesmos grupos, têm o seu grau de consciência de que são Surdos, devi -
+do à homogeneidade e às pressões sociais dos não surdos, mas começam a ter 
+consciência quase tardiamente da importância do seu papel. É no encontro com 
+o “outro”  (BAKHTIN, 2006) e na interação com o seu semelhante que ele desen-
+volverá um “grau de orientação social” que despertará sua consciência linguística 
+e de identidade. O mesmo acontece com a escola onde os professores usuários de 
+LS ou professores Surdos, com a formação homogênea das universidades, têm seus 
+vários níveis de grau de consciência para com a língua e seus contextos visuais, 
+onde encontram suas dificuldades de ensinar a língua materna aos Surdos, devido

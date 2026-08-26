@@ -1,0 +1,87 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.11 CONDICIONAIS ===
+=== TRECHO: páginas 196-197 ===
+
+[p.196]
+197
+8.11 CONDICIONAIS 
+8.11.1 Orações condicionais: conceitos gerais
+Entre as orações adverbiais, encontram-se aquelas que exprimem um valor 
+de condicionalidade entre dois eventos ou estados de coisas. Em sua forma 
+clássica, a oração condicional é frequentemente apresentada sob a fórmula lógica 
+simples “se p, q”, em que “p” representa a oração adverbial, e q, a principal.
+Assim, as relações de condição são estabelecidas a partir de uma conexão 
+entre dois estados de coisas, de modo que a ocorrência de um deles (p ) seja a 
+condição para a ocorrência do outro (q) (CRISTOFARO, 2003).
+Segundo a tradição gramatical, as orações adverbiais expressam “a circuns-
+tância de que depende a realização do fato contido na oração principal”, podendo 
+apresentar, nas suas formas mais comuns, “um fato de realização impossível, [...], 
+um fato cuja realização é possível, provável ou desejável [...]”, ou, ainda, “desejo, 
+esperança e pesar” (ROCHA LIMA, 2011, p. 346).
+Partindo de uma perspectiva funcionalista, Neves (2000, p. 832), expõe 
+que “dentro de uma construção condicional, a oração que exprime condição 
+(tradicionalmente, a subordinada) é chamada prótase, e a que exprime o que é 
+condicionado (a nuclear, ou principal) é chamada apódose” (grifos da autora). 
+Sendo assim, a construção se apoia basicamente numa hipótese, o que a faz também 
+ser chamada, nos estudos clássicos, como “período hipotético” (NEVES, 2000).
+Logo, em um exemplo como o apresentado em (1), a oração “SE CHOVER”, 
+que carrega propriamente o valor hipotético condicional, será chamada prótase 
+ou antecedente; a contraparte “IX (eu) IR-NÃO ESCOLA”, será nomeada, aqui, 
+como apódose ou consequente.
+(1) SE CHOVER IX (eu) IR-NÃO ESCOLA [1]
+Se chover, eu não vou à escola.
+  Oliveira e Hirata-Vale (2017, p. 295), por sua vez, assumem que as cons -
+truções condicionais são essencialmente caracterizadas pelo fato de se apoiarem 
+sobre uma base causal hipotética. De acordo com as pesquisadoras, há um consenso 
+na literatura quanto a apresentar a condicional como “um enunciado em que dois 
+segmentos se associam numa relação de causalidade não preenchida”.
+Cumpre destacar que, usualmente, as orações condicionais funcionam como 
+tópicos de suas sentenças (HAIMAN, 1978), ou seja, veiculam a informação com-
+partilhada entre os interlocutores. Isso quer dizer que, por exemplo, se duas pes-
+soas estão discutindo sobre um assunto levantado na pr ótase (p), mas estã o em 
+dúvida sobre ele; entã o, elas incluem, cognitivamente, o assunto da pr ótase em 
+seu conhecimento de mundo, para a partir disso, hipoteticamente, discutir sobre 
+o conteúdo que está na apódose (q) (ALEIXO, 2021).
+
+[p.197]
+198
+O tópico, segundo Haiman (1978), pode ser tomado a partir de duas perspec-
+tivas: (a) a de que caracteriza aquilo sobre o que o emissor está falando, no sentido 
+daquilo que Halliday (1967) nomeia como “aboutness”; e (b), a que relaciona o 
+tópico à veiculação de informação compartilhada.
+A função topical das condicionais está ligada ao fato de que, translinguistica-
+mente, tanto em línguas orais como em Línguas de Sinais, as orações condicionais 
+se organizam, sintaticamente, sob a forma anteposta na maioria das vezes; ou seja, 
+a prótase normalmente antecede a apódose (se p, q).
+A posposição, entretanto, que é a ordem marcada das condicionais, é verifi-
+cada em línguas orais, por exemplo, na Língua Portuguesa. Nesses casos, a prótase 
+(que está posposta) cumpre a função de adendo, ou seja, referindo-se a conteúdos 
+novos, depois de uma aparente conclusão trazida pela oração principal (CHAFE, 
+1984).
+Por fim, é relevante ressaltar que há a possibilidade de avaliar a relação entre 
+as orações que compõem a sentença condicional considerando o grau de hipote -
+ticidade, ou seja, é possível analisar a potencialidade de realização dos estados 
+de coisas. Nesse sentido, Comrie (1986) afirma que os conjuntos de condicionais 
+resultantes dessa comparação são, por um lado, as condicionais que têm um maior 
+grau de hipoteticidade, o que significa que a probabilidade de realização delas é 
+muito baixa. Por outro, existem condicionais com baixa hipoteticidade, cuja pro-
+babilidade de realização é muito alta.
+As condicionais são comumente subdivididas em três tipos semânticos: fac-
+tuais, potenciais (ou hipotéticas) e contrafactuais. Esses subtipos se referem aos 
+diferentes graus de hipoteticidade das relações de verdade (e, consequentemente, 
+da probabilidade de realizaçã o) das proposições envolvidas. Isso quer dizer que 
+uma sentença factual representa uma relaçã o com um menor grau de hipotetici -
+dade; em contrapartida, uma condicional contrafactual representa o menor grau 
+de probabilidade de realização, o que acarreta um maior grau de hipoteticidade; 
+a condicional potencial (ou eventual) se estabelece num “meio termo” entre esses 
+dois extremos, ou, como afirma Oliveira (2008, p. 92), combina não factualidade 
+com não pressuposição – diferentemente das condicionais contrafactuais que se 
+caracterizam por conter traços de não factualidade e pressuposição.
+8.11.2 Orações condicionais nas Línguas de Sinais
+Diferentemente das línguas orais, as Línguas de Sinais ainda carecem de 
+descrições mais aprofundadas sobre as orações condicionais (cf. PAULUS, 2021; 
+HERRMANN; STEINBACH, 2013), embora possamos encontrar importantes tra-
+balhos sobre o tema nas Línguas de Sinais do mundo, por exemplo, na Língua de 
+Sinais alemã (DGS, PAULUS, 2021), na Língua de Sinais americana (ASL, BAKER; 
+PADDEN, 1978; LIDDELL, 1986),  na Língua de Sinais austríaca (ÖGS, LACK -
+NER, 2013), na Língua de Sinais australiana (AUSLAN, JOHNSTON; SCHEMBRI,

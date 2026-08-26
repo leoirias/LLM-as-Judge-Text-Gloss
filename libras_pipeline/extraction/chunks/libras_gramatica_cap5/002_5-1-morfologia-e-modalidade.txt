@@ -1,0 +1,88 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.1. Morfologia e modalidade ===
+=== TRECHO: páginas 175-176 ===
+
+[p.175]
+176
+phe”, que significa “forma”, e “logia”, que significa “estudo”. O objeto de estudo 
+da Morfologia é o morfema, unidades mínimas de significação, constituídas de 
+fonemas, unidades arbitrárias e sem significado (KLIMA; BELLUGI, 1979).
+A Morfologia estuda estruturas identificadas nas mais diversas línguas, os 
+arranjos de seus componentes, suas combinações e regras com suas especificidades 
+e idiossincrasias, incluindo-se aquelas inerentes à modalidade, como é o caso das 
+Línguas de Sinais.
+Sob o escopo da gramática das Línguas de Sinais, a Morfologia é o campo 
+de estudo linguístico responsável por estudar, nos termos de Quadros e Karnopp 
+(2004, p.86-87), a estrutura interna dos sinais, as regras que determinam a for -
+mação desses sinais, assim como a relação de um sinal com outro numa mesma 
+Língua de Sinais, considerando-se que as Línguas de Sinais têm um léxico e um 
+sistema de criação de novos sinais, constituído de unidades mínimas com significa-
+do (morfemas sinalizados) que, combinados, possibilitam a construção dos sinais.
+A Morfologia tem como função identificar morfemas individuais, que podem 
+ser sinais ou partes dos sinais; morfes e alomorfes – radicais, raízes, prefixos e 
+sufixos –, e analisar seu significado e função lexical. A segmentação dos sinais em 
+diferentes tipos de morfemas é essencial para os dois objetivos básicos da Morfo-
+logia das Línguas de Sinais: a criação de novos sinais e a modificação dos sinais 
+existentes.
+Estudiosos das Línguas de Sinais têm se dedicado a estudos morfológicos, a 
+fim de melhor entenderem como se constituem, como se combinam, como signifi-
+cam e como funcionam os sinais e suas formas emergentes. Entre esses estudiosos, 
+encontram-se aqueles que se dedicam aos estudos da Língua de Sinais brasileira, 
+entre os quais Ferreira-Brito (1995); Felipe (2006); Quadros e Karnopp (2004); 
+Figueiredo e Sell (2009); Pizzio (2011);  Faria-Nascimento (2013); Minussi e Ro -
+dero-Takahira (2013); Quadro (2019), e aqueles que se dedicam aos estudos de 
+outras Línguas de Sinais, como Klima e Bellugi (1979); Liddell (1984); Aronoff, 
+Meir e Sandler (2005); Sandler e Lillo-Martin (2009); Quer et al. (2019) e outros.
+5.1. Morfologia e modalidade
+ 
+As Línguas de Sinais, como línguas visuo-espaciais, marcam na 
+modalidade seu grande diferencial das línguas orais, pois lidam com 
+a informação linguística recebida pelos olhos (visão) e produzida 
+pelas mãos (corpo), enquanto as línguas orais lidam com a informa-
+ção linguística recebida pela orelha (audição) e produzida pela boca 
+(som). alguns dos quais, Quadros (2019, p.63-64); Ferreira (2014); 
+Figueiredo Silva & Sell (2009); Felipe (2006.); Quadros & Karnopp 
+(2004, p.88); Ferreira-Brito (1995); Klima & Bellugi (1979); e Faria-
+-Nascimento (no prelo).
+
+[p.176]
+177
+Essa diferença de modalidade acarreta características específicas, proprie -
+dades e complexidade diferenciadas, o que determina o perfil idiossincrático das 
+Línguas de Sinais. Assim, “a estrutura dos sinais da Língua de Sinais brasileira é 
+complexa, apresentando algumas propriedades presentes nas Línguas de Sinais 
+que não são encontradas nas línguas orais” (QUADROS; KARNOPP, 2004, p.88).
+A iconicidade, os empréstimos linguísticos datilológicos, a visualidade, entre 
+outros traços que emergem na Morfologia das Línguas de Sinais, imprimem na Lín-
+gua de Sinais brasileira características que saltam aos olhos e marcam as diferenças 
+significativas suplantadas no escopo da análise linguística das Línguas de Sinais.
+Sandler e Lillo-Martin (2009, p.21) mencionam, inclusive, que “seria muito 
+estranho para uma língua em uma modalidade manual-visual não explorar sua 
+capacidade de representar imagens visuais e relações espaciais iconicamente” e, 
+ao mesmo tempo, esclarecem que, apesar de icônicas, as Línguas de Sinais são 
+morfologicamente complexas, pois alguns dos processos que envolvem os com -
+ponentes dos sinais são transparentes, enquanto outros são opacos. (SANDLER; 
+LILLO-MARTIN, 2009, p.21)
+Quer et al. (2019, p.170) destacam que alguns aspectos estruturais indepen-
+dem da modalidade, enquanto outros são específicos dela. Entre os aspectos espe-
+cíficos, mencionam os empréstimos de estruturas das línguas orais circundantes, 
+muito comum nas Línguas de Sinais. O uso da datilologia como um componente 
+de compostos é, claramente, um traço específico da modalidade.
+Compostos simultâneos 1 são fruto de uma propriedade específica da 
+modalidade das Línguas de Sinais, pois apenas a modalidade visual permite a ar-
+ticulação simultânea de dois radicais, graças à disponibilidade de dois articuladores 
+manuais (as duas mãos do sinalizante).
+Segundo Sandler e Lillo-Martin (2009, p.21), “a morfologia é o ponto de en-
+contro mais facilmente observável das formas iconicamente motivadas da Língua de 
+Sinais e da estrutura linguística”. Esse reconhecimento, assim como a identificação 
+das demais especificidades reveladas pela diferença linguística da modalidade, auxi-
+liam na descrição das estruturas morfológicas das Línguas de Sinais, da análise des-
+sas estruturas e no entendimento do funcionamento do sistema gramatical dessas 
+línguas, sob a perspectiva de uma modalidade linguística específica e diferenciada.
+5.1.1. O léxico mental em Libras e sua relação com a morfologia 
+das Línguas de Sinais
+ Com base na proposta de Brentari e Padden (2001, p. 89) para os compo -
+nentes do léxico mental da ASL, Quadros e Karnopp (2004, p.88) propuseram a 
+seguinte representação para o léxico mental da Língua de Sinais brasileira:
+1 Alguns pesquisadores tratam de compostos semissimultâneos. Neste estudo, trataremos 
+apenas de compostos simultâneos.

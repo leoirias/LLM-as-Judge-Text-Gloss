@@ -1,0 +1,134 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.4 CONJUNTIVAS ===
+=== TRECHO: páginas 117-122 (parte 1 de 2 do mesmo tópico) ===
+
+[p.117]
+118
+8.4 CONJUNTIVAS 
+ 
+Foram identificados alguns marcadores manuais que indicam a conjunção, 
+conforme apresentado a seguir:
+Figura 2: Marcadores manuais conjuntivos.
+TAMBÉM BOIA- NUMERAL É PALM-UP
+ 
+Sintaticamente, observamos a combinação de uma ou mais orações que, 
+normalmente, são correlatas e podem ser consideradas separadamente. No entanto, 
+nem sempre é possível alternar a ordenação em função das condições semânticas. 
+Do ponto de vista semântico, o sinal ‘TAMBÉM’ indica inclusão que poderia ser 
+traduzido para o Inglês como ‘moreover’ and ‘also’. Mas também pode indicar 
+equivalência ou similitude que poderia ser traduzido da seguinte forma: ‘in the 
+same way’ and ‘as well as’. Vejamos alguns exemplos:
+ 
+(2)  Parataxe conjuntiva manual TAMBÉM.
+  
+        
+ TAMBÉM          E (outro) FAMILIA            PAI             OUVINTE         TAMBÉM   
+3VER1                 NORMAL           PORQUE     ACOSTUMAR     GERAÇÃO          PAI
+
+[p.118]
+119
+    
+   
+  
+        TIO              GERAÇÃO
+TAMBÉM OUTRO FAMILIA PAI OUVINTE 
+TAMBÉM 3VER1 NORMAL PORQUE JÁ ACOS-
+TUMAR GERAÇÃO PAI TIO GERAÇÃO
+Também na outra família do meu pai, que é ou-
+vinte, eu também era vista como normal, porque 
+eles já estavam acostumados com uma geração 
+de surdos.
+ 
+Essa estrutura apresenta uma unidade oracional complexa que compreende 
+duas orações paratáticas conjuntivas com informação semântica de inclusão, além 
+de uma oração encaixada que refere à observação de que eram familiares ‘ouvintes’ 
+e uma oração hipotética causal. Vamos focar na informação de inclusão das duas 
+ocorrências do sinal TAMBÉM:
+Figura 3: TAMBÉM OUTRO FAMÍLIA PAI [OUVINTE].
+ 
+Essa oração inclui a outra família do pai que é ouvinte. A referência OUVINTE 
+é um aposto para especificar à qual família do pai ela está se referindo. A inclusão 
+é feita pela família do pai. Então, na sequência, vem a inclusão do fato desta parte 
+da família também não a tratar diferentemente:
+
+[p.119]
+120
+                           Figura 4: TAMBÉM 3VER1 NORMAL.
+Nessa parte da oração, a inclusão é feita no fato desta parte da família tam-
+bém vê-la como uma pessoa normal, assim como outras partes da família e amigos, 
+conforme já havia sido mencionado anteriormente no seu discurso. Nesse exemplo, 
+contamos, portanto, com orações conjuntivas que apresentam uma interpretação 
+inclusiva.
+O próximo exemplo também apresenta uma paratática conjuntiva com o 
+sinal TAMBÉM:
+ (3) Parataxe conjuntiva manual TAMBÉM
+  
+          
+ 1VIR (escola) 3APOIAR1            IX (ele) 3 FALAR-ORAL1   TAMBÉM       3 FALAR-ORAL1 
+IX (3)
+1VIR (escola) 3APOIAR1 IX (ele) 3FALAR-
+ORAL1 TAMBÉM 3FALAR-ORAL1 IX (ele)
+Eu ia naquela escola que me dava apoio 
+sistematicamente e eles falavam comigo, sim 
+também falavam comigo.
+https://youtu.be/qx3HAKqZ3hQ
+
+[p.120]
+121
+Essa unidade oracional complexa compreende uma oração encaixada e duas 
+orações paratáticas, que classificamos como combinação paratática, ou seja, mais de 
+uma estrutura paratática na mesma unidade oracional. Nosso foco aqui é a oração 
+associada com o sinal ‘TAMBÉM’, mas já apresentamos também a parataxe que 
+será analisada nas construções sem marcação manual.
+ 
+Figura 5: 1IR (escola) 3APOIAR1+ IX (ele) 3FALAR-ORAL1.
+Aqui tem uma encaixada ‘que a apoiavam’ combinada com uma paratática: 
+IX (3) 3FALAR-ORAL1 e na sequência o sinal TAMBÉM é produzido com a repe-
+tição da oração anterior:
+              Figura 6: TAMBÉM 3FALAR-ORAL1 IX (3).
+ 
+ Aqui a interpretação é de equivalência, uma vez que a informante reporta o 
+apoio que lhe era dado, bem como o fato de que falavam com ela. Há uma relação 
+mais do tipo de apoio que era oferecido, talvez uma subcategoria do apoio jun -
+tamente com a ênfase: “sim, eles também falavam comigo”. Há uma informação 
+enfática registrada pelo sinal TAMBÉM indicando a conjunção associada à repetição 
+com ênfase ao fato de falarem com ela.
+ Observem que nos exemplos (2) e (3) nos quais há o marcador manual 
+conjuntivo TAMBÉM, há da mesma forma a marcação não manual por meio da 
+elevação das sobrancelhas associadas ao rebaixamento da boca. Na parataxe em 
+que não há o elemento manual combinado com a oração encaixada, também há a 
+mesma marcação não manual. Depois retomaremos as marcações não manuais.
+ Outro marcador oracional em orações paratáticas é o uso da boia, conforme 
+ilustrado na figura 7 a seguir:
+
+[p.121]
+122
+Figura 7: Boia-numeral
+A boia é um mecanismo gramatical utilizado na Libras, assim como em outras 
+línguas de sinais. Conforme Liddell (2002) [1, a boia é o uso da segunda mão para 
+ser usada em listas para enumerar coisas, ideias, orações coordenadas, quando 
+indica os dedos em uma ordem (o primeiro, o segundo, o terceiro, etc.). Há tam-
+bém as boias que podem envolver a apontação ou outro sinal que fica em stand-by 
+durante a sinalização com a outra mão indicando uma relação paralela do ponto 
+de vista semântico. Nesses casos, podemos ter orações hipotáticas com relação de 
+dependência indicando relações temporais.
+ No caso específico da parataxe marcada por meio do uso da boia, no exemplo 
+(4), a relação semântica é de explicitação do tipo de interação; assim, ela inclui a 
+informação de que o primeiro contato foi na infância indicado no dedo médio, na 
+escola, com seus colegas e o segundo contato foi na adolescência indicado no dedo 
+indicador, por meio da boia numeral, boia-2, ou seja, com dois dedos para serem 
+referidos, coordenados conjuntivamente.
+ 
+(4) Parataxe conjuntiva com o uso de boia lista.
+INTERAGIR         CONTATO        PRIMEIRO [dedo médio. BOIA-2]     PRIMEIRO      CONTATO
+     
+  
+        CRIANÇA            E (então)                   SINAL                ESCOLA                      PRIMEIRO
+
+[p.122]
+123
+     CONTATO [dedo indicador BOIA-1]    LÍNGUA-DE-SINAIS    VERDADE         E (então)
+       NORMAL                SEU        LÍNGUA-DE-SINAIS [dedo médio. BOIA 2.]     TER-NÃO
+            
+      SINTAXE        DIFERENTE              GESTO              E (então) MAIS    LÍNGUA DE SINAIS
+TER                   E (então)     O-QUE              NADA              E (não)             TER

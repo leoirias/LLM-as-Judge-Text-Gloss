@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m py_compile libras_pipeline/evaluation/*.py)",
+      "Bash(python3 -c ' *)",
+      "Bash(PYTHONPATH=libras_pipeline/evaluation python3 -c ' *)",
+      "Bash(git mv *)",
+      "Bash(xxd)",
+      "Bash(python3 -m py_compile libras_pipeline/evaluation/run.py)",
+      "Bash(PYTHONDONTWRITEBYTECODE=1 python3 -m py_compile libras_pipeline/evaluation/run.py)"
+    ]
+  }
+}

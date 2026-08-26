@@ -1,0 +1,129 @@
+=== DOCUMENTO: Gramática da Libras Vol.1 (INES/Quadros et al.) — Cap.5 Morfologia ===
+=== TÓPICO: 5.5.1 Concordância verbal ===
+=== TRECHO: páginas 213-217 (parte 1 de 3 do mesmo tópico) ===
+
+[p.213]
+214
+regularidade e sistematicidade, enquanto a morfologia derivacional é mais irregular 
+e mais assistemática. Além disso, os morfemas flexionais são dependentes da estru-
+tura da frase e, portanto, não são opcionais; por serem  requeridos pela estrutura 
+da sentença, não dependem da vontade do falante ou sinalizante da língua. Por 
+outro lado, os morfemas derivacionais não são exigidos pela estrutura da frase e, 
+portanto, podem ou não ser usados. 
+Descrição semelhante é fornecida por Hippisley e Stump (2016) ao descre-
+verem os processos flexionais como sendo aqueles que modificam a forma de um 
+lexema de acordo com um determinado contexto sintático. Assim, a flexão é en -
+tendida como sendo um processo determinado pela estrutura sintática, sendo um 
+processo não somente obrigatório, mas também produtivo na língua.
+Sobre os processos flexionais em Libras, apresentaremos a seguir uma des-
+crição sobre a concordância verbal, sobre a flexão de aspecto nos verbos e também 
+sobre flexão nominal. 
+ 5.5.1 Concordância verbal
+Em Libras, assim como em outras Línguas de Sinais, o espaço em frente ao 
+corpo do sinalizante, também chamado de espaço de sinalização, é utilizado para 
+codificar diferentes informações léxico-semânticas e gramaticais e é relevante em 
+todos os níveis de análise dessa língua (PERNISS, 2012). Uma das principais fun-
+ções do espaço de sinalização é o estabelecimento de referência. Assim, é possível 
+associar localizações no espaço a diferentes referentes no discurso.
+É a partir desse sistema de localizações no espaço que a Libras faz distinção 
+entre as pessoas do discurso. O apontamento em direção ao peito do sinalizante 
+marca a 1ª pessoa. Já o apontamento em direção ao interlocutor indica a 2ª pessoa 
+do discurso. Já a 3ª pessoa é marcada a partir do apontamento a um ponto especí-
+fico no espaço, que se difere da localização da 1ª pessoa e da 2ª pessoa.
+(105) 1ª pessoa                                  (106)  2ª pessoa                            (107) 3ª pessoa
+É importante ressaltar que o apontamento que marca a 3ª pessoa pode ser 
+feito em direção à localização real do referente presente no ambiente no momento da 
+https://youtu.be/4PHTzdNN_LY 
+ https://youtu.be/roJ6kL5lh28 
+ https://youtu.be/ufrsh6saVkg
+
+[p.214]
+215
+sinalização ou então para um ponto arbitrário no espaço, que passará a representar 
+esse referente a partir da primeira marcação. Ao fazer uso de um ponto arbitrário no 
+espaço, o sinalizante cria um mapeamento entre o ponto no espaço e seu referente 
+e a esse mapeamento podemos chamar de localização (LOURENÇO, 2018). Nesse 
+sentido, diferentes localizações no espaço corresponderão a diferentes mapeamen-
+tos de referentes. No exemplo a seguir, por meio de apontamento, a sinalizante 
+estabelece uma localização no espaço de sinalização que faz referência a uma en-
+tidade de terceira pessoa. 
+(108) Apontamento que estabelece uma localização arbitrária no espaço de sinalização.
+Destaca-se ainda que, além do apontamento, localizações podem ser estabeleci-
+das a partir da direção do olhar do sinalizante ou ainda ao se produzir um determinado 
+sinal naquele ponto específico do espaço, como mostrado no exemplo a seguir.
+(109) PESSOA OUVINTE produzida em um ponto específico no espaço  
+de sinalização acompanhada da direção do olhar.
+A partir do momento em que são estabelecidas localizações referenciais no 
+discurso sinalizado, há um grupo de verbos em Libras que pode ter sua própria 
+localização alterada de modo a coincidir com a localização desses referentes. A 
+esse processo de modificação sistemática da localização dos verbos chamamos de 
+concordância verbal.8 Em outras palavras, um verbo apresenta concordância 
+8 Além de flexão, os demais pesquisadores da Língua de Sinais utilizam outro termo. Ver-
+bos de/com Concordância (Padden, 1990); Verbos de movimento (Supalla, 1990); Verbos 
+Direcionais (Fischer; Gouch, 1973; 1978; Baker; Cokely, 1980; Xavier; Neves, 2016); Verbos 
+não simples (Quadros, 1999).
+https://youtu.be/PUNvAD_vD44
+
+[p.215]
+216
+com seu(s) argumento(s), quando a sua localização é alterada de modo a coincidir 
+com a localização do(s) argumento(s) (LOURENÇO;WILBUR, 2018).
+Alguns verbos em Libras apresentam um movimento de trajetória direcional, 
+em que o movimento do verbo inicia-se em um ponto no espaço e termina em um 
+outro ponto. Esses verbos podem ter o ponto inicial e o ponto final do movimento 
+modificado para concordar com as localizações do sujeito e do objeto da sentença. 
+A grande maioria desses verbos possui o ponto inicial do movimento concordando 
+com a localização do sujeito, enquanto que o ponto final do movimento concorda 
+com a localização do objeto. Esses são os chamados verbos de concordância dupla 
+regular.
+Quadro 2. Um sinal VER com movimento de trajetória direcional
+(110) 1ªpessoaVER2ªpessoa
+Eu vejo você.
+(111) 2ªpessoaVER1ªpessoa
+Você me vê.
+                    Fonte: Imagens retiradas de artigo (Xavier; NEVES, 2016, p. 137).
+Exemplos de corpus da surda com referência, verbo da dupla regular ENSI-
+NAR e AJUDAR entre a primeira pessoa e terceira pessoa:
+
+[p.216]
+217
+ 
+ (112) 1ªpessoaENSINAR3ªpessoa. 
+Ensino ele.
+https://youtu.be/WdWUtvqOAwc 
+(113) 3ªpessoaENSINAR1ªpessoa
+Ele me ensina.
+https://youtu.be/IyiameZ234E 
+(114) 1ªpessoaAJUDAR3ªpessoa
+Ajudei eles
+https://youtu.be/cdR08_kckyg 
+(115) 3ªpessoaAJUDAR1ªpessoa
+Ele me ajudou.
+https://youtu.be/PlwS_8v99Nk 
+ Fonte: Retirados do Corpus para canal. 
+Há, contudo, um grupo pequeno de verbos da Libras que também apresenta 
+um movimento de trajetória direcional, porém a concordância se dá de maneira 
+diferente: o ponto inicial do movimento concorda com o objeto da sentença; já o 
+ponto final do movimento concorda com a localização do sujeito da sentença. A 
+esses verbos chamamos de verbos de concordância dupla reversa.
+
+[p.217]
+218
+Quadro 3. Um sinal CONVIDAR com movimento de trajetória direcional
+(116) 1ªpessoaCONVIDAR2ªpessoa
+Eu convido você.
+(117) 2ªpessoaCONVIDAR1ªpessoa
+Você me convida.
+ Fonte: Imagens retiradas de artigo (XAVIER; NEVES, 2016, p. 137).
+Observe nos exemplos a seguir, retirados do Corpus, que o movimento dos 
+verbos PERCEBER e CHAMAR é reverso. Esses verbos possuem concordância 
+dupla reversa. Note que no sinal PERCEBER o movimento do verbo se inicia lon-
+ge do corpo do sinalizante e termina próximo ao corpo, no espaço da primeira 
+pessoa. Contudo, o ponto inicial do movimento do verbo não marca o sujeito, mas 
+sim o objeto da sentença. Já o ponto final do movimento do verbo coincide com a 
+localização do sujeito. O mesmo comportamento é observado no verbo CHAMAR, 
+mas, neste exemplo, o sujeito da frase é de terceira pessoa e o objeto é de primeira 
+pessoa (3CHAMAR1). 
+(118) Sinal PERCEBER da1ª pessoa para 3ª pessoa
+PERCEBER ELE
+https://youtu.be/BFuWs7A9X7A

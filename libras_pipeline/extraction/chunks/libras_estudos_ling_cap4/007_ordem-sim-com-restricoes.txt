@@ -1,0 +1,158 @@
+=== DOCUMENTO: Língua de Sinais Brasileira: Estudos Linguísticos (Quadros & Karnopp) — Cap.4 A sintaxe espacial ===
+=== TÓPICO: ORDEM SIM COM RESTRIÇÕES ===
+=== TRECHO: páginas 152-160 (parte 1 de 2 do mesmo tópico) ===
+
+[p.152]
+156     QUADROS & KARNOPP
+A tabela a seguir esquematiza os aspectos abordados:
+Tabela 4.1 Distribuição da ordem das frases na língua de sinais brasileira
+ORDEM SIM COM RESTRIÇÕES
+SVO X
+OSV X
+SOV X
+VOS X
+Esses fatos evidenciam que a ordem mais básica na língua de sinais é
+SVO. No entanto, percebe-se uma assimetria entre as construções com verbos
+sem concordância e verbos com concordância. A próxima seção irá examinar
+tais construções.
+OS DOIS TIPOS DE VERBOS E O AUXILIAR:
+REPERCUSSÕES NA ESTRUTURA DA FRASE
+Conforme apresentado no Capítulo 3, os verbos na língua de sinais se divi-
+dem em pelo menos duas classes: os verbos sem concordância e os verbos com
+concordância. Os primeiros são aqueles que exigem argumentos explícitos, uma
+vez que não há marca alguma no verbo com os argumentos da frase (TER,
+FALAR, AMAR, CONHECER). Por outro lado, os verbos com concordância estão
+associados a marcações não-manuais e ao movimento direcional (DIZER, EN-
+TREGAR, AJUDAR, REMETER).
+TER FALAR
+
+[p.153]
+LÍNGUA DE SINAIS BRASILEIRA     157
+AJUDAR REMETER
+DIZER ENTREGAR
+AMAR CONHECER
+Essas classes de verbos já foram estudadas em outras línguas de sinais
+(Bellugi e Klima, 1979; Liddel, 1980) e sempre foram reconhecidas as suas
+assimetrias morfológicas.
+
+[p.154]
+158     QUADROS & KARNOPP
+A análise apresentada aqui objetivou a verificação de repercussões sintá-
+ticas diferenciadas entre sentenças contendo um dos dois tipos de verbos. A
+seguir, serão apresentados os fatos que ilustram a assimetria entre os verbos
+com concordância e aqueles sem concordância:
+(i) As sentenças contendo verbos com concordância parecem apresen-
+tar mais liberdade na sua ordenação do que aquelas contendo ver-
+bos sem concordância.
+10
+10Nota-se que o corpo acompanha a direção do olhar.
+(ii) As marcas não-manuais são obrigatórias nos verbos com concordân-
+cia e opcionais nos verbos sem concordância.
+JOÃO <GOSTAR MARIA>do
+<MARIAb>do <JOÃOa aOLHARb>do (OSV)
+João olha para a Maria
+* MARIA <JOÃO GOSTAR> (OSV)
+João gosta da Maria
+
+[p.155]
+LÍNGUA DE SINAIS BRASILEIRA     159
+JOÃO GOSTAR MARIA
+*JOÃO <MARIA GOSTAR>do
+JOÃO <aAJUDARb MARIA>do
+João ajuda a Maria
+<JOÃO>do <MARIA>do <aAJUDARb>do
+??JOÃO aAJUDARb MARIA
+
+[p.156]
+160     QUADROS & KARNOPP
+(iii) Argumentos nulos contendo verbos com concordância ocorrem em
+contextos sintáticos em oposição às sentenças contendo verbos sem
+concordância.
+<AMANHÃ> IXa CONVERSAR IXb
+Amanhã el@ conversa com el@
+* AMANHÃ CONVERSAR
+AMANHÃ (el@ conversa com (el@))
+AMANHÃ <aDARb>do LIVRO
+Amanhã (você) dará o livro (a el@)
+
+[p.157]
+LÍNGUA DE SINAIS BRASILEIRA     161
+(iv) Há uma distribuição diferente da negação entre sentenças contendo
+verbos com e sem concordância.
+AMANHÃ <IXa> do <CONVERSAR> IXb> do
+Amanhã el@ conversa com el@
+* AMANHÃ <CONVERSAR> do
+AMANHÃ (el@) conversar com (el@)
+JOÃOa  <NÃO aDARb LIVRO>n
+João não deu o livro para (el@)
+
+[p.158]
+162     QUADROS & KARNOPP
+*JOÃO <NÃO GOSTAR CARRO>n
+João não gostou do carro
+Tais diferenças podem ser explicadas através da análise de Lasnik (1995)
+para a assimetria morfológica observada entre os verbos principais e os ver-
+bos auxiliares no inglês. Lasnik propôs que os verbos principais seriam os que
+apresentam uma operação fonológica de afixação de sua desinência verbal
+durante o processo da derivação, enquanto os verbos auxiliares seriam inseri-
+dos totalmente flexionados no processo de derivação. Ao analisar o comporta-
+mento dos verbos com e sem concordância na língua de sinais, observou-se
+que os verbos com concordância comportam-se como os verbos auxiliares no
+inglês, e os verbos sem concordância, como os verbos principais no inglês.
+11 A
+seguir, serão apresentados os fatos que evidenciam essa analogia.
+(i) Os verbos principais não podem preceder a negação (*John likes not
+Mary). O mesmo é observado na língua de sinais brasileira com os
+verbos sem concordância:
+*JOÃO <GOSTAR NÃO CARRO> 12
+(ii) Os verbos principais não podem ser seguidos da negação sem a pre-
+sença de do-support (*John not likes Mary e John does not like Mary).
+Isto é também observado na língua de sinais brasileira: com um
+verbo com concordância a sentença é boa, mas com um verbo sem
+concordância a sentença será boa somente com um auxiliar – AUX:
+11Os exemplos em inglês são de Lasnik (1995).
+12No entanto, esta distribuição é sempre agramatical, mesmo com verbos com concordância,
+uma vez que a unidade VP está violada, e isto não é possível na língua de sinais brasileira.
+JOÃOa <NÃO aDARb LIVRO>n
+(com verbo com concordância)
+
+[p.159]
+LÍNGUA DE SINAIS BRASILEIRA     163
+*JOÃO <NÃO GOSTAR CARRO>n
+(com verbo sem concordância)
+O auxiliar na língua de sinais brasileira é de certa forma similar aos auxi-
+liares da língua de sinais taiwanisia – TSL – (Smith, 1990). Smith observou
+que há três diferentes auxiliares na TSL que aparecem em posições fixas antes
+de verbos principais com a função primária de estabelecer relações entre o
+sujeito e o objeto. Além disso, esses auxiliares parecem ter traços -
+ϕ (como
+gênero e número).
+O auxiliar na língua de sinais brasileira é uma expressão pura de concor-
+dância estabelecida através do movimento de um ponto ao outro (estes pon-
+tos compreendem o sujeito e o objeto da sentença). Não é um item lexical
+independente, mas um item que deve ser sinalizado junto com um verbo sem
+concordância. Através da direção do movimento, o auxiliar expressa a relação
+estabelecida entre os argumentos da sentença. Isso parece compensar a au-
+sência de concordância no verbo. O auxiliar é requerido somente quando hou-
+ver ordenações irregulares dos constituintes da sentença, ou seja, ordenações
+que não sejam SVO. Assim como com as sentenças contendo um verbo com
+concordância, aquelas contendo um auxiliar precisam estar associadas às
+JOÃOa aAUXb <NÃO GOSTAR>n
+(com verbo sem concordância com auxiliar)
+João não gosta dela
+
+[p.160]
+164     QUADROS & KARNOPP
+marcas não-manuais de concordância, isto é, a direção dos olhos acompa-
+nhando a direção do movimento.
+(iii) Os verbos principais não podem preceder advérbios adjuntos a VP
+(*John plays always soccer). Na língua de sinais brasileira, isto tam-
+bém é observado:
+*JOÃO COMPRAR SEMPRE BALAS 13
+João sempre compra balas.
+(iv) Os verbos principais podem ser omitidos de sentenças complexas
+através da identidade com sua forma pura (John slept, and Mary
+will too). Isso acontece da mesma forma na língua de sinais brasileira:
+13Novamente aqui há um elemento violando a unidade de VP .
+JOÃOa <MARIAb aAUXb>do <[GOSTAR] i>mc <bAUXa>do <NÃO [e] i>n
+João gosta da Maria e ela não gosta dele

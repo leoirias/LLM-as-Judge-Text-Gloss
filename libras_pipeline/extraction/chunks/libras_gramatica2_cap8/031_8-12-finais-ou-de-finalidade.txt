@@ -1,0 +1,119 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.12 FINAIS (OU DE FINALIDADE) ===
+=== TRECHO: páginas 216-219 (2 tópicos consecutivos) ===
+
+[p.216]
+217
+CADERNO FS (revista) CADERNO. Há uma mudança no padrão prosódico na 
+sentença: ao iniciar a sentença, o emissor sinaliza com uma marcação não manual 
+específica – sobrancelhas franzidas (sf) – que se espalha até o final da primeira parte 
+da sentença. Sobre o sinal VER, que introduz a hipotaxe adverbial de finalidade, o 
+sinalizante muda o padrão prosódico, elevando as sobrancelhas (sl), o que indica 
+a hipotaxe de finalidade. Em seguida, retoma o padrão prosódico anterior, com a 
+marcação não manual – sobrancelhas franzidas. 
+Não há um sinal manual que desempenhe a função de explicitar a hipotaxe 
+de finalidade, mas as expressões faciais funcionam como um traço linguístico que 
+contribui para realçar a hipotaxe adverbial de finalidade. Além disso, a proposição 
+estabelecida no enunciado emerge do contexto discursivo por meio da justaposição 
+das duas sentenças. A sentença (74), a seguir, também há uma relação de finalidade 
+entre orações: 
+(74) Hipotaxe adverbial de finalidade por justaposição.
+   
+   
+POR-CAUSA     IX (nós) ACEITAR      PAGAR          ENTRE-ASPAS    SACRIFÍCIO     ESFORÇO
+   O-QUE            IMPORTANTE       PESSOA       APRENDER   DESENVOLVER
+POR-CAUSA IX (nós) ACEITAR PAGAR ENTRE-
+ASPAS SACRIFÍCIO ESFORÇO IMPORTANTE 
+PESSOA APRENDER DESENVOLVER
+Por isso nós aceitamos a obrigação de sacrifício, de 
+esforço, que foi importante para nós aprender e 
+aprimorar-se.
+https://youtu.be/N-pdae6727s
+
+[p.217]
+218
+A sentença (73) estabelece uma relação de propósito entre o “sacrifício e 
+esforço” que os surdos tinham de fazer com o objetivo de aprender e se aprimorar 
+sempre mais. A primeira parte da sentença IX (nós) ACEITAR PAGAR ENTRE-
+-ASPAS SACRIFÍCIO ESFORÇO expressa o evento da sentença nuclear, em que 
+apresenta o esforço e sacrifícios realizados. A segunda parte da oração complexa 
+– IMPORTANTE PESSOA APRENDER DESENVOLVER – apresenta qual era o 
+propósito de tanto esforço e sacrifício – a fim de aprender e se aprimorar. Essa 
+sentença hipotática adverbial de finalidade não apresenta um item lexical entre as 
+duas orações, mas a relação de finalidade é estabelecida e pela justaposição das duas 
+sentenças. A proposição que o enunciador quer expressar emerge do contexto. Em 
+(75), a seguir, descrevemos outra oração hipotática adverbial de finalidade. Atemo-
+-nos à parte final do exemplo em que há essa relação de finalidade entre orações:
+(75) Hipotaxe adverbial de finalidade por justaposição.
+     
+ IX (eu)              APOIAR   ÁREA                 COMUNIDADE            ÁREA           SURDO 
+  
+ BRASIL              E (isso) ESTIMULAR        IX (eles)  PRETO  SURDO
+E(então) IX (eu) IR-PROCESSO HOJE VIVER 
+ESTUDAR MESTRADO TAMBÉM JÁ IX (eu) 
+EXPERIÊNCIA MOVIMENTO PRETO SURDO 
+TAMBÉM IX (eu) APOIAR+ ÁREA COMUNIDA-
+DE ÁREA SURDO BRASIL E(isso) ESTIMU -
+LAR IX (eles) PRETO SURDO
+Então, o mestrado está em andamento, atual-
+mente eu estudo mestrado, também já tive 
+experiência com o movimento de negros surdos, 
+e eu apoio a comunidade surda brasileira para 
+estimular os negros surdos. [...] [...] eu apoio a 
+comunidade surda brasileira para estimular os 
+negros surdos no Brasil.
+https://youtu.be/8hNw8y3k-ds
+
+[p.218]
+219
+Na sentença (75), a hipotaxe adverbial de finalidade expressa a relação de 
+propósito entre o apoio dado pela sinalizante a fim de estimular o movimento negro 
+surdo no Brasil. A primeira parte da oração complexa – IX (eu) APOIAR Área+ 
+COMUNIDADE BRASIL – apresenta a sentença nuclear, cujo evento é apoiar a co-
+munidade brasileira de negros surdos. Nessa primeira parte da oração, o sinalizante 
+utiliza o espaço neutro à sua frente e olha diretamente para a sua interlocutora, 
+conforme se percebe na imagem abaixo:
+Figura 33: Olhar direcionado à interlocutora.
+Como se nota, o evento da sentença nuclear é realizado tendo a interlocutora 
+como foco de atenção. A segunda parte da sentença complexa apresenta a Hipotaxe 
+Adverbial de Finalidade ESTIMULAR IX (eles) PRETO SURDO. Nesse exemplo, a 
+hipotaxe adverbial final é antecedida por um sinal que parece ser um gesto dêitico, 
+que faz referência à “comunidade surda” no espaço de sinalização. A proposição que 
+emerge entre as orações é de finalidade. A primeira parte da sentença apresenta 
+o apoio dado à comunidade surda brasileira a fim de estimular os negros surdos. 
+Esse último evento é expressado na segunda parte da oração. Além disso, nota-se 
+o giro do tronco e a mudança da direção do olhar para a esquerda da sinalizante, 
+onde está situado espacialmente a comunidade surda brasileira, desviando o foco 
+da sua interlocutora, como se nota na figura abaixo: 
+Figura (34): Olhar direcionado à esquerda da sinalizante.
+Esse giro do tronco e direção do olhar marcam a hipotaxe adverbial de fina-
+lidade. Além disso, é perceptível o uso da expressão facial da boca sobre o verbo 
+ESTIMULAR, o qual dá início à hipotaxe adverbial final.
+
+[p.219]
+220
+8.13 TEMPORAIS 
+De acordo com Lima (2002), as construções hipotáticas temporais podem 
+ser definidas como sentenças que situam um conjunto de eventos em algum lu -
+gar na linha do tempo. A oração dependente traz uma circunstância que realça a 
+proposição estabelecida na oração matriz. Nessa relação, o sinalizante estabelece 
+o tempo do evento expresso na matriz, ou seja, a oração hipotática cumpre uma 
+função adverbial temporal por marcar o acontecimento temporalmente em relação 
+à sentença nuclear.  
+Em geral, a relação temporal estabelecida entre os dois eventos pode ser 
+expressada em duas relações temporais: de simultaneidade ou não simultaneida-
+de. No caso de hipotaxe temporal simultânea, os eventos são expressos de forma 
+simultânea tanto na oração dependente quanto na oração nuclear, ou seja, os dois 
+eventos acontecem ao mesmo tempo. Os dados, a seguir, ilustram orações articu-
+ladas a nível de hipotaxe temporal simultânea.
+(76) Hipotaxe Adverbial Temporal simultânea.
+    IX (eu-ela-eu) VIR               INTERVALO    COMER        IX (eu)
+IX (ela)                 SINALIZAR
+IX (eu) MAIS IX (eu) IRMÃ IX (eu-ela-eu) 
+VIR INTERVALO COMER IX (eu) IX (ela) 
+SINALIZAR
+Eu e minha irmã usávamos mais sinais, 
+no intervalo, quando descíamos 
+para lanchar, nós nos encontrávamos e 
+sinalizávamos uma com a outra. 
+https://youtu.be/t-Cf5Ip-t9I

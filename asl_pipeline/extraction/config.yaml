@@ -1,17 +1,17 @@
 # Extração de regras (etapa 1) — ASL_for_dummies.pdf
 #
-# Modelo: Qwen3-30B-A3B-Instruct-2507 (MoE, non-thinking) — ver justificativa
+# Modelo: Qwen3.8-27B (denso, thinking desligado) — ver justificativa
 # em llm.py. Determinístico (do_sample off) de propósito: rodar a mesma
 # janela de novo deve produzir a mesma lista de regras (reprodutibilidade).
 
 model:
-  name: qwen3-30b-a3b-instruct-2507
-  model_id: Qwen/Qwen3-30B-A3B-Instruct-2507
+  name: qwen3.8-27b
+  model_id: Qwen/Qwen3.8-27B
   dtype: bfloat16
   device_map: cuda            # GPU única do container (docker-compose) -> cuda:0
 
 generation:
-  enable_thinking: false      # checkpoint non-thinking; explícito por clareza/segurança
+  enable_thinking: false      # 3.8 é híbrido: thinking desligado de propósito (ver llm.py)
   max_new_tokens: 6000        # 4000 truncou 3/19 janelas no cap.1-13 (janelas com muita
                                # regra); subido depois de ver truncamento real na 1a rodada
   do_sample: false

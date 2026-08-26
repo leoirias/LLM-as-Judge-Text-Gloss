@@ -1,0 +1,29 @@
+=== DOCUMENTO: Gramática da Libras Vol.2 (INES) — Cap.8 Articulação de orações ===
+=== TÓPICO: 8.9.4 Marcadores não manuais nas orações causais em Libras ===
+=== TRECHO: páginas 178-178 ===
+
+[p.178]
+179
+Já em (44), temos um caso de causal com motivo que introduz uma infor -
+mação que está associada a uma avaliação ou crença da sinalizante. Não é possível 
+depreender uma relação de causalidade real dessa sentença:
+  (44) 
+        
+      
+   ALGUM               SURD@              QUERER        IMPLANTE-COCLEAR       MOTIVO
+IMPLANTE-COCLEAR APARELHO-AUDITIVO        TECNOLOGIA          NOV@
+ALGUM SURD@ QUERER IMPLANTE-COCLEAR MOTIVO IMPLANTE-COCLEAR APARELHO-
+-AUDITIVO TECNOLOGIA NOV@
+Alguns surdos querem colocar implante coclear porque acham que implante e aparelho auditivo 
+são tecnologias novas. (RODRIGUES, 2020).
+8.9.4 Marcadores não manuais nas orações causais em Libras
+A análise de MNM das orações causais em Rodrigues (2020) traz resultados 
+essenciais para a descrição dessas orações na Libras, pois esses marcadores estão 
+associados à prosódia. Os MNMs mais frequentes no Corpus de Libras são mouthing 
+(‘porque’ e ‘motivo’), que ocorrem em 83 orações, arqueamento de sobrancelha, 
+que está presente em 24 ocorrências, e franzimento de testa, atestado em 18 ocor-
+rências (RODRIGUES, 2020). Na maioria dos casos, há sobreposição de MNM, 
+como mouthing e arqueamento ou franzimento. Arqueamento, principalmente, está 
+associado à introdução de informação nova e, considerando a ordem das orações 
+causais no corpus, concluímos que o uso de MNM reflete a estrutura informacional 
+da oração causal, que ocorre sempre posposta à oração principal, sendo, portanto,
